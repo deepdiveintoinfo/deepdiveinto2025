@@ -26,5 +26,8 @@
     "marked-terminal": "^6.2.0",
     "octokit": "^3.1.2",
     "prettier": "^3.1.1"
+  },
+  "devDependencies": {
+    "pdfjs-dist": "^4.8.69"
   }
 }

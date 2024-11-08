@@ -1,9 +1,9 @@
 {
-  "name": "meanwhilejs",
+  "name": "adeepdiveinto2025",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://meanwhilejs.github.io/meanwhile",
+  "homepage": "https://adeepdiveinto2025.org",
   "bin": {
     "m": "./bin/m/bin/index.mjs"
   },
