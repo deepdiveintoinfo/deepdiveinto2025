@@ -1,0 +1,31 @@
+import { Meta, Source } from '@storybook/blocks'
+import component from './svg'
+import componentRaw from './svg?raw'
+
+<Meta title="Tailwind/Theme/SVG" />
+
+# [SVG](https://tailwindcss.com/docs/svg) <small className='text-xs'>[Jump to source](#source-code)</small>
+
+The `svg` property includes utilities for managing SVG styles, such as fill, stroke, and stroke width.
+
+## `fill`
+Defines the fill color utilities for SVG elements.
+<Source language="tsx" code={`fill: ${component.fill}`} />
+- `none`: No fill color.
+- Colors based on theme values.
+
+## `stroke`
+Defines the stroke color utilities for SVG elements.
+<Source language="tsx" code={`stroke: ${component.stroke}`} />
+- `none`: No stroke color.
+- Colors based on theme values.
+
+## `strokeWidth`
+Defines the stroke width utilities for SVG elements.
+<Source language="tsx" code={`strokeWidth: ${JSON.stringify(component.strokeWidth, null, 2)}`} />
+- `0`: No stroke width.
+- `1`: 1 unit width.
+- `2`: 2 units width.
+
+## Source Code
+<Source language="js" code={componentRaw} />

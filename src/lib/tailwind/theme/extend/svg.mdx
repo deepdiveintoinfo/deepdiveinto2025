@@ -1,0 +1,20 @@
+import { Source, Meta } from '@storybook/blocks'
+import subcomponent from './svg?raw'
+
+export function SourceCode() {
+    return <Source language="tsx" code={subcomponent} />
+}
+
+export function Documentation() {
+    return ``
+}
+
+# Extended Svg
+
+<Meta isTemplate title="Tailwind/Theme/Extended/Svg" />
+
+<Documentation />
+
+## Source Code
+
+<SourceCode />

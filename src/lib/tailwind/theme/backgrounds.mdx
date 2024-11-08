@@ -1,0 +1,54 @@
+import { Meta, Source } from '@storybook/blocks'
+import component from './backgrounds'
+import componentRaw from './backgrounds?raw'
+import { SourceCode as ExtendedSourceCode, Documentation as ExtendedDocumentation } from './extend/backgrounds.mdx'
+
+<Meta title="Tailwind/Theme/Backgrounds" />
+
+# Backgrounds <small className='text-xs'>[Jump to source](#source-code)</small>
+
+## [Background Color](https://tailwindcss.com/docs/background-color)
+Sets the background color of an element using theme colors. <small>[MDN Background Color](https://developer.mozilla.org/en-US/docs/Web/CSS/background-color)</small>
+<Source language='js' code={`backgroundColor: ${component.backgroundColor}`} />
+
+## [Background Image](https://tailwindcss.com/docs/background-image)
+Sets the background image of an element, including gradients. <small>[MDN Background Image](https://developer.mozilla.org/en-US/docs/Web/CSS/background-image)</small>
+<Source language='js' code={`backgroundImage: ${JSON.stringify(component.backgroundImage, null, 2)}`} />
+
+## [Background Opacity](https://tailwindcss.com/docs/background-opacity)
+Sets the opacity level for the background color. <small>[MDN Background Opacity](https://developer.mozilla.org/en-US/docs/Web/CSS/opacity)</small>
+<Source language='js' code={`backgroundOpacity: ${component.backgroundOpacity}`} />
+
+## [Background Position](https://tailwindcss.com/docs/background-position)
+Sets the initial position of the background image. <small>[MDN Background Position](https://developer.mozilla.org/en-US/docs/Web/CSS/background-position)</small>
+<Source language='js' code={`backgroundPosition: ${JSON.stringify(component.backgroundPosition, null, 2)}`} />
+
+## [Background Size](https://tailwindcss.com/docs/background-size)
+Sets the size of the background image. <small>[MDN Background Size](https://developer.mozilla.org/en-US/docs/Web/CSS/background-size)</small>
+<Source language='js' code={`backgroundSize: ${JSON.stringify(component.backgroundSize, null, 2)}`} />
+
+## [Gradient Color Stops](https://tailwindcss.com/docs/gradient-color-stops)
+Defines the colors to be used in a gradient. <small>[MDN Color Stops](https://developer.mozilla.org/en-US/docs/Web/CSS/gradient/color-stop)</small>
+<Source language='js' code={`gradientColorStops: ${component.gradientColorStops}`} />
+
+## [Gradient Color Stop Positions](https://tailwindcss.com/docs/gradient-color-stop-positions)
+Defines the positions for color stops in a gradient. <small>[MDN Gradient Color Stops](https://developer.mozilla.org/en-US/docs/Web/CSS/gradient/color-stop)</small>
+<Source language='js' code={`gradientColorStopPositions: ${JSON.stringify(component.gradientColorStopPositions, null, 2)}`} />
+
+{typeof ExtendedDocumentation === 'function' && ExtendedDocumentation().toString() !== '' && (
+  <>
+    <h2>Extended Documentation</h2>
+    <ExtendedDocumentation />
+  </>
+)}
+
+## Source Code
+<Source language="js" code={componentRaw} />
+
+{typeof ExtendedSourceCode === 'function' && ExtendedSourceCode().toString() !== '' && (
+  <>
+    <h3>Extended Source Code</h3>
+    <ExtendedSourceCode />
+  </>
+)}
+

@@ -1,0 +1,113 @@
+import { Meta } from '@storybook/blocks'
+
+<Meta title="components/ThirdParty/UiBlocks/example" />
+
+# Example
+
+This component is an implementation of the Ui Blocks type. Below is a walkthrough of how this component was created and how you can customize it further.
+
+## Walkthrough
+
+To create the default Example component, run the following command:
+
+```bash
+npx m create ui-blocks example
+```
+
+This will generate a new component at `/src/components/UiBlocks/Example`. The directory structure for this component will include a `component.tsx`, `story.tsx`, `index.ts`, and `variants.tsx`.
+
+### Component Code
+
+Below is the generated `component.tsx` for the `Example` component:
+
+```tsx
+import { forwardRef} from 'react'
+import { Slot } from "@radix-ui/react-slot"
+import { type VariantProps } from "class-variance-authority"
+import { exampleVariants } from '.'
+
+import { cn } from "@/lib/utils"
+
+export interface ExampleProps
+  extends React.HTMLAttributes<HTMLDivElement>,
+    VariantProps<typeof exampleVariants> {
+  asChild?: boolean
+}
+
+const Example = forwardRef<HTMLDivElement, ExampleProps>(
+  ({ className, asChild = false, ...props }, ref) => {
+    const Comp = asChild ? Slot : "div"
+    return (
+      <Comp
+        className={cn(exampleVariants({ className }))}
+        ref={ref}
+        {...props}
+      />
+    )
+  }
+)
+Example.displayName = "Example"
+
+export { Example }
+
+```
+
+### Index Code
+
+Below is the generated `component.tsx` for the `Example` component:
+
+```tsx
+export * from './component'
+export * from './variants'
+
+```
+
+### Storybook Code
+
+Below is the generated `story.tsx` for the `Example` component:
+
+```tsx
+import type { Meta, StoryObj } from '@storybook/react';
+
+import { Example } from '.';
+
+
+const meta: Meta<typeof Example> = {
+  component: Example,
+  tags: ["autodoc"]
+};
+
+export default meta;
+type Story = StoryObj<typeof Example>;
+
+export const Default: Story = {
+  args: {
+    children: 'Foobar',
+  },
+};
+
+```
+
+### Variants Code
+
+Below is the generated `variants.tsx` for the `Example` component:
+
+```tsx
+import { cva } from "class-variance-authority"
+
+
+export const exampleVariants = cva(
+    [],
+    {
+      variants: {},
+      defaultVariants: {},
+    }
+  )
+
+export default exampleVariants
+```
+
+## Customization
+
+{/* Add your documentation here */}
+

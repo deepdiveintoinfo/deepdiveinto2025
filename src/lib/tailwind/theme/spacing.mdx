@@ -1,0 +1,31 @@
+import { Meta, Source } from '@storybook/blocks'
+import component from './spacing'
+import componentRaw from './spacing?raw'
+
+<Meta title="Tailwind/Theme/Spacing" />
+
+# [Spacing](https://tailwindcss.com/docs/spacing) <small className='text-xs'>[Jump to source](#source-code)</small>
+
+The `spacing` property includes utilities for managing the margin, padding, and space between elements.
+
+## `margin`
+Defines margin utilities.
+<Source language="tsx" code={`margin: ${component.margin}`} />
+- `auto`: Automatic margin, typically used for centering.
+
+## `padding`
+Defines padding utilities.
+<Source language="tsx" code={`padding: ${component.padding}`} />
+- Based on theme spacing values.
+
+## `space`
+Defines space utilities.
+<Source language="tsx" code={`space: ${component.space}`} />
+- Based on theme spacing values.
+
+## `spacing`
+Defines predefined spacing values for margin and padding.
+<Source language="tsx" code={`spacing: ${JSON.stringify(component.spacing, null, 2)}`} />
+
+## Source Code
+<Source language="js" code={componentRaw} />

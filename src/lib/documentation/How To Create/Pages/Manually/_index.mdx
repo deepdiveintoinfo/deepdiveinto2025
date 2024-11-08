@@ -1,0 +1,95 @@
+import { Source, Meta } from '@storybook/blocks';
+import Image1 from './images/1_hello_world.png'
+import Image2 from './images/2_hello_universe.png'
+import Image3 from './images/3_children.png'
+
+<Meta title="Documentation/How To Create/Pages/Manually" />
+
+export const Image = ({ src }) => <img src={src} />
+
+# Creating a Custom Atom from Scratch
+
+{/* In the end we're going to get a component that changes text colors */}
+
+First create a `Component` folder in `./src/components/Atoms` with both a `component.tsx` and an `index.ts` file.
+
+## Files
+
+```
+•
+└── components/
+    └── Atoms/
+        └── Atom/
+            ├── component.tsx
+            ├── index.ts
+            └── story.tsx
+```
+
+Create a simple "hello world" Atom in `component.tsx` and export it from `index.ts`:
+
+### `component.tsx`
+```tsx filename="component.tsx"
+export const Atom = () => <div>Hello World</div>
+```
+
+### `index.ts`
+```ts filename="index.ts"
+export * from './component'
+```
+
+### `story.tsx`
+Then import the Atom component into a Storybook `story.tsx` file
+
+```tsx filename="story.tsx"
+import type { Meta, StoryObj } from '@storybook/react';
+import { Atom } from '.';
+
+const meta: Meta<typeof Atom> = {
+  component: Atom,
+  title: "Components/ShadCn/Atom"
+};
+
+export default meta;
+type Story = StoryObj<typeof Atom>;
+
+export const Default: Story = {};
+```
+
+<Image src={Image1} />
+
+## Pass Down Those Props
+
+But this is Typescript! Guess what we need.
+
+```tsx
+type AtomProps = React.HTMLAttributes<HTMLDivElement>
+
+```
+
+The `AtomProps` type is really the `HTMLAttributes` from the `HTMLDivElement`. This way we can inherit things like `children` and `className`.
+
+Set those `AtomsProps` to the `props` argument in the Atom component and pass it along.
+
+```tsx
+export const Atom = (props:AtomProps) => <div {...props} />
+
+```
+
+And update the story show some children, and let's throw an empty `className` on there.
+
+```tsx
+export const Default: Story = {
+  args: {
+    className: "",
+    children: "Hello universe!"
+  }
+};
+
+
+```
+
+Now when you go to the [story in Storybook](http://localhost:7001/?path=/docs/components-atoms-atom--docs) you'll see your children set from the story.
+
+<Image src={Image3} />
+
+There's also an empty textbox for className.

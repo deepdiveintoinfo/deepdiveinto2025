@@ -1,0 +1,63 @@
+import { Meta, Source } from '@storybook/blocks'
+import component from './layout'
+import componentRaw from './layout?raw'
+import { SourceCode as ExtendedSourceCode, Documentation as ExtendedDocumentation } from './extend/layout.mdx'
+
+<Meta title="Tailwind/Theme/Layout" />
+
+# [Layout](https://tailwindcss.com/docs/layout) <small className='text-xs'>[Jump to source](#source-code)</small>
+
+The `layout` property includes utilities for managing layout-related aspects such as aspect ratios, columns, container widths, and more.
+
+## `aspectRatio`
+Defines aspect ratio utilities for maintaining specific aspect ratios in elements.
+<Source language="tsx" code={`aspectRatio: ${JSON.stringify(component.aspectRatio, null, 2)}`} />
+- `auto`: Default aspect ratio.
+- `square`: 1 / 1 aspect ratio (square).
+- `video`: 16 / 9 aspect ratio (widescreen).
+
+## `columns`
+Specifies the number of columns for a grid layout or container width.
+<Source language="tsx" code={`columns: ${JSON.stringify(component.columns, null, 2)}`} />
+- `auto`: Automatic column count based on content.
+- `1` to `12`: Defines the number of columns in a grid layout.
+- Custom sizes (e.g., `3xs`, `2xs`, `xs`, etc.): Sets column widths for different breakpoints and container sizes.
+
+## `container`
+Configures container settings.
+<Source language="tsx" code={`container: ${JSON.stringify(component.container, null, 2)}`} />
+- **Note**: Refer to Tailwind CSS documentation for default container settings.
+
+## `inset`
+Controls the inset (position) of elements relative to their containing block.
+<Source language="tsx" code={`inset: ${component.inset}`} />
+- `auto`: Default inset value.
+- `50%`, `33.333333%`, `66.666667%`, `25%`, `75%`, `100%`: Specific percentage-based insets.
+
+## `objectPosition`
+Defines the alignment of an object within its container.
+<Source language="tsx" code={`objectPosition: ${JSON.stringify(component.objectPosition, null, 2)}`} />
+- `bottom`, `center`, `left`, `left-bottom`, `left-top`, `right`, `right-bottom`, `right-top`, `top`: Various position options for object alignment.
+
+## `zIndex`
+Controls the stack order of elements.
+<Source language="tsx" code={`zIndex: ${JSON.stringify(component.zIndex, null, 2)}`} />
+- `auto`: Default z-index value.
+- `0`, `10`, `20`, `30`, `40`, `50`: Predefined z-index values.
+
+{typeof ExtendedDocumentation === 'function' && ExtendedDocumentation().toString() !== '' && (
+  <>
+    <h2>Extended Documentation</h2>
+    <ExtendedDocumentation />
+  </>
+)}
+
+## Source Code
+<Source language="js" code={componentRaw} />
+
+{typeof ExtendedSourceCode === 'function' && ExtendedSourceCode().toString() !== '' && (
+  <>
+    <h3>Extended Source Code</h3>
+    <ExtendedSourceCode />
+  </>
+)}

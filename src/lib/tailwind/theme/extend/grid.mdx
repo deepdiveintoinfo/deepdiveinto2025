@@ -1,0 +1,20 @@
+import { Source, Meta } from '@storybook/blocks'
+import subcomponent from './grid?raw'
+
+export function SourceCode() {
+    return <Source language="tsx" code={subcomponent} />
+}
+
+export function Documentation() {
+    return ``
+}
+
+# Extended Grid
+
+<Meta isTemplate title="Tailwind/Theme/Extended/Grid" />
+
+<Documentation />
+
+## Source Code
+
+<SourceCode />

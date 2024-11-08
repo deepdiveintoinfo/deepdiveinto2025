@@ -1,0 +1,46 @@
+import { Meta, Source } from '@storybook/blocks'
+import component from './flex'
+import componentRaw from './flex?raw'
+import { SourceCode as ExtendedSourceCode, Documentation as ExtendedDocumentation } from './extend/flex.mdx'
+
+<Meta title="Tailwind/Theme/Flex" />
+
+# [Flex](https://tailwindcss.com/docs/flex) <small className='text-xs'>[Jump to source](#source-code)</small>
+
+The `flex` property provides utilities for controlling the flex container and items within it. Each property allows for precise control over layout and alignment.
+
+## `flex`
+Defines the flex properties for flex items.
+<Source language="tsx" code={`flex: ${JSON.stringify(component.flex, null, 2)}`} />
+
+## `flexBasis`
+Sets the flex basis for flex items.
+<Source language="tsx" code={`flexBasis: ${component.flexBasis}`} />
+- `auto`: Automatically determined size.
+- `full`: Takes up 100% of the parent container.
+- Fractional values like `1/2`, `1/3`, etc., determine the size as a percentage of the parent container.
+
+## `flexGrow`
+Controls the ability of a flex item to grow relative to the rest of the flex items.
+<Source language="tsx" code={`flexGrow: ${JSON.stringify(component.flexGrow, null, 2)}`} />
+
+## `flexShrink`
+Controls the ability of a flex item to shrink relative to the rest of the flex items.
+<Source language="tsx" code={`flexShrink: ${JSON.stringify(component.flexShrink, null, 2)}`} />
+
+{typeof ExtendedDocumentation === 'function' && ExtendedDocumentation().toString() !== '' && (
+  <>
+    <h2>Extended Documentation</h2>
+    <ExtendedDocumentation />
+  </>
+)}
+
+## Source Code
+<Source language="js" code={componentRaw} />
+
+{typeof ExtendedSourceCode === 'function' && ExtendedSourceCode().toString() !== '' && (
+  <>
+    <h3>Extended Source Code</h3>
+    <ExtendedSourceCode />
+  </>
+)}

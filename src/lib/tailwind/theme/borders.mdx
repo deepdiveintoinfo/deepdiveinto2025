@@ -1,0 +1,90 @@
+import { Meta, Source } from '@storybook/blocks'
+import component from './borders'
+import componentRaw from './borders?raw'
+import { SourceCode as ExtendedSourceCode, Documentation as ExtendedDocumentation } from './extend/borders.mdx'
+
+<Meta title="Tailwind/Theme/Borders" />
+
+# Borders <small className='text-xs'>[Jump to source](#source-code)</small>
+
+## [Border Color](https://tailwindcss.com/docs/border-color)
+Sets the color of the border. It can be customized using theme colors with a default value. <small>[MDN Border Color](https://developer.mozilla.org/en-US/docs/Web/CSS/border-color)</small>
+<Source language='js' code={`borderColor: ${component.borderColor}`} />
+
+## [Border Opacity](https://tailwindcss.com/docs/border-opacity)
+Sets the opacity of the border color. <small>[MDN Border Opacity](https://developer.mozilla.org/en-US/docs/Web/CSS/opacity)</small>
+<Source language='js' code={`borderOpacity: ${component.borderOpacity}`} />
+
+## [Border Radius](https://tailwindcss.com/docs/border-radius)
+Sets the radius of the element's corners. <small>[MDN Border Radius](https://developer.mozilla.org/en-US/docs/Web/CSS/border-radius)</small>
+<Source language='js' code={`borderRadius: ${JSON.stringify(component.borderRadius, null, 2)}`} />
+
+## [Border Spacing](https://tailwindcss.com/docs/border-spacing)
+Sets the spacing between borders of adjacent elements. <small>[MDN Border Spacing](https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow)</small>
+<Source language='js' code={`borderSpacing: ${component.borderSpacing}`} />
+
+## [Border Width](https://tailwindcss.com/docs/border-width)
+Sets the width of the border. <small>[MDN Border Width](https://developer.mozilla.org/en-US/docs/Web/CSS/border-width)</small>
+<Source language='js' code={`borderWidth: ${JSON.stringify(component.borderWidth, null, 2)}`} />
+
+## [Divide Color](https://tailwindcss.com/docs/divide-color)
+Sets the color of the dividing lines between elements. <small>[MDN Border Color](https://developer.mozilla.org/en-US/docs/Web/CSS/border-color)</small>
+<Source language='js' code={`divideColor: ${component.divideColor}`} />
+
+## [Divide Opacity](https://tailwindcss.com/docs/divide-opacity)
+Sets the opacity of the dividing lines. <small>[MDN Border Opacity](https://developer.mozilla.org/en-US/docs/Web/CSS/opacity)</small>
+<Source language='js' code={`divideOpacity: ${component.divideOpacity}`} />
+
+## [Divide Width](https://tailwindcss.com/docs/divide-width)
+Sets the width of dividing lines between elements. <small>[MDN Border Width](https://developer.mozilla.org/en-US/docs/Web/CSS/border-width)</small>
+<Source language='js' code={`divideWidth: ${component.divideWidth}`} />
+
+## [Outline Color](https://tailwindcss.com/docs/outline-color)
+Sets the color of the outline around an element. <small>[MDN Outline Color](https://developer.mozilla.org/en-US/docs/Web/CSS/outline-color)</small>
+<Source language='js' code={`outlineColor: ${component.outlineColor}`} />
+
+## [Outline Offset](https://tailwindcss.com/docs/outline-offset)
+Sets the offset distance between the outline and the element. <small>[MDN Outline Offset](https://developer.mozilla.org/en-US/docs/Web/CSS/outline-offset)</small>
+<Source language='js' code={`outlineOffset: ${JSON.stringify(component.outlineOffset, null, 2)}`} />
+
+## [Outline Width](https://tailwindcss.com/docs/outline-width)
+Sets the width of the outline. <small>[MDN Outline Width](https://developer.mozilla.org/en-US/docs/Web/CSS/outline-width)</small>
+<Source language='js' code={`outlineWidth: ${JSON.stringify(component.outlineWidth, null, 2)}`} />
+
+## [Ring Color](https://tailwindcss.com/docs/ring-color)
+Sets the color of the ring (outline). <small>[MDN Ring Color](https://developer.mozilla.org/en-US/docs/Web/CSS/outline-color)</small>
+<Source language='js' code={`ringColor: ${component.ringColor}`} />
+
+## [Ring Offset Color](https://tailwindcss.com/docs/ring-offset-color)
+Sets the color of the ring offset. <small>[MDN Ring Offset Color](https://developer.mozilla.org/en-US/docs/Web/CSS/outline-color)</small>
+<Source language='js' code={`ringOffsetColor: ${component.ringOffsetColor}`} />
+
+## [Ring Offset Width](https://tailwindcss.com/docs/ring-offset-width)
+Sets the width of the ring offset. <small>[MDN Ring Offset Width](https://developer.mozilla.org/en-US/docs/Web/CSS/outline-width)</small>
+<Source language='js' code={`ringOffsetWidth: ${JSON.stringify(component.ringOffsetWidth, null, 2)}`} />
+
+## [Ring Opacity](https://tailwindcss.com/docs/ring-opacity)
+Sets the opacity of the ring. <small>[MDN Ring Opacity](https://developer.mozilla.org/en-US/docs/Web/CSS/opacity)</small>
+<Source language='js' code={`ringOpacity: ${component.ringOpacity}`} />
+
+## [Ring Width](https://tailwindcss.com/docs/ring-width)
+Sets the width of the ring. <small>[MDN Ring Width](https://developer.mozilla.org/en-US/docs/Web/CSS/border-width)</small>
+<Source language='js' code={`ringWidth: ${JSON.stringify(component.ringWidth, null, 2)}`} />
+
+{typeof ExtendedDocumentation === 'function' && ExtendedDocumentation().toString() !== '' && (
+  <>
+    <h2>Extended Documentation</h2>
+    <ExtendedDocumentation />
+  </>
+)}
+
+## Source Code
+<Source language="js" code={componentRaw} />
+
+{typeof ExtendedSourceCode === 'function' && ExtendedSourceCode().toString() !== '' && (
+  <>
+    <h3>Extended Source Code</h3>
+    <ExtendedSourceCode />
+  </>
+)}
+

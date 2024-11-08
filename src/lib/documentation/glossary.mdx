@@ -1,0 +1,283 @@
+import { Source, Meta } from '@storybook/blocks';
+
+# Glossary
+
+<Meta title="Documentation/Glossary" />
+
+## TypeScript
+TypeScript is a statically typed superset of JavaScript that adds type definitions, allowing developers to catch errors during development, rather than at runtime. Unlike JavaScript, which is dynamically typed, TypeScript enables stronger tooling support like autocompletion and refactoring, making it ideal for larger codebases.
+
+Though it shares some similarities with Java due to its typed nature, TypeScript is fundamentally different. Java is a compiled, object-oriented language, whereas TypeScript is a transpiled, scripting language that compiles down to JavaScript, enabling it to run in browsers or any environment where JavaScript runs. Unlike Java, which enforces strict object-oriented programming paradigms, TypeScript is more flexible and adopts JavaScript's multi-paradigm approach.
+
+### Metaprogramming
+<small>Source: <a href="https://www.typescriptlang.org/docs/handbook/2/conditional-types.html">TypeScript Metaprogramming</a> & <a href="https://en.wikipedia.org/wiki/Metaprogramming">What is Metaprogramming?</a></small>
+
+**Definition**: Metaprogramming is a programming technique where programs have the ability to treat other programs as data. This allows a program to generate or manipulate code dynamically at runtime or compile-time. In TypeScript, metaprogramming typically occurs at the type level, where types can be generated and transformed based on existing code.
+
+TypeScript supports metaprogramming primarily through **type-level** transformations. While it doesn't offer full runtime metaprogramming like some other languages, its type system allows developers to create highly dynamic, flexible types. Here's how TypeScript enables metaprogramming:
+
+#### 1. **Generics**
+<small>Source: <a href="https://www.typescriptlang.org/docs/handbook/2/generics.html">Generics in TypeScript</a></small>
+
+Generics allow types to be parameterized, making it possible to write reusable, flexible components.
+
+```typescript
+function identity<T>(arg: T): T {
+    return arg;
+}
+```
+
+#### 2. **Conditional Types**
+<small>Source: <a href="https://www.typescriptlang.org/docs/handbook/2/conditional-types.html">Conditional Types in TypeScript</a></small>
+
+These allow you to define types based on conditions, similar to `if/else` logic at the type level.
+
+```typescript
+type IsString<T> = T extends string ? 'Yes' : 'No';
+```
+
+#### 3. **Mapped Types**
+<small>Source: <a href="https://www.typescriptlang.org/docs/handbook/2/mapped-types.html">Mapped Types in TypeScript</a></small>
+
+Mapped types allow you to transform properties of an existing type to create new types.
+
+```typescript
+type Readonly<T> = {
+    [K in keyof T]: T[K];
+};
+```
+
+#### 4. **Template Literal Types**
+<small>Source: <a href="https://www.typescriptlang.org/docs/handbook/2/template-literal-types.html">Template Literal Types</a></small>
+
+These allow you to dynamically construct string types, useful for generating type-safe strings.
+
+```typescript
+type EventName<T extends string> = `\${T}Event`;
+```
+
+#### 5. **Type Inference**
+
+TypeScript's powerful type inference can infer types based on usage, and you can use that to create derived types.
+
+```typescript
+type ReturnType<T> = T extends (...args: any[]) => infer R ? R : never;
+```
+
+### Metaprogramming Use Cases in Meanwhile
+
+In a component library like Meanwhile, metaprogramming plays an essential role in making the library flexible, reusable, and type-safe. Here's how:
+
+- **Flexible Component Types**: Using generics and conditional types, components can be designed to accept dynamic types, making them reusable across different contexts.
+  
+- **Component Composition**: Metaprogramming techniques like mapped types can allow the creation of compound components, where a parent component exposes child components (e.g., `<HeroSection.SimpleCentered />`).
+
+- **Type-safe Styles and Variants**: Using type-level programming, variants (e.g., button styles or hero section layouts) can be typed to ensure that only valid variants are passed to components.
+
+- **Documentation via Types**: Type annotations in TypeScript serve as a form of documentation, and metaprogramming at the type level can generate detailed type information that can feed into automatically generated documentation pages.
+
+---
+
+### Examples in Meanwhile
+
+#### Example 1: Conditional Types for Dynamic Variants
+<small>Source: <a href="https://www.typescriptlang.org/docs/handbook/2/conditional-types.html">Conditional Types in TypeScript</a></small>
+
+In Meanwhile, you might have components that have dynamic variants (e.g., button styles). Using TypeScript's conditional types, these variants can be enforced through types.
+
+```typescript
+type ButtonVariant = 'primary' | 'secondary' | 'outline';
+
+type ButtonProps<V extends ButtonVariant> = {
+  variant: V;
+};
+
+function Button<V extends ButtonVariant>({ variant }: ButtonProps<V>) {
+  // button logic here
+}
+```
+
+#### Example 2: Mapped Types for Dynamic Props
+<small>Source: <a href="https://www.typescriptlang.org/docs/handbook/2/mapped-types.html">Mapped Types in TypeScript</a></small>
+
+Mapped types allow you to create dynamic properties based on the component's context. For example, mapping over the props of a hero section to apply conditional styles.
+
+```typescript
+type ApplyStyles<T> = {
+  [K in keyof T]: T[K] & { style?: string };
+};
+
+type HeroSectionProps = {
+  title: string;
+  subtitle?: string;
+};
+
+type StyledHeroSectionProps = ApplyStyles<HeroSectionProps>;
+```
+
+## Components 
+
+### Atomic Design
+
+#### General Relativity in Atomic Design
+<small>Source - [Atomic Design Chapter 2: Atomic Design Methodology](https://atomicdesign.bradfrost.com/chapter-2/)</small>
+
+In the "general relativity" framework of atomic design, as popularized by Brad Frost, the definitions and roles are universally agreed upon:
+
+* **Atoms**: Fundamental, stateless building blocks like buttons, inputs, and labels. They are the simplest UI components, purely presentational, and at their most fundamental are made up of HTMLElements.
+* **Molecules**: Combinations of atoms that form more complex components. Molecules manage local state or contain subcomponents, allowing for interactive and functional UI elements like a form group with an input and label.
+* **Organisms**: More complex structures composed of groups of molecules and atoms, such as a header or a user profile section. Organisms might manage more extensive local state and interactions.
+* **Templates**: Page-level layouts that combine organisms to create page structures without specific content. They define the layout and structure.
+* **Pages**: Templates filled with actual content, delivering the final product. Pages are the highest level in this hierarchy, representing fully realized web pages.
+
+#### Special Relativity in Atomic Design
+In the "special relativity" framework, atomic design is tailored to the needs and architecture of a specific design library. Here, molecules manage local state or have subcomponents, making them key players in managing interactions and functionality:
+
+* **Atoms**: Defined as stateless, fundamental building blocks specific to the design library. They are the components all other components are built off of.
+* **Molecules**: Components that manage local state or have subcomponents outside of the atoms. They are versatile and complex, handling specific interactions and state requirements within the design library. Examples include a dropdown menu or a form field with validation.
+* **Organisms**: Complex components that may leverage GraphQL (or a similar state management system) to manage and pass down state. They combine molecules and atoms to form sophisticated structures within the design library, such as a dashboard or a navigation bar.
+* **Templates and Pages**: In this special relativity framework, templates and pages share their definition with the general case.
+
+### Composite or Compound Components
+<small>Source - [Smashing Magazine: Compound Components In React](https://www.smashingmagazine.com/2021/08/compound-components-react/)</small>
+
+Composite or compound components in React refer to a design pattern where multiple related components work together to form a cohesive, higher-level interface. These components are often used to manage state and share context, allowing for more flexible and reusable code. This pattern is beneficial in complex UIs where different parts of the component need to be aware of each other's state.
+
+#### Benefits:
+- **Reusability**: By breaking down a UI into smaller, interrelated components, you can reuse these components across different parts of your application.
+- **Flexibility**: Compound components allow for greater flexibility in how UI components are composed, making it easier to manage complex interactions.
+- **Maintainability**: This pattern leads to cleaner and more maintainable code, as the logic for how components interact is encapsulated within the compound component itself.
+
+#### Examples:
+- **Select/Dropdown Components**: A `Select` component might contain multiple `Option` components, with the `Select` managing the overall state and the `Option` components rendering each selectable item.
+- **Tabs Component**: A `Tabs` component with `Tab` and `TabPanel` subcomponents that work together to display tabbed content.
+
+### React 
+
+#### Class to Functional Components
+<small>Source - [Separating Business Logic from UI Components in React 18](https://bootcamp.uxdesign.cc/separating-%EF%B8%8F-business-logic-from-ui-components-in-react-18-aa1775b3caba)</small>
+
+The transition from class components to functional components in React has been largely driven by the introduction of Hooks in React 16.8. Hooks allow you to use state and other React features without writing a class. This shift has simplified React development and made it more intuitive.
+
+#### Key Differences:
+- **State Management**: In class components, state is managed through `this.state` and `setState()`. In functional components, the `useState` Hook is used for state management.
+- **Lifecycle Methods**: Class components use lifecycle methods like `componentDidMount` and `componentWillUnmount`. Functional components use the `useEffect` Hook to manage side effects, effectively replacing lifecycle methods.
+- **Code Readability**: Functional components tend to be more concise and easier to read, as they eliminate the need for boilerplate code like `this` bindings.
+
+#### Composition
+<small>Source - [React Documentation](https://reactjs.org/docs/composition-vs-inheritance.html)</small>
+
+Composition is the recommended way to build React components. It allows components to be nested within each other, enabling the creation of complex UIs from simple building blocks. This pattern encourages code reuse and modular design.
+
+#### Hooks
+<small>Source - [React Documentation](https://reactjs.org/docs/hooks-intro.html)</small>
+
+Hooks are functions that let you “hook into” React state and lifecycle features from functional components. They simplify the use of state and other React features, leading to more manageable and understandable code.
+
+#### Popular Hooks:
+- **useState**: Manages state in a functional component.
+- **useEffect**: Manages side effects like fetching data, directly replacing lifecycle methods.
+- **useContext**: Accesses context values without using `contextType` or `Context.Consumer`.
+
+### Micro Frontends
+<small>Source - [Micro Frontend: A Microservice Approach to Developing Web UIs](https://www.altexsoft.com/blog/micro-frontend/)</small>
+
+Micro frontends are an architectural style where a frontend application is decomposed into individual, semi-independent “micro” apps that work together to create the overall user interface. This approach brings the benefits of microservices to frontend development, enabling teams to work independently on different parts of an application.
+
+#### Benefits:
+- **Independence**: Different teams can develop, deploy, and maintain their own micro frontends independently.
+- **Scalability**: Allows large applications to be more easily scaled, as each micro frontend can be optimized and scaled separately.
+- **Resilience**: The failure of one micro frontend doesn't necessarily bring down the entire application, improving overall system resilience.
+
+#### Challenges:
+- **Integration**: Integrating multiple micro frontends into a seamless user experience can be challenging.
+- **Communication**: Ensuring smooth communication and shared state between micro frontends requires careful planning and implementation.
+
+### Component Library
+<small>Source - [Building a Component Library – A Step-by-Step Guide](https://www.uxpin.com/studio/blog/building-component-library-guide/)</small>
+
+A component library is a collection of reusable UI components that can be shared across multiple projects. This approach promotes consistency, reduces development time, and makes it easier to maintain a cohesive design language across an application or suite of applications.
+
+#### Steps to Build a Component Library:
+1. **Define Your Needs**: Determine the scope of your component library and what components need to be included.
+2. **Design Components**: Work closely with designers to ensure that components meet design guidelines and are visually consistent.
+3. **Develop Components**: Implement components using best practices, ensuring they are flexible and easy to use in various contexts.
+4. **Document Components**: Provide clear documentation for each component, including usage examples and API details.
+5. **Distribute Components**: Make the component library available through a package manager or private repository.
+
+#### Benefits:
+- **Consistency**: Ensures a consistent look and feel across different parts of an application.
+- **Efficiency**: Speeds up development by providing pre-built components.
+- **Maintainability**: Centralized updates to the component library propagate across all projects using it, simplifying maintenance.
+
+### Storybook Driven Development
+<small>Source - [Storybook Driven Development](https://medium.com/nulogy/storybook-driven-development-a3c517276c07)</small>
+
+Storybook Driven Development (SBDD) is a development approach where components are developed and tested in isolation using Storybook. This approach allows developers to focus on individual components, ensuring they are well-documented and thoroughly tested before being integrated into the broader application.
+
+#### Advantages of SBDD:
+- **Isolation**: Components are developed in isolation, reducing the complexity and making it easier to focus on individual component functionality.
+- **Documentation**: Storybook provides built-in documentation, ensuring that all components are well-documented and easy to understand.
+- **Testing**: With SBDD, you can test components thoroughly in Storybook before integrating them into the application, reducing the likelihood of bugs.
+
+### Component Driven Design
+<small>Source - [What is Component Driven Development?](https://medium.com/@arqex/what-is-component-driven-development-and-why-to-use-it-e3e57abbc449)</small>
+
+Component Driven Development (CDD) is an approach to UI development where the focus is on building and testing components first, before integrating them into screens or applications. This methodology ensures that components are reusable, scalable, and maintainable.
+
+#### Process:
+1. **Component Design**: Start by designing and developing the smallest components first (atoms) and gradually compose them into larger units (molecules, organisms).
+2. **Component Testing**: Test each component independently to ensure it behaves as expected.
+3. **Integration**: Once components are verified, they can be integrated into
+
+### Emergent Design
+<small>Source - [Emergent Design](https://martinfowler.com/bliki/EmergentDesign.html)</small>
+
+Emergent design is an approach where the design evolves over time through continuous refactoring and iteration rather than being fully defined upfront. This philosophy aligns well with Agile methodologies, emphasizing adaptability, responsiveness to change, and the development of simple, yet robust, solutions. 
+
+#### Key Principles:
+- **Incremental Development**: Design evolves with each iteration, responding to the actual needs of the project as they emerge.
+- **Continuous Refactoring**: Regularly revisiting and improving the design keeps the system clean and maintainable.
+- **Adaptability**: The design must be flexible enough to accommodate new requirements without requiring significant rework.
+- **Simplicity**: Focus on creating the simplest design that works, avoiding over-engineering.
+
+#### Benefits:
+- **Flexibility**: By not committing to a rigid design upfront, teams can adapt to changes more easily.
+- **Reduced Complexity**: Emergent design encourages simplicity, which in turn reduces the complexity of the codebase.
+- **Improved Quality**: Continuous refactoring helps maintain high code quality, as issues are addressed as they arise rather than accumulating.
+
+### Design Systems
+<small>Source - [Design Systems Handbook](https://www.designbetter.co/design-systems-handbook)</small>
+
+A design system is a comprehensive guide that provides a shared language for teams to create consistent and cohesive digital products. It typically includes components, design patterns, style guides, and best practices to ensure that products are visually and functionally unified.
+
+#### Components of a Design System:
+- **Style Guide**: Defines the visual language, including typography, color schemes, and spacing.
+- **Component Library**: A collection of reusable components that follow the design system's guidelines.
+- **Design Tokens**: Variables that store design decisions, such as color values, font sizes, and spacing units, to ensure consistency across platforms.
+- **Documentation**: Provides detailed guidelines and best practices for using the design system effectively.
+
+#### Benefits:
+- **Consistency**: Ensures a unified look and feel across all products, regardless of platform or team.
+- **Efficiency**: Speeds up the design and development process by providing reusable components and patterns.
+- **Collaboration**: Facilitates collaboration between designers and developers by providing a common language and set of guidelines.
+
+#### Challenges:
+- **Maintenance**: Keeping the design system up-to-date and aligned with evolving brand and product needs can be resource-intensive.
+- **Adoption**: Ensuring widespread adoption across teams requires careful planning and clear communication.
+
+### Philosophies
+<small>Source - [Design Philosophy: Emergence](https://medium.com/upskilling/design-philosophy-emergence-9e30c11e06c0)</small>
+
+Design philosophies guide how teams approach the creation of digital products. Emergence, in particular, is a philosophy that embraces complexity and change, advocating for solutions that evolve naturally over time rather than being strictly planned from the start.
+
+#### Emergence in Design:
+- **Natural Growth**: Like natural systems, design should evolve organically, responding to new challenges and opportunities.
+- **Interconnectedness**: Recognizes that every part of the system is interconnected and changes in one area can impact others.
+- **Continuous Learning**: Encourages ongoing experimentation, feedback, and learning, allowing the design to improve iteratively.
+
+#### Application:
+- **Responsive Design**: Ensures that products adapt to different devices, screen sizes, and user needs.
+- **User-Centered Design**: Focuses on understanding and meeting the needs of users as they evolve over time.
+- **Agile Development**: Aligns well with Agile methodologies, where design and development are done in small, iterative cycles, allowing for continuous improvement.
+

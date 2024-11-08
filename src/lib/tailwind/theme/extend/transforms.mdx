@@ -1,0 +1,20 @@
+import { Source, Meta } from '@storybook/blocks'
+import subcomponent from './transforms?raw'
+
+export function SourceCode() {
+    return <Source language="tsx" code={subcomponent} />
+}
+
+export function Documentation() {
+    return ``
+}
+
+# Extended Transforms
+
+<Meta isTemplate title="Tailwind/Theme/Extended/Transforms" />
+
+<Documentation />
+
+## Source Code
+
+<SourceCode />

@@ -1,0 +1,67 @@
+import { Meta, Source } from '@storybook/blocks'
+import component from './transforms'
+import componentRaw from './transforms?raw'
+
+<Meta title="Tailwind/Theme/Transforms" />
+
+# [Transforms](https://tailwindcss.com/docs/transform) <small className='text-xs'>[Jump to source](#source-code)</small>
+
+The `transforms` property includes utilities for applying transformations to elements, such as rotation, scaling, skewing, and translation.
+
+## `rotate`
+Defines rotation utilities for elements.
+<Source language="tsx" code={`rotate: ${JSON.stringify(component.rotate, null, 2)}`} />
+- `0`: No rotation.
+- `1`: 1 degree.
+- `2`: 2 degrees.
+- `3`: 3 degrees.
+- `6`: 6 degrees.
+- `12`: 12 degrees.
+- `45`: 45 degrees.
+- `90`: 90 degrees.
+- `180`: 180 degrees.
+
+## `scale`
+Defines scale utilities for elements.
+<Source language="tsx" code={`scale: ${JSON.stringify(component.scale, null, 2)}`} />
+- `0`: 0 scale (invisible).
+- `50`: 50% scale.
+- `75`: 75% scale.
+- `90`: 90% scale.
+- `95`: 95% scale.
+- `100`: 100% scale (original size).
+- `105`: 105% scale.
+- `110`: 110% scale.
+- `125`: 125% scale.
+- `150`: 150% scale.
+
+## `skew`
+Defines skew utilities for elements.
+<Source language="tsx" code={`skew: ${JSON.stringify(component.skew, null, 2)}`} />
+- `0`: No skew.
+- `1`: 1 degree skew.
+- `2`: 2 degrees skew.
+- `3`: 3 degrees skew.
+- `6`: 6 degrees skew.
+- `12`: 12 degrees skew.
+
+## `transformOrigin`
+Defines the origin point for transformations.
+<Source language="tsx" code={`transformOrigin: ${JSON.stringify(component.transformOrigin, null, 2)}`} />
+- `center`: Center of the element.
+- `top`: Top of the element.
+- `top-right`: Top right corner of the element.
+- `right`: Right of the element.
+- `bottom-right`: Bottom right corner of the element.
+- `bottom`: Bottom of the element.
+- `bottom-left`: Bottom left corner of the element.
+- `left`: Left of the element.
+- `top-left`: Top left corner of the element.
+
+## `translate`
+Defines translation utilities based on theme spacing values.
+<Source language="tsx" code={`translate: ${component.translate}`} />
+- Includes values based on theme spacing, along with percentage values like `1/2`, `1/3`, `2/3`, `1/4`, `2/4`, `3/4`, and `full`.
+
+## Source Code
+<Source language="js" code={componentRaw} />

@@ -1,0 +1,51 @@
+import { Meta, Source } from '@storybook/blocks'
+
+# Component File
+
+<Meta title="Documentation/Components Folder/Files/component.tsx" />
+
+Components are written in React, with Tailwind, Radix UI (via ShadCn/ui), GraphQL (via Apollo). They follow Atomic Design hierarchy and utilize tailwind-merge, clsx, and class-variance-authority to handle classes. 
+
+### Bare Component
+
+A bare component doesn't have any variants. The is the simpilist way to write a new component.
+
+<Source language="tsx" code={`import * as React from "react"
+
+import { cn } from "@/lib/utils"
+
+export interface ComponentProps extends HTMLDivElement {}
+
+const Component = React.forwardRef<HTMLDivElement, ComponentProps>(
+  ({ className, ...props }, ref) => (
+    <div
+        className={cn(
+            "component-level-utility-classes",
+            "state:component-level-override-classes",
+            className
+        )}
+        ref={ref}
+        {...props}
+    />
+    )
+  )
+)
+Component.displayName = "Component"
+
+export { Component }
+`} />
+
+### Component with Variants
+
+Variants targeted with attributes like `size`, `color`, `outline`, etc.
+
+<Source language="tsx" code={`
+
+`} />
+
+
+### Component with Subcomponents
+
+A component that has additional components defined in it's `component.tsx` file. These 
+
+<Source language="tsx" code={``} />

@@ -1,0 +1,20 @@
+import { Source, Meta } from '@storybook/blocks'
+import subcomponent from './interactivity?raw'
+
+export function SourceCode() {
+    return <Source language="tsx" code={subcomponent} />
+}
+
+export function Documentation() {
+    return ``
+}
+
+# Extended Interactivity
+
+<Meta isTemplate title="Tailwind/Theme/Extended/Interactivity" />
+
+<Documentation />
+
+## Source Code
+
+<SourceCode />

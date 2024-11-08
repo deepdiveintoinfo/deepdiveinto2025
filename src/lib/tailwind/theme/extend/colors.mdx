@@ -1,0 +1,39 @@
+{/* Colors.mdx */}
+
+import * as colors from 'tailwindcss/colors'
+export const semanticNames = {
+  green: 'brand',
+  yellow: 'links',
+  neutral: 'neutral',
+  slate: 'slate',
+  gray: 'gray',
+  red: 'error',
+  amber: 'warning',
+  emerald: 'success',
+  blue: 'info',
+}
+
+import { Meta, ColorPalette, ColorItem } from '@storybook/blocks';
+
+<Meta title="Tailwind/Theme/Colors/Semantic" />
+  
+<ColorPalette>
+    {Object.entries(colors).map(([colorName, shades], key) => {
+        if(!semanticNames[colorName]) return
+
+
+        if(typeof shades !== "object" || colorName == "default") return
+        return (<ColorItem
+        key={key}
+        title={semanticNames[colorName]}
+        colors={{
+            lightest:  shades[50],
+            lighter: shades[200],
+            light: shades[300], 
+            DEFAULT: shades[500], 
+            darker: shades[700],
+            darkest: shades[900],
+        }} 
+    />)
+  })}
+  </ColorPalette>

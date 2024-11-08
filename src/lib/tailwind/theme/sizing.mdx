@@ -1,0 +1,77 @@
+import { Meta, Source } from '@storybook/blocks'
+import component from './sizing'
+import componentRaw from './sizing?raw'
+import { SourceCode as ExtendedSourceCode, Documentation as ExtendedDocumentation } from './extend/sizing.mdx'
+
+<Meta title="Tailwind/Theme/Sizing" />
+
+# [Sizing](https://tailwindcss.com/docs/width) <small className='text-xs'>[Jump to source](#source-code)</small>
+
+The `sizing` property includes utilities for managing the size of elements, including height, width, and maximum and minimum sizes.
+
+## `height`
+Defines the height of elements with various options.
+<Source language="tsx" code={`height: ${component.height}`} />
+- `auto`: Default height value.
+- Percentage-based values (e.g., `50%`, `33.333333%`): Specifies the height relative to the containing block.
+- Fixed values (e.g., `100vh`, `100svh`, etc.): Defines the height based on viewport units or content size.
+
+## `maxHeight`
+Sets the maximum height of elements.
+<Source language="tsx" code={`maxHeight: ${component.maxHeight}`} />
+- `none`: No maximum height.
+- Full height (e.g., `100%`, `100vh`, etc.): Defines the maximum height.
+- `min-content`, `max-content`, `fit-content`: Sizes based on content.
+
+## `maxWidth`
+Sets the maximum width of elements.
+<Source language="tsx" code={`maxWidth: ${component.maxWidth}`} />
+- `none`: No maximum width.
+- Fixed values (e.g., `20rem`, `24rem`, etc.): Defines the maximum width.
+- Percentage-based values (`100%`), content-based values (`min-content`, `max-content`, `fit-content`).
+- `prose`: A special value for content width (65ch).
+
+## `minHeight`
+Defines the minimum height of elements.
+<Source language="tsx" code={`minHeight: ${component.minHeight}`} />
+- `full`, `screen`, `svh`, `lvh`, `dvh`: Specifies minimum height based on viewport or content size.
+- `min-content`, `max-content`, `fit-content`: Sizes based on content.
+
+## `minWidth`
+Defines the minimum width of elements.
+<Source language="tsx" code={`minWidth: ${component.minWidth}`} />
+- `full`: Full width.
+- `min-content`, `max-content`, `fit-content`: Sizes based on content.
+
+## `size`
+Defines the size of elements.
+<Source language="tsx" code={`size: ${component.size}`} />
+- `auto`: Default size value.
+- Percentage-based values (e.g., `50%`, `33.333333%`): Specifies the size relative to the containing block.
+- Fixed values (`100%`, `min-content`, `max-content`, `fit-content`).
+- Fractional units (e.g., `1/12`, `2/12`): Defines size in a 12-column grid system.
+
+## `width`
+Sets the width of elements.
+<Source language="tsx" code={`width: ${component.width}`} />
+- `auto`: Default width value.
+- Percentage-based values (e.g., `50%`, `33.333333%`): Specifies the width relative to the containing block.
+- Fixed values (`100vw`, `100svw`, etc.): Defines width based on viewport units or content size.
+- `min-content`, `max-content`, `fit-content`: Sizes based on content.
+
+{typeof ExtendedDocumentation === 'function' && ExtendedDocumentation().toString() !== '' && (
+  <>
+    <h2>Extended Documentation</h2>
+    <ExtendedDocumentation />
+  </>
+)}
+
+## Source Code
+<Source language="js" code={componentRaw} />
+
+{typeof ExtendedSourceCode === 'function' && ExtendedSourceCode().toString() !== '' && (
+  <>
+    <h3>Extended Source Code</h3>
+    <ExtendedSourceCode />
+  </>
+)}

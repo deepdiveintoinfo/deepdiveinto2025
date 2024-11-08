@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
+
+@import '@radix-ui/themes/styles.css';
+@import '@radix-ui/colors/gray.css';
+@import '@radix-ui/colors/blue.css';
+@import '@radix-ui/colors/green.css';
+@import '@radix-ui/colors/red.css';
+@import '@radix-ui/colors/gray-dark.css';
+@import '@radix-ui/colors/blue-dark.css';
+@import '@radix-ui/colors/green-dark.css';
+@import '@radix-ui/colors/red-dark.css';
+
+@import './fonts.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root  {
+  --background: 40 100% 95%; /* Light off-white */
+  --foreground: 0 0% 0%; /* Pure black */
+  --card: 60 20% 94%; /* Light grayish yellow */
+  --card-foreground: 0 0% 10%; /* Very dark gray/black */
+  --popover: 40 100% 95%; /* Light off-white */
+  --popover-foreground: 0 0% 0%; /* Pure black */
+  --primary: 220 90% 55%; /* Bright blue */
+  --primary-foreground: 0 0% 100%; /* Pure white */
+  --secondary: 0 80% 50%; /* Comic-book red */
+  --secondary-foreground: 0 0% 0%; /* Pure black */
+  --muted: 210 15% 85%; /* Light desaturated blue-gray */
+  --muted-foreground: 0 0% 10%; /* Very dark gray */
+  --accent: 55 100% 60%; /* Strong yellow */
+  --accent-foreground: 0 0% 10%; /* Dark gray */
+  --destructive: 0 100% 40%; /* Bold red */
+  --destructive-foreground: 0 0% 100%; /* Pure white */
+  --border: 0 0% 10%; /* Dark gray */
+  --input: 0 0% 18%; /* Medium gray */
+  --ring: 220 90% 55%; /* Bright blue */
+  --radius: 0.5rem;
+  --chart-1: 0 100% 50%; /* Vivid red */
+  --chart-2: 220 90% 55%; /* Bright blue */
+  --chart-3: 120 60% 40%; /* Vivid green */
+  --chart-4: 55 100% 60%; /* Strong yellow */
+  --chart-5: 30 100% 55%; /* Bright orange */
+}
+.dark  {
+  --background: 220 20% 10%; /* Very dark blue-gray */
+  --foreground: 0 0% 90%; /* Light gray */
+  --card: 220 20% 15%; /* Dark blue-gray */
+  --card-foreground: 0 0% 90%; /* Very light gray */
+  --popover: 220 20% 10%; /* Very dark blue-gray */
+  --popover-foreground: 0 0% 90%; /* Light gray */
+  --primary: 220 80% 45%; /* Darker blue */
+  --primary-foreground: 0 0% 100%; /* Pure white */
+  --secondary: 0 70% 40%; /* Darker comic-book red */
+  --secondary-foreground: 0 0% 100%; /* Pure white */
+  --muted: 210 15% 15%; /* Dark desaturated blue-gray */
+  --muted-foreground: 0 0% 60%; /* Light gray */
+  --accent: 55 80% 50%; /* Muted yellow */
+  --accent-foreground: 0 0% 90%; /* Very light gray */
+  --destructive: 0 80% 35%; /* Dark red */
+  --destructive-foreground: 0 0% 100%; /* Pure white */
+  --border: 0 0% 18%; /* Dark gray */
+  --input: 0 0% 18%; /* Medium gray */
+  --ring: 220 80% 45%; /* Darker blue */
+  --radius: 0.5rem;
+  --chart-1: 0 100% 50%; /* Vivid red */
+  --chart-2: 220 90% 55%; /* Bright blue */
+  --chart-3: 120 60% 40%; /* Vivid green */
+  --chart-4: 55 100% 60%; /* Strong yellow */
+  --chart-5: 30 100% 55%; /* Bright orange */
+}

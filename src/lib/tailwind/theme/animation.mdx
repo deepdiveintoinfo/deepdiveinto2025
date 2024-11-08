@@ -1,0 +1,103 @@
+import {Meta, Source } from '@storybook/blocks'
+import componentRaw from './animation?raw'
+import component from './animation'
+import { SourceCode as ExtendedSourceCode, Documentation as ExtendedDocumentation } from './extend/animation.mdx'
+
+<Meta title="Tailwind/Theme/Animation" />
+
+# Animation Controls <small className='text-xs'>[Jump to source](#source-code)</small>
+
+## [Animation](https://tailwindcss.com/docs/animation)
+Defines the animations with their names and keyframe properties. <small>[MDN Animation](https://developer.mozilla.org/en-US/docs/Web/CSS/animation)</small>
+<Source language="js" code={`animation: ${JSON.stringify(component.animation, null, 2)}`} />
+
+### None
+No animation applied.
+<Source language="js" code={`none: ${JSON.stringify(component.animation.none, null, 2)}`} />
+
+### [Spin](https://tailwindcss.com/docs/animation#spin)
+Adds a linear spin animation to elements like loading indicators.
+<Source language="js" code={`spin: ${JSON.stringify(component.animation.spin, null, 2)}`} />
+
+### [Ping](https://tailwindcss.com/docs/animation#ping)
+Make an element scale and fade like a radar ping or ripple of water — useful for things like notification badges.
+<Source language="js" code={`ping: ${JSON.stringify(component.animation.ping, null, 2)}`} />
+
+### [Pulse](https://tailwindcss.com/docs/animation#pulse)
+Utility to make an element gently fade in and out — useful for things like skeleton loaders.
+<Source language="js" code={`pulse: ${JSON.stringify(component.animation.pulse, null, 2)}`} />
+
+### [Bounce](https://tailwindcss.com/docs/animation#bounce)
+Makes an element bounce up and down — useful for things like “scroll down” indicators.
+<Source language="js" code={`bounce: ${JSON.stringify(component.animation.bounce, null, 2)}`} />
+
+## [Keyframes](https://tailwindcss.com/docs/keyframes)
+Defines the keyframes for the animations. <small>[MDN Keyframes](https://developer.mozilla.org/en-US/docs/Web/CSS/@keyframes)</small>
+<Source language="js" code={`keyframes: ${JSON.stringify(component.keyframes, null, 2)}`} />
+
+## [Transition Delay](https://tailwindcss.com/docs/transition-delay)
+Specifies the delay before the transition starts. <small>[MDN Transition Delay](https://developer.mozilla.org/en-US/docs/Web/CSS/transition-delay)</small>
+<Source language="js" code={`transitionDelay: ${JSON.stringify(component.transitionDelay, null, 2)}`} />
+
+## [Transition Duration](https://tailwindcss.com/docs/transition-duration)
+Specifies the duration of the transition. <small>[MDN Transition Duration](https://developer.mozilla.org/en-US/docs/Web/CSS/transition-duration)</small>
+<Source language="js" code={`transitionDuration: ${JSON.stringify(component.transitionDuration, null, 2)}`} />
+
+## [Transition Property](https://tailwindcss.com/docs/transition-property)
+Specifies the properties to which transitions should apply. <small>[MDN Transition Property](https://developer.mozilla.org/en-US/docs/Web/CSS/transition-property)</small>
+<Source language="js" code={`trainsitionProperty: ${JSON.stringify(component.trainsitionProperty, null, 2)}`} />
+
+## [Transition Timing Function](https://tailwindcss.com/docs/transition-timing-function)
+Specifies the speed curve of the transition effect. <small>[MDN Transition Timing Function](https://developer.mozilla.org/en-US/docs/Web/CSS/transition-timing-function)</small>
+<Source language="js" code={`transitionTimingFunction: ${JSON.stringify(component.transitionTimingFunction, null, 2)}`} />
+
+### DEFAULT
+This is the default easing function, commonly known as "ease" in CSS. It creates a smooth transition that starts slowly, speeds up in the middle, and then slows down again towards the end.
+<Source language="js" code={`DEFAULT: ${JSON.stringify(component.transitionTimingFunction.DEFAULT, null, 2)}`} />
+- **0.4, 0**: Controls the initial portion of the transition, making it start slowly.
+- **0.2, 1**: Controls the end portion of the transition, making it slow down towards the end.
+
+### linear
+The `linear` easing function creates a transition that occurs at a constant speed from start to finish. There are no accelerations or decelerations.
+<Source language="js" code={`linear: ${JSON.stringify(component.transitionTimingFunction.linear, null, 2)}`} />
+- This means the change happens at the same rate throughout the duration, resulting in a straight line when plotted on a graph.
+
+### in
+This is the "ease-in" function, which starts slowly and then speeds up.
+<Source language="js" code={`in: ${JSON.stringify(component.transitionTimingFunction.in, null, 2)}`} />
+- **0.4, 0**: Controls the initial portion of the transition, making it start slowly.
+- **1, 1**: Controls the end portion, making it finish quickly.
+
+### out
+This is the "ease-out" function, which starts quickly and then slows down towards the end.
+<Source language="js" code={`out: ${JSON.stringify(component.transitionTimingFunction.out, null, 2)}`} />
+- **0, 0**: Controls the initial portion of the transition, making it start quickly.
+- **0.2, 1**: Controls the end portion, making it slow down towards the end.
+
+### in-out
+This is the "ease-in-out" function, which starts slowly, speeds up in the middle, and then slows down again at the end.
+<Source language="js" code={`'in-out': ${JSON.stringify(component.transitionTimingFunction['in-out'], null, 2)}`} />
+- **0.4, 0**: Controls the initial portion of the transition, making it start slowly.
+- **0.2, 1**: Controls the end portion of the transition, making it slow down towards the end.
+
+
+{typeof ExtendedDocumentation === 'function' && ExtendedDocumentation().toString() !== '' && (
+  <>
+    <h2>Extended Documentation</h2>
+    <ExtendedDocumentation />
+  </>
+)}
+
+## Source Code
+<Source language="js" code={componentRaw} />
+
+{typeof ExtendedSourceCode === 'function' && ExtendedSourceCode().toString() !== '' && (
+  <>
+    <h3>Extended Source Code</h3>
+    <ExtendedSourceCode />
+  </>
+)}
+
+
+
+

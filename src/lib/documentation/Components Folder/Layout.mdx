@@ -1,0 +1,55 @@
+import { Source, Meta } from '@storybook/blocks';
+
+# Components Folder Layout
+
+<Meta title="Documentation/Components Folder/Layout" />
+
+<Source code={`•
+└── components
+    ├── Atoms/
+    ├── Molecules/
+    ├── Organisms/
+    ├── Templates/
+    ├── Pages/
+    └── index.ts`} />
+
+## General Component Folder Structure
+
+<Source code={`•
+└── components/
+    └── {AtomicType}/
+        └── {ComponentName}/
+            ├── component.tsx
+            ├── index.ts
+            ├── story.ts
+            ├── variables.tsx
+            ├── demo.tsx
+            └── docs.mdx`} />
+
+### Atoms
+
+### Molecules
+
+### Organisms
+
+### Pages
+
+<Source code={`•
+└── components/
+    └── Pages
+        └── {path-segment}
+            ├── component.tsx
+            ├── demo.tsx
+            ├── index.ts
+            ├── story.ts
+            ├── docs.mdx
+            └── variables.tsx`} />
+
+#### Page Index Folder Structure
+
+<Source code={`•
+└── components/
+    └── Pages
+        ├── _index
+        └── foobar
+            └── _index`} />

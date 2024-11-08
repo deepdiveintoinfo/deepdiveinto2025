@@ -1,0 +1,13 @@
+import { Source, Meta } from '@storybook/blocks'
+
+# Index File
+
+<Meta title="Documentation/Components Folder/Files/index.ts" />
+
+The primary purpose of the index file is to export your component's API publicy. It's written specifically in `.ts`, as an export file throws a warning if `.tsx`.
+
+The standard for a component's public APIs is to expose everything in `./component` and `./variants`, as everything else is usually used in the [story](/?path=/docs/documentation-components-file-types-story-tsx--docs) or something.
+
+<Source language="ts" code={`export * from './component'
+export * from './variants'
+`} />

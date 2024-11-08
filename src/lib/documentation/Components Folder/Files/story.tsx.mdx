@@ -1,0 +1,32 @@
+import { Meta, Source } from '@storybook/blocks'
+
+# Storybook Story
+
+<Meta title="Documentation/Components Folder/Files/story.tsx" />
+
+
+<Source language="tsx" code={`import type { Meta, StoryObj } from '@storybook/react';
+import { Component } from '.';
+import { ComponentDemo } from './demo'
+
+const meta: Meta<typeof Component> = {
+  component: Component,
+  parameters: {
+    docs: {
+      subtitle: 'Lorem ipsum.',
+      description: {
+        component: '[Documentation Link](https://example.com)'
+      },
+    },
+  },
+  args: { },
+};
+
+export default meta;
+type Story = StoryObj<typeof Component>;
+
+export const Default: Story = {};
+export const Demo: Story = {
+    render: () => <ComponentDemo />
+};
+`} />

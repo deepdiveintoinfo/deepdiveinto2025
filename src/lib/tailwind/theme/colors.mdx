@@ -1,0 +1,30 @@
+{/* Colors.mdx */}
+
+import * as colors from 'tailwindcss/colors'
+
+import { Meta, ColorPalette, ColorItem } from '@storybook/blocks';
+ 
+<Meta title="Tailwind/Theme/Colors/Primitives" />
+ 
+<ColorPalette>
+    {Object.entries(colors).map(([colorName, shades], key) => {
+        if(typeof shades !== "object" || colorName == "default") return        
+        return (<ColorItem
+        key={key}
+        title={colorName}
+        colors={{
+            50:  shades[50],
+            100: shades[100],
+            200: shades[200],
+            300: shades[300],
+            400: shades[400],
+            500: shades[500],
+            600: shades[600],
+            700: shades[700],
+            800: shades[800],
+            900: shades[900],
+            950: shades[950],
+        }} 
+    />)
+  })}
+</ColorPalette>

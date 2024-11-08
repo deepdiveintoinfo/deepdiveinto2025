@@ -1,0 +1,105 @@
+import { Meta, Source } from '@storybook/blocks'
+import component from './filters'
+import componentRaw from './filters?raw'
+import { SourceCode as ExtendedSourceCode, Documentation as ExtendedDocumentation } from './extend/filters.mdx'
+
+<Meta title="Tailwind/Theme/Filters" />
+
+# [Filters](https://tailwindcss.com/docs/filter) <small className='text-xs'>[Jump to source](#source-code)</small>
+The `filters` property allows you to control various filter effects applied to elements. Each filter is specified with various parameters that define its appearance.
+
+## `backdropBlur`
+Applies a blur effect to the backdrop of an element.
+<Source language="tsx" code={`backdropBlur: ${component.backdropBlur}`} />
+
+## `backdropBrightness`
+Controls the brightness of the backdrop.
+<Source language="tsx" code={`backdropBrightness: ${component.backdropBrightness}`} />
+
+## `backdropContrast`
+Adjusts the contrast of the backdrop.
+<Source language="tsx" code={`backdropContrast: ${component.backdropContrast}`} />
+
+## `backdropGrayscale`
+Applies a grayscale effect to the backdrop.
+<Source language="tsx" code={`backdropGrayscale: ${component.backdropGrayscale}`} />
+
+## `backdropHueRotate`
+Rotates the hue of the backdrop.
+<Source language="tsx" code={`backdropHueRotate: ${component.backdropHueRotate}`} />
+
+## `backdropInvert`
+Inverts the colors of the backdrop.
+<Source language="tsx" code={`backdropInvert: ${component.backdropInvert}`} />
+
+## `backdropOpacity`
+Adjusts the opacity of the backdrop.
+<Source language="tsx" code={`backdropOpacity: ${component.backdropOpacity}`} />
+
+## `backdropSaturate`
+Saturates the colors of the backdrop.
+<Source language="tsx" code={`backdropSaturate: ${component.backdropSaturate}`} />
+
+## `backdropSepia`
+Applies a sepia effect to the backdrop.
+<Source language="tsx" code={`backdropSepia: ${component.backdropSepia}`} />
+
+## `blur`
+Defines the blur effect with various levels of intensity.
+<Source language="tsx" code={`blur: ${JSON.stringify(component.blur, null, 2)}`} />
+
+## `brightness`
+Adjusts the brightness of elements.
+<Source language="tsx" code={`brightness: ${JSON.stringify(component.brightness, null, 2)}`} />
+
+## `contrast`
+Adjusts the contrast of elements.
+<Source language="tsx" code={`contrast: ${JSON.stringify(component.contrast, null, 2)}`} />
+
+## `dropShadow`
+Defines the drop shadow effects for various levels of intensity.
+<Source language="tsx" code={`dropShadow: ${JSON.stringify(component.dropShadow, null, 2)}`} />
+- `sm`: Minimal shadow effect.
+- `DEFAULT`: Balanced shadow effect.
+- `md`: Medium shadow effect.
+- `lg`: Pronounced shadow effect.
+- `xl`: Strong shadow effect.
+- `2xl`: Very large shadow effect.
+- `none`: No shadow effect.
+
+## `hueRotate`
+Controls the hue rotation of elements.
+<Source language="tsx" code={`hueRotate: ${JSON.stringify(component.hueRotate, null, 2)}`} />
+
+## `grayscale`
+Applies a grayscale effect to elements.
+<Source language="tsx" code={`grayscale: ${JSON.stringify(component.grayscale, null, 2)}`} />
+
+## `invert`
+Inverts the colors of elements.
+<Source language="tsx" code={`invert: ${JSON.stringify(component.invert, null, 2)}`} />
+
+## `saturate`
+Adjusts the saturation of elements.
+<Source language="tsx" code={`saturate: ${JSON.stringify(component.saturate, null, 2)}`} />
+
+## `sepia`
+Applies a sepia effect to elements.
+<Source language="tsx" code={`sepia: ${JSON.stringify(component.sepia, null, 2)}`} />
+
+{typeof ExtendedDocumentation === 'function' && ExtendedDocumentation().toString() !== '' && (
+  <>
+    <h2>Extended Documentation</h2>
+    <ExtendedDocumentation />
+  </>
+)}
+
+## Source Code
+<Source language="js" code={componentRaw} />
+
+{typeof ExtendedSourceCode === 'function' && ExtendedSourceCode().toString() !== '' && (
+  <>
+    <h3>Extended Source Code</h3>
+    <ExtendedSourceCode />
+  </>
+)}

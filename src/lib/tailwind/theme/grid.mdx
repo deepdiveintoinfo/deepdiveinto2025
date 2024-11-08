@@ -1,0 +1,103 @@
+import { Meta, Source } from '@storybook/blocks'
+import component from './grid'
+import componentRaw from './grid?raw'
+import { SourceCode as ExtendedSourceCode, Documentation as ExtendedDocumentation } from './extend/grid.mdx'
+
+<Meta title="Tailwind/Theme/Grid" />
+
+# [Grid](https://tailwindcss.com/docs/grid) <small className='text-xs'>[Jump to source](#source-code)</small>
+
+The `grid` property provides utilities for controlling grid containers and items within them. Each property offers detailed control over grid layout and item positioning.
+
+## `gap`
+Defines the gap between grid items.
+<Source language="tsx" code={`gap: ${component.gap}`} />
+
+## `gridAutoColumns`
+Sets the size of columns in a grid layout.
+<Source language="tsx" code={`gridAutoColumns: ${JSON.stringify(component.gridAutoColumns, null, 2)}`} />
+- `auto`: Automatically determined size.
+- `min`: Minimum content size.
+- `max`: Maximum content size.
+- `fr`: Fractional unit (minimum 0, maximum 1 fraction).
+
+## `gridAutoRows`
+Sets the size of rows in a grid layout.
+<Source language="tsx" code={`gridAutoRows: ${JSON.stringify(component.gridAutoRows, null, 2)}`} />
+- `auto`: Automatically determined size.
+- `min`: Minimum content size.
+- `max`: Maximum content size.
+- `fr`: Fractional unit (minimum 0, maximum 1 fraction).
+
+## `gridColumn`
+Defines the grid column properties for items.
+<Source language="tsx" code={`gridColumn: ${JSON.stringify(component.gridColumn, null, 2)}`} />
+- `auto`: Automatically determined column.
+- `span-1` to `span-12`: Spans the specified number of columns.
+- `span-full`: Spans all columns.
+
+## `gridColumnEnd`
+Specifies the end position of a grid item in columns.
+<Source language="tsx" code={`gridColumnEnd: ${JSON.stringify(component.gridColumnEnd, null, 2)}`} />
+- Ranges from `auto` to `13`, specifying the end position.
+
+## `gridColumnStart`
+Specifies the start position of a grid item in columns.
+<Source language="tsx" code={`gridColumnStart: ${JSON.stringify(component.gridColumnStart, null, 2)}`} />
+- Ranges from `auto` to `13`, specifying the start position.
+
+## `gridRow`
+Defines the grid row properties for items.
+<Source language="tsx" code={`gridRow: ${JSON.stringify(component.gridRow, null, 2)}`} />
+- `auto`: Automatically determined row.
+- `span-1` to `span-12`: Spans the specified number of rows.
+- `span-full`: Spans all rows.
+
+## `gridRowEnd`
+Specifies the end position of a grid item in rows.
+<Source language="tsx" code={`gridRowEnd: ${JSON.stringify(component.gridRowEnd, null, 2)}`} />
+- Ranges from `auto` to `13`, specifying the end position.
+
+## `gridRowStart`
+Specifies the start position of a grid item in rows.
+<Source language="tsx" code={`gridRowStart: ${JSON.stringify(component.gridRowStart, null, 2)}`} />
+- Ranges from `auto` to `13`, specifying the start position.
+
+## `gridTemplateColumns`
+Defines the column layout of the grid container.
+<Source language="tsx" code={`gridTemplateColumns: ${JSON.stringify(component.gridTemplateColumns, null, 2)}`} />
+- `none`: No columns.
+- `subgrid`: Subgrid layout.
+- `1` to `12`: Specifies the number of columns.
+
+## `gridTemplateRows`
+Defines the row layout of the grid container.
+<Source language="tsx" code={`gridTemplateRows: ${JSON.stringify(component.gridTemplateRows, null, 2)}`} />
+- `none`: No rows.
+- `subgrid`: Subgrid layout.
+- `1` to `12`: Specifies the number of rows.
+
+## `order`
+Controls the order of grid items.
+<Source language="tsx" code={`order: ${JSON.stringify(component.order, null, 2)}`} />
+- `first`: Comes first in order.
+- `last`: Comes last in order.
+- `none`: Default order.
+- `1` to `12`: Specifies the order position.
+
+{typeof ExtendedDocumentation === 'function' && ExtendedDocumentation().toString() !== '' && (
+  <>
+    <h2>Extended Documentation</h2>
+    <ExtendedDocumentation />
+  </>
+)}
+
+## Source Code
+<Source language="js" code={componentRaw} />
+
+{typeof ExtendedSourceCode === 'function' && ExtendedSourceCode().toString() !== '' && (
+  <>
+    <h3>Extended Source Code</h3>
+    <ExtendedSourceCode />
+  </>
+)}

@@ -1,0 +1,84 @@
+import { Meta, Source } from '@storybook/blocks'
+import component from './interactivity'
+import componentRaw from './interactivity?raw'
+import { SourceCode as ExtendedSourceCode, Documentation as ExtendedDocumentation } from './extend/interactivity.mdx'
+
+<Meta title="Tailwind/Theme/Interactivity" />
+
+# [Interactivity](https://tailwindcss.com/docs/interactivity) <small className='text-xs'>[Jump to source](#source-code)</small>
+
+The `interactivity` property provides utilities for controlling various interactive behaviors in Tailwind CSS. These include cursor styles, scroll margins, and will-change properties.
+
+## `accentColor`
+Sets the accent color for elements.
+<Source language="tsx" code={`accentColor: ${component.accentColor}`} />
+- `auto`: Uses the default accent color from the theme.
+- `{theme('colors')}`: Uses the colors defined in the theme.
+
+## `caretColor`
+Controls the color of the text cursor (caret).
+<Source language="tsx" code={`caretColor: ${component.caretColor}`} />
+
+## `cursor`
+Defines various cursor styles.
+<Source language="tsx" code={`cursor: ${JSON.stringify(component.cursor, null, 2)}`} />
+- `auto`: Default cursor.
+- `default`: Default arrow cursor.
+- `pointer`: Clickable pointer cursor.
+- `wait`: Wait cursor (hourglass).
+- `text`: Text selection cursor.
+- `move`: Move cursor.
+- `help`: Help cursor.
+- `not-allowed`: Not allowed cursor.
+- `none`: No cursor.
+- `context-menu`: Context menu cursor.
+- `progress`: Progress cursor.
+- `cell`: Table cell cursor.
+- `crosshair`: Crosshair cursor.
+- `vertical-text`: Vertical text cursor.
+- `alias`: Alias cursor.
+- `copy`: Copy cursor.
+- `no-drop`: No drop cursor.
+- `grab`: Grab cursor.
+- `grabbing`: Grabbing cursor.
+- `all-scroll`: All scroll cursor.
+- `col-resize`: Column resize cursor.
+- `row-resize`: Row resize cursor.
+- `n-resize`, `e-resize`, `s-resize`, `w-resize`: North, East, South, West resize cursors.
+- `ne-resize`, `nw-resize`, `se-resize`, `sw-resize`: North-East, North-West, South-East, South-West resize cursors.
+- `ew-resize`, `ns-resize`: East-West, North-South resize cursors.
+- `nesw-resize`, `nwse-resize`: Diagonal resize cursors.
+- `zoom-in`, `zoom-out`: Zoom in and out cursors.
+
+## `scrollMargin`
+Controls the margin around scrollable elements.
+<Source language="tsx" code={`scrollMargin: ${component.scrollMargin}`} />
+
+## `scrollPadding`
+Controls the padding within scrollable elements.
+<Source language="tsx" code={`scrollPadding: ${component.scrollPadding}`} />
+
+## `willChange`
+Specifies which properties will change on an element.
+<Source language="tsx" code={`willChange: ${JSON.stringify(component.willChange, null, 2)}`} />
+- `auto`: Default behavior.
+- `scroll`: Indicates scroll position might change.
+- `contents`: Indicates the contents of the element might change.
+- `transform`: Indicates the element might be transformed.
+
+{typeof ExtendedDocumentation === 'function' && ExtendedDocumentation().toString() !== '' && (
+  <>
+    <h2>Extended Documentation</h2>
+    <ExtendedDocumentation />
+  </>
+)}
+
+## Source Code
+<Source language="js" code={componentRaw} />
+
+{typeof ExtendedSourceCode === 'function' && ExtendedSourceCode().toString() !== '' && (
+  <>
+    <h3>Extended Source Code</h3>
+    <ExtendedSourceCode />
+  </>
+)}

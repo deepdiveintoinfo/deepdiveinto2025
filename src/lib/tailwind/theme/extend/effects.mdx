@@ -1,0 +1,20 @@
+import { Source, Meta } from '@storybook/blocks'
+import subcomponent from './effects?raw'
+
+export function SourceCode() {
+    return <Source language="tsx" code={subcomponent} />
+}
+
+export function Documentation() {
+    return ``
+}
+
+# Extended Effects
+
+<Meta isTemplate title="Tailwind/Theme/Extended/Effects" />
+
+<Documentation />
+
+## Source Code
+
+<SourceCode />

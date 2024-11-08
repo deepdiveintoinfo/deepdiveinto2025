@@ -1,0 +1,142 @@
+import { Meta, Source } from '@storybook/blocks'
+import component from './typography'
+import componentRaw from './typography?raw'
+
+<Meta title="Tailwind/Theme/Typography" />
+
+# [Typography](https://tailwindcss.com/docs/typography) <small className='text-xs'>[Jump to source](#source-code)</small>
+
+The `typography` property includes utilities for controlling text appearance, including font families, sizes, weights, spacing, and colors.
+
+## `content`
+Defines content utilities for text.
+<Source language="tsx" code={`content: ${JSON.stringify(component.content, null, 2)}`} />
+- `none`: No content.
+
+## `fontFamily`
+Defines font families for text.
+<Source language="tsx" code={`fontFamily: ${JSON.stringify(component.fontFamily, null, 2)}`} />
+- `sans`: Sans-serif fonts.
+- `serif`: Serif fonts.
+- `mono`: Monospace fonts.
+- `display`: Display fonts.
+
+## `fontSize`
+Defines font sizes and line heights.
+<Source language="tsx" code={`fontSize: ${JSON.stringify(component.fontSize, null, 2)}`} />
+- `xs`: Extra small font size.
+- `sm`: Small font size.
+- `base`: Base font size.
+- `lg`: Large font size.
+- `xl`: Extra large font size.
+- `2xl`: 2x extra large font size.
+- `3xl`: 3x extra large font size.
+- `4xl`: 4x extra large font size.
+- `5xl`: 5x extra large font size.
+- `6xl`: 6x extra large font size.
+- `7xl`: 7x extra large font size.
+- `8xl`: 8x extra large font size.
+- `9xl`: 9x extra large font size.
+
+## `fontWeight`
+Defines font weights.
+<Source language="tsx" code={`fontWeight: ${JSON.stringify(component.fontWeight, null, 2)}`} />
+- `thin`: 100 weight.
+- `extralight`: 200 weight.
+- `light`: 300 weight.
+- `normal`: 400 weight.
+- `medium`: 500 weight.
+- `semibold`: 600 weight.
+- `bold`: 700 weight.
+- `extrabold`: 800 weight.
+- `black`: 900 weight.
+
+## `letterSpacing`
+Defines letter spacing.
+<Source language="tsx" code={`letterSpacing: ${JSON.stringify(component.letterSpacing, null, 2)}`} />
+- `tighter`: -0.05em.
+- `tight`: -0.025em.
+- `normal`: 0em.
+- `wide`: 0.025em.
+- `wider`: 0.05em.
+- `widest`: 0.1em.
+
+## `lineHeight`
+Defines line heights.
+<Source language="tsx" code={`lineHeight: ${JSON.stringify(component.lineHeight, null, 2)}`} />
+- `none`: 1.
+- `tight`: 1.25.
+- `snug`: 1.375.
+- `normal`: 1.5.
+- `relaxed`: 1.625.
+- `loose`: 2.
+- `3`: 0.75rem.
+- `4`: 1rem.
+- `5`: 1.25rem.
+- `6`: 1.5rem.
+- `7`: 1.75rem.
+- `8`: 2rem.
+- `9`: 2.25rem.
+- `10`: 2.5rem.
+
+## `listStyleType`
+Defines list style types.
+<Source language="tsx" code={`listStyleType: ${JSON.stringify(component.listStyleType, null, 2)}`} />
+- `none`: No list style.
+- `disc`: Disc style.
+- `decimal`: Decimal style.
+
+## `listStyleImage`
+Defines list style images.
+<Source language="tsx" code={`listStyleImage: ${JSON.stringify(component.listStyleImage, null, 2)}`} />
+- `none`: No list style image.
+
+## `lineClamp`
+Defines line clamping for text truncation.
+<Source language="tsx" code={`lineClamp: ${JSON.stringify(component.lineClamp, null, 2)}`} />
+- `1`: Clamp to 1 line.
+- `2`: Clamp to 2 lines.
+- `3`: Clamp to 3 lines.
+- `4`: Clamp to 4 lines.
+- `5`: Clamp to 5 lines.
+- `6`: Clamp to 6 lines.
+
+## `textColor`
+Defines text colors based on theme colors.
+<Source language="tsx" code={`textColor: ${component.textColor}`} />
+
+## `textDecorationColor`
+Defines text decoration colors based on theme colors.
+<Source language="tsx" code={`textDecorationColor: ${component.textDecorationColor}`} />
+
+## `textDecorationThickness`
+Defines thickness of text decorations.
+<Source language="tsx" code={`textDecorationThickness: ${JSON.stringify(component.textDecorationThickness, null, 2)}`} />
+- `auto`: Automatic thickness.
+- `from-font`: Thickness from font.
+- `0`: 0px.
+- `1`: 1px.
+- `2`: 2px.
+- `4`: 4px.
+- `8`: 8px.
+
+## `textIndent`
+Defines text indentation based on theme spacing.
+<Source language="tsx" code={`textIndent: ${component.textIndent}`} />
+
+## `textOpacity`
+Defines text opacity based on theme opacity.
+<Source language="tsx" code={`textOpacity: ${component.textOpacity}`} />
+
+## `textUnderlineOffset`
+Defines the offset for underlines.
+<Source language="tsx" code={`textUnderlineOffset: ${JSON.stringify(component.textUnderlineOffset, null, 2)}`} />
+- `auto`: Automatic offset.
+- `0`: 0px.
+- `1`: 1px.
+- `2`: 2px.
+- `4`: 4px.
+- `8`: 8px.
+
+## Source Code
+<Source language="js" code={componentRaw} />
