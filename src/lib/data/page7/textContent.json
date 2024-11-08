@@ -1,0 +1,1957 @@
+{
+  "items": [
+    {
+      "str": "SECTION 3: THE GENERAL WELFARE",
+      "dir": "ltr",
+      "width": 219.45449999999994,
+      "height": 11.5,
+      "transform": [
+        11.5,
+        0,
+        0,
+        11.5,
+        72.0936,
+        636.8002
+      ],
+      "fontName": "g_d0_f7",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.09319130434782794,
+      "height": 0,
+      "transform": [
+        11.5,
+        0,
+        0,
+        11.5,
+        291.5481,
+        636.8002
+      ],
+      "fontName": "g_d0_f7",
+      "hasEOL": false
+    },
+    {
+      "str": ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+      "dir": "ltr",
+      "width": 121.19399999999885,
+      "height": 6,
+      "transform": [
+        6,
+        0,
+        0,
+        6,
+        292.6198,
+        636.8002
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.4466000000000368,
+      "height": 0,
+      "transform": [
+        6,
+        0,
+        0,
+        6,
+        413.8137999999998,
+        636.8002
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "283",
+      "dir": "ltr",
+      "width": 15.39,
+      "height": 9.5,
+      "transform": [
+        9.5,
+        0,
+        0,
+        9.5,
+        416.4934,
+        636.8002
+      ],
+      "fontName": "g_d0_f5",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9.5,
+        0,
+        0,
+        9.5,
+        71.1708,
+        619.8002
+      ],
+      "fontName": "g_d0_f5",
+      "hasEOL": true
+    },
+    {
+      "str": "10.",
+      "dir": "ltr",
+      "width": 12.825000000000001,
+      "height": 9.5,
+      "transform": [
+        9.5,
+        0,
+        0,
+        9.5,
+        71.1708,
+        619.8002
+      ],
+      "fontName": "g_d0_f5",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.7398736842105282,
+      "height": 0,
+      "transform": [
+        9.5,
+        0,
+        0,
+        9.5,
+        83.99579999999999,
+        619.8002
+      ],
+      "fontName": "g_d0_f5",
+      "hasEOL": false
+    },
+    {
+      "str": "DEPARTMENT OF AGRICULTURE",
+      "dir": "ltr",
+      "width": 166.37900000000005,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        91.0246,
+        619.8002
+      ],
+      "fontName": "g_d0_f3",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.09415000000000191,
+      "height": 0,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        257.4036,
+        619.8002
+      ],
+      "fontName": "g_d0_f3",
+      "hasEOL": false
+    },
+    {
+      "str": ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+      "dir": "ltr",
+      "width": 155.46599999999844,
+      "height": 6,
+      "transform": [
+        6,
+        0,
+        0,
+        6,
+        258.3451,
+        619.8002
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.47618333333338114,
+      "height": 0,
+      "transform": [
+        6,
+        0,
+        0,
+        6,
+        413.8110999999997,
+        619.8002
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "289",
+      "dir": "ltr",
+      "width": 15.39,
+      "height": 9.5,
+      "transform": [
+        9.5,
+        0,
+        0,
+        9.5,
+        416.6682,
+        619.8002
+      ],
+      "fontName": "g_d0_f5",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.3876,
+        607.8002
+      ],
+      "fontName": "g_d0_f6",
+      "hasEOL": true
+    },
+    {
+      "str": "Daren Bakst",
+      "dir": "ltr",
+      "width": 54.7011,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.3876,
+        607.8002
+      ],
+      "fontName": "g_d0_f6",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9.5,
+        0,
+        0,
+        9.5,
+        71.1708,
+        590.8002
+      ],
+      "fontName": "g_d0_f5",
+      "hasEOL": true
+    },
+    {
+      "str": "11.",
+      "dir": "ltr",
+      "width": 12.825000000000001,
+      "height": 9.5,
+      "transform": [
+        9.5,
+        0,
+        0,
+        9.5,
+        71.1708,
+        590.8002
+      ],
+      "fontName": "g_d0_f5",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.7398736842105282,
+      "height": 0,
+      "transform": [
+        9.5,
+        0,
+        0,
+        9.5,
+        83.99579999999999,
+        590.8002
+      ],
+      "fontName": "g_d0_f5",
+      "hasEOL": false
+    },
+    {
+      "str": "DEPARTMENT OF EDUCATION",
+      "dir": "ltr",
+      "width": 154.999,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        91.0246,
+        590.8002
+      ],
+      "fontName": "g_d0_f3",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1613500000000016,
+      "height": 0,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        246.0236,
+        590.8002
+      ],
+      "fontName": "g_d0_f3",
+      "hasEOL": false
+    },
+    {
+      "str": ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+      "dir": "ltr",
+      "width": 166.1759999999984,
+      "height": 6,
+      "transform": [
+        6,
+        0,
+        0,
+        6,
+        247.6371,
+        590.8002
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.4758500000000557,
+      "height": 0,
+      "transform": [
+        6,
+        0,
+        0,
+        6,
+        413.8130999999997,
+        590.8002
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "319",
+      "dir": "ltr",
+      "width": 15.39,
+      "height": 9.5,
+      "transform": [
+        9.5,
+        0,
+        0,
+        9.5,
+        416.6682,
+        590.8002
+      ],
+      "fontName": "g_d0_f5",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.3876,
+        578.8002
+      ],
+      "fontName": "g_d0_f6",
+      "hasEOL": true
+    },
+    {
+      "str": "Lindsey M. Burke",
+      "dir": "ltr",
+      "width": 76.7151,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.3876,
+        578.8002
+      ],
+      "fontName": "g_d0_f6",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9.5,
+        0,
+        0,
+        9.5,
+        71.3784,
+        561.8002
+      ],
+      "fontName": "g_d0_f5",
+      "hasEOL": true
+    },
+    {
+      "str": "12.",
+      "dir": "ltr",
+      "width": 12.825000000000001,
+      "height": 9.5,
+      "transform": [
+        9.5,
+        0,
+        0,
+        9.5,
+        71.3784,
+        561.8002
+      ],
+      "fontName": "g_d0_f5",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.7180210526315809,
+      "height": 0,
+      "transform": [
+        9.5,
+        0,
+        0,
+        9.5,
+        84.20339999999999,
+        561.8002
+      ],
+      "fontName": "g_d0_f5",
+      "hasEOL": false
+    },
+    {
+      "str": "DEPARTMENT OF ENERGY",
+      "dir": "ltr",
+      "width": 135.979,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        91.0246,
+        561.8002
+      ],
+      "fontName": "g_d0_f3",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        89.0508,
+        549.8002
+      ],
+      "fontName": "g_d0_f3",
+      "hasEOL": true
+    },
+    {
+      "str": "AND RELATED COMMISSIONS",
+      "dir": "ltr",
+      "width": 152.06900000000005,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        89.0508,
+        549.8002
+      ],
+      "fontName": "g_d0_f3",
+      "hasEOL": false
+    },
+    {
+      "str": ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+      "dir": "ltr",
+      "width": 172.60199999999844,
+      "height": 6,
+      "transform": [
+        6,
+        0,
+        0,
+        6,
+        241.20940000000002,
+        549.8002
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.4470000000000501,
+      "height": 0,
+      "transform": [
+        6,
+        0,
+        0,
+        6,
+        413.8113999999997,
+        549.8002
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "363",
+      "dir": "ltr",
+      "width": 15.39,
+      "height": 9.5,
+      "transform": [
+        9.5,
+        0,
+        0,
+        9.5,
+        416.4934,
+        549.8002
+      ],
+      "fontName": "g_d0_f5",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.3876,
+        537.8002
+      ],
+      "fontName": "g_d0_f6",
+      "hasEOL": true
+    },
+    {
+      "str": "Bernard L. McNamee",
+      "dir": "ltr",
+      "width": 94.28399999999998,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.3876,
+        537.8002
+      ],
+      "fontName": "g_d0_f6",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9.5,
+        0,
+        0,
+        9.5,
+        71.1708,
+        520.8002
+      ],
+      "fontName": "g_d0_f5",
+      "hasEOL": true
+    },
+    {
+      "str": "13.",
+      "dir": "ltr",
+      "width": 12.825000000000001,
+      "height": 9.5,
+      "transform": [
+        9.5,
+        0,
+        0,
+        9.5,
+        71.1708,
+        520.8002
+      ],
+      "fontName": "g_d0_f5",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.7398736842105282,
+      "height": 0,
+      "transform": [
+        9.5,
+        0,
+        0,
+        9.5,
+        83.99579999999999,
+        520.8002
+      ],
+      "fontName": "g_d0_f5",
+      "hasEOL": false
+    },
+    {
+      "str": "ENVIRONMENTAL PROTECTION AGENCY",
+      "dir": "ltr",
+      "width": 210.138,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        91.0246,
+        520.8002
+      ],
+      "fontName": "g_d0_f3",
+      "hasEOL": false
+    },
+    {
+      "str": ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+      "dir": "ltr",
+      "width": 114.76799999999893,
+      "height": 6,
+      "transform": [
+        6,
+        0,
+        0,
+        6,
+        301.1865,
+        520.8002
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.20080000000002465,
+      "height": 0,
+      "transform": [
+        6,
+        0,
+        0,
+        6,
+        415.9544999999998,
+        520.8002
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "417",
+      "dir": "ltr",
+      "width": 15.39,
+      "height": 9.5,
+      "transform": [
+        9.5,
+        0,
+        0,
+        9.5,
+        417.1593,
+        520.8002
+      ],
+      "fontName": "g_d0_f5",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.3876,
+        508.8001
+      ],
+      "fontName": "g_d0_f6",
+      "hasEOL": true
+    },
+    {
+      "str": "Mandy M. Gunasekara",
+      "dir": "ltr",
+      "width": 98.36009999999999,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.3876,
+        508.8001
+      ],
+      "fontName": "g_d0_f6",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9.5,
+        0,
+        0,
+        9.5,
+        71.3784,
+        491.8001
+      ],
+      "fontName": "g_d0_f5",
+      "hasEOL": true
+    },
+    {
+      "str": "14.",
+      "dir": "ltr",
+      "width": 12.825000000000001,
+      "height": 9.5,
+      "transform": [
+        9.5,
+        0,
+        0,
+        9.5,
+        71.3784,
+        491.8001
+      ],
+      "fontName": "g_d0_f5",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.7180210526315809,
+      "height": 0,
+      "transform": [
+        9.5,
+        0,
+        0,
+        9.5,
+        84.20339999999999,
+        491.8001
+      ],
+      "fontName": "g_d0_f5",
+      "hasEOL": false
+    },
+    {
+      "str": "DEPARTMENT OF HEALTH",
+      "dir": "ltr",
+      "width": 134.179,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        91.0246,
+        491.8001
+      ],
+      "fontName": "g_d0_f3",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        89.0508,
+        479.8001
+      ],
+      "fontName": "g_d0_f3",
+      "hasEOL": true
+    },
+    {
+      "str": "AND HUMAN SERVICES",
+      "dir": "ltr",
+      "width": 120.34900000000002,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        89.0508,
+        479.8001
+      ],
+      "fontName": "g_d0_f3",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.18240000000000123,
+      "height": 0,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        209.3998,
+        479.8001
+      ],
+      "fontName": "g_d0_f3",
+      "hasEOL": false
+    },
+    {
+      "str": ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+      "dir": "ltr",
+      "width": 202.58999999999855,
+      "height": 6,
+      "transform": [
+        6,
+        0,
+        0,
+        6,
+        211.2238,
+        479.8001
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.47573333333339934,
+      "height": 0,
+      "transform": [
+        6,
+        0,
+        0,
+        6,
+        413.8137999999996,
+        479.8001
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "449",
+      "dir": "ltr",
+      "width": 15.39,
+      "height": 9.5,
+      "transform": [
+        9.5,
+        0,
+        0,
+        9.5,
+        416.6682,
+        479.8001
+      ],
+      "fontName": "g_d0_f5",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.3876,
+        467.8001
+      ],
+      "fontName": "g_d0_f6",
+      "hasEOL": true
+    },
+    {
+      "str": "Roger Severino",
+      "dir": "ltr",
+      "width": 69.4971,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.3876,
+        467.8001
+      ],
+      "fontName": "g_d0_f6",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9.5,
+        0,
+        0,
+        9.5,
+        71.3784,
+        450.8001
+      ],
+      "fontName": "g_d0_f5",
+      "hasEOL": true
+    },
+    {
+      "str": "15.",
+      "dir": "ltr",
+      "width": 12.825000000000001,
+      "height": 9.5,
+      "transform": [
+        9.5,
+        0,
+        0,
+        9.5,
+        71.3784,
+        450.8001
+      ],
+      "fontName": "g_d0_f5",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.7180210526315809,
+      "height": 0,
+      "transform": [
+        9.5,
+        0,
+        0,
+        9.5,
+        84.20339999999999,
+        450.8001
+      ],
+      "fontName": "g_d0_f5",
+      "hasEOL": false
+    },
+    {
+      "str": "DEPARTMENT OF HOUSING",
+      "dir": "ltr",
+      "width": 141.49000000000004,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        91.0246,
+        450.8001
+      ],
+      "fontName": "g_d0_f3",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        89.0508,
+        438.8001
+      ],
+      "fontName": "g_d0_f3",
+      "hasEOL": true
+    },
+    {
+      "str": "AND URBAN DEVELOPMENT",
+      "dir": "ltr",
+      "width": 146.619,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        89.0508,
+        438.8001
+      ],
+      "fontName": "g_d0_f3",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.12597999999999843,
+      "height": 0,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        235.6698,
+        438.8001
+      ],
+      "fontName": "g_d0_f3",
+      "hasEOL": false
+    },
+    {
+      "str": ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+      "dir": "ltr",
+      "width": 176.88599999999843,
+      "height": 6,
+      "transform": [
+        6,
+        0,
+        0,
+        6,
+        236.9296,
+        438.8001
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.44630000000005526,
+      "height": 0,
+      "transform": [
+        6,
+        0,
+        0,
+        6,
+        413.8155999999997,
+        438.8001
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "503",
+      "dir": "ltr",
+      "width": 15.39,
+      "height": 9.5,
+      "transform": [
+        9.5,
+        0,
+        0,
+        9.5,
+        416.4934,
+        438.8001
+      ],
+      "fontName": "g_d0_f5",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.3876,
+        426.8001
+      ],
+      "fontName": "g_d0_f6",
+      "hasEOL": true
+    },
+    {
+      "str": "Benjamin S. Carson, Sr., MD",
+      "dir": "ltr",
+      "width": 123.47909999999997,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.3876,
+        426.8001
+      ],
+      "fontName": "g_d0_f6",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9.5,
+        0,
+        0,
+        9.5,
+        71.1708,
+        409.8001
+      ],
+      "fontName": "g_d0_f5",
+      "hasEOL": true
+    },
+    {
+      "str": "16.",
+      "dir": "ltr",
+      "width": 12.825000000000001,
+      "height": 9.5,
+      "transform": [
+        9.5,
+        0,
+        0,
+        9.5,
+        71.1708,
+        409.8001
+      ],
+      "fontName": "g_d0_f5",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.7398736842105282,
+      "height": 0,
+      "transform": [
+        9.5,
+        0,
+        0,
+        9.5,
+        83.99579999999999,
+        409.8001
+      ],
+      "fontName": "g_d0_f5",
+      "hasEOL": false
+    },
+    {
+      "str": "DEPARTMENT OF THE INTERIOR",
+      "dir": "ltr",
+      "width": 166.25,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        91.0246,
+        409.8001
+      ],
+      "fontName": "g_d0_f3",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.10722000000000662,
+      "height": 0,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        257.27459999999996,
+        409.8001
+      ],
+      "fontName": "g_d0_f3",
+      "hasEOL": false
+    },
+    {
+      "str": ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+      "dir": "ltr",
+      "width": 157.6079999999984,
+      "height": 6,
+      "transform": [
+        6,
+        0,
+        0,
+        6,
+        258.34680000000003,
+        409.8001
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.2007500000000372,
+      "height": 0,
+      "transform": [
+        6,
+        0,
+        0,
+        6,
+        415.95479999999975,
+        409.8001
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "517",
+      "dir": "ltr",
+      "width": 15.39,
+      "height": 9.5,
+      "transform": [
+        9.5,
+        0,
+        0,
+        9.5,
+        417.1593,
+        409.8001
+      ],
+      "fontName": "g_d0_f5",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.8908,
+        397.8001
+      ],
+      "fontName": "g_d0_f6",
+      "hasEOL": true
+    },
+    {
+      "str": "William Perry Pendley",
+      "dir": "ltr",
+      "width": 99.8001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.8908,
+        397.8001
+      ],
+      "fontName": "g_d0_f6",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9.5,
+        0,
+        0,
+        9.5,
+        71.1708,
+        380.8001
+      ],
+      "fontName": "g_d0_f5",
+      "hasEOL": true
+    },
+    {
+      "str": "17.",
+      "dir": "ltr",
+      "width": 12.825000000000001,
+      "height": 9.5,
+      "transform": [
+        9.5,
+        0,
+        0,
+        9.5,
+        71.1708,
+        380.8001
+      ],
+      "fontName": "g_d0_f5",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.7398736842105282,
+      "height": 0,
+      "transform": [
+        9.5,
+        0,
+        0,
+        9.5,
+        83.99579999999999,
+        380.8001
+      ],
+      "fontName": "g_d0_f5",
+      "hasEOL": false
+    },
+    {
+      "str": "DEPARTMENT OF JUSTICE",
+      "dir": "ltr",
+      "width": 135.59900000000005,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        91.0246,
+        380.8001
+      ],
+      "fontName": "g_d0_f3",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.17336999999999989,
+      "height": 0,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        226.6236,
+        380.8001
+      ],
+      "fontName": "g_d0_f3",
+      "hasEOL": false
+    },
+    {
+      "str": ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+      "dir": "ltr",
+      "width": 185.45399999999847,
+      "height": 6,
+      "transform": [
+        6,
+        0,
+        0,
+        6,
+        228.3573,
+        380.8001
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.4720333333333902,
+      "height": 0,
+      "transform": [
+        6,
+        0,
+        0,
+        6,
+        413.8112999999997,
+        380.8001
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "545",
+      "dir": "ltr",
+      "width": 15.39,
+      "height": 9.5,
+      "transform": [
+        9.5,
+        0,
+        0,
+        9.5,
+        416.6435,
+        380.8001
+      ],
+      "fontName": "g_d0_f5",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.976,
+        368.8001
+      ],
+      "fontName": "g_d0_f6",
+      "hasEOL": true
+    },
+    {
+      "str": "Gene Hamilton",
+      "dir": "ltr",
+      "width": 67.0761,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.976,
+        368.8001
+      ],
+      "fontName": "g_d0_f6",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9.5,
+        0,
+        0,
+        9.5,
+        71.3784,
+        351.8001
+      ],
+      "fontName": "g_d0_f5",
+      "hasEOL": true
+    },
+    {
+      "str": "18.",
+      "dir": "ltr",
+      "width": 12.825000000000001,
+      "height": 9.5,
+      "transform": [
+        9.5,
+        0,
+        0,
+        9.5,
+        71.3784,
+        351.8001
+      ],
+      "fontName": "g_d0_f5",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.7180210526315809,
+      "height": 0,
+      "transform": [
+        9.5,
+        0,
+        0,
+        9.5,
+        84.20339999999999,
+        351.8001
+      ],
+      "fontName": "g_d0_f5",
+      "hasEOL": false
+    },
+    {
+      "str": "DEPARTMENT OF LABOR",
+      "dir": "ltr",
+      "width": 129.709,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        91.0246,
+        351.8001
+      ],
+      "fontName": "g_d0_f3",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        89.0508,
+        339.8001
+      ],
+      "fontName": "g_d0_f3",
+      "hasEOL": true
+    },
+    {
+      "str": "AND RELATED AGENCIES",
+      "dir": "ltr",
+      "width": 131.02900000000002,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        89.0508,
+        339.8001
+      ],
+      "fontName": "g_d0_f3",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.185390000000001,
+      "height": 0,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        220.0798,
+        339.8001
+      ],
+      "fontName": "g_d0_f3",
+      "hasEOL": false
+    },
+    {
+      "str": ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+      "dir": "ltr",
+      "width": 194.02199999999846,
+      "height": 6,
+      "transform": [
+        6,
+        0,
+        0,
+        6,
+        221.93370000000002,
+        339.8001
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1618166666667283,
+      "height": 0,
+      "transform": [
+        6,
+        0,
+        0,
+        6,
+        415.95569999999964,
+        339.8001
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "581",
+      "dir": "ltr",
+      "width": 15.39,
+      "height": 9.5,
+      "transform": [
+        9.5,
+        0,
+        0,
+        9.5,
+        416.9266,
+        339.8001
+      ],
+      "fontName": "g_d0_f5",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.0892,
+        327.8001
+      ],
+      "fontName": "g_d0_f6",
+      "hasEOL": true
+    },
+    {
+      "str": "Jonathan Berry",
+      "dir": "ltr",
+      "width": 69.345,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.0892,
+        327.8001
+      ],
+      "fontName": "g_d0_f6",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9.5,
+        0,
+        0,
+        9.5,
+        71.1708,
+        310.8001
+      ],
+      "fontName": "g_d0_f5",
+      "hasEOL": true
+    },
+    {
+      "str": "19.",
+      "dir": "ltr",
+      "width": 12.825000000000001,
+      "height": 9.5,
+      "transform": [
+        9.5,
+        0,
+        0,
+        9.5,
+        71.1708,
+        310.8001
+      ],
+      "fontName": "g_d0_f5",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.7398736842105282,
+      "height": 0,
+      "transform": [
+        9.5,
+        0,
+        0,
+        9.5,
+        83.99579999999999,
+        310.8001
+      ],
+      "fontName": "g_d0_f5",
+      "hasEOL": false
+    },
+    {
+      "str": "DEPARTMENT OF TRANSPORTATION",
+      "dir": "ltr",
+      "width": 189.269,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        91.0246,
+        310.8001
+      ],
+      "fontName": "g_d0_f3",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.16131999999999494,
+      "height": 0,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        280.2936,
+        310.8001
+      ],
+      "fontName": "g_d0_f3",
+      "hasEOL": false
+    },
+    {
+      "str": ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+      "dir": "ltr",
+      "width": 131.90399999999875,
+      "height": 6,
+      "transform": [
+        6,
+        0,
+        0,
+        6,
+        281.9068,
+        310.8001
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.4762333333333781,
+      "height": 0,
+      "transform": [
+        6,
+        0,
+        0,
+        6,
+        413.81079999999974,
+        310.8001
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "619",
+      "dir": "ltr",
+      "width": 15.39,
+      "height": 9.5,
+      "transform": [
+        9.5,
+        0,
+        0,
+        9.5,
+        416.6682,
+        310.8001
+      ],
+      "fontName": "g_d0_f5",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.3876,
+        298.8001
+      ],
+      "fontName": "g_d0_f6",
+      "hasEOL": true
+    },
+    {
+      "str": "Diana Furchtgott-Roth",
+      "dir": "ltr",
+      "width": 102.4101,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.3876,
+        298.8001
+      ],
+      "fontName": "g_d0_f6",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9.5,
+        0,
+        0,
+        9.5,
+        71.7396,
+        281.8001
+      ],
+      "fontName": "g_d0_f5",
+      "hasEOL": true
+    },
+    {
+      "str": "20.",
+      "dir": "ltr",
+      "width": 12.825000000000001,
+      "height": 9.5,
+      "transform": [
+        9.5,
+        0,
+        0,
+        9.5,
+        71.7396,
+        281.8001
+      ],
+      "fontName": "g_d0_f5",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.6800000000000024,
+      "height": 0,
+      "transform": [
+        9.5,
+        0,
+        0,
+        9.5,
+        84.56459999999998,
+        281.8001
+      ],
+      "fontName": "g_d0_f5",
+      "hasEOL": false
+    },
+    {
+      "str": "DEPARTMENT OF VETERANS AFFAIRS",
+      "dir": "ltr",
+      "width": 197.10899999999995,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        91.0246,
+        281.8001
+      ],
+      "fontName": "g_d0_f3",
+      "hasEOL": false
+    },
+    {
+      "str": ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+      "dir": "ltr",
+      "width": 127.61999999999878,
+      "height": 6,
+      "transform": [
+        6,
+        0,
+        0,
+        6,
+        288.3309,
+        281.8001
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1626166666667075,
+      "height": 0,
+      "transform": [
+        6,
+        0,
+        0,
+        6,
+        415.95089999999976,
+        281.8001
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "641",
+      "dir": "ltr",
+      "width": 15.39,
+      "height": 9.5,
+      "transform": [
+        9.5,
+        0,
+        0,
+        9.5,
+        416.9266,
+        281.8001
+      ],
+      "fontName": "g_d0_f5",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.3876,
+        269.8001
+      ],
+      "fontName": "g_d0_f6",
+      "hasEOL": true
+    },
+    {
+      "str": "Brooks D. Tucker",
+      "dir": "ltr",
+      "width": 76.22009999999995,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.3876,
+        269.8001
+      ],
+      "fontName": "g_d0_f6",
+      "hasEOL": false
+    }
+  ],
+  "styles": {
+    "g_d0_f7": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.017,
+      "descent": -0.297,
+      "vertical": false
+    },
+    "g_d0_f4": {
+      "fontFamily": "sans-serif",
+      "ascent": 0.964,
+      "descent": -0.213,
+      "vertical": false
+    },
+    "g_d0_f5": {
+      "fontFamily": "serif",
+      "ascent": 1.089,
+      "descent": -0.312,
+      "vertical": false
+    },
+    "g_d0_f3": {
+      "fontFamily": "sans-serif",
+      "ascent": 0.994,
+      "descent": -0.244,
+      "vertical": false
+    },
+    "g_d0_f6": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    }
+  },
+  "lang": "en-US"
+}

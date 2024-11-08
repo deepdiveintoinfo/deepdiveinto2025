@@ -13,23 +13,28 @@ const program = new Command();
 
 const alanyzeCommand = async (source) => {
   const pdfPath = join(__projectroot, 'src', 'assets', source)
-  const pageNumber = 34
-  const pagePath = join(__projectroot, 'src', 'lib', 'data', `page${pageNumber}`)
+  // const pageNumber = 34
+  const pageNumbers = [6, 7, 8]
   const loadingTask = getDocument(pdfPath);
   const pdf = await loadingTask.promise;
-  const page = await pdf.getPage(pageNumber);
+
   console.log('PDF loaded');
-  // console.log({page})
-  const tree = await page.getStructTree();
-  const textContent = await page.getTextContent();
-  // p33R_mc254
-  [
-    [`struct.json`, JSON.stringify(tree, null, 2)], 
-    [`textContent.mdx`, textContent.items.map(i => i.str).join('\n')]
-  ].forEach(async ([fileName, content]) => {
-    await fs.ensureFile(join(pagePath, fileName))
-    fs.writeFileSync(join(pagePath, fileName), content)
-  })
+  for (const pageNumber of pageNumbers) {
+
+    const page = await pdf.getPage(pageNumber);
+    const tree = await page.getStructTree()
+    const textContent = await page.getTextContent()
+    const annotations = await page.getAnnotations()
+    const pagePath = join(__projectroot, 'src', 'lib', 'data', `page${pageNumber}`)
+    ;[
+      [`annotations.json`, JSON.stringify(annotations, null, 2)],
+      [`struct.json`, JSON.stringify(tree, null, 2)], 
+      [`textContent.json`, JSON.stringify(textContent, null, 2)]
+    ].forEach(async ([fileName, content]) => {
+      await fs.ensureFile(join(pagePath, fileName))
+      fs.writeFileSync(join(pagePath, fileName), content)
+    })
+  }
 }
 
 
