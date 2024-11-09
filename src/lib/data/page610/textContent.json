@@ -1,0 +1,4495 @@
+{
+  "items": [
+    {
+      "str": "— 577 —",
+      "dir": "ltr",
+      "width": 42.06999999999998,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        230.6174,
+        32.0001
+      ],
+      "fontName": "g_d0_f3",
+      "hasEOL": false
+    },
+    {
+      "str": "Department of Justice",
+      "dir": "ltr",
+      "width": 100.91610000000003,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        201.5258,
+        664.4
+      ],
+      "fontName": "g_d0_f64",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.2364,
+        634.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "54.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.2364,
+        634.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8489888888888891,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        82.3614,
+        634.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "U.S. Department of Justice, “About DOJ: Our Mission,”",
+      "dir": "ltr",
+      "width": 161.36009999999993,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0023,
+        634.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.17708888888888433,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        251.36240000000004,
+        634.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.justice.gov/about",
+      "dir": "ltr",
+      "width": 91.29510000000033,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        252.9562,
+        634.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1758999999999623,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        344.2513000000003,
+        634.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed February 4, 2023).",
+      "dir": "ltr",
+      "width": 87.10200000000027,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        345.83439999999996,
+        634.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.2364,
+        623.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "55.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.2364,
+        623.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8489888888888891,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        82.3614,
+        623.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "18 U.S. Code § 248,",
+      "dir": "ltr",
+      "width": 58.52609999999999,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0023,
+        623.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19974444444444353,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        148.5284,
+        623.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.law.cornell.edu/uscode/text/18/248",
+      "dir": "ltr",
+      "width": 150.11820000000003,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        150.3261,
+        623.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19993333333331342,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        300.44430000000017,
+        623.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed February 4, 2023).",
+      "dir": "ltr",
+      "width": 89.64090000000014,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        302.2437,
+        623.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.2364,
+        612.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "56.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.2364,
+        612.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8489888888888891,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        82.3614,
+        612.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Danielle Wallace and Jake Gibson, “Pro-life Activist Mark Houck Pleads Not Guilty to Federal Charges After FBI",
+      "dir": "ltr",
+      "width": 341.4941999999999,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0023,
+        612.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.7588,
+        601.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "Arrest,” Fox News, September 27, 2022,",
+      "dir": "ltr",
+      "width": 122.3172000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.7588,
+        601.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1999999999999918,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        212.07600000000008,
+        601.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.foxnews.com/us/pro-life-activist-mark-houck-pleads-",
+      "dir": "ltr",
+      "width": 207.15030000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        213.876,
+        601.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4788,
+        590.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "not-guilty-federal-charges-fbi-arrest",
+      "dir": "ltr",
+      "width": 113.74830000000003,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4788,
+        590.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19998888888887714,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        204.22710000000012,
+        590.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed February 4, 2023).",
+      "dir": "ltr",
+      "width": 89.63910000000014,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        206.02700000000002,
+        590.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.2364,
+        579.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "57.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.2364,
+        579.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8489888888888891,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        82.3614,
+        579.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Patty Knap, “Paul Vaughn, Pro-life Father of 11 Arrested by FBI Speaks Out,”",
+      "dir": "ltr",
+      "width": 234.00450000000018,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0023,
+        579.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19971111111107753,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        324.0068000000003,
+        579.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "National Catholic Register",
+      "dir": "ltr",
+      "width": 80.13600000000014,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        325.8042,
+        579.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": ",",
+      "dir": "ltr",
+      "width": 1.6019999999999999,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        405.9388,
+        579.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2004,
+        568.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "October 18, 2022,",
+      "dir": "ltr",
+      "width": 53.70209999999998,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2004,
+        568.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.20000000000000126,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        143.90249999999997,
+        568.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.ncregister.com/news/paul-vaughn-pro-life-father-of-11-arrested-by-fbi-speaks-",
+      "dir": "ltr",
+      "width": 286.50240000000014,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        145.7025,
+        568.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2904,
+        557.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "out",
+      "dir": "ltr",
+      "width": 10.449,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2904,
+        557.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19996666666666682,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        100.73939999999999,
+        557.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed February 4, 2023).",
+      "dir": "ltr",
+      "width": 89.63910000000007,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        102.53909999999999,
+        557.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.2364,
+        546.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "58.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.2364,
+        546.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8489888888888891,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        82.3614,
+        546.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "597 U.S. ___ (2022),",
+      "dir": "ltr",
+      "width": 64.9251,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0023,
+        546.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1997666666666665,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        154.9274,
+        546.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://supreme.justia.com/cases/federal/us/597/19-1392/case.pdf",
+      "dir": "ltr",
+      "width": 204.30540000000005,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        156.7253,
+        546.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.2000111111110717,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        361.03070000000037,
+        546.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed",
+      "dir": "ltr",
+      "width": 30.537000000000038,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        362.8308,
+        546.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        535.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "February 4, 2023).",
+      "dir": "ltr",
+      "width": 57.30209999999998,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        535.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.2364,
+        524.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "59.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.2364,
+        524.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8489888888888891,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        82.3614,
+        524.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Jonah McKeown, “TRACKER: Pro-Abortion Attacks in the U.S. Continue (Updated),” Catholic News Agency,",
+      "dir": "ltr",
+      "width": 329.9445000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0023,
+        524.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.6804,
+        513.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "last updated September 22, 2022,",
+      "dir": "ltr",
+      "width": 105.21720000000005,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.6804,
+        513.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1999888888888803,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        195.89760000000007,
+        513.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.catholicnewsagency.com/news/251553/map-vandalism-",
+      "dir": "ltr",
+      "width": 214.43130000000005,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        197.6975,
+        513.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.3348,
+        502.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "attacks-continue-at-pro-life-centers-across-us",
+      "dir": "ltr",
+      "width": 143.70030000000014,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.3348,
+        502.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.20001111111109063,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        234.0351000000002,
+        502.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed February 4, 2023).",
+      "dir": "ltr",
+      "width": 89.63910000000014,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        235.83520000000001,
+        502.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.1644,
+        491.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "60.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.1644,
+        491.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8569888888888878,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        82.2894,
+        491.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "28 U.S. Code § 516,",
+      "dir": "ltr",
+      "width": 58.57110000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.00229999999999,
+        491.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1997333333333352,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        148.5734,
+        491.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.law.cornell.edu/uscode/text/28/516",
+      "dir": "ltr",
+      "width": 150.06420000000008,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        150.371,
+        491.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19993333333331342,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        300.4352000000002,
+        491.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed February 4, 2023).",
+      "dir": "ltr",
+      "width": 89.63910000000014,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        302.2346,
+        491.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.1644,
+        480.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "61.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.1644,
+        480.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8569888888888878,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        82.2894,
+        480.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "28 U.S. Code § 519,",
+      "dir": "ltr",
+      "width": 58.481100000000005,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.00229999999999,
+        480.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1997333333333352,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        148.4834,
+        480.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.law.cornell.edu/uscode/text/28/519",
+      "dir": "ltr",
+      "width": 150.06420000000008,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        150.281,
+        480.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19994444444442175,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        300.3452000000002,
+        480.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed February 4, 2023).",
+      "dir": "ltr",
+      "width": 89.64090000000014,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        302.1447,
+        480.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.1644,
+        469.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "62.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.1644,
+        469.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8569888888888878,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        82.2894,
+        469.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "295 U.S. 602 (1935),",
+      "dir": "ltr",
+      "width": 61.9461,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.00229999999999,
+        469.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1997333333333352,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        151.9484,
+        469.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://supreme.justia.com/cases/federal/us/295/602/",
+      "dir": "ltr",
+      "width": 169.48530000000014,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        153.746,
+        469.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1999666666666321,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        323.2313000000003,
+        469.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed February 6, 2023).",
+      "dir": "ltr",
+      "width": 89.66790000000013,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        325.031,
+        469.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.1644,
+        458.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "63.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.1644,
+        458.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8569888888888878,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        82.2894,
+        458.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "591 U.S. ___",
+      "dir": "ltr",
+      "width": 39.212999999999994,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.00229999999999,
+        458.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1996888888888893,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        129.21529999999998,
+        458.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(2020),",
+      "dir": "ltr",
+      "width": 23.345999999999997,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        131.0125,
+        458.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19996666666666682,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        154.3585,
+        458.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.supremecourt.gov/opinions/19pdf/19-7_new_0pm1.pdf",
+      "dir": "ltr",
+      "width": 212.58540000000005,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        156.1582,
+        458.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1999222222221988,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        368.74360000000024,
+        458.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed",
+      "dir": "ltr",
+      "width": 30.537000000000038,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        370.54290000000003,
+        458.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        447.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "February 6, 2023).",
+      "dir": "ltr",
+      "width": 57.32909999999998,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        447.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.1644,
+        436.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "64.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.1644,
+        436.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8569888888888878,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        82.2894,
+        436.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "See Brief for the United States,",
+      "dir": "ltr",
+      "width": 95.71410000000009,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.00229999999999,
+        436.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19958888888887336,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        185.71640000000014,
+        436.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "303 Creative v. Aubrey Elenis",
+      "dir": "ltr",
+      "width": 89.68410000000004,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        187.5127,
+        436.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": ", No. 21-476, August 2022,",
+      "dir": "ltr",
+      "width": 80.8011000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        277.1959,
+        436.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19995555555556166,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        357.99699999999996,
+        436.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.",
+      "dir": "ltr",
+      "width": 40.31999999999997,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        359.7966,
+        436.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4176,
+        425.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "supremecourt.gov/DocketPDF/21/21-476/234119/20220819182151542_21-476%20303%20Creative%20LLC%20",
+      "dir": "ltr",
+      "width": 339.8463000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4176,
+        425.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.228,
+        414.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "v.%20Elenis%20FINAL.pdf",
+      "dir": "ltr",
+      "width": 81.747,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.228,
+        414.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19982222222222074,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        171.97500000000002,
+        414.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed February 4, 2023).",
+      "dir": "ltr",
+      "width": 89.63910000000013,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        173.7734,
+        414.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.1644,
+        403.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "65.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.1644,
+        403.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8569888888888878,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        82.2894,
+        403.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Oral Argument Transcript,",
+      "dir": "ltr",
+      "width": 80.25210000000007,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.00229999999999,
+        403.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19965555555554537,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        170.2544000000001,
+        403.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "303 Creative v. Aubrey Elenis",
+      "dir": "ltr",
+      "width": 89.68410000000004,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        172.0513,
+        403.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": ", No. 21-476, December 5, 2022,",
+      "dir": "ltr",
+      "width": 97.73010000000009,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        261.7344,
+        403.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19992222222221775,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        359.46450000000004,
+        403.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://",
+      "dir": "ltr",
+      "width": 22.85999999999998,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        361.2638,
+        403.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.3168,
+        392.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "www.supremecourt.gov/oral_arguments/argument_transcripts/2022/21-476_8n59.pdf",
+      "dir": "ltr",
+      "width": 271.51650000000006,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.3168,
+        392.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19996666666664473,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        361.83330000000024,
+        392.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed",
+      "dir": "ltr",
+      "width": 30.537000000000038,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        363.63300000000004,
+        392.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        381.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "February 4, 2023).",
+      "dir": "ltr",
+      "width": 57.30209999999998,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        381.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.1644,
+        370.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "66.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.1644,
+        370.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8569888888888878,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        82.2894,
+        370.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Brief for the United States,",
+      "dir": "ltr",
+      "width": 82.46520000000005,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.00229999999999,
+        370.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19973333333332258,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        172.4675000000001,
+        370.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Masterpiece Cakeshop Ltd. v. Colorado Civil Rights Commission",
+      "dir": "ltr",
+      "width": 194.60430000000008,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        174.2651,
+        370.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": ", No. 16-111,",
+      "dir": "ltr",
+      "width": 32.876999999999995,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        368.8685,
+        370.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.282,
+        359.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "September 2017, p. 9,",
+      "dir": "ltr",
+      "width": 66.23010000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.282,
+        359.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19995555555556166,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        156.51209999999995,
+        359.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.scotusblog.com/wp-content/uploads/2017/09/16-111-tsac-USA.pdf",
+      "dir": "ltr",
+      "width": 245.57040000000012,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        158.3117,
+        359.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0756,
+        348.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "(accessed February 4, 2023) (quoting",
+      "dir": "ltr",
+      "width": 116.75610000000006,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0756,
+        348.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19987777777776236,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        206.83170000000013,
+        348.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Agency for International Development v. Alliance for Open Society",
+      "dir": "ltr",
+      "width": 205.03620000000024,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        208.6306,
+        348.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.1464,
+        337.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": true
+    },
+    {
+      "str": "International, Inc.",
+      "dir": "ltr",
+      "width": 53.65709999999999,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.1464,
+        337.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": ", 133 S. Ct. 2321, 2327 (2013), quoting in turn",
+      "dir": "ltr",
+      "width": 135.36810000000014,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        143.8033,
+        337.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.199811111111084,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        279.17140000000023,
+        337.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Rumsfeld v. Forum for Academic & Institutional",
+      "dir": "ltr",
+      "width": 146.4480000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        280.9697,
+        337.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2088,
+        326.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": true
+    },
+    {
+      "str": "Rights, Inc.",
+      "dir": "ltr",
+      "width": 33.88409999999999,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2088,
+        326.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": ", 547 U.S. 47, 61 (2006)).",
+      "dir": "ltr",
+      "width": 75.00510000000008,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        124.0931,
+        326.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.1644,
+        315.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "67.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.1644,
+        315.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8569777777777764,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        82.2894,
+        315.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Ibid., p. 10.",
+      "dir": "ltr",
+      "width": 32.39009999999998,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.00219999999999,
+        315.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.1644,
+        304.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "68.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.1644,
+        304.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8569777777777764,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        82.2894,
+        304.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Ibid., pp. 10–11.",
+      "dir": "ltr",
+      "width": 44.792099999999984,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.00219999999999,
+        304.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.1644,
+        293.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "69.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.1644,
+        293.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8567333333333332,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        82.2894,
+        293.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "West Virginia State Board of Education v. Barnette",
+      "dir": "ltr",
+      "width": 156.0312000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90,
+        293.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": ", 319 U.S. 624, 642 (1943),",
+      "dir": "ltr",
+      "width": 78.87510000000009,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        246.0304,
+        293.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19996666666665736,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        324.9055000000001,
+        293.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://tile.loc.gov/storage-",
+      "dir": "ltr",
+      "width": 84.43710000000006,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        326.7052,
+        293.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4176,
+        282.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "services/service/ll/usrep/usrep319/usrep319624/usrep319624.pdf",
+      "dir": "ltr",
+      "width": 201.38939999999997,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4176,
+        282.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.199999999999976,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        291.80700000000024,
+        282.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed February 4, 2023).",
+      "dir": "ltr",
+      "width": 89.63910000000014,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        293.607,
+        282.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.5692,
+        271.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "70.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.5692,
+        271.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.9228666666666672,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.6942,
+        271.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Cohen v. California",
+      "dir": "ltr",
+      "width": 57.428099999999986,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90,
+        271.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": ", 403 U.S. 15, 24 (1971),",
+      "dir": "ltr",
+      "width": 69.03810000000007,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        147.428,
+        271.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19997777777776882,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        216.46610000000007,
+        271.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://constitutionallawreporter.com/wp-content/uploads/2014/07/",
+      "dir": "ltr",
+      "width": 212.55120000000005,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        218.2659,
+        271.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2004,
+        260.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "Cohen-v_-California.pdf",
+      "dir": "ltr",
+      "width": 75.28409999999997,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2004,
+        260.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19989999999999794,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        165.48450000000003,
+        260.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed February 4, 2023).",
+      "dir": "ltr",
+      "width": 89.63910000000013,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        167.2836,
+        260.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.5692,
+        249.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "71.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.5692,
+        249.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.9228666666666672,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.6942,
+        249.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "West Virginia State Board of Education v. Barnette",
+      "dir": "ltr",
+      "width": 156.0312000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90,
+        249.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": ", 319 U.S. 640.",
+      "dir": "ltr",
+      "width": 43.00110000000004,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        246.0304,
+        249.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.5692,
+        238.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "72.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.5692,
+        238.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.9228666666666672,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.6942,
+        238.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "McCullen v. Coakley",
+      "dir": "ltr",
+      "width": 60.5511,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90,
+        238.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": ", 573 U.S. 464, 476 (2014),",
+      "dir": "ltr",
+      "width": 80.11710000000011,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        150.551,
+        238.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19993333333332292,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        230.6681000000001,
+        238.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://supreme.justia.com/cases/federal/us/573/12-1168/",
+      "dir": "ltr",
+      "width": 177.55920000000012,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        232.4675,
+        238.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2904,
+        227.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "case.pdf",
+      "dir": "ltr",
+      "width": 25.875,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2904,
+        227.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19993333333333238,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        116.1654,
+        227.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed February 4, 2023) (quoting",
+      "dir": "ltr",
+      "width": 116.75610000000012,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        117.9648,
+        227.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19987777777776236,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        234.72090000000014,
+        227.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "FCC v. League of Women Voters of California",
+      "dir": "ltr",
+      "width": 138.46320000000006,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        236.5198,
+        227.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": ", 468 U. S. 364,",
+      "dir": "ltr",
+      "width": 46.23300000000003,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        374.9824,
+        227.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.8392,
+        216.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "377 (1984)).",
+      "dir": "ltr",
+      "width": 36.81,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.8392,
+        216.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.5692,
+        205.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "73.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.5692,
+        205.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.9229888888888903,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.6942,
+        205.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "See, for example, 42 U.S. Code § 2000d,",
+      "dir": "ltr",
+      "width": 121.45500000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.00110000000001,
+        205.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1796333333333343,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        211.4561,
+        205.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.law.cornell.edu/uscode/text/42/2000d",
+      "dir": "ltr",
+      "width": 156.4182000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        213.0728,
+        205.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.17992222222216014,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        369.49100000000055,
+        205.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed February",
+      "dir": "ltr",
+      "width": 58.931100000000214,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        371.1103,
+        205.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.6508,
+        194.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "4, 2023); 42 U.S. Code § 2000e,",
+      "dir": "ltr",
+      "width": 95.84099999999995,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.6508,
+        194.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.17983333333334095,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        185.49179999999993,
+        194.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.law.cornell.edu/uscode/text/42/2000e",
+      "dir": "ltr",
+      "width": 156.0402000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        187.1103,
+        194.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.17992222222217277,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        343.1505000000004,
+        194.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed February 4,",
+      "dir": "ltr",
+      "width": 66.1311000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        344.7698,
+        194.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.9172,
+        183.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "2023); 20 U.S. Code § 1681,",
+      "dir": "ltr",
+      "width": 80.96399999999994,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.9172,
+        183.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.17984444444445558,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        170.8811999999999,
+        183.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.law.cornell.edu/uscode/text/20/1681",
+      "dir": "ltr",
+      "width": 148.85010000000008,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        172.4998,
+        183.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.17981111111107062,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        321.34990000000033,
+        183.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed February 4, 2023)",
+      "dir": "ltr",
+      "width": 85.69710000000026,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        322.96819999999997,
+        183.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.5692,
+        172.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "74.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.5692,
+        172.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.9229888888888903,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.6942,
+        172.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "See “Advancing Equity and Racial Justice Through the Federal Government,” The White House,",
+      "dir": "ltr",
+      "width": 293.7636000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.00110000000001,
+        172.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1997444444443709,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        383.7647000000007,
+        172.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.",
+      "dir": "ltr",
+      "width": 40.31999999999997,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        385.5624,
+        172.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.3168,
+        161.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "whitehouse.gov/equity/",
+      "dir": "ltr",
+      "width": 73.94220000000006,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.3168,
+        161.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.2000222222222179,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        164.25900000000004,
+        161.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed February 4, 2023).",
+      "dir": "ltr",
+      "width": 89.63910000000013,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        166.0592,
+        161.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.5692,
+        150.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "75.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.5692,
+        150.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.9229888888888903,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.6942,
+        150.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "18 U.S. Code § 1461,",
+      "dir": "ltr",
+      "width": 59.489100000000015,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.00110000000001,
+        150.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19985555555555834,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        149.4902,
+        150.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.law.cornell.edu/uscode/text/18/1461",
+      "dir": "ltr",
+      "width": 151.1793,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        151.2889,
+        150.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.199999999999976,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        302.46820000000025,
+        150.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed February 6, 2023). See also 18",
+      "dir": "ltr",
+      "width": 125.11800000000014,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        304.26820000000004,
+        150.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4608,
+        139.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "U.S. Code § 1462,",
+      "dir": "ltr",
+      "width": 53.1981,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4608,
+        139.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.20000000000000126,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        143.6589,
+        139.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.law.cornell.edu/uscode/text/18/1462",
+      "dir": "ltr",
+      "width": 152.85330000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        145.4589,
+        139.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.20001111111109063,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        298.3122000000002,
+        139.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed February 6, 2023).",
+      "dir": "ltr",
+      "width": 89.66610000000013,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        300.1123,
+        139.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.5692,
+        128.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "76.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.5692,
+        128.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.9229888888888903,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.6942,
+        128.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "18 U.S. Code § 241,",
+      "dir": "ltr",
+      "width": 56.789100000000005,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.00110000000001,
+        128.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19987777777777815,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        146.7902,
+        128.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.law.cornell.edu/uscode/text/18/241",
+      "dir": "ltr",
+      "width": 148.3812000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        148.5891,
+        128.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19994444444442808,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        296.9703000000002,
+        128.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed February 6, 2023).",
+      "dir": "ltr",
+      "width": 89.66520000000013,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        298.76980000000003,
+        128.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.5692,
+        117.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "77.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.5692,
+        117.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.9229888888888903,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.6942,
+        117.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "A similar argument could be advanced for the department’s other criminal law enforcement responsibilities",
+      "dir": "ltr",
+      "width": 332.8506000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.00110000000001,
+        117.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4176,
+        106.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "such as those within the Environmental and Natural Resources Division.",
+      "dir": "ltr",
+      "width": 221.9535000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4176,
+        106.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.5692,
+        95.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "78.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.5692,
+        95.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.9229888888888903,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.6942,
+        95.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "See, for example,",
+      "dir": "ltr",
+      "width": 53.33309999999999,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.00110000000001,
+        95.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19984444444444371,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        143.3342,
+        95.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Paul Kiel, “Controversial USA Delivered ‘Voter Fraud’ Indictments Right on Time,” TPM",
+      "dir": "ltr",
+      "width": 265.3704000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        145.1328,
+        95.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        84.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "Muckraker, May 1, 2007,",
+      "dir": "ltr",
+      "width": 72.18810000000005,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        84.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1999999999999981,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        162.7281,
+        84.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://web.archive.org/web/20070503021505/http://www.tpmmuckraker.com/",
+      "dir": "ltr",
+      "width": 248.44140000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        164.5281,
+        84.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.3348,
+        73.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "archives/003107.php",
+      "dir": "ltr",
+      "width": 63.9981,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.3348,
+        73.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19998888888888977,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        154.3329,
+        73.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed February 4, 2023).",
+      "dir": "ltr",
+      "width": 89.63910000000013,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        156.1328,
+        73.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    }
+  ],
+  "styles": {
+    "g_d0_f3": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f64": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f17": {
+      "fontFamily": "sans-serif",
+      "ascent": 0.939,
+      "descent": -0.202,
+      "vertical": false
+    },
+    "g_d0_f18": {
+      "fontFamily": "sans-serif",
+      "ascent": 0.939,
+      "descent": -0.202,
+      "vertical": false
+    }
+  },
+  "lang": "en-US"
+}

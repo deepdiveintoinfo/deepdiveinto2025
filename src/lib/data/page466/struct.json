@@ -1,0 +1,501 @@
+{
+  "children": [
+    {
+      "role": "Document",
+      "children": [
+        {
+          "role": "Art",
+          "children": [
+            {
+              "role": "Sect",
+              "children": [
+                {
+                  "role": "L",
+                  "children": [
+                    {
+                      "role": "LI",
+                      "children": [
+                        {
+                          "role": "Lbl",
+                          "children": [
+                            {
+                              "role": "Span",
+                              "children": [
+                                {
+                                  "type": "content",
+                                  "id": "p1222R_mc23196"
+                                }
+                              ]
+                            },
+                            {
+                              "role": "Span",
+                              "children": [
+                                {
+                                  "type": "content",
+                                  "id": "p1222R_mc23195"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "role": "LBody",
+                          "children": [
+                            {
+                              "type": "content",
+                              "id": "p1222R_mc23197"
+                            },
+                            {
+                              "type": "content",
+                              "id": "p1222R_mc23198"
+                            },
+                            {
+                              "type": "content",
+                              "id": "p1222R_mc23199"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "role": "LI",
+                      "children": [
+                        {
+                          "role": "Lbl",
+                          "children": [
+                            {
+                              "role": "Span",
+                              "children": [
+                                {
+                                  "type": "content",
+                                  "id": "p1222R_mc23201"
+                                }
+                              ]
+                            },
+                            {
+                              "role": "Span",
+                              "children": [
+                                {
+                                  "type": "content",
+                                  "id": "p1222R_mc23200"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "role": "LBody",
+                          "children": [
+                            {
+                              "type": "content",
+                              "id": "p1222R_mc23202"
+                            }
+                          ]
+                        },
+                        {
+                          "role": "L",
+                          "children": [
+                            {
+                              "role": "LI",
+                              "children": [
+                                {
+                                  "role": "Lbl",
+                                  "children": [
+                                    {
+                                      "role": "Span",
+                                      "children": [
+                                        {
+                                          "type": "content",
+                                          "id": "p1222R_mc23203"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "role": "LBody",
+                                  "children": [
+                                    {
+                                      "type": "content",
+                                      "id": "p1222R_mc23204"
+                                    },
+                                    {
+                                      "type": "content",
+                                      "id": "p1222R_mc23205"
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "role": "LI",
+                              "children": [
+                                {
+                                  "role": "Lbl",
+                                  "children": [
+                                    {
+                                      "role": "Span",
+                                      "children": [
+                                        {
+                                          "type": "content",
+                                          "id": "p1222R_mc23206"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "role": "LBody",
+                                  "children": [
+                                    {
+                                      "type": "content",
+                                      "id": "p1222R_mc23207"
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "role": "LI",
+                              "children": [
+                                {
+                                  "role": "Lbl",
+                                  "children": [
+                                    {
+                                      "role": "Span",
+                                      "children": [
+                                        {
+                                          "type": "content",
+                                          "id": "p1222R_mc23208"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "role": "LBody",
+                                  "children": [
+                                    {
+                                      "type": "content",
+                                      "id": "p1222R_mc23209"
+                                    },
+                                    {
+                                      "type": "content",
+                                      "id": "p1222R_mc23210"
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "role": "LI",
+                              "children": [
+                                {
+                                  "role": "Lbl",
+                                  "children": [
+                                    {
+                                      "role": "Span",
+                                      "children": [
+                                        {
+                                          "type": "content",
+                                          "id": "p1222R_mc23211"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "role": "LBody",
+                                  "children": [
+                                    {
+                                      "type": "content",
+                                      "id": "p1222R_mc23212"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "role": "P",
+                  "children": [
+                    {
+                      "type": "content",
+                      "id": "p1222R_mc23213"
+                    }
+                  ]
+                },
+                {
+                  "role": "P",
+                  "children": [
+                    {
+                      "type": "content",
+                      "id": "p1222R_mc23214"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p1222R_mc23215"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p1222R_mc23216"
+                    }
+                  ]
+                },
+                {
+                  "role": "P",
+                  "children": [
+                    {
+                      "type": "content",
+                      "id": "p1222R_mc23217"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p1222R_mc23218"
+                    }
+                  ]
+                },
+                {
+                  "role": "P",
+                  "children": [
+                    {
+                      "type": "content",
+                      "id": "p1222R_mc23219"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p1222R_mc23220"
+                    },
+                    {
+                      "role": "Reference",
+                      "children": [
+                        {
+                          "role": "Link",
+                          "children": [
+                            {
+                              "type": "object",
+                              "id": "23420R"
+                            },
+                            {
+                              "role": "Span",
+                              "children": [
+                                {
+                                  "type": "content",
+                                  "id": "p1222R_mc23221"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "content",
+                      "id": "p1222R_mc23222"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p1222R_mc23223"
+                    },
+                    {
+                      "role": "Reference",
+                      "children": [
+                        {
+                          "role": "Link",
+                          "children": [
+                            {
+                              "type": "object",
+                              "id": "23416R"
+                            },
+                            {
+                              "role": "Span",
+                              "children": [
+                                {
+                                  "type": "content",
+                                  "id": "p1222R_mc23224"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "content",
+                      "id": "p1222R_mc23225"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p1222R_mc23226"
+                    },
+                    {
+                      "role": "Reference",
+                      "children": [
+                        {
+                          "role": "Link",
+                          "children": [
+                            {
+                              "type": "object",
+                              "id": "23412R"
+                            },
+                            {
+                              "role": "Span",
+                              "children": [
+                                {
+                                  "type": "content",
+                                  "id": "p1222R_mc23227"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "content",
+                      "id": "p1222R_mc23228"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p1222R_mc23229"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p1222R_mc23230"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p1222R_mc23231"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p1222R_mc23232"
+                    }
+                  ]
+                },
+                {
+                  "role": "P",
+                  "children": [
+                    {
+                      "type": "content",
+                      "id": "p1222R_mc23233"
+                    }
+                  ]
+                },
+                {
+                  "role": "L",
+                  "children": [
+                    {
+                      "role": "LI",
+                      "children": [
+                        {
+                          "role": "Lbl",
+                          "children": [
+                            {
+                              "role": "Span",
+                              "children": [
+                                {
+                                  "type": "content",
+                                  "id": "p1222R_mc23235"
+                                }
+                              ]
+                            },
+                            {
+                              "role": "Span",
+                              "children": [
+                                {
+                                  "type": "content",
+                                  "id": "p1222R_mc23234"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "role": "LBody",
+                          "children": [
+                            {
+                              "type": "content",
+                              "id": "p1222R_mc23236"
+                            },
+                            {
+                              "type": "content",
+                              "id": "p1222R_mc23237"
+                            },
+                            {
+                              "type": "content",
+                              "id": "p1222R_mc23238"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "role": "LI",
+                      "children": [
+                        {
+                          "role": "Lbl",
+                          "children": [
+                            {
+                              "role": "Span",
+                              "children": [
+                                {
+                                  "type": "content",
+                                  "id": "p1222R_mc23240"
+                                }
+                              ]
+                            },
+                            {
+                              "role": "Span",
+                              "children": [
+                                {
+                                  "type": "content",
+                                  "id": "p1222R_mc23239"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "role": "LBody",
+                          "children": [
+                            {
+                              "type": "content",
+                              "id": "p1222R_mc23241"
+                            },
+                            {
+                              "type": "content",
+                              "id": "p1222R_mc23242"
+                            },
+                            {
+                              "type": "content",
+                              "id": "p1222R_mc23243"
+                            },
+                            {
+                              "type": "content",
+                              "id": "p1222R_mc23244"
+                            },
+                            {
+                              "type": "content",
+                              "id": "p1222R_mc23245"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "role": "Root"
+}

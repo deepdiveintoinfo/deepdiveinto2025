@@ -1,0 +1,140 @@
+[
+  {
+    "annotationFlags": 0,
+    "borderStyle": {
+      "width": 0,
+      "rawWidth": 1,
+      "style": 1,
+      "dashArray": [
+        3
+      ],
+      "horizontalCornerRadius": 0,
+      "verticalCornerRadius": 0
+    },
+    "color": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "backgroundColor": null,
+    "borderColor": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "rotation": 0,
+    "contentsObj": {
+      "str": "",
+      "dir": "ltr"
+    },
+    "hasAppearance": false,
+    "id": "5276R",
+    "modificationDate": null,
+    "rect": [
+      107.423,
+      602.09,
+      113.238,
+      610.666
+    ],
+    "subtype": "Link",
+    "hasOwnCanvas": false,
+    "noRotate": false,
+    "noHTML": false,
+    "isEditable": false,
+    "structParent": 5843,
+    "annotationType": 2,
+    "dest": "2025_MandateForLeadership_TEXT.indd:92052"
+  },
+  {
+    "annotationFlags": 0,
+    "borderStyle": {
+      "width": 0,
+      "rawWidth": 1,
+      "style": 1,
+      "dashArray": [
+        3
+      ],
+      "horizontalCornerRadius": 0,
+      "verticalCornerRadius": 0
+    },
+    "color": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "backgroundColor": null,
+    "borderColor": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "rotation": 0,
+    "contentsObj": {
+      "str": "",
+      "dir": "ltr"
+    },
+    "hasAppearance": false,
+    "id": "5272R",
+    "modificationDate": null,
+    "rect": [
+      213.187,
+      574.09,
+      218.782,
+      582.666
+    ],
+    "subtype": "Link",
+    "hasOwnCanvas": false,
+    "noRotate": false,
+    "noHTML": false,
+    "isEditable": false,
+    "structParent": 5844,
+    "annotationType": 2,
+    "dest": "2025_MandateForLeadership_TEXT.indd:92053"
+  },
+  {
+    "annotationFlags": 0,
+    "borderStyle": {
+      "width": 0,
+      "rawWidth": 1,
+      "style": 1,
+      "dashArray": [
+        3
+      ],
+      "horizontalCornerRadius": 0,
+      "verticalCornerRadius": 0
+    },
+    "color": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "backgroundColor": null,
+    "borderColor": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "rotation": 0,
+    "contentsObj": {
+      "str": "",
+      "dir": "ltr"
+    },
+    "hasAppearance": false,
+    "id": "5263R",
+    "modificationDate": null,
+    "rect": [
+      346.834,
+      504.09,
+      352.57,
+      512.666
+    ],
+    "subtype": "Link",
+    "hasOwnCanvas": false,
+    "noRotate": false,
+    "noHTML": false,
+    "isEditable": false,
+    "structParent": 5845,
+    "annotationType": 2,
+    "dest": "2025_MandateForLeadership_TEXT.indd:92054"
+  }
+]

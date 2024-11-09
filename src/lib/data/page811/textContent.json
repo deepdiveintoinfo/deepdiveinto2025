@@ -1,0 +1,1659 @@
+{
+  "items": [
+    {
+      "str": "— 778 —",
+      "dir": "ltr",
+      "width": 42.34,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        230.4824,
+        32.0001
+      ],
+      "fontName": "g_d0_f3",
+      "hasEOL": false
+    },
+    {
+      "str": "Mandate for Leadership: The Conservative Promise",
+      "dir": "ltr",
+      "width": 230.1453,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        136.9111,
+        664.4
+      ],
+      "fontName": "g_d0_f12",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        191.6999,
+        77
+      ],
+      "fontName": "g_d0_f78",
+      "hasEOL": true
+    },
+    {
+      "str": "China\u0010s Acts\u001d Policies\u001d",
+      "dir": "ltr",
+      "width": 85.80510000000002,
+      "height": 9,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        191.6999,
+        77
+      ],
+      "fontName": "g_d0_f78",
+      "hasEOL": true
+    },
+    {
+      "str": "and Practices of",
+      "dir": "ltr",
+      "width": 63.135,
+      "height": 9,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        202.2029,
+        77
+      ],
+      "fontName": "g_d0_f78",
+      "hasEOL": true
+    },
+    {
+      "str": "Economic Aggression",
+      "dir": "ltr",
+      "width": 85.62510000000002,
+      "height": 9,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        212.70589999999999,
+        77
+      ],
+      "fontName": "g_d0_f78",
+      "hasEOL": true
+    },
+    {
+      "str": "Protect",
+      "dir": "ltr",
+      "width": 29.160000000000004,
+      "height": 9,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        170.7029,
+        230.18900000000002
+      ],
+      "fontName": "g_d0_f78",
+      "hasEOL": true
+    },
+    {
+      "str": "China\u0010s Home",
+      "dir": "ltr",
+      "width": 54.27899999999999,
+      "height": 9,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        181.20589999999999,
+        217.63400000000001
+      ],
+      "fontName": "g_d0_f78",
+      "hasEOL": true
+    },
+    {
+      "str": "Market from",
+      "dir": "ltr",
+      "width": 48.194100000000006,
+      "height": 9,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        191.70889999999997,
+        220.67600000000002
+      ],
+      "fontName": "g_d0_f78",
+      "hasEOL": true
+    },
+    {
+      "str": "Competition",
+      "dir": "ltr",
+      "width": 49.68900000000001,
+      "height": 9,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        202.21189999999996,
+        219.929
+      ],
+      "fontName": "g_d0_f78",
+      "hasEOL": true
+    },
+    {
+      "str": "and Imports",
+      "dir": "ltr",
+      "width": 48.023999999999994,
+      "height": 9,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        212.71489999999994,
+        220.757
+      ],
+      "fontName": "g_d0_f78",
+      "hasEOL": true
+    },
+    {
+      "str": "Expand China’s",
+      "dir": "ltr",
+      "width": 60.596100000000035,
+      "height": 9,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        191.71789999999993,
+        287.6
+      ],
+      "fontName": "g_d0_f78",
+      "hasEOL": true
+    },
+    {
+      "str": "Share of Global",
+      "dir": "ltr",
+      "width": 60.73200000000005,
+      "height": 9,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        202.22089999999992,
+        287.528
+      ],
+      "fontName": "g_d0_f78",
+      "hasEOL": true
+    },
+    {
+      "str": "Markets",
+      "dir": "ltr",
+      "width": 31.239000000000008,
+      "height": 9,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        212.7238999999999,
+        302.27000000000004
+      ],
+      "fontName": "g_d0_f78",
+      "hasEOL": true
+    },
+    {
+      "str": "Secure and",
+      "dir": "ltr",
+      "width": 43.874100000000034,
+      "height": 9,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        170.72089999999992,
+        369.086
+      ],
+      "fontName": "g_d0_f78",
+      "hasEOL": true
+    },
+    {
+      "str": "Control",
+      "dir": "ltr",
+      "width": 29.60999999999999,
+      "height": 9,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        181.2238999999999,
+        376.214
+      ],
+      "fontName": "g_d0_f78",
+      "hasEOL": true
+    },
+    {
+      "str": "Core Natural",
+      "dir": "ltr",
+      "width": 49.7781,
+      "height": 9,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        191.7268999999999,
+        366.134
+      ],
+      "fontName": "g_d0_f78",
+      "hasEOL": true
+    },
+    {
+      "str": "Resources",
+      "dir": "ltr",
+      "width": 40.54500000000006,
+      "height": 9,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        202.22989999999987,
+        370.75100000000003
+      ],
+      "fontName": "g_d0_f78",
+      "hasEOL": true
+    },
+    {
+      "str": "Globally",
+      "dir": "ltr",
+      "width": 33.129,
+      "height": 9,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        212.73289999999986,
+        374.45900000000006
+      ],
+      "fontName": "g_d0_f78",
+      "hasEOL": true
+    },
+    {
+      "str": "Dominate",
+      "dir": "ltr",
+      "width": 38.65500000000001,
+      "height": 9,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        181.23289999999986,
+        444.83000000000004
+      ],
+      "fontName": "g_d0_f78",
+      "hasEOL": true
+    },
+    {
+      "str": "Traditional",
+      "dir": "ltr",
+      "width": 42.821999999999974,
+      "height": 9,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        191.73589999999984,
+        442.75100000000003
+      ],
+      "fontName": "g_d0_f78",
+      "hasEOL": true
+    },
+    {
+      "str": "Manufacturing",
+      "dir": "ltr",
+      "width": 57.329999999999984,
+      "height": 9,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        202.23889999999983,
+        435.497
+      ],
+      "fontName": "g_d0_f78",
+      "hasEOL": true
+    },
+    {
+      "str": "Industries",
+      "dir": "ltr",
+      "width": 39.35699999999998,
+      "height": 9,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        212.74189999999982,
+        444.47900000000004
+      ],
+      "fontName": "g_d0_f78",
+      "hasEOL": true
+    },
+    {
+      "str": "Acquire Key",
+      "dir": "ltr",
+      "width": 47.574000000000034,
+      "height": 9,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        170.73889999999983,
+        513.5
+      ],
+      "fontName": "g_d0_f78",
+      "hasEOL": true
+    },
+    {
+      "str": "Technologies",
+      "dir": "ltr",
+      "width": 52.443000000000055,
+      "height": 9,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        181.24189999999982,
+        511.07
+      ],
+      "fontName": "g_d0_f78",
+      "hasEOL": true
+    },
+    {
+      "str": "and IP from",
+      "dir": "ltr",
+      "width": 45.692999999999934,
+      "height": 9,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        191.7448999999998,
+        514.4449999999999
+      ],
+      "fontName": "g_d0_f78",
+      "hasEOL": true
+    },
+    {
+      "str": "Other Countries",
+      "dir": "ltr",
+      "width": 63.0351,
+      "height": 9,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        202.2478999999998,
+        505.77799999999996
+      ],
+      "fontName": "g_d0_f78",
+      "hasEOL": true
+    },
+    {
+      "str": "and the U\u001aS\u001a",
+      "dir": "ltr",
+      "width": 47.40299999999997,
+      "height": 9,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        212.75089999999977,
+        513.5899999999999
+      ],
+      "fontName": "g_d0_f78",
+      "hasEOL": true
+    },
+    {
+      "str": "Capture",
+      "dir": "ltr",
+      "width": 31.66200000000001,
+      "height": 9,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        128.75389999999976,
+        594.5899999999999
+      ],
+      "fontName": "g_d0_f78",
+      "hasEOL": true
+    },
+    {
+      "str": "Emerging",
+      "dir": "ltr",
+      "width": 38.51999999999997,
+      "height": 9,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        139.25689999999975,
+        591.161
+      ],
+      "fontName": "g_d0_f78",
+      "hasEOL": true
+    },
+    {
+      "str": "High-Tech",
+      "dir": "ltr",
+      "width": 39.64500000000006,
+      "height": 9,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        149.75989999999973,
+        590.603
+      ],
+      "fontName": "g_d0_f78",
+      "hasEOL": true
+    },
+    {
+      "str": "Industries that",
+      "dir": "ltr",
+      "width": 57.45509999999999,
+      "height": 9,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        160.26289999999972,
+        581.702
+      ],
+      "fontName": "g_d0_f78",
+      "hasEOL": true
+    },
+    {
+      "str": "Drive Future",
+      "dir": "ltr",
+      "width": 49.07609999999992,
+      "height": 9,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        170.7658999999997,
+        585.887
+      ],
+      "fontName": "g_d0_f78",
+      "hasEOL": true
+    },
+    {
+      "str": "Growth and",
+      "dir": "ltr",
+      "width": 46.125,
+      "height": 9,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        181.2688999999997,
+        587.3629999999999
+      ],
+      "fontName": "g_d0_f78",
+      "hasEOL": true
+    },
+    {
+      "str": "Advancements",
+      "dir": "ltr",
+      "width": 58.78800000000001,
+      "height": 9,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        191.77189999999968,
+        581.036
+      ],
+      "fontName": "g_d0_f78",
+      "hasEOL": true
+    },
+    {
+      "str": "in Defense",
+      "dir": "ltr",
+      "width": 41.606999999999935,
+      "height": 9,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        202.27489999999966,
+        589.622
+      ],
+      "fontName": "g_d0_f78",
+      "hasEOL": true
+    },
+    {
+      "str": "Industry",
+      "dir": "ltr",
+      "width": 32.957999999999984,
+      "height": 9,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        212.77789999999965,
+        593.942
+      ],
+      "fontName": "g_d0_f78",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        231.17389999999966,
+        76.99099999999999
+      ],
+      "fontName": "g_d0_f79",
+      "hasEOL": true
+    },
+    {
+      "str": "Lax and Inconsistent Labor Laws",
+      "dir": "ltr",
+      "width": 125.08020000000002,
+      "height": 9,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        231.17389999999966,
+        76.99099999999999
+      ],
+      "fontName": "g_d0_f79",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 4.328200000000003,
+      "height": 0,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        231.17389999999966,
+        202.07119999999995
+      ],
+      "fontName": "g_d0_f79",
+      "hasEOL": false
+    },
+    {
+      "str": "%",
+      "dir": "ltr",
+      "width": 7.470000000000001,
+      "height": 9,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        230.94889999999967,
+        241.02499999999998
+      ],
+      "fontName": "g_d0_f93",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 7.296000000000002,
+      "height": 0,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        230.94889999999967,
+        248.49499999999998
+      ],
+      "fontName": "g_d0_f93",
+      "hasEOL": false
+    },
+    {
+      "str": "%",
+      "dir": "ltr",
+      "width": 7.470000000000001,
+      "height": 9,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        230.94889999999967,
+        314.159
+      ],
+      "fontName": "g_d0_f93",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 15.422,
+      "height": 0,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        230.94889999999967,
+        321.629
+      ],
+      "fontName": "g_d0_f93",
+      "hasEOL": false
+    },
+    {
+      "str": "%",
+      "dir": "ltr",
+      "width": 7.470000000000001,
+      "height": 9,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        230.94889999999967,
+        460.427
+      ],
+      "fontName": "g_d0_f93",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        248.77789999999968,
+        76.99100000000004
+      ],
+      "fontName": "g_d0_f79",
+      "hasEOL": true
+    },
+    {
+      "str": "Monopsony Purchasing Power",
+      "dir": "ltr",
+      "width": 115.96410000000002,
+      "height": 9,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        248.77789999999968,
+        76.99100000000004
+      ],
+      "fontName": "g_d0_f79",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 37.8441,
+      "height": 0,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        248.77789999999968,
+        192.95510000000004
+      ],
+      "fontName": "g_d0_f79",
+      "hasEOL": false
+    },
+    {
+      "str": "%",
+      "dir": "ltr",
+      "width": 7.470000000000001,
+      "height": 9,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        248.55289999999968,
+        533.552
+      ],
+      "fontName": "g_d0_f93",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 7.2959999999999985,
+      "height": 0,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        248.55289999999968,
+        541.022
+      ],
+      "fontName": "g_d0_f93",
+      "hasEOL": false
+    },
+    {
+      "str": "%",
+      "dir": "ltr",
+      "width": 7.470000000000001,
+      "height": 9,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        248.55289999999968,
+        606.686
+      ],
+      "fontName": "g_d0_f93",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        266.3818999999997,
+        76.9910000000001
+      ],
+      "fontName": "g_d0_f79",
+      "hasEOL": true
+    },
+    {
+      "str": "Move the Regulatory Goalposts",
+      "dir": "ltr",
+      "width": 120.31920000000002,
+      "height": 9,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        266.3818999999997,
+        76.9910000000001
+      ],
+      "fontName": "g_d0_f79",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 4.8571999999999935,
+      "height": 0,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        266.3818999999997,
+        197.31020000000015
+      ],
+      "fontName": "g_d0_f79",
+      "hasEOL": false
+    },
+    {
+      "str": "%",
+      "dir": "ltr",
+      "width": 7.470000000000001,
+      "height": 9,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        266.15689999999967,
+        241.0250000000001
+      ],
+      "fontName": "g_d0_f93",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 31.674000000000003,
+      "height": 0,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        266.15689999999967,
+        248.4950000000001
+      ],
+      "fontName": "g_d0_f93",
+      "hasEOL": false
+    },
+    {
+      "str": "%",
+      "dir": "ltr",
+      "width": 7.470000000000001,
+      "height": 9,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        266.15689999999967,
+        533.5610000000001
+      ],
+      "fontName": "g_d0_f93",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 7.2959999999999985,
+      "height": 0,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        266.15689999999967,
+        541.0310000000002
+      ],
+      "fontName": "g_d0_f93",
+      "hasEOL": false
+    },
+    {
+      "str": "%",
+      "dir": "ltr",
+      "width": 7.470000000000001,
+      "height": 9,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        266.15689999999967,
+        606.6950000000002
+      ],
+      "fontName": "g_d0_f93",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        283.9858999999997,
+        77.00000000000023
+      ],
+      "fontName": "g_d0_f79",
+      "hasEOL": true
+    },
+    {
+      "str": "Open Source Collection of",
+      "dir": "ltr",
+      "width": 100.27709999999999,
+      "height": 9,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        283.9858999999997,
+        77.00000000000023
+      ],
+      "fontName": "g_d0_f79",
+      "hasEOL": true
+    },
+    {
+      "str": "Science and Technology",
+      "dir": "ltr",
+      "width": 92.69009999999999,
+      "height": 9,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        294.48889999999966,
+        77.00000000000023
+      ],
+      "fontName": "g_d0_f79",
+      "hasEOL": true
+    },
+    {
+      "str": "Information",
+      "dir": "ltr",
+      "width": 45.04499999999999,
+      "height": 9,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        304.99189999999965,
+        77.00000000000023
+      ],
+      "fontName": "g_d0_f79",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        294.26389999999964,
+        533.5610000000001
+      ],
+      "fontName": "g_d0_f93",
+      "hasEOL": true
+    },
+    {
+      "str": "%",
+      "dir": "ltr",
+      "width": 7.470000000000001,
+      "height": 9,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        294.26389999999964,
+        533.5610000000001
+      ],
+      "fontName": "g_d0_f93",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 7.2959999999999985,
+      "height": 0,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        294.26389999999964,
+        541.0310000000002
+      ],
+      "fontName": "g_d0_f93",
+      "hasEOL": false
+    },
+    {
+      "str": "%",
+      "dir": "ltr",
+      "width": 7.470000000000001,
+      "height": 9,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        294.26389999999964,
+        606.6950000000002
+      ],
+      "fontName": "g_d0_f93",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        322.5868999999996,
+        77.00000000000023
+      ],
+      "fontName": "g_d0_f79",
+      "hasEOL": true
+    },
+    {
+      "str": "Overcapacity Drives",
+      "dir": "ltr",
+      "width": 77.12910000000005,
+      "height": 9,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        322.5868999999996,
+        77.00000000000023
+      ],
+      "fontName": "g_d0_f79",
+      "hasEOL": true
+    },
+    {
+      "str": "Out Foreign Rivals",
+      "dir": "ltr",
+      "width": 70.62209999999999,
+      "height": 9,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        333.0898999999996,
+        77.00000000000023
+      ],
+      "fontName": "g_d0_f79",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 18.505100000000002,
+      "height": 0,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        333.0898999999996,
+        147.62210000000022
+      ],
+      "fontName": "g_d0_f79",
+      "hasEOL": false
+    },
+    {
+      "str": "%",
+      "dir": "ltr",
+      "width": 7.470000000000001,
+      "height": 9,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        327.6178999999996,
+        314.16800000000023
+      ],
+      "fontName": "g_d0_f93",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 15.422,
+      "height": 0,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        327.6178999999996,
+        321.63800000000026
+      ],
+      "fontName": "g_d0_f93",
+      "hasEOL": false
+    },
+    {
+      "str": "%",
+      "dir": "ltr",
+      "width": 7.470000000000001,
+      "height": 9,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        327.6178999999996,
+        460.43600000000026
+      ],
+      "fontName": "g_d0_f93",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 15.422,
+      "height": 0,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        327.6178999999996,
+        467.9060000000003
+      ],
+      "fontName": "g_d0_f93",
+      "hasEOL": false
+    },
+    {
+      "str": "%",
+      "dir": "ltr",
+      "width": 7.470000000000001,
+      "height": 9,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        327.6178999999996,
+        606.7040000000003
+      ],
+      "fontName": "g_d0_f93",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        350.69389999999964,
+        77.00900000000036
+      ],
+      "fontName": "g_d0_f79",
+      "hasEOL": true
+    },
+    {
+      "str": "Physical Theft of",
+      "dir": "ltr",
+      "width": 63.57599999999998,
+      "height": 9,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        350.69389999999964,
+        77.00900000000036
+      ],
+      "fontName": "g_d0_f79",
+      "hasEOL": true
+    },
+    {
+      "str": "Technologies and IP Through",
+      "dir": "ltr",
+      "width": 111.1131,
+      "height": 9,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        361.19689999999963,
+        77.00900000000036
+      ],
+      "fontName": "g_d0_f79",
+      "hasEOL": true
+    },
+    {
+      "str": "Economic Espionage",
+      "dir": "ltr",
+      "width": 80.25299999999999,
+      "height": 9,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        371.6998999999996,
+        77.00900000000036
+      ],
+      "fontName": "g_d0_f79",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        360.9718999999996,
+        314.17700000000036
+      ],
+      "fontName": "g_d0_f93",
+      "hasEOL": true
+    },
+    {
+      "str": "%",
+      "dir": "ltr",
+      "width": 7.470000000000001,
+      "height": 9,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        360.9718999999996,
+        314.17700000000036
+      ],
+      "fontName": "g_d0_f93",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 15.422,
+      "height": 0,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        360.9718999999996,
+        321.6470000000004
+      ],
+      "fontName": "g_d0_f93",
+      "hasEOL": false
+    },
+    {
+      "str": "%",
+      "dir": "ltr",
+      "width": 7.470000000000001,
+      "height": 9,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        360.9718999999996,
+        460.4450000000004
+      ],
+      "fontName": "g_d0_f93",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 7.2959999999999985,
+      "height": 0,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        360.9718999999996,
+        467.9150000000004
+      ],
+      "fontName": "g_d0_f93",
+      "hasEOL": false
+    },
+    {
+      "str": "%",
+      "dir": "ltr",
+      "width": 7.470000000000001,
+      "height": 9,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        360.9718999999996,
+        533.5790000000004
+      ],
+      "fontName": "g_d0_f93",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 7.2959999999999985,
+      "height": 0,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        360.9718999999996,
+        541.0490000000004
+      ],
+      "fontName": "g_d0_f93",
+      "hasEOL": false
+    },
+    {
+      "str": "%",
+      "dir": "ltr",
+      "width": 7.470000000000001,
+      "height": 9,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        360.9718999999996,
+        606.7130000000004
+      ],
+      "fontName": "g_d0_f93",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        389.2948999999996,
+        77.01800000000048
+      ],
+      "fontName": "g_d0_f79",
+      "hasEOL": true
+    },
+    {
+      "str": "Placement of Chinese Employees",
+      "dir": "ltr",
+      "width": 127.16820000000003,
+      "height": 9,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        389.2948999999996,
+        77.01800000000048
+      ],
+      "fontName": "g_d0_f79",
+      "hasEOL": true
+    },
+    {
+      "str": "with Foreign Joint Ventures",
+      "dir": "ltr",
+      "width": 105.87420000000002,
+      "height": 9,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        399.7978999999996,
+        77.01800000000048
+      ],
+      "fontName": "g_d0_f79",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 6.4622000000000055,
+      "height": 0,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        399.7978999999996,
+        182.89220000000043
+      ],
+      "fontName": "g_d0_f79",
+      "hasEOL": false
+    },
+    {
+      "str": "%",
+      "dir": "ltr",
+      "width": 7.470000000000001,
+      "height": 9,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        394.3258999999996,
+        241.05200000000048
+      ],
+      "fontName": "g_d0_f93",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        417.4018999999996,
+        77.01800000000048
+      ],
+      "fontName": "g_d0_f79",
+      "hasEOL": true
+    },
+    {
+      "str": "Price Controls to Restrict Imports",
+      "dir": "ltr",
+      "width": 127.20510000000006,
+      "height": 9,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        417.4018999999996,
+        77.01800000000048
+      ],
+      "fontName": "g_d0_f79",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 4.092099999999991,
+      "height": 0,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        417.4018999999996,
+        204.22310000000056
+      ],
+      "fontName": "g_d0_f79",
+      "hasEOL": false
+    },
+    {
+      "str": "%",
+      "dir": "ltr",
+      "width": 7.470000000000001,
+      "height": 9,
+      "transform": [
+        0,
+        9,
+        -9,
+        0,
+        417.1768999999996,
+        241.05200000000048
+      ],
+      "fontName": "g_d0_f93",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        0,
+        7,
+        -7,
+        0,
+        76.7239,
+        73
+      ],
+      "fontName": "g_d0_f77",
+      "hasEOL": true
+    },
+    {
+      "str": "TABLE 5",
+      "dir": "ltr",
+      "width": 29.428000000000036,
+      "height": 7,
+      "transform": [
+        0,
+        7,
+        -7,
+        0,
+        76.7239,
+        73
+      ],
+      "fontName": "g_d0_f77",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        0,
+        14,
+        -14,
+        0,
+        98.7239,
+        73
+      ],
+      "fontName": "g_d0_f78",
+      "hasEOL": true
+    },
+    {
+      "str": "Communist China’s Categories of Economic Aggression (Page 5 of 8)",
+      "dir": "ltr",
+      "width": 414.28240000000056,
+      "height": 14,
+      "transform": [
+        0,
+        14,
+        -14,
+        0,
+        98.7239,
+        73
+      ],
+      "fontName": "g_d0_f78",
+      "hasEOL": false
+    }
+  ],
+  "styles": {
+    "g_d0_f3": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f12": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f78": {
+      "fontFamily": "sans-serif",
+      "ascent": 0.994,
+      "descent": -0.274,
+      "vertical": false
+    },
+    "g_d0_f79": {
+      "fontFamily": "sans-serif",
+      "ascent": 0.972,
+      "descent": -0.229,
+      "vertical": false
+    },
+    "g_d0_f93": {
+      "fontFamily": "monospace",
+      "ascent": 0.797,
+      "descent": -0.248,
+      "vertical": false
+    },
+    "g_d0_f77": {
+      "fontFamily": "sans-serif",
+      "ascent": 0.994,
+      "descent": -0.244,
+      "vertical": false
+    }
+  },
+  "lang": "en-US"
+}

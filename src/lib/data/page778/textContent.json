@@ -1,0 +1,879 @@
+{
+  "items": [
+    {
+      "str": "— 745 —",
+      "dir": "ltr",
+      "width": 42.25,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        230.5274,
+        32.0001
+      ],
+      "fontName": "g_d0_f3",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        30,
+        0,
+        0,
+        30,
+        397.8935,
+        610
+      ],
+      "fontName": "g_d0_f2",
+      "hasEOL": true
+    },
+    {
+      "str": "25",
+      "dir": "ltr",
+      "width": 33.81000000000001,
+      "height": 30,
+      "transform": [
+        30,
+        0,
+        0,
+        30,
+        397.8935,
+        610
+      ],
+      "fontName": "g_d0_f2",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        16,
+        0,
+        0,
+        16,
+        287.9484,
+        472.2
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": true
+    },
+    {
+      "str": "SMALL BUSINESS",
+      "dir": "ltr",
+      "width": 144.3184,
+      "height": 16,
+      "transform": [
+        16,
+        0,
+        0,
+        16,
+        287.9484,
+        472.2
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        16,
+        0,
+        0,
+        16,
+        284.3866,
+        454.2
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": true
+    },
+    {
+      "str": "ADMINISTRATION",
+      "dir": "ltr",
+      "width": 147.55199999999996,
+      "height": 16,
+      "transform": [
+        16,
+        0,
+        0,
+        16,
+        284.3866,
+        454.2
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        13,
+        0,
+        0,
+        13,
+        332.8619,
+        436.2
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": true
+    },
+    {
+      "str": "Karen Kerrigan",
+      "dir": "ltr",
+      "width": 98.696,
+      "height": 13,
+      "transform": [
+        13,
+        0,
+        0,
+        13,
+        332.8619,
+        436.2
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        72.3576,
+        380
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": true
+    },
+    {
+      "str": "MISSION STATEMENT",
+      "dir": "ltr",
+      "width": 109.26999999999995,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        72.3576,
+        380
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4498,
+        0,
+        0,
+        10.5,
+        85.2636,
+        366
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "The U.S. Small Business Administration (SBA) supports U.S. entrepreneurship",
+      "dir": "ltr",
+      "width": 346.2206836399998,
+      "height": 10.5,
+      "transform": [
+        10.4498,
+        0,
+        0,
+        10.5,
+        85.2636,
+        366
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.318,
+        352
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "and small business growth by strengthening free enterprise through policy advo",
+      "dir": "ltr",
+      "width": 358.43850000000015,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.318,
+        352
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.843,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        430.7421,
+        352
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5244,
+        0,
+        0,
+        10.5,
+        72.36,
+        338
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "cacy and facilitating programs that help entrepreneurs to launch and grow their",
+      "dir": "ltr",
+      "width": 359.2388171600001,
+      "height": 10.5,
+      "transform": [
+        10.5244,
+        0,
+        0,
+        10.5,
+        72.36,
+        338
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.4548,
+        324
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "businesses and compete effectively in the global marketplace.",
+      "dir": "ltr",
+      "width": 274.47945000000004,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.4548,
+        324
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        71.832,
+        296
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": true
+    },
+    {
+      "str": "OVERVIEW",
+      "dir": "ltr",
+      "width": 58.05999999999999,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        71.832,
+        296
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        85.5348,
+        282
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Created almost 70 years ago, the SBA was launched under the Small Business",
+      "dir": "ltr",
+      "width": 346.0695000000001,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        85.5348,
+        282
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6189,
+        0,
+        0,
+        10.5,
+        71.4264,
+        268
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Act with a mission to “aid, counsel, assist and protect, insofar as is possible, the",
+      "dir": "ltr",
+      "width": 359.9828337799996,
+      "height": 10.5,
+      "transform": [
+        10.6189,
+        0,
+        0,
+        10.5,
+        71.4264,
+        268
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.396,
+        0,
+        0,
+        10.5,
+        72.2304,
+        254
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "interests of small business concerns.”",
+      "dir": "ltr",
+      "width": 164.37635399999994,
+      "height": 10.5,
+      "transform": [
+        10.396,
+        0,
+        0,
+        10.5,
+        72.2304,
+        254
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "1",
+      "dir": "ltr",
+      "width": 2.4728472000000004,
+      "height": 6.1215,
+      "transform": [
+        6.0609,
+        0,
+        0,
+        6.1215,
+        236.6167,
+        257.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.27944641884869015,
+      "height": 0,
+      "transform": [
+        6.0609,
+        0,
+        0,
+        6.1215,
+        239.0895472,
+        257.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "According to its current mission statement:",
+      "dir": "ltr",
+      "width": 191.26352880000104,
+      "height": 10.5,
+      "transform": [
+        10.396,
+        0,
+        0,
+        10.5,
+        240.78324400000002,
+        254
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        85.4328,
+        226
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "The U.S. Small Business Administration (SBA) helps Americans start, grow,",
+      "dir": "ltr",
+      "width": 319.8940000000001,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        85.4328,
+        226
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        85.8408,
+        212
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "and build resilient businesses.",
+      "dir": "ltr",
+      "width": 128.41800000000003,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        85.8408,
+        212
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        85.8204,
+        184
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "SBA was created in 1953 as an independent agency of the federal government",
+      "dir": "ltr",
+      "width": 327.5040000000001,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        85.8204,
+        184
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        85.7976,
+        170
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "to aid, counsel, assist and protect the interests of small business concerns;",
+      "dir": "ltr",
+      "width": 314.32600000000014,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        85.7976,
+        170
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        85.9104,
+        156
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "preserve free competitive enterprise; and maintain and strengthen the overall",
+      "dir": "ltr",
+      "width": 331.57399999999984,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        85.9104,
+        156
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        85.8804,
+        142
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "economy of our nation.",
+      "dir": "ltr",
+      "width": 98.829,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        85.8804,
+        142
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "2",
+      "dir": "ltr",
+      "width": 3.3239745000000003,
+      "height": 6.1215,
+      "transform": [
+        6.1215,
+        0,
+        0,
+        6.1215,
+        184.7082,
+        145.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        85.2636,
+        114
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "The SBA’s founding mission has evolved over time as programs have been",
+      "dir": "ltr",
+      "width": 346.67734500000046,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        85.2636,
+        114
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4714,
+        0,
+        0,
+        10.5,
+        72.36,
+        100
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "expanded or implemented, subject to the philosophical grounding of each Admin",
+      "dir": "ltr",
+      "width": 358.38890069999974,
+      "height": 10.5,
+      "transform": [
+        10.4714,
+        0,
+        0,
+        10.5,
+        72.36,
+        100
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.8325323999999994,
+      "height": 10.5,
+      "transform": [
+        10.4714,
+        0,
+        0,
+        10.5,
+        430.7465,
+        100
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6005,
+        0,
+        0,
+        10.5,
+        72.2304,
+        86
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "istration as well as assorted economic challenges and the occurrence of natural",
+      "dir": "ltr",
+      "width": 359.58592080000074,
+      "height": 10.5,
+      "transform": [
+        10.6005,
+        0,
+        0,
+        10.5,
+        72.2304,
+        86
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.36,
+        72
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "disasters. Because of its distinct role in the federal government, the SBA became",
+      "dir": "ltr",
+      "width": 359.0884500000001,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.36,
+        72
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    }
+  ],
+  "styles": {
+    "g_d0_f3": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f2": {
+      "fontFamily": "serif",
+      "ascent": 1.158,
+      "descent": -0.32,
+      "vertical": false
+    },
+    "g_d0_f8": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.017,
+      "descent": -0.297,
+      "vertical": false
+    },
+    "g_d0_f4": {
+      "fontFamily": "serif",
+      "ascent": 1.089,
+      "descent": -0.312,
+      "vertical": false
+    }
+  },
+  "lang": "en-US"
+}

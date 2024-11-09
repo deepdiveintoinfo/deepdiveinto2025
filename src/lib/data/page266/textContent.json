@@ -1,0 +1,3359 @@
+{
+  "items": [
+    {
+      "str": "— 233 —",
+      "dir": "ltr",
+      "width": 42.44999999999999,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        230.4274,
+        32.0001
+      ],
+      "fontName": "g_d0_f3",
+      "hasEOL": false
+    },
+    {
+      "str": "Intelligence Community",
+      "dir": "ltr",
+      "width": 107.7021,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        198.2448,
+        664.4
+      ],
+      "fontName": "g_d0_f27",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        634.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "19.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        634.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8999888888888895,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.9018,
+        634.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Michael E. DeVine, “Covert Action and Clandestine Activities of the Intelligence Community: Selected",
+      "dir": "ltr",
+      "width": 311.7735000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0017,
+        634.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        623.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "Definitions,” Congressional Research Service",
+      "dir": "ltr",
+      "width": 137.4093000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        623.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19996666666664786,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        227.94930000000016,
+        623.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Report for Members and Committees of Congress",
+      "dir": "ltr",
+      "width": 153.65430000000015,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        229.749,
+        623.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19996666666665736,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        383.4033000000001,
+        623.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": "No. R45175,",
+      "dir": "ltr",
+      "width": 35.77500000000004,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        385.20300000000003,
+        623.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.5328,
+        612.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "updated November 29, 2022,",
+      "dir": "ltr",
+      "width": 90.80910000000003,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.5328,
+        612.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1999444444444407,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        181.34190000000004,
+        612.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://sgp.fas.org/crs/intel/R45175.pdf",
+      "dir": "ltr",
+      "width": 121.43520000000015,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        183.1414,
+        612.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19997777777775935,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        304.57660000000016,
+        612.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed February 24, 2023).",
+      "dir": "ltr",
+      "width": 93.20310000000013,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        306.3764,
+        612.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.9844,
+        601.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "20.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.9844,
+        601.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8769888888888902,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        82.1094,
+        601.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "H.R. 2663, Central Intelligence Agency Act of 1949, Public Law No. 81-110, 81st Congress, June 20, 1949,",
+      "dir": "ltr",
+      "width": 316.07550000000026,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0023,
+        601.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19954444444438954,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        406.0778000000005,
+        601.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://",
+      "dir": "ltr",
+      "width": 22.85999999999998,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        407.8737,
+        601.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2724,
+        590.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "govtrackus.s3.amazonaws.com/legislink/pdf/stat/63/STATUTE-63-Pg208.pdf",
+      "dir": "ltr",
+      "width": 239.00130000000007,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2724,
+        590.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19989999999996322,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        329.27370000000036,
+        590.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed March 6, 2023).",
+      "dir": "ltr",
+      "width": 80.37900000000009,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        331.07280000000003,
+        590.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.9844,
+        579.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "21.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.9844,
+        579.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8769888888888902,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        82.1094,
+        579.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Nicole Ogrysko, “Intelligence Community Workforce Is More Diverse, but Still Struggles with Retention and",
+      "dir": "ltr",
+      "width": 329.95350000000036,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0023,
+        579.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        568.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "Promotion,” Federal News Network, October 27, 2021,",
+      "dir": "ltr",
+      "width": 165.49830000000023,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        568.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1999999999999823,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        256.03830000000016,
+        568.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://federalnewsnetwork.com/workforce/2021/10/",
+      "dir": "ltr",
+      "width": 164.7702,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        257.8383,
+        568.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.5856,
+        557.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "intelligence-community-workforce-is-more-diverse-but-still-struggles-with-retention-and-promotion/",
+      "dir": "ltr",
+      "width": 318.7008000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.5856,
+        557.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0756,
+        546.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "(accessed March 18, 2023).",
+      "dir": "ltr",
+      "width": 82.44810000000003,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0756,
+        546.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.9844,
+        535.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "22.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.9844,
+        535.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8769888888888902,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        82.1094,
+        535.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "See James J. Wirtz, “The Intelligence Policy Nexus,” in Loch K. Johnson, ed.,",
+      "dir": "ltr",
+      "width": 233.1873000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0023,
+        535.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19944444444441464,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        323.18960000000027,
+        535.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Strategic Intelligence, Volume",
+      "dir": "ltr",
+      "width": 92.25720000000014,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        324.9846,
+        535.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0924,
+        524.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": true
+    },
+    {
+      "str": "1: Understanding the Hidden Side of Government",
+      "dir": "ltr",
+      "width": 151.8444000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0924,
+        524.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.2000333333333357,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        241.93679999999998,
+        524.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": "(Westport, CT: Prager, 2007), and Richard K. Betts,",
+      "dir": "ltr",
+      "width": 156.8232,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        243.7371,
+        524.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        87.192,
+        513.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "“Analysis, War, and Decision: Why Intelligence Failures Are Inevitable,” World Politics, Vol. 30, No. 1 (October",
+      "dir": "ltr",
+      "width": 334.44360000000023,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        87.192,
+        513.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.282,
+        502.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "1978), pp. 61–89.",
+      "dir": "ltr",
+      "width": 51.011099999999985,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.282,
+        502.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.9844,
+        491.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "23.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.9844,
+        491.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8769888888888902,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        82.1094,
+        491.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Letter from Barry A. Zulauf, IC Analytic Ombudsman, Office of the Director of National Intelligence, to",
+      "dir": "ltr",
+      "width": 313.83450000000033,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0023,
+        491.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.282,
+        480.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "Senator Marco Rubio, Acting Chairman, and Senator Mark Warner, Vice Chairman, Select Committee on",
+      "dir": "ltr",
+      "width": 320.0904000000004,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.282,
+        480.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.468,
+        469.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "Intelligence, U.S. Senate, “RE: SSCI #2020-3029,” January 6, 2021,",
+      "dir": "ltr",
+      "width": 203.15340000000023,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.468,
+        469.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19999999999996337,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        293.62140000000034,
+        469.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://int.nyt.com/data/documenttools/",
+      "dir": "ltr",
+      "width": 126.8973,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        295.4214,
+        469.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.5856,
+        458.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "ic-ombudsman-election-interference-with-responses/c50e548011fd6168/full.pdf",
+      "dir": "ltr",
+      "width": 248.8716000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.5856,
+        458.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19989999999996322,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        339.45720000000034,
+        458.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed March 14, 2023).",
+      "dir": "ltr",
+      "width": 82.61100000000012,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        341.2563,
+        458.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.9844,
+        447.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "24.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.9844,
+        447.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8769888888888902,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        82.1094,
+        447.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Joshua Rovner,",
+      "dir": "ltr",
+      "width": 46.9881,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0023,
+        447.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19974444444444353,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        136.9904,
+        447.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Fixing the Facts: National Security and the Politics of Intelligence",
+      "dir": "ltr",
+      "width": 200.15820000000014,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        138.7881,
+        447.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1997222222222048,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        338.9463000000002,
+        447.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": "(Ithaca, NY: Cornell",
+      "dir": "ltr",
+      "width": 59.40000000000006,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        340.7438,
+        447.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4608,
+        436.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "University Press, 2011), pp. 30–31.",
+      "dir": "ltr",
+      "width": 102.58020000000006,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4608,
+        436.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.9844,
+        425.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "25.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.9844,
+        425.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8769888888888902,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        82.1094,
+        425.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Joshua Rovner, “Is Politicization Ever a Good Thing?”",
+      "dir": "ltr",
+      "width": 163.29240000000004,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0023,
+        425.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19975555555553293,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        253.2947000000002,
+        425.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Intelligence and National Security",
+      "dir": "ltr",
+      "width": 104.01210000000013,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        255.0925,
+        425.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": ", Vol. 28, No. 1",
+      "dir": "ltr",
+      "width": 42.30000000000005,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        359.1033,
+        425.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0756,
+        414.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "(2013), p. 58.",
+      "dir": "ltr",
+      "width": 39.73499999999999,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0756,
+        414.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.9844,
+        403.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "26.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.9844,
+        403.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8769888888888902,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        82.1094,
+        403.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "S. 1566, Foreign Intelligence Surveillance Act of 1978, Public Law No. 95-511, 95th Congress, October",
+      "dir": "ltr",
+      "width": 316.74509999999935,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0023,
+        403.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.9172,
+        392.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "25, 1978,",
+      "dir": "ltr",
+      "width": 26.92800000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.9172,
+        392.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.21995555555555293,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        116.84520000000002,
+        392.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.govinfo.gov/content/pkg/STATUTE-92/pdf/STATUTE-92-Pg1783.pdf",
+      "dir": "ltr",
+      "width": 255.7737,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        118.8248,
+        392.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.21934444444443418,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        374.59850000000006,
+        392.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed",
+      "dir": "ltr",
+      "width": 31.256999999999834,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        376.57259999999997,
+        392.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        381.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "March 6, 2023).",
+      "dir": "ltr",
+      "width": 49.30200000000005,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        381.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.9844,
+        370.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "27.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.9844,
+        370.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8769888888888902,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        82.1094,
+        370.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "The Cipher Brief, “702 Reauthorization: Defending a Key Intelligence Tool,” remarks of Benjamin Powell,",
+      "dir": "ltr",
+      "width": 320.30460000000016,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0023,
+        370.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.5388,
+        359.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "former General Counsel to the Director of National Intelligence, stating that FISA 702 provides “between",
+      "dir": "ltr",
+      "width": 322.7886000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.5388,
+        359.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.6508,
+        348.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "40 and 60 percent” of the intelligence in the PDB, December 18, 2017,",
+      "dir": "ltr",
+      "width": 214.71750000000023,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.6508,
+        348.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19994444444440282,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        304.3683000000004,
+        348.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.youtube.com/",
+      "dir": "ltr",
+      "width": 83.69820000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        306.1678,
+        348.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.3168,
+        337.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "watch?v=mRJ09GHVRFk&ab_channel=TheCipherBrief",
+      "dir": "ltr",
+      "width": 169.87320000000003,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.3168,
+        337.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1998333333333259,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        260.19000000000005,
+        337.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed March 18, 2023).",
+      "dir": "ltr",
+      "width": 82.4481000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        261.9885,
+        337.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.9844,
+        326.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "28.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.9844,
+        326.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8769888888888902,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        82.1094,
+        326.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "An intelligence alliance that includes Australia, Canada, New Zealand, the United Kingdom, and the United",
+      "dir": "ltr",
+      "width": 329.36850000000027,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0023,
+        326.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.282,
+        315.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "States. Office of the Director of National Intelligence, National Counterintelligence and Security Center, “Five",
+      "dir": "ltr",
+      "width": 334.3977000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.282,
+        315.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        304.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "Eyes Intelligence Oversight and Review Council (FIORC),”",
+      "dir": "ltr",
+      "width": 177.16140000000016,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        304.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19998888888886768,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        267.7014000000002,
+        304.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.dni.gov/index.php/ncsc-how-we-",
+      "dir": "ltr",
+      "width": 143.80110000000008,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        269.5013,
+        304.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.3168,
+        293.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "work/217-about/organization/icig-pages/2660-icig-fiorc",
+      "dir": "ltr",
+      "width": 175.47839999999997,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.3168,
+        293.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.199999999999976,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        265.79520000000025,
+        293.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed March 10, 2023).",
+      "dir": "ltr",
+      "width": 82.82610000000012,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        267.59520000000003,
+        293.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.9844,
+        282.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "29.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.9844,
+        282.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8769888888888902,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        82.1094,
+        282.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Porter, “Seven Questions the Next President Will Need the Intelligence Community to Answer to Win the",
+      "dir": "ltr",
+      "width": 324.3906000000004,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0023,
+        282.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.8392,
+        271.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "Technology Competition with China.”",
+      "dir": "ltr",
+      "width": 115.15230000000003,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.8392,
+        271.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.8728,
+        260.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "30.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.8728,
+        260.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.888988888888889,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.9978,
+        260.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "H.R. 1591, An Act to Require the Registration of Certain Persons Employed by Agencies to Disseminate",
+      "dir": "ltr",
+      "width": 315.8775000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.9987,
+        260.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        249.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "Propaganda in the United States and for Other Purposes, Public Law No. 75-583, 75th Congress, June 8, 1938,",
+      "dir": "ltr",
+      "width": 338.3496000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        249.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.612,
+        238.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "https://govtrackus.s3.amazonaws.com/legislink/pdf/stat/52/STATUTE-52-Pg631.pdf",
+      "dir": "ltr",
+      "width": 258.88140000000016,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.612,
+        238.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19995555555553007,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        349.49340000000024,
+        238.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed March 6, 2023).",
+      "dir": "ltr",
+      "width": 80.37900000000009,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        351.293,
+        238.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.8728,
+        227.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "31.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.8728,
+        227.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.888988888888889,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.9978,
+        227.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Kristina Wong, “Exclusive: Former DNI John Ratcliffe Pleased CIA Following His Lead on China Threat,”",
+      "dir": "ltr",
+      "width": 316.93950000000024,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.9987,
+        227.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        216.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "Breitbart, October 13, 2021,",
+      "dir": "ltr",
+      "width": 82.92420000000003,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        216.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.2000222222222179,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        173.46420000000003,
+        216.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.breitbart.com/politics/2021/10/13/exclusive-john-ratcliffe-pleased-",
+      "dir": "ltr",
+      "width": 246.21029999999996,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        175.2644,
+        216.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2904,
+        205.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "cia-following-lead-china-threat/",
+      "dir": "ltr",
+      "width": 100.49130000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2904,
+        205.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.199988888888874,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        190.78170000000014,
+        205.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed March 11, 2023).",
+      "dir": "ltr",
+      "width": 80.80110000000013,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        192.5816,
+        205.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.8728,
+        194.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "32.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.8728,
+        194.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.888988888888889,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.9978,
+        194.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "H.R. 4628, Intelligence Authorization Act for Fiscal Year 2003, Public Law No. 107-306, 107th Congress,",
+      "dir": "ltr",
+      "width": 316.4976000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.9987,
+        194.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        183.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "November 27, 2002, Title IX,",
+      "dir": "ltr",
+      "width": 87.10110000000005,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        183.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1999111111111031,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        177.64110000000008,
+        183.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.govinfo.gov/content/pkg/STATUTE-116/pdf/STATUTE-116-Pg2383.pdf",
+      "dir": "ltr",
+      "width": 252.10529999999994,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        179.4403,
+        183.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0756,
+        172.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "(accessed March 6, 2023).",
+      "dir": "ltr",
+      "width": 80.37810000000003,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0756,
+        172.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.8728,
+        161.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "33.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.8728,
+        161.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.888988888888889,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.9978,
+        161.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "President George W. Bush, Executive Order 13354, “National Counterterrorism Center,” August 27, 2004, in",
+      "dir": "ltr",
+      "width": 328.6917000000004,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.9987,
+        161.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2088,
+        150.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": true
+    },
+    {
+      "str": "Federal Register",
+      "dir": "ltr",
+      "width": 50.552099999999996,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2088,
+        150.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": ", Vol. 69, No. 169 (September 1, 2004), pp. 53589–53592,",
+      "dir": "ltr",
+      "width": 175.33530000000013,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        140.7606,
+        150.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19995555555554903,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        316.0959000000001,
+        150.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.govinfo.gov/content/",
+      "dir": "ltr",
+      "width": 105.86610000000005,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        317.8955,
+        150.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4788,
+        139.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "pkg/FR-2004-09-01/pdf/04-20050.pdf",
+      "dir": "ltr",
+      "width": 123.55019999999999,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4788,
+        139.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19996666666666682,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        214.029,
+        139.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed March 6, 2023).",
+      "dir": "ltr",
+      "width": 80.37810000000009,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        215.8287,
+        139.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.8728,
+        128.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "34.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.8728,
+        128.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.888988888888889,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.9978,
+        128.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Office of the Director of National Intelligence, National Counterintelligence and Security Center, “Who",
+      "dir": "ltr",
+      "width": 322.8749999999992,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.9987,
+        128.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.174,
+        117.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "We Are: History of NCSC,”",
+      "dir": "ltr",
+      "width": 82.56600000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.174,
+        117.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.21986666666666427,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        172.74,
+        117.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.dni.gov/index.php/ncsc-who-we-are/ncsc-history",
+      "dir": "ltr",
+      "width": 199.1519999999997,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        174.7188,
+        117.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.2195444444444787,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        373.8707999999997,
+        117.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed",
+      "dir": "ltr",
+      "width": 31.256999999999834,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        375.8467,
+        117.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        106.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "March 11, 2023).",
+      "dir": "ltr",
+      "width": 49.81500000000003,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        106.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.8728,
+        95.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "35.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.8728,
+        95.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.888988888888889,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.9978,
+        95.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Gregory F. Treverton and C. Bryan Gabbard,",
+      "dir": "ltr",
+      "width": 134.7192000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.9987,
+        95.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.20007777777775004,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        224.71790000000024,
+        95.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Assessing the Tradecraft of Intelligence Analysis",
+      "dir": "ltr",
+      "width": 148.3002000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        226.5186,
+        95.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": ", RAND",
+      "dir": "ltr",
+      "width": 22.464000000000034,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        374.8176,
+        95.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2004,
+        84.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "Corporation, National Security Research Division",
+      "dir": "ltr",
+      "width": 150.0822000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2004,
+        84.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19985555555552992,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        240.28260000000023,
+        84.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Technical Report",
+      "dir": "ltr",
+      "width": 51.44400000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        242.0813,
+        84.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": ", 2008, p. 6,",
+      "dir": "ltr",
+      "width": 36.47610000000006,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        293.5244,
+        84.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.20001111111110326,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        330.00050000000005,
+        84.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.rand.org/pubs/",
+      "dir": "ltr",
+      "width": 87.6509999999999,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        331.8006,
+        84.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.5472,
+        73.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "technical_reports/TR293.html",
+      "dir": "ltr",
+      "width": 93.3102,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.5472,
+        73.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19996666666666052,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        183.85740000000007,
+        73.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed March 1, 2023).",
+      "dir": "ltr",
+      "width": 78.5421000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        185.6571,
+        73.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    }
+  ],
+  "styles": {
+    "g_d0_f3": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f27": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f17": {
+      "fontFamily": "sans-serif",
+      "ascent": 0.939,
+      "descent": -0.202,
+      "vertical": false
+    },
+    "g_d0_f18": {
+      "fontFamily": "sans-serif",
+      "ascent": 0.939,
+      "descent": -0.202,
+      "vertical": false
+    }
+  },
+  "lang": "en-US"
+}

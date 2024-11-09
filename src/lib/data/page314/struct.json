@@ -1,0 +1,203 @@
+{
+  "children": [
+    {
+      "role": "Document",
+      "children": [
+        {
+          "role": "Art",
+          "children": [
+            {
+              "role": "Sect",
+              "children": [
+                {
+                  "role": "P",
+                  "children": [
+                    {
+                      "role": "Note",
+                      "children": [
+                        {
+                          "role": "Link",
+                          "children": [
+                            {
+                              "type": "annotation",
+                              "id": "pdfjs_internal_id_30782R"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "content",
+                      "id": "p803R_mc15040"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p803R_mc15041"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p803R_mc15042"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p803R_mc15043"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p803R_mc15044"
+                    },
+                    {
+                      "role": "Link",
+                      "children": [
+                        {
+                          "type": "object",
+                          "id": "30779R"
+                        },
+                        {
+                          "type": "content",
+                          "id": "p803R_mc15045"
+                        },
+                        {
+                          "type": "content",
+                          "id": "p803R_mc15046"
+                        }
+                      ],
+                      "lang": "en-US"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p803R_mc15047"
+                    }
+                  ]
+                },
+                {
+                  "role": "P",
+                  "children": [
+                    {
+                      "role": "Note",
+                      "children": [
+                        {
+                          "role": "Link",
+                          "children": [
+                            {
+                              "type": "annotation",
+                              "id": "pdfjs_internal_id_30773R"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "content",
+                      "id": "p803R_mc15048"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p803R_mc15049"
+                    },
+                    {
+                      "role": "Link",
+                      "children": [
+                        {
+                          "type": "object",
+                          "id": "30770R"
+                        },
+                        {
+                          "type": "object",
+                          "id": "30768R"
+                        },
+                        {
+                          "type": "content",
+                          "id": "p803R_mc15050"
+                        },
+                        {
+                          "type": "content",
+                          "id": "p803R_mc15051"
+                        }
+                      ],
+                      "lang": "en-US"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p803R_mc15052"
+                    }
+                  ]
+                },
+                {
+                  "role": "P",
+                  "children": [
+                    {
+                      "role": "Note",
+                      "children": [
+                        {
+                          "role": "Link",
+                          "children": [
+                            {
+                              "type": "annotation",
+                              "id": "pdfjs_internal_id_30764R"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "content",
+                      "id": "p803R_mc15053"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p803R_mc15054"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p803R_mc15055"
+                    },
+                    {
+                      "role": "Link",
+                      "children": [
+                        {
+                          "type": "object",
+                          "id": "30761R"
+                        },
+                        {
+                          "type": "content",
+                          "id": "p803R_mc15056"
+                        }
+                      ],
+                      "lang": "en-US"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p803R_mc15057"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "role": "Sect",
+              "children": [
+                {
+                  "role": "P",
+                  "children": [
+                    {
+                      "role": "Link",
+                      "children": [
+                        {
+                          "type": "annotation",
+                          "id": "pdfjs_internal_id_30126R"
+                        }
+                      ],
+                      "lang": "en-US"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "role": "Root"
+}

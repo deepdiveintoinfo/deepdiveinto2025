@@ -1,0 +1,981 @@
+{
+  "items": [
+    {
+      "str": "— 581 —",
+      "dir": "ltr",
+      "width": 40.45,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        231.4274,
+        32.0001
+      ],
+      "fontName": "g_d0_f3",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        30,
+        0,
+        0,
+        30,
+        401.3101,
+        610
+      ],
+      "fontName": "g_d0_f2",
+      "hasEOL": true
+    },
+    {
+      "str": "18",
+      "dir": "ltr",
+      "width": 30.18,
+      "height": 30,
+      "transform": [
+        30,
+        0,
+        0,
+        30,
+        401.3101,
+        610
+      ],
+      "fontName": "g_d0_f2",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        16,
+        0,
+        0,
+        16,
+        224.2005,
+        472.2
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": true
+    },
+    {
+      "str": "DEPARTMENT OF LABOR",
+      "dir": "ltr",
+      "width": 207.95200000000003,
+      "height": 16,
+      "transform": [
+        16,
+        0,
+        0,
+        16,
+        224.2005,
+        472.2
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        16,
+        0,
+        0,
+        16,
+        221.9169,
+        454.2
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": true
+    },
+    {
+      "str": "AND RELATED AGENCIES",
+      "dir": "ltr",
+      "width": 210.35039999999998,
+      "height": 16,
+      "transform": [
+        16,
+        0,
+        0,
+        16,
+        221.9169,
+        454.2
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        13,
+        0,
+        0,
+        13,
+        331.3308,
+        436.2
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": true
+    },
+    {
+      "str": "Jonathan Berry",
+      "dir": "ltr",
+      "width": 100.90599999999996,
+      "height": 13,
+      "transform": [
+        13,
+        0,
+        0,
+        13,
+        331.3308,
+        436.2
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        72.3576,
+        380
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": true
+    },
+    {
+      "str": "MISSION STATEMENT",
+      "dir": "ltr",
+      "width": 109.26999999999995,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        72.3576,
+        380
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6828,
+        0,
+        0,
+        10.5,
+        84.9264,
+        366
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "At the heart of",
+      "dir": "ltr",
+      "width": 66.36262188000002,
+      "height": 10.5,
+      "transform": [
+        10.6828,
+        0,
+        0,
+        10.5,
+        84.9264,
+        366
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.2104577563934504,
+      "height": 0,
+      "transform": [
+        10.6828,
+        0,
+        0,
+        10.5,
+        151.28902188000004,
+        366
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "The Conservative Promise",
+      "dir": "ltr",
+      "width": 117.00443528000012,
+      "height": 10.5,
+      "transform": [
+        10.6828,
+        0,
+        0,
+        10.5,
+        153.5373,
+        366
+      ],
+      "fontName": "g_d0_f10",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.21095019283332841,
+      "height": 0,
+      "transform": [
+        10.6828,
+        0,
+        0,
+        10.5,
+        270.5417352800001,
+        366
+      ],
+      "fontName": "g_d0_f10",
+      "hasEOL": false
+    },
+    {
+      "str": "is the resolve to reclaim the role of",
+      "dir": "ltr",
+      "width": 158.92908388000023,
+      "height": 10.5,
+      "transform": [
+        10.6828,
+        0,
+        0,
+        10.5,
+        272.795274,
+        366
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.36,
+        352
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "each American worker as the protagonist in his or her own life and to restore the",
+      "dir": "ltr",
+      "width": 359.1630000000002,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.36,
+        352
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.4296,
+        338
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "family as the centerpiece of American life. The role that labor policy plays in that",
+      "dir": "ltr",
+      "width": 359.3100000000001,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.4296,
+        338
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3673,
+        0,
+        0,
+        10.5,
+        72.3984,
+        324
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "promise is twofold: Give workers the support they need for rewarding, well-paying,",
+      "dir": "ltr",
+      "width": 361.61660764999954,
+      "height": 10.5,
+      "transform": [
+        10.3673,
+        0,
+        0,
+        10.5,
+        72.3984,
+        324
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3479,
+        0,
+        0,
+        10.5,
+        72.318,
+        310
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "and self-driven careers, and restore the family-supporting job as the centerpiece of",
+      "dir": "ltr",
+      "width": 359.31116649000006,
+      "height": 10.5,
+      "transform": [
+        10.3479,
+        0,
+        0,
+        10.5,
+        72.318,
+        310
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3946,
+        0,
+        0,
+        10.5,
+        72.2868,
+        296
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "the American economy. The Judeo-Christian tradition, stretching back to Genesis,",
+      "dir": "ltr",
+      "width": 361.4254392999995,
+      "height": 10.5,
+      "transform": [
+        10.3946,
+        0,
+        0,
+        10.5,
+        72.2868,
+        296
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4209,
+        0,
+        0,
+        10.5,
+        72.2556,
+        282
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "has always recognized fruitful work as integral to human dignity, as service to God,",
+      "dir": "ltr",
+      "width": 361.77092231000086,
+      "height": 10.5,
+      "transform": [
+        10.4209,
+        0,
+        0,
+        10.5,
+        72.2556,
+        282
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5231,
+        0,
+        0,
+        10.5,
+        72.2304,
+        268
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "neighbor, and family. And Americans have long been known for their work ethic.",
+      "dir": "ltr",
+      "width": 361.07176413000013,
+      "height": 10.5,
+      "transform": [
+        10.5231,
+        0,
+        0,
+        10.5,
+        72.2304,
+        268
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        71.6424,
+        254
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "While it is primarily the culture’s responsibility to affirm the dignity of work, our",
+      "dir": "ltr",
+      "width": 360.1605000000004,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        71.6424,
+        254
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.4296,
+        240
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "federal labor and employment agencies have an important role to play by protect",
+      "dir": "ltr",
+      "width": 358.27049999999986,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.4296,
+        240
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.843,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        430.7421,
+        240
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        226
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "ing workers, setting boundaries for the healthy functioning of labor markets, and",
+      "dir": "ltr",
+      "width": 359.31000000000034,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        226
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2664,
+        212
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "ultimately encouraging wages and conditions for jobs that can support a family.",
+      "dir": "ltr",
+      "width": 354.0810000000001,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2664,
+        212
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        71.832,
+        184
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": true
+    },
+    {
+      "str": "OVERVIEW",
+      "dir": "ltr",
+      "width": 58.05999999999999,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        71.832,
+        184
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.64,
+        0,
+        0,
+        10.5,
+        85.2636,
+        170
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "The labor agencies covered in this chapter include the Department of Labor",
+      "dir": "ltr",
+      "width": 346.37668799999943,
+      "height": 10.5,
+      "transform": [
+        10.64,
+        0,
+        0,
+        10.5,
+        85.2636,
+        170
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5887,
+        0,
+        0,
+        10.5,
+        71.5848,
+        156
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "(DOL), the Equal Employment Opportunity Commission (EEOC), the National",
+      "dir": "ltr",
+      "width": 360.1534531000003,
+      "height": 10.5,
+      "transform": [
+        10.5887,
+        0,
+        0,
+        10.5,
+        71.5848,
+        156
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3927,
+        0,
+        0,
+        10.5,
+        71.9316,
+        142
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Labor Relations Board (NLRB), the National Mediation Board (NMB), the Federal",
+      "dir": "ltr",
+      "width": 359.64769765999955,
+      "height": 10.5,
+      "transform": [
+        10.3927,
+        0,
+        0,
+        10.5,
+        71.9316,
+        142
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6073,
+        0,
+        0,
+        10.5,
+        71.9316,
+        128
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Mediation and Conciliation Service (FMCS), and the Pension Benefit Guaranty",
+      "dir": "ltr",
+      "width": 360.0510090100008,
+      "height": 10.5,
+      "transform": [
+        10.6073,
+        0,
+        0,
+        10.5,
+        71.9316,
+        128
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.0348,
+        114
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Corporation (PBGC). Congress has provided these agencies with the authority to",
+      "dir": "ltr",
+      "width": 359.4780000000001,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.0348,
+        114
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.36,
+        100
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "enforce a wide range of federal statutes regulating workplace conduct, workforce",
+      "dir": "ltr",
+      "width": 359.14200000000005,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.36,
+        100
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.36,
+        86
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "development, employee benefits, labor organization and bargaining, and interna",
+      "dir": "ltr",
+      "width": 358.37550000000016,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.36,
+        86
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.843,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        430.7421,
+        86
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2868,
+        72
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "tional labor conditions.",
+      "dir": "ltr",
+      "width": 104.48549999999999,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2868,
+        72
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    }
+  ],
+  "styles": {
+    "g_d0_f3": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f2": {
+      "fontFamily": "serif",
+      "ascent": 1.158,
+      "descent": -0.32,
+      "vertical": false
+    },
+    "g_d0_f8": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.017,
+      "descent": -0.297,
+      "vertical": false
+    },
+    "g_d0_f4": {
+      "fontFamily": "serif",
+      "ascent": 1.089,
+      "descent": -0.312,
+      "vertical": false
+    },
+    "g_d0_f10": {
+      "fontFamily": "serif",
+      "ascent": 1.103,
+      "descent": -0.315,
+      "vertical": false
+    }
+  },
+  "lang": "en-US"
+}

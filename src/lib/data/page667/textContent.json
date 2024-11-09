@@ -1,0 +1,1419 @@
+{
+  "items": [
+    {
+      "str": "— 634 —",
+      "dir": "ltr",
+      "width": 43.42,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        229.9424,
+        32.0001
+      ],
+      "fontName": "g_d0_f3",
+      "hasEOL": false
+    },
+    {
+      "str": "Mandate for Leadership: The Conservative Promise",
+      "dir": "ltr",
+      "width": 230.1453,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        136.9111,
+        664.4
+      ],
+      "fontName": "g_d0_f12",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4797,
+        0,
+        0,
+        10.5,
+        85.2636,
+        632
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "These shortcomings have been documented over many decades by the Govern",
+      "dir": "ltr",
+      "width": 345.66347277000006,
+      "height": 10.5,
+      "transform": [
+        10.4797,
+        0,
+        0,
+        10.5,
+        85.2636,
+        632
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.8355702,
+      "height": 10.5,
+      "transform": [
+        10.4797,
+        0,
+        0,
+        10.5,
+        430.7441,
+        632
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.432,
+        0,
+        0,
+        10.5,
+        72.2304,
+        618
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "ment Accountability Office and DOT Inspector General. One peer-reviewed study",
+      "dir": "ltr",
+      "width": 359.77360000000056,
+      "height": 10.5,
+      "transform": [
+        10.432,
+        0,
+        0,
+        10.5,
+        72.2304,
+        618
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.4296,
+        604
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "for the Hudson Institute by scholar Robert Poole identified the ATO’s underlying",
+      "dir": "ltr",
+      "width": 359.2050000000001,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.4296,
+        604
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.3984,
+        590
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "problems as including an overly cautious culture, a growing lack of technological",
+      "dir": "ltr",
+      "width": 359.23965000000004,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.3984,
+        590
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.318,
+        576
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "and managerial expertise, the inability to finance major capital projects with rev",
+      "dir": "ltr",
+      "width": 358.5645,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.318,
+        576
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.843,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        430.7421,
+        576
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.36,
+        562
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "enue bonds, and overdependence on aerospace/defense contractors.",
+      "dir": "ltr",
+      "width": 305.4439500000002,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.36,
+        562
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "12",
+      "dir": "ltr",
+      "width": 5.8215465,
+      "height": 6.1215,
+      "transform": [
+        6.1215,
+        0,
+        0,
+        6.1215,
+        377.799,
+        565.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.518,
+        0,
+        0,
+        10.5,
+        84.9264,
+        548
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "All of these problems are interrelated. Because of the ATO’s lack of top-notch",
+      "dir": "ltr",
+      "width": 346.61017200000003,
+      "height": 10.5,
+      "transform": [
+        10.518,
+        0,
+        0,
+        10.5,
+        84.9264,
+        548
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4492,
+        0,
+        0,
+        10.5,
+        72.36,
+        534
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "engineers and program managers, it has become dependent on aerospace contrac",
+      "dir": "ltr",
+      "width": 358.3793471600005,
+      "height": 10.5,
+      "transform": [
+        10.4492,
+        0,
+        0,
+        10.5,
+        72.36,
+        534
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.8244071999999996,
+      "height": 10.5,
+      "transform": [
+        10.4492,
+        0,
+        0,
+        10.5,
+        430.7499,
+        534
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3202,
+        0,
+        0,
+        10.5,
+        72.2868,
+        520
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "tors, unlike counterparts in Canada and the United Kingdom. Operating within the",
+      "dir": "ltr",
+      "width": 359.3431718800002,
+      "height": 10.5,
+      "transform": [
+        10.3202,
+        0,
+        0,
+        10.5,
+        72.2868,
+        520
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.29,
+        0,
+        0,
+        10.5,
+        72.36,
+        506
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "constraints imposed by the annual congressional appropriations process—and with",
+      "dir": "ltr",
+      "width": 359.0623470000008,
+      "height": 10.5,
+      "transform": [
+        10.29,
+        0,
+        0,
+        10.5,
+        72.36,
+        506
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        492
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "no bonding authority—the ATO is forced to implement major projects piecemeal",
+      "dir": "ltr",
+      "width": 359.40764999999993,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        492
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4153,
+        0,
+        0,
+        10.5,
+        72.36,
+        478
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "over many years. The ATO’s overly cautious culture appears to stem from its being",
+      "dir": "ltr",
+      "width": 359.30597786999937,
+      "height": 10.5,
+      "transform": [
+        10.4153,
+        0,
+        0,
+        10.5,
+        72.36,
+        478
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3458,
+        0,
+        0,
+        10.5,
+        72.36,
+        464
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "embedded in a safety regulatory agency rather than being regulated at arm’s length",
+      "dir": "ltr",
+      "width": 359.21445264000016,
+      "height": 10.5,
+      "transform": [
+        10.3458,
+        0,
+        0,
+        10.5,
+        72.36,
+        464
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        71.5848,
+        450
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "(as are airlines and airports).",
+      "dir": "ltr",
+      "width": 128.91899999999995,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        71.5848,
+        450
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5428,
+        0,
+        0,
+        10.5,
+        85.2636,
+        436
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Three organizational changes, all requiring legislation, offer the likelihood of",
+      "dir": "ltr",
+      "width": 346.69048948000034,
+      "height": 10.5,
+      "transform": [
+        10.5428,
+        0,
+        0,
+        10.5,
+        85.2636,
+        436
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6251,
+        0,
+        0,
+        10.5,
+        72.36,
+        422
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "dealing with these problems based on the experiences of air traffic providers in",
+      "dir": "ltr",
+      "width": 359.1730054199997,
+      "height": 10.5,
+      "transform": [
+        10.6251,
+        0,
+        0,
+        10.5,
+        72.36,
+        422
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.0348,
+        408
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Canada and Europe. They could be implemented one at a time or together.",
+      "dir": "ltr",
+      "width": 331.5165000000002,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.0348,
+        408
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        5,
+        0,
+        0,
+        5,
+        72.4752,
+        381.5
+      ],
+      "fontName": "g_d0_f13",
+      "hasEOL": true
+    },
+    {
+      "str": "l",
+      "dir": "ltr",
+      "width": 3.955,
+      "height": 5,
+      "transform": [
+        5,
+        0,
+        0,
+        5,
+        72.4752,
+        381.5
+      ],
+      "fontName": "g_d0_f13",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 2.7967600000000004,
+      "height": 0,
+      "transform": [
+        5,
+        0,
+        0,
+        5,
+        76.4302,
+        381.5
+      ],
+      "fontName": "g_d0_f13",
+      "hasEOL": false
+    },
+    {
+      "str": "Separate the ATO from the FAA and relocate it to separate",
+      "dir": "ltr",
+      "width": 285.5884500000001,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.414,
+        380
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.5028,
+        366
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": true
+    },
+    {
+      "str": "headquarters outside the District of Columbia.",
+      "dir": "ltr",
+      "width": 230.01195,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.5028,
+        366
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        5,
+        0,
+        0,
+        5,
+        72.4752,
+        339.5
+      ],
+      "fontName": "g_d0_f13",
+      "hasEOL": true
+    },
+    {
+      "str": "l",
+      "dir": "ltr",
+      "width": 3.955,
+      "height": 5,
+      "transform": [
+        5,
+        0,
+        0,
+        5,
+        72.4752,
+        339.5
+      ],
+      "fontName": "g_d0_f13",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 2.7967600000000004,
+      "height": 0,
+      "transform": [
+        5,
+        0,
+        0,
+        5,
+        76.4302,
+        339.5
+      ],
+      "fontName": "g_d0_f13",
+      "hasEOL": false
+    },
+    {
+      "str": "Shift from aviation user taxes to fees for air traffic services paid",
+      "dir": "ltr",
+      "width": 313.9185,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.414,
+        338
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.486,
+        324
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": true
+    },
+    {
+      "str": "directly to the ATO.",
+      "dir": "ltr",
+      "width": 96.34695000000006,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.486,
+        324
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        5,
+        0,
+        0,
+        5,
+        72.4752,
+        297.5
+      ],
+      "fontName": "g_d0_f13",
+      "hasEOL": true
+    },
+    {
+      "str": "l",
+      "dir": "ltr",
+      "width": 3.955,
+      "height": 5,
+      "transform": [
+        5,
+        0,
+        0,
+        5,
+        72.4752,
+        297.5
+      ],
+      "fontName": "g_d0_f13",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 2.6316399999999986,
+      "height": 0,
+      "transform": [
+        5,
+        0,
+        0,
+        5,
+        76.4302,
+        297.5
+      ],
+      "fontName": "g_d0_f13",
+      "hasEOL": false
+    },
+    {
+      "str": "Allow the ATO to issue long-term revenue bonds for major projects.",
+      "dir": "ltr",
+      "width": 330.2554499999998,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        89.5884,
+        296
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.2996,
+        0,
+        0,
+        10.5,
+        85.7976,
+        268
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Shorter-term reforms could include implementing user fees for unconventional",
+      "dir": "ltr",
+      "width": 345.60616788000044,
+      "height": 10.5,
+      "transform": [
+        10.2996,
+        0,
+        0,
+        10.5,
+        85.7976,
+        268
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6181,
+        0,
+        0,
+        10.5,
+        72.318,
+        254
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "airspace users (for example, advanced air mobility, space launch, and recovery)",
+      "dir": "ltr",
+      "width": 359.8272346099998,
+      "height": 10.5,
+      "transform": [
+        10.6181,
+        0,
+        0,
+        10.5,
+        72.318,
+        254
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.464,
+        0,
+        0,
+        10.5,
+        72.318,
+        240
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "and giving the ATO a deadline after which it could not authorize or fund any more",
+      "dir": "ltr",
+      "width": 358.9476383999993,
+      "height": 10.5,
+      "transform": [
+        10.464,
+        0,
+        0,
+        10.5,
+        72.318,
+        240
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        226
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "nondigital/remote control towers. These reforms would also require legislation.",
+      "dir": "ltr",
+      "width": 357.43050000000017,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        226
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        72.3576,
+        198
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": true
+    },
+    {
+      "str": "FEDERAL TRANSIT POLICY",
+      "dir": "ltr",
+      "width": 140.019,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        72.3576,
+        198
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5648,
+        0,
+        0,
+        10.5,
+        85.2636,
+        184
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "The definition of “mobility” continues to evolve dramatically with the rise of",
+      "dir": "ltr",
+      "width": 346.39232352,
+      "height": 10.5,
+      "transform": [
+        10.5648,
+        0,
+        0,
+        10.5,
+        85.2636,
+        184
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5928,
+        0,
+        0,
+        10.5,
+        72.2304,
+        170
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "new multimodal concepts, traveler needs, and emerging capabilities. These fun",
+      "dir": "ltr",
+      "width": 358.74847616000073,
+      "height": 10.5,
+      "transform": [
+        10.5928,
+        0,
+        0,
+        10.5,
+        72.2304,
+        170
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.8769648,
+      "height": 10.5,
+      "transform": [
+        10.5928,
+        0,
+        0,
+        10.5,
+        430.729,
+        170
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3883,
+        0,
+        0,
+        10.5,
+        72.36,
+        156
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "damental changes in the way transportation services are offered also influence the",
+      "dir": "ltr",
+      "width": 359.07262833000067,
+      "height": 10.5,
+      "transform": [
+        10.3883,
+        0,
+        0,
+        10.5,
+        72.36,
+        156
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.4296,
+        142
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "form of our communities.",
+      "dir": "ltr",
+      "width": 114.80699999999999,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.4296,
+        142
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        85.4316,
+        128
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "New micromobility solutions, ridesharing, and a possible future that includes",
+      "dir": "ltr",
+      "width": 346.164,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        85.4316,
+        128
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6216,
+        0,
+        0,
+        10.5,
+        72.318,
+        114
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "autonomous vehicles mean that mobility options—particularly in urban areas—",
+      "dir": "ltr",
+      "width": 362.34738672000054,
+      "height": 10.5,
+      "transform": [
+        10.6216,
+        0,
+        0,
+        10.5,
+        72.318,
+        114
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6201,
+        0,
+        0,
+        10.5,
+        72.36,
+        100
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "can alter the nature of public transit, making it more affordable and flexible for",
+      "dir": "ltr",
+      "width": 359.4054242000007,
+      "height": 10.5,
+      "transform": [
+        10.6201,
+        0,
+        0,
+        10.5,
+        72.36,
+        100
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        71.4264,
+        86
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Americans. Unfortunately, DOT now defines public transit only as transit pro",
+      "dir": "ltr",
+      "width": 359.51328000000007,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        71.4264,
+        86
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.9198600000000003,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        430.7284,
+        86
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.1284,
+        72
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "vided by municipal governments. This means that when individuals change their",
+      "dir": "ltr",
+      "width": 359.73525000000006,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.1284,
+        72
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    }
+  ],
+  "styles": {
+    "g_d0_f3": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f12": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f4": {
+      "fontFamily": "serif",
+      "ascent": 1.089,
+      "descent": -0.312,
+      "vertical": false
+    },
+    "g_d0_f13": {
+      "fontFamily": "monospace",
+      "ascent": 0.851,
+      "descent": -0.148,
+      "vertical": false
+    },
+    "g_d0_f11": {
+      "fontFamily": "serif",
+      "ascent": 1.143,
+      "descent": -0.351,
+      "vertical": false
+    },
+    "g_d0_f8": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.017,
+      "descent": -0.297,
+      "vertical": false
+    }
+  },
+  "lang": "en-US"
+}

@@ -1,0 +1,823 @@
+{
+  "items": [
+    {
+      "str": "— 497 —",
+      "dir": "ltr",
+      "width": 43.19000000000002,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        230.0573,
+        32.0001
+      ],
+      "fontName": "g_d0_f3",
+      "hasEOL": false
+    },
+    {
+      "str": "Department of Health and Human Services",
+      "dir": "ltr",
+      "width": 193.19129999999998,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        155.3948,
+        664.4
+      ],
+      "fontName": "g_d0_f61",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        5,
+        0,
+        0,
+        5,
+        72.4752,
+        633.5
+      ],
+      "fontName": "g_d0_f13",
+      "hasEOL": true
+    },
+    {
+      "str": "l",
+      "dir": "ltr",
+      "width": 3.955,
+      "height": 5,
+      "transform": [
+        5,
+        0,
+        0,
+        5,
+        72.4752,
+        633.5
+      ],
+      "fontName": "g_d0_f13",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 2.770599999999999,
+      "height": 0,
+      "transform": [
+        5,
+        0,
+        0,
+        5,
+        76.4302,
+        633.5
+      ],
+      "fontName": "g_d0_f13",
+      "hasEOL": false
+    },
+    {
+      "str": "OCR should withdraw its Health Insurance Portability and",
+      "dir": "ltr",
+      "width": 287.82495000000006,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.2832,
+        632
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        89.5884,
+        618
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": true
+    },
+    {
+      "str": "Accountability Act (HIPAA)",
+      "dir": "ltr",
+      "width": 137.40300000000005,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        89.5884,
+        618
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": "86",
+      "dir": "ltr",
+      "width": 6.556126500000001,
+      "height": 6.1215,
+      "transform": [
+        6.1215,
+        0,
+        0,
+        6.1215,
+        226.9892,
+        621.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.36018516703422215,
+      "height": 0,
+      "transform": [
+        6.1215,
+        0,
+        0,
+        6.1215,
+        233.54532650000002,
+        621.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "guidance on abortion.",
+      "dir": "ltr",
+      "width": 106.70099999999996,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        235.7502,
+        618
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1838571428571532,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        342.4511999999999,
+        618
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": "OCR should",
+      "dir": "ltr",
+      "width": 54.14850000000001,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        344.3817,
+        618
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.096,
+        604
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "withdraw its June 2022 guidance",
+      "dir": "ltr",
+      "width": 148.36499999999998,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.096,
+        604
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "87",
+      "dir": "ltr",
+      "width": 6.335752500000001,
+      "height": 6.1215,
+      "transform": [
+        6.1215,
+        0,
+        0,
+        6.1215,
+        238.4587,
+        607.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.31560034305317436,
+      "height": 0,
+      "transform": [
+        6.1215,
+        0,
+        0,
+        6.1215,
+        244.79445249999998,
+        607.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "that purports to address patient privacy",
+      "dir": "ltr",
+      "width": 178.26900000000006,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        246.72639999999998,
+        604
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.36,
+        590
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "concerns following the",
+      "dir": "ltr",
+      "width": 102.1335,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.36,
+        590
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.18379047619047892,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        192.49349999999998,
+        590
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "Dobbs",
+      "dir": "ltr",
+      "width": 27.772499999999994,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        194.4233,
+        590
+      ],
+      "fontName": "g_d0_f10",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.18396190476190236,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        222.19580000000002,
+        590
+      ],
+      "fontName": "g_d0_f10",
+      "hasEOL": false
+    },
+    {
+      "str": "decision but is actually a politicized statement",
+      "dir": "ltr",
+      "width": 206.9025000000001,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        224.1274,
+        590
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.2304,
+        576
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "in favor of abortion and against",
+      "dir": "ltr",
+      "width": 139.4925,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.2304,
+        576
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.18374285714286098,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        229.72289999999995,
+        576
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "Dobbs",
+      "dir": "ltr",
+      "width": 27.772499999999994,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        231.6522,
+        576
+      ],
+      "fontName": "g_d0_f10",
+      "hasEOL": false
+    },
+    {
+      "str": ". HIPAA covers patients in the womb,",
+      "dir": "ltr",
+      "width": 166.4775000000001,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        259.4243,
+        576
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.4548,
+        562
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "but this guidance treats them as nonpersons contrary to law. The guidance",
+      "dir": "ltr",
+      "width": 332.4090000000001,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.4548,
+        562
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.2304,
+        548
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "is unnecessary and contributes to ideologically motivated fearmongering",
+      "dir": "ltr",
+      "width": 326.4135000000001,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.2304,
+        548
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.318,
+        534
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "about abortion after",
+      "dir": "ltr",
+      "width": 90.573,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.318,
+        534
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.18380000000000304,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        180.89099999999996,
+        534
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "Dobbs",
+      "dir": "ltr",
+      "width": 27.772499999999994,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        182.8209,
+        534
+      ],
+      "fontName": "g_d0_f10",
+      "hasEOL": false
+    },
+    {
+      "str": ".",
+      "dir": "ltr",
+      "width": 2.4255,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        210.5929,
+        534
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        8,
+        0,
+        0,
+        8,
+        71.7204,
+        106.8001
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": true
+    },
+    {
+      "str": "AUTHOR’S NOTE:",
+      "dir": "ltr",
+      "width": 71.61519999999999,
+      "height": 8,
+      "transform": [
+        8,
+        0,
+        0,
+        8,
+        71.7204,
+        106.8001
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.2250249999999987,
+      "height": 0,
+      "transform": [
+        8,
+        0,
+        0,
+        8,
+        143.33560000000003,
+        106.8001
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": false
+    },
+    {
+      "str": "The preparation of this chapter was a collective enterprise of selfless individuals involved",
+      "dir": "ltr",
+      "width": 275.11740000000015,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        145.13580000000002,
+        106.8001
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.5856,
+        95.8001
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "in the 2025 Presidential Transition Project. All contributors to this chapter are listed at the front of this volume",
+      "dir": "ltr",
+      "width": 339.83460000000036,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.5856,
+        95.8001
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.3348,
+        84.8001
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "and include former officials in the U.S. Department of Health and Human Services and other agencies, as well as",
+      "dir": "ltr",
+      "width": 347.5917000000003,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.3348,
+        84.8001
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.3348,
+        73.8001
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "academics, attorneys, and experts in the health care and insurance fields.",
+      "dir": "ltr",
+      "width": 226.3815000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.3348,
+        73.8001
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    }
+  ],
+  "styles": {
+    "g_d0_f3": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f61": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f13": {
+      "fontFamily": "monospace",
+      "ascent": 0.851,
+      "descent": -0.148,
+      "vertical": false
+    },
+    "g_d0_f11": {
+      "fontFamily": "serif",
+      "ascent": 1.143,
+      "descent": -0.351,
+      "vertical": false
+    },
+    "g_d0_f4": {
+      "fontFamily": "serif",
+      "ascent": 1.089,
+      "descent": -0.312,
+      "vertical": false
+    },
+    "g_d0_f10": {
+      "fontFamily": "serif",
+      "ascent": 1.103,
+      "descent": -0.315,
+      "vertical": false
+    },
+    "g_d0_f8": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.017,
+      "descent": -0.297,
+      "vertical": false
+    },
+    "g_d0_f17": {
+      "fontFamily": "sans-serif",
+      "ascent": 0.939,
+      "descent": -0.202,
+      "vertical": false
+    }
+  },
+  "lang": "en-US"
+}

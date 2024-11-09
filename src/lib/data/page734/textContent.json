@@ -1,0 +1,1579 @@
+{
+  "items": [
+    {
+      "str": "— 701 —",
+      "dir": "ltr",
+      "width": 41,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        231.1522,
+        32.0001
+      ],
+      "fontName": "g_d0_f3",
+      "hasEOL": false
+    },
+    {
+      "str": "Department of the Treasury",
+      "dir": "ltr",
+      "width": 125.19809999999998,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        189.5331,
+        664.4
+      ],
+      "fontName": "g_d0_f70",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5017,
+        0,
+        0,
+        10.5,
+        72.318,
+        632
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "administers these reporting programs, most of this expense is mandated by Con",
+      "dir": "ltr",
+      "width": 358.36316131000024,
+      "height": 10.5,
+      "transform": [
+        10.5017,
+        0,
+        0,
+        10.5,
+        72.318,
+        632
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.8436221999999995,
+      "height": 10.5,
+      "transform": [
+        10.5017,
+        0,
+        0,
+        10.5,
+        430.7419,
+        632
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.3564,
+        618
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "gress, not the IRS.",
+      "dir": "ltr",
+      "width": 80.34495000000001,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.3564,
+        618
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        85.6668,
+        604
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "One of the primary reasons that Congress mandates ever-increasing infor",
+      "dir": "ltr",
+      "width": 345.23470800000104,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        85.6668,
+        604
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.9198600000000003,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        430.7137,
+        604
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5959,
+        0,
+        0,
+        10.5,
+        72.2304,
+        590
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "mation reporting is that the Treasury Department and the Joint Committee on",
+      "dir": "ltr",
+      "width": 359.6916001699998,
+      "height": 10.5,
+      "transform": [
+        10.5959,
+        0,
+        0,
+        10.5,
+        72.2304,
+        590
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        71.7636,
+        576
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Taxation staff almost always overestimate how much revenue will be gained from",
+      "dir": "ltr",
+      "width": 359.88750000000005,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        71.7636,
+        576
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.3936,
+        562
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "still more burdensome information reporting, and they do not estimate or report",
+      "dir": "ltr",
+      "width": 359.37300000000016,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.3936,
+        562
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3818,
+        0,
+        0,
+        10.5,
+        72.3984,
+        548
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "private compliance costs. Congress and the Treasury Department must undertake",
+      "dir": "ltr",
+      "width": 359.13345467999915,
+      "height": 10.5,
+      "transform": [
+        10.3818,
+        0,
+        0,
+        10.5,
+        72.3984,
+        548
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3634,
+        0,
+        0,
+        10.5,
+        72.318,
+        534
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "a serious review of the information reporting regime and reduce the burden on the",
+      "dir": "ltr",
+      "width": 359.3664401,
+      "height": 10.5,
+      "transform": [
+        10.3634,
+        0,
+        0,
+        10.5,
+        72.318,
+        534
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6021,
+        0,
+        0,
+        10.5,
+        72.3984,
+        520
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "public—especially small businesses. Small businesses suffer disproportionately",
+      "dir": "ltr",
+      "width": 359.66245977000005,
+      "height": 10.5,
+      "transform": [
+        10.6021,
+        0,
+        0,
+        10.5,
+        72.3984,
+        520
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.4296,
+        506
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "from complexity and administrative burdens. Costs do not increase linearly with",
+      "dir": "ltr",
+      "width": 359.2365000000004,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.4296,
+        506
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3144,
+        0,
+        0,
+        10.5,
+        72.3936,
+        492
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "size, so elevated administrative costs have an adverse effect on the competitiveness",
+      "dir": "ltr",
+      "width": 359.4021736799993,
+      "height": 10.5,
+      "transform": [
+        10.3144,
+        0,
+        0,
+        10.5,
+        72.3936,
+        492
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.36,
+        478
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "of small firms.",
+      "dir": "ltr",
+      "width": 63.2205,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.36,
+        478
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4524,
+        0,
+        0,
+        10.5,
+        85.8456,
+        464
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": true
+    },
+    {
+      "str": "Budget.",
+      "dir": "ltr",
+      "width": 37.58787563999998,
+      "height": 10.5,
+      "transform": [
+        10.4524,
+        0,
+        0,
+        10.5,
+        85.8456,
+        464
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1641508514790896,
+      "height": 0,
+      "transform": [
+        10.4524,
+        0,
+        0,
+        10.5,
+        123.43347563999997,
+        464
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": "The operating budget of the IRS should be held constant in real terms.",
+      "dir": "ltr",
+      "width": 308.3217594799999,
+      "height": 10.5,
+      "transform": [
+        10.4524,
+        0,
+        0,
+        10.5,
+        125.149246,
+        464
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3565,
+        0,
+        0,
+        10.5,
+        71.7636,
+        450
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "The resources allocated to the Office of the Taxpayer Advocate should be increased",
+      "dir": "ltr",
+      "width": 359.53314705,
+      "height": 10.5,
+      "transform": [
+        10.3565,
+        0,
+        0,
+        10.5,
+        71.7636,
+        450
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.4548,
+        436
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "by at least 20 percent (about $44 million). The Office of Equity, Diversity, and",
+      "dir": "ltr",
+      "width": 358.9124489999997,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.4548,
+        436
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4533,
+        0,
+        0,
+        10.5,
+        71.8272,
+        422
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Inclusion should be closed. Provided that IT management is changed; an effective,",
+      "dir": "ltr",
+      "width": 361.87024874,
+      "height": 10.5,
+      "transform": [
+        10.4533,
+        0,
+        0,
+        10.5,
+        71.8272,
+        422
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5387,
+        0,
+        0,
+        10.5,
+        72.096,
+        408
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "well-considered implementation plan is adopted; and serious oversight is put in",
+      "dir": "ltr",
+      "width": 359.82283409999974,
+      "height": 10.5,
+      "transform": [
+        10.5387,
+        0,
+        0,
+        10.5,
+        72.096,
+        408
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3048,
+        0,
+        0,
+        10.5,
+        72.3984,
+        394
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "place, additional resources dedicated solely to IT modernization may be warranted.",
+      "dir": "ltr",
+      "width": 361.1574779999998,
+      "height": 10.5,
+      "transform": [
+        10.3048,
+        0,
+        0,
+        10.5,
+        72.3984,
+        394
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        72.2772,
+        366
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": true
+    },
+    {
+      "str": "INTERNATIONAL AFFAIRS",
+      "dir": "ltr",
+      "width": 135.00900000000001,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        72.2772,
+        366
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        85.2636,
+        352
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "The Treasury Department should withdraw from Senate consideration the",
+      "dir": "ltr",
+      "width": 346.46421599999985,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        85.2636,
+        352
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        71.9316,
+        338
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Protocol Amending the Convention on Mutual Administrative Assistance in Tax",
+      "dir": "ltr",
+      "width": 359.9106,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        71.9316,
+        338
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4015,
+        0,
+        0,
+        10.5,
+        71.9316,
+        324
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Matters.",
+      "dir": "ltr",
+      "width": 37.678393599999985,
+      "height": 10.5,
+      "transform": [
+        10.4015,
+        0,
+        0,
+        10.5,
+        71.9316,
+        324
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "48",
+      "dir": "ltr",
+      "width": 6.518907499999993,
+      "height": 6.1215,
+      "transform": [
+        6.0641,
+        0,
+        0,
+        6.1215,
+        109.1379,
+        327.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.27980054748437444,
+      "height": 0,
+      "transform": [
+        6.0641,
+        0,
+        0,
+        6.1215,
+        115.6568075,
+        327.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "The protocol will lead to substantially more transnational identity theft,",
+      "dir": "ltr",
+      "width": 316.2836112500004,
+      "height": 10.5,
+      "transform": [
+        10.4015,
+        0,
+        0,
+        10.5,
+        117.353546,
+        324
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.36,
+        310
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "crime, industrial espionage, financial fraud, and suppression of political oppo",
+      "dir": "ltr",
+      "width": 358.21951199999984,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.36,
+        310
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.9198600000000003,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        430.7098,
+        310
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3328,
+        0,
+        0,
+        10.5,
+        72.2304,
+        296
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "nents and religious or ethnic minorities by authoritarian and corrupt governments,",
+      "dir": "ltr",
+      "width": 361.48474176000025,
+      "height": 10.5,
+      "transform": [
+        10.3328,
+        0,
+        0,
+        10.5,
+        72.2304,
+        296
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5355,
+        0,
+        0,
+        10.5,
+        72.2304,
+        282
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "including China, Colombia, Nigeria, and Russia. Unlike the original multilateral",
+      "dir": "ltr",
+      "width": 359.68407710000025,
+      "height": 10.5,
+      "transform": [
+        10.5355,
+        0,
+        0,
+        10.5,
+        72.2304,
+        282
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4183,
+        0,
+        0,
+        10.5,
+        72.36,
+        268
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "convention, the amended convention is open to",
+      "dir": "ltr",
+      "width": 208.65979605999996,
+      "height": 10.5,
+      "transform": [
+        10.4183,
+        0,
+        0,
+        10.5,
+        72.36,
+        268
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1550736626896984,
+      "height": 0,
+      "transform": [
+        10.4183,
+        0,
+        0,
+        10.5,
+        281.0197960599999,
+        268
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "all",
+      "dir": "ltr",
+      "width": 11.527848949999962,
+      "height": 10.5,
+      "transform": [
+        10.4183,
+        0,
+        0,
+        10.5,
+        282.6354,
+        268
+      ],
+      "fontName": "g_d0_f10",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.16214279201021645,
+      "height": 0,
+      "transform": [
+        10.4183,
+        0,
+        0,
+        10.5,
+        294.1632489499999,
+        268
+      ],
+      "fontName": "g_d0_f10",
+      "hasEOL": false
+    },
+    {
+      "str": "governments—including many",
+      "dir": "ltr",
+      "width": 136.0911274099996,
+      "height": 10.5,
+      "transform": [
+        10.4183,
+        0,
+        0,
+        10.5,
+        295.85250119999995,
+        268
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2868,
+        254
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "that are either hostile to the United States, have serious corruption problems, or",
+      "dir": "ltr",
+      "width": 359.58195000000006,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2868,
+        254
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4346,
+        0,
+        0,
+        10.5,
+        72.2556,
+        240
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "have inadequate privacy protections. The new Administration should also oppose",
+      "dir": "ltr",
+      "width": 359.30397293999994,
+      "height": 10.5,
+      "transform": [
+        10.4346,
+        0,
+        0,
+        10.5,
+        72.2556,
+        240
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.2868,
+        226
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "the multilateral Competent Authority Agreement on Automatic Exchange of",
+      "dir": "ltr",
+      "width": 359.6364450000005,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.2868,
+        226
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        71.9316,
+        212
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Financial Account Information.",
+      "dir": "ltr",
+      "width": 143.30295,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        71.9316,
+        212
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "49",
+      "dir": "ltr",
+      "width": 6.672435000000001,
+      "height": 6.1215,
+      "transform": [
+        6.1215,
+        0,
+        0,
+        6.1215,
+        214.7604,
+        215.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        85.3272,
+        198
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "International organizations such as the OECD, the World Bank, and the Inter",
+      "dir": "ltr",
+      "width": 345.4815000000002,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        85.3272,
+        198
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.843,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        430.7421,
+        198
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4328,
+        0,
+        0,
+        10.5,
+        72.2304,
+        184
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "national Monetary Fund espouse economic theories and policies that are inimical",
+      "dir": "ltr",
+      "width": 359.508028320001,
+      "height": 10.5,
+      "transform": [
+        10.4328,
+        0,
+        0,
+        10.5,
+        72.2304,
+        184
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3981,
+        0,
+        0,
+        10.5,
+        72.2868,
+        170
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "to American free market and limited government principles. The global elites who",
+      "dir": "ltr",
+      "width": 359.1618119099999,
+      "height": 10.5,
+      "transform": [
+        10.3981,
+        0,
+        0,
+        10.5,
+        72.2868,
+        170
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5075,
+        0,
+        0,
+        10.5,
+        72.36,
+        156
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "operate the IMF regularly advance higher taxes and big centralized government.",
+      "dir": "ltr",
+      "width": 361.07867925,
+      "height": 10.5,
+      "transform": [
+        10.5075,
+        0,
+        0,
+        10.5,
+        72.36,
+        156
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4184,
+        0,
+        0,
+        10.5,
+        71.7636,
+        142
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "The IMF has intervened in American policy debates—and has even recommended",
+      "dir": "ltr",
+      "width": 359.9505108000007,
+      "height": 10.5,
+      "transform": [
+        10.4184,
+        0,
+        0,
+        10.5,
+        71.7636,
+        142
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5743,
+        0,
+        0,
+        10.5,
+        72.2868,
+        128
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "that the U.S. raise taxes. The IMF’s record of advancing global financial stability",
+      "dir": "ltr",
+      "width": 359.42997386999923,
+      "height": 10.5,
+      "transform": [
+        10.5743,
+        0,
+        0,
+        10.5,
+        72.2868,
+        128
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.459,
+        0,
+        0,
+        10.5,
+        72.2556,
+        114
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "has been mixed at best. Its development assistance and lending programs in third-",
+      "dir": "ltr",
+      "width": 362.16588479999956,
+      "height": 10.5,
+      "transform": [
+        10.459,
+        0,
+        0,
+        10.5,
+        72.2556,
+        114
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3061,
+        0,
+        0,
+        10.5,
+        72.096,
+        100
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "world countries have more often than not retarded growth rather than advancing it.",
+      "dir": "ltr",
+      "width": 361.5008860400008,
+      "height": 10.5,
+      "transform": [
+        10.3061,
+        0,
+        0,
+        10.5,
+        72.096,
+        100
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        85.2636,
+        86
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "The Treasury Department plays an important role in these international",
+      "dir": "ltr",
+      "width": 346.6366469999995,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        85.2636,
+        86
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4855,
+        0,
+        0,
+        10.5,
+        72.2304,
+        72
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "institutions and should force reforms and new policies. The U.S., however, should",
+      "dir": "ltr",
+      "width": 359.4649595500002,
+      "height": 10.5,
+      "transform": [
+        10.4855,
+        0,
+        0,
+        10.5,
+        72.2304,
+        72
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    }
+  ],
+  "styles": {
+    "g_d0_f3": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f70": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f4": {
+      "fontFamily": "serif",
+      "ascent": 1.089,
+      "descent": -0.312,
+      "vertical": false
+    },
+    "g_d0_f11": {
+      "fontFamily": "serif",
+      "ascent": 1.143,
+      "descent": -0.351,
+      "vertical": false
+    },
+    "g_d0_f8": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.017,
+      "descent": -0.297,
+      "vertical": false
+    },
+    "g_d0_f10": {
+      "fontFamily": "serif",
+      "ascent": 1.103,
+      "descent": -0.315,
+      "vertical": false
+    }
+  },
+  "lang": "en-US"
+}

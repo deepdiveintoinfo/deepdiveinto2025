@@ -1,0 +1,1675 @@
+{
+  "items": [
+    {
+      "str": "— 377 —",
+      "dir": "ltr",
+      "width": 42.109999999999985,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        230.5973,
+        32.0001
+      ],
+      "fontName": "g_d0_f3",
+      "hasEOL": false
+    },
+    {
+      "str": "Department of Energy and Related Commissions",
+      "dir": "ltr",
+      "width": 220.54230000000004,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        141.7193,
+        664.4
+      ],
+      "fontName": "g_d0_f58",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.2304,
+        632
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "majority of critical materials are mined or processed (or both) in Russia and",
+      "dir": "ltr",
+      "width": 338.54100000000017,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.2304,
+        632
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.0348,
+        618
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "China.",
+      "dir": "ltr",
+      "width": 29.662499999999998,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.0348,
+        618
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "36",
+      "dir": "ltr",
+      "width": 6.5683695,
+      "height": 6.1215,
+      "transform": [
+        6.1215,
+        0,
+        0,
+        6.1215,
+        119.6968,
+        621.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.3155812300906647,
+      "height": 0,
+      "transform": [
+        6.1215,
+        0,
+        0,
+        6.1215,
+        126.2651695,
+        621.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "The processing of critical materials from fossil fuel waste products",
+      "dir": "ltr",
+      "width": 297.06600000000003,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        128.197,
+        618
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        89.5848,
+        604
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "(primarily coal) has shown some potential and, in view of our vast domestic",
+      "dir": "ltr",
+      "width": 335.85300000000007,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        89.5848,
+        604
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.2304,
+        590
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "reserves of coal and abundant waste from coal mining and combustion,",
+      "dir": "ltr",
+      "width": 316.60440000000017,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.2304,
+        590
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.3936,
+        576
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "should be pursued.",
+      "dir": "ltr",
+      "width": 84.82949999999998,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.3936,
+        576
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9.5,
+        0,
+        0,
+        9.5,
+        72.3996,
+        548
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": true
+    },
+    {
+      "str": "New Policies",
+      "dir": "ltr",
+      "width": 61.35099999999999,
+      "height": 9.5,
+      "transform": [
+        9.5,
+        0,
+        0,
+        9.5,
+        72.3996,
+        548
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        5,
+        0,
+        0,
+        5,
+        72.4752,
+        535.5
+      ],
+      "fontName": "g_d0_f13",
+      "hasEOL": true
+    },
+    {
+      "str": "l",
+      "dir": "ltr",
+      "width": 3.955,
+      "height": 5,
+      "transform": [
+        5,
+        0,
+        0,
+        5,
+        72.4752,
+        535.5
+      ],
+      "fontName": "g_d0_f13",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 2.783080000000001,
+      "height": 0,
+      "transform": [
+        5,
+        0,
+        0,
+        5,
+        76.4302,
+        535.5
+      ],
+      "fontName": "g_d0_f13",
+      "hasEOL": false
+    },
+    {
+      "str": "Eliminate FECM.",
+      "dir": "ltr",
+      "width": 85.84800000000001,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.3456,
+        534
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1839047619047576,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        176.19360000000003,
+        534
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": "The next Administration should work with Congress to",
+      "dir": "ltr",
+      "width": 246.79200000000012,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        178.1246,
+        534
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.36,
+        520
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "eliminate all of DOE’s applied energy programs, including those in FECM",
+      "dir": "ltr",
+      "width": 327.58950000000016,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.36,
+        520
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        89.5848,
+        506
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "(with the possible exception of those that are related to basic science for",
+      "dir": "ltr",
+      "width": 321.31050000000016,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        89.5848,
+        506
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.2304,
+        492
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "new energy technology). Taxpayer dollars should not be used to subsidize",
+      "dir": "ltr",
+      "width": 327.6514500000001,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.2304,
+        492
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.3984,
+        478
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "preferred businesses and energy resources, thereby distorting the market",
+      "dir": "ltr",
+      "width": 327.9990000000001,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.3984,
+        478
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.318,
+        464
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "and undermining energy reliability.",
+      "dir": "ltr",
+      "width": 159.1275,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.318,
+        464
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        5,
+        0,
+        0,
+        5,
+        72.4752,
+        437.5
+      ],
+      "fontName": "g_d0_f13",
+      "hasEOL": true
+    },
+    {
+      "str": "l",
+      "dir": "ltr",
+      "width": 3.955,
+      "height": 5,
+      "transform": [
+        5,
+        0,
+        0,
+        5,
+        72.4752,
+        437.5
+      ],
+      "fontName": "g_d0_f13",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 2.783080000000001,
+      "height": 0,
+      "transform": [
+        5,
+        0,
+        0,
+        5,
+        76.4302,
+        437.5
+      ],
+      "fontName": "g_d0_f13",
+      "hasEOL": false
+    },
+    {
+      "str": "Rename FECM (if it cannot be eliminated) under its original",
+      "dir": "ltr",
+      "width": 294.90195000000006,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.3456,
+        436
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.486,
+        422
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": true
+    },
+    {
+      "str": "designation as the Office of Fossil Energy and with its original",
+      "dir": "ltr",
+      "width": 301.959,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.486,
+        422
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.528,
+        408
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": true
+    },
+    {
+      "str": "mission: increasing energy security and supply through fossil fuels.",
+      "dir": "ltr",
+      "width": 329.77349999999984,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.528,
+        408
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        5,
+        0,
+        0,
+        5,
+        72.4752,
+        381.5
+      ],
+      "fontName": "g_d0_f13",
+      "hasEOL": true
+    },
+    {
+      "str": "l",
+      "dir": "ltr",
+      "width": 3.955,
+      "height": 5,
+      "transform": [
+        5,
+        0,
+        0,
+        5,
+        72.4752,
+        381.5
+      ],
+      "fontName": "g_d0_f13",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 2.783080000000001,
+      "height": 0,
+      "transform": [
+        5,
+        0,
+        0,
+        5,
+        76.4302,
+        381.5
+      ],
+      "fontName": "g_d0_f13",
+      "hasEOL": false
+    },
+    {
+      "str": "Focus on energy security and supply.",
+      "dir": "ltr",
+      "width": 179.20350000000008,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.3456,
+        380
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.18379999999999763,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        269.54910000000007,
+        380
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": "Absent elimination of FECM,",
+      "dir": "ltr",
+      "width": 132.06900000000002,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        271.47900000000004,
+        380
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.0348,
+        366
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Congress should direct FECM appropriations toward increasing energy",
+      "dir": "ltr",
+      "width": 320.3014500000001,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.0348,
+        366
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.3936,
+        352
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "security and supply. Congress has already directed these goals (including",
+      "dir": "ltr",
+      "width": 325.19445000000013,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.3936,
+        352
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.2868,
+        338
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "the reduction of costs).",
+      "dir": "ltr",
+      "width": 103.01444999999998,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.2868,
+        338
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "37",
+      "dir": "ltr",
+      "width": 6.286780499999995,
+      "height": 6.1215,
+      "transform": [
+        6.1215,
+        0,
+        0,
+        6.1215,
+        193.3,
+        341.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        5,
+        0,
+        0,
+        5,
+        72.4752,
+        311.5
+      ],
+      "fontName": "g_d0_f13",
+      "hasEOL": true
+    },
+    {
+      "str": "l",
+      "dir": "ltr",
+      "width": 3.955,
+      "height": 5,
+      "transform": [
+        5,
+        0,
+        0,
+        5,
+        72.4752,
+        311.5
+      ],
+      "fontName": "g_d0_f13",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 2.783080000000001,
+      "height": 0,
+      "transform": [
+        5,
+        0,
+        0,
+        5,
+        76.4302,
+        311.5
+      ],
+      "fontName": "g_d0_f13",
+      "hasEOL": false
+    },
+    {
+      "str": "Ensure that LNG export approvals are reviewed and processed in a",
+      "dir": "ltr",
+      "width": 325.86749999999984,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.3456,
+        310
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.4128,
+        296
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": true
+    },
+    {
+      "str": "timely manner.",
+      "dir": "ltr",
+      "width": 74.865,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.4128,
+        296
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.18392380952380855,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        165.27779999999998,
+        296
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": "In particular:",
+      "dir": "ltr",
+      "width": 59.912999999999975,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        167.20899999999997,
+        296
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        89.8788,
+        268
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "1.",
+      "dir": "ltr",
+      "width": 6.7095,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        89.8788,
+        268
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 1.0803142857142856,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        96.5883,
+        268
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "Ensure that LNG export applications are reviewed and approved",
+      "dir": "ltr",
+      "width": 288.33,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        107.9316,
+        268
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        108.36,
+        254
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "expeditiously.",
+      "dir": "ltr",
+      "width": 62.75850000000001,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        108.36,
+        254
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        89.8884,
+        226
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "2.",
+      "dir": "ltr",
+      "width": 8.127,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        89.8884,
+        226
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.9444000000000004,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        98.0154,
+        226
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "Maintain the categorical exclusion from the National Environmental",
+      "dir": "ltr",
+      "width": 308.47950000000003,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        107.9316,
+        226
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        107.9316,
+        212
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Policy Act (NEPA)",
+      "dir": "ltr",
+      "width": 82.62345,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        107.9316,
+        212
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "38",
+      "dir": "ltr",
+      "width": 6.488790000000001,
+      "height": 6.1215,
+      "transform": [
+        6.1215,
+        0,
+        0,
+        6.1215,
+        190.5547,
+        215.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.31557788123825603,
+      "height": 0,
+      "transform": [
+        6.1215,
+        0,
+        0,
+        6.1215,
+        197.04349,
+        215.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "for LNG exports that was established by the Trump",
+      "dir": "ltr",
+      "width": 228.85800000000003,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        198.97529999999998,
+        212
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        107.4264,
+        198
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Administration",
+      "dir": "ltr",
+      "width": 69.96150000000002,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        107.4264,
+        198
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "39",
+      "dir": "ltr",
+      "width": 6.5683695,
+      "height": 6.1215,
+      "transform": [
+        6.1215,
+        0,
+        0,
+        6.1215,
+        177.3868,
+        201.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.3155975659560507,
+      "height": 0,
+      "transform": [
+        6.1215,
+        0,
+        0,
+        6.1215,
+        183.9551695,
+        201.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "or (if it is revoked by the Biden Administration)",
+      "dir": "ltr",
+      "width": 212.30895000000004,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        185.88709999999998,
+        198
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        108.2304,
+        184
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "reinstate it.",
+      "dir": "ltr",
+      "width": 51.76500000000001,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        108.2304,
+        184
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.0348,
+        156
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "3.",
+      "dir": "ltr",
+      "width": 7.686000000000002,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.0348,
+        156
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.9449142857142842,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        97.72080000000001,
+        156
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "Work with Congress to expand automatic approvals to include allies such",
+      "dir": "ltr",
+      "width": 319.2104999999997,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        107.6424,
+        156
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        108.318,
+        142
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "as NATO as well as nations that have free trade agreements with the U.S.",
+      "dir": "ltr",
+      "width": 314.16944999999976,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        108.318,
+        142
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        5,
+        0,
+        0,
+        5,
+        72.4752,
+        115.5
+      ],
+      "fontName": "g_d0_f13",
+      "hasEOL": true
+    },
+    {
+      "str": "l",
+      "dir": "ltr",
+      "width": 3.955,
+      "height": 5,
+      "transform": [
+        5,
+        0,
+        0,
+        5,
+        72.4752,
+        115.5
+      ],
+      "fontName": "g_d0_f13",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 2.7967600000000004,
+      "height": 0,
+      "transform": [
+        5,
+        0,
+        0,
+        5,
+        76.4302,
+        115.5
+      ],
+      "fontName": "g_d0_f13",
+      "hasEOL": false
+    },
+    {
+      "str": "Strategic Petroleum Reserve (SPR).",
+      "dir": "ltr",
+      "width": 174.18345,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.414,
+        114
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1838999999999996,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        264.59745000000004,
+        114
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": "The Biden Administration moved",
+      "dir": "ltr",
+      "width": 150.62250000000003,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        266.52840000000003,
+        114
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.2304,
+        100
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "responsibility for the SPR to CESER. Regardless of where the responsibility",
+      "dir": "ltr",
+      "width": 337.6800000000002,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.2304,
+        100
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.2028,
+        86
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "lies, the new DESAS should ensure that the SPR is maintained for national",
+      "dir": "ltr",
+      "width": 331.6215000000002,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.2028,
+        86
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.3936,
+        72
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "strategic purposes and not misused for political gain.",
+      "dir": "ltr",
+      "width": 235.872,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.3936,
+        72
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    }
+  ],
+  "styles": {
+    "g_d0_f3": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f58": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f4": {
+      "fontFamily": "serif",
+      "ascent": 1.089,
+      "descent": -0.312,
+      "vertical": false
+    },
+    "g_d0_f8": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.017,
+      "descent": -0.297,
+      "vertical": false
+    },
+    "g_d0_f13": {
+      "fontFamily": "monospace",
+      "ascent": 0.851,
+      "descent": -0.148,
+      "vertical": false
+    },
+    "g_d0_f11": {
+      "fontFamily": "serif",
+      "ascent": 1.143,
+      "descent": -0.351,
+      "vertical": false
+    }
+  },
+  "lang": "en-US"
+}

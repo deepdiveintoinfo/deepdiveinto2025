@@ -1,0 +1,1989 @@
+{
+  "items": [
+    {
+      "str": "— 561 —",
+      "dir": "ltr",
+      "width": 40.58,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        231.3623,
+        32.0001
+      ],
+      "fontName": "g_d0_f3",
+      "hasEOL": false
+    },
+    {
+      "str": "Department of Justice",
+      "dir": "ltr",
+      "width": 100.91610000000003,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        201.5258,
+        664.4
+      ],
+      "fontName": "g_d0_f64",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6215,
+        0,
+        0,
+        10.5,
+        85.3272,
+        632
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "In fact, it was only a few years ago, in",
+      "dir": "ltr",
+      "width": 167.63169945000007,
+      "height": 10.5,
+      "transform": [
+        10.6215,
+        0,
+        0,
+        10.5,
+        85.3272,
+        632
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.2115520924539898,
+      "height": 0,
+      "transform": [
+        10.6215,
+        0,
+        0,
+        10.5,
+        252.95889944999996,
+        632
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "Masterpiece Cakeshop",
+      "dir": "ltr",
+      "width": 100.95841965000045,
+      "height": 10.5,
+      "transform": [
+        10.6215,
+        0,
+        0,
+        10.5,
+        255.2059,
+        632
+      ],
+      "fontName": "g_d0_f10",
+      "hasEOL": false
+    },
+    {
+      "str": ", that the govern",
+      "dir": "ltr",
+      "width": 74.48114445000027,
+      "height": 10.5,
+      "transform": [
+        10.6215,
+        0,
+        0,
+        10.5,
+        356.2072,
+        632
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.887469,
+      "height": 10.5,
+      "transform": [
+        10.6215,
+        0,
+        0,
+        10.5,
+        430.7296,
+        632
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6204,
+        0,
+        0,
+        10.5,
+        72.2304,
+        618
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "ment acknowledged the constitutional problems involved in compelling artists",
+      "dir": "ltr",
+      "width": 359.2520226399994,
+      "height": 10.5,
+      "transform": [
+        10.6204,
+        0,
+        0,
+        10.5,
+        72.2304,
+        618
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5453,
+        0,
+        0,
+        10.5,
+        72.2868,
+        604
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "to speak government-favored messages. In that case, the United States acknowl",
+      "dir": "ltr",
+      "width": 358.5612905999993,
+      "height": 10.5,
+      "transform": [
+        10.5453,
+        0,
+        0,
+        10.5,
+        72.2868,
+        604
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.8595797999999997,
+      "height": 10.5,
+      "transform": [
+        10.5453,
+        0,
+        0,
+        10.5,
+        430.7355,
+        604
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5197,
+        0,
+        0,
+        10.5,
+        72.36,
+        590
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "edged “a basic First Amendment principle that ‘freedom of speech prohibits the",
+      "dir": "ltr",
+      "width": 358.92795612000015,
+      "height": 10.5,
+      "transform": [
+        10.5197,
+        0,
+        0,
+        10.5,
+        72.36,
+        590
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6992,
+        0,
+        0,
+        10.5,
+        72.3564,
+        576
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "government from telling people what they must say.’”",
+      "dir": "ltr",
+      "width": 245.98209743999973,
+      "height": 10.5,
+      "transform": [
+        10.6992,
+        0,
+        0,
+        10.5,
+        72.3564,
+        576
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "66",
+      "dir": "ltr",
+      "width": 6.780379900000015,
+      "height": 6.1215,
+      "transform": [
+        6.2377,
+        0,
+        0,
+        6.1215,
+        318.536,
+        579.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.3563181461115434,
+      "height": 0,
+      "transform": [
+        6.2377,
+        0,
+        0,
+        6.1215,
+        325.3163799,
+        579.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "The department had it",
+      "dir": "ltr",
+      "width": 104.12782415999973,
+      "height": 10.5,
+      "transform": [
+        10.6992,
+        0,
+        0,
+        10.5,
+        327.5389856,
+        576
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5065,
+        0,
+        0,
+        10.5,
+        72.2304,
+        562
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "right when it argued that the government may not “compel the dissemination of",
+      "dir": "ltr",
+      "width": 359.48410010000015,
+      "height": 10.5,
+      "transform": [
+        10.5065,
+        0,
+        0,
+        10.5,
+        72.2304,
+        562
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3375,
+        0,
+        0,
+        10.5,
+        72.2304,
+        548
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "its own preferred message,” because the First Amendment protects the “individual",
+      "dir": "ltr",
+      "width": 359.30875750000075,
+      "height": 10.5,
+      "transform": [
+        10.3375,
+        0,
+        0,
+        10.5,
+        72.2304,
+        548
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.4296,
+        534
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "freedom of mind.”",
+      "dir": "ltr",
+      "width": 81.63749999999999,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.4296,
+        534
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "67",
+      "dir": "ltr",
+      "width": 6.415332,
+      "height": 6.1215,
+      "transform": [
+        6.1215,
+        0,
+        0,
+        6.1215,
+        154.0581,
+        537.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.3396010781671159,
+      "height": 0,
+      "transform": [
+        6.1215,
+        0,
+        0,
+        6.1215,
+        160.473432,
+        537.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "It was also correct when it argued that “[a]n artist cannot be",
+      "dir": "ltr",
+      "width": 268.9785000000001,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        162.5523,
+        534
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.548,
+        0,
+        0,
+        10.5,
+        72.4296,
+        520
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "forced to paint, a musician cannot be forced to play, and a poet cannot be forced",
+      "dir": "ltr",
+      "width": 359.2142495999991,
+      "height": 10.5,
+      "transform": [
+        10.548,
+        0,
+        0,
+        10.5,
+        72.4296,
+        520
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5887,
+        0,
+        0,
+        10.5,
+        72.2868,
+        506
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "to write.”",
+      "dir": "ltr",
+      "width": 42.264796049999994,
+      "height": 10.5,
+      "transform": [
+        10.5887,
+        0,
+        0,
+        10.5,
+        72.2868,
+        506
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "68",
+      "dir": "ltr",
+      "width": 6.620756999999996,
+      "height": 6.1215,
+      "transform": [
+        6.1732,
+        0,
+        0,
+        6.1215,
+        114.5524,
+        509.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.351476997343354,
+      "height": 0,
+      "transform": [
+        6.1732,
+        0,
+        0,
+        6.1215,
+        121.173157,
+        509.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "The United States’ directly contrary position in",
+      "dir": "ltr",
+      "width": 215.48533935000037,
+      "height": 10.5,
+      "transform": [
+        10.5887,
+        0,
+        0,
+        10.5,
+        123.3428948,
+        506
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19805697111067577,
+      "height": 0,
+      "transform": [
+        10.5887,
+        0,
+        0,
+        10.5,
+        338.8282341500004,
+        506
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "303 Creative",
+      "dir": "ltr",
+      "width": 57.41722575000009,
+      "height": 10.5,
+      "transform": [
+        10.5887,
+        0,
+        0,
+        10.5,
+        340.9254,
+        506
+      ],
+      "fontName": "g_d0_f10",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.20393195104213654,
+      "height": 0,
+      "transform": [
+        10.5887,
+        0,
+        0,
+        10.5,
+        398.34262575000014,
+        506
+      ],
+      "fontName": "g_d0_f10",
+      "hasEOL": false
+    },
+    {
+      "str": "is hard",
+      "dir": "ltr",
+      "width": 31.06724580000005,
+      "height": 10.5,
+      "transform": [
+        10.5887,
+        0,
+        0,
+        10.5,
+        400.502,
+        506
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5781,
+        0,
+        0,
+        10.5,
+        72.2868,
+        492
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "to explain based on anything other than its support for the message the State of",
+      "dir": "ltr",
+      "width": 359.3200742299996,
+      "height": 10.5,
+      "transform": [
+        10.5781,
+        0,
+        0,
+        10.5,
+        72.2868,
+        492
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.0348,
+        478
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Colorado was attempting to compel.",
+      "dir": "ltr",
+      "width": 161.75144999999998,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.0348,
+        478
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.547,
+        0,
+        0,
+        10.5,
+        85.3272,
+        464
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "It is black letter law that no official “can prescribe what shall be orthodox…or",
+      "dir": "ltr",
+      "width": 346.63031909999916,
+      "height": 10.5,
+      "transform": [
+        10.547,
+        0,
+        0,
+        10.5,
+        85.3272,
+        464
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.4296,
+        450
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "force citizens to confess by word or act their faith therein.”",
+      "dir": "ltr",
+      "width": 273.0043259999999,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.4296,
+        450
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "69",
+      "dir": "ltr",
+      "width": 6.799607100000021,
+      "height": 6.1215,
+      "transform": [
+        6.2439,
+        0,
+        0,
+        6.1215,
+        345.6505,
+        453.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.3761355723185763,
+      "height": 0,
+      "transform": [
+        6.2439,
+        0,
+        0,
+        6.1215,
+        352.4501071,
+        453.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "Rather, the First",
+      "dir": "ltr",
+      "width": 76.90422599999961,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        354.79866,
+        450
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        71.4264,
+        436
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Amendment places “the decision as to what views shall be voiced largely into the",
+      "dir": "ltr",
+      "width": 360.0555000000003,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        71.4264,
+        436
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4646,
+        0,
+        0,
+        10.5,
+        72.2556,
+        422
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "hands of each of us, in the hope that use of such freedom will ultimately produce a",
+      "dir": "ltr",
+      "width": 359.0132180400007,
+      "height": 10.5,
+      "transform": [
+        10.4646,
+        0,
+        0,
+        10.5,
+        72.2556,
+        422
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3535,
+        0,
+        0,
+        10.5,
+        72.2304,
+        408
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "more capable citizenry and more perfect polity.”",
+      "dir": "ltr",
+      "width": 209.95655580000002,
+      "height": 10.5,
+      "transform": [
+        10.3535,
+        0,
+        0,
+        10.5,
+        72.2304,
+        408
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "70",
+      "dir": "ltr",
+      "width": 6.512951900000007,
+      "height": 6.1215,
+      "transform": [
+        6.0361,
+        0,
+        0,
+        6.1215,
+        282.3002,
+        411.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.277375888404756,
+      "height": 0,
+      "transform": [
+        6.0361,
+        0,
+        0,
+        6.1215,
+        288.81315190000004,
+        411.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "As the Supreme Court has noted,",
+      "dir": "ltr",
+      "width": 143.1930463999994,
+      "height": 10.5,
+      "transform": [
+        10.3535,
+        0,
+        0,
+        10.5,
+        290.4874205,
+        408
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5638,
+        0,
+        0,
+        10.5,
+        72.3564,
+        394
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "government officials have frequently sought to “coerce uniformity of sentiment",
+      "dir": "ltr",
+      "width": 359.29068370000016,
+      "height": 10.5,
+      "transform": [
+        10.5638,
+        0,
+        0,
+        10.5,
+        72.3564,
+        394
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        380
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "in support of some end thought essential to their time and country.”",
+      "dir": "ltr",
+      "width": 304.00650000000013,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        380
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "71",
+      "dir": "ltr",
+      "width": 5.595051000000001,
+      "height": 6.1215,
+      "transform": [
+        6.1215,
+        0,
+        0,
+        6.1215,
+        376.2234,
+        383.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.33446851261945143,
+      "height": 0,
+      "transform": [
+        6.1215,
+        0,
+        0,
+        6.1215,
+        381.81845100000004,
+        383.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "In the face",
+      "dir": "ltr",
+      "width": 47.61750000000002,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        383.8659,
+        380
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5119,
+        0,
+        0,
+        10.5,
+        72.36,
+        366
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "of such attempts to coerce orthodoxy, the DOJ should maintain its commitment",
+      "dir": "ltr",
+      "width": 359.3072539,
+      "height": 10.5,
+      "transform": [
+        10.5119,
+        0,
+        0,
+        10.5,
+        72.36,
+        366
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.54,
+        0,
+        0,
+        10.5,
+        72.2868,
+        352
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "to upholding the Constitution’s neutral principles of free speech, which commit",
+      "dir": "ltr",
+      "width": 359.68171599999914,
+      "height": 10.5,
+      "transform": [
+        10.54,
+        0,
+        0,
+        10.5,
+        72.2868,
+        352
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2868,
+        338
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "the government “to preserve an uninhibited marketplace of ideas in which truth",
+      "dir": "ltr",
+      "width": 359.37300000000016,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2868,
+        338
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.096,
+        324
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "will ultimately prevail.”",
+      "dir": "ltr",
+      "width": 105.35700000000001,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.096,
+        324
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "72",
+      "dir": "ltr",
+      "width": 6.4214535,
+      "height": 6.1215,
+      "transform": [
+        6.1215,
+        0,
+        0,
+        6.1215,
+        177.4508,
+        327.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5407,
+        0,
+        0,
+        10.5,
+        85.8456,
+        310
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": true
+    },
+    {
+      "str": "Pursuing Equal Protection for All Americans by Vigorously Enforcing",
+      "dir": "ltr",
+      "width": 345.76236581999956,
+      "height": 10.5,
+      "transform": [
+        10.5407,
+        0,
+        0,
+        10.5,
+        85.8456,
+        310
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5871,
+        0,
+        0,
+        10.5,
+        71.5884,
+        296
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": true
+    },
+    {
+      "str": "Applicable Federal Civil Rights Laws in Government, Education, and the",
+      "dir": "ltr",
+      "width": 359.9254038600006,
+      "height": 10.5,
+      "transform": [
+        10.5871,
+        0,
+        0,
+        10.5,
+        71.5884,
+        296
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3938,
+        0,
+        0,
+        10.5,
+        72.3456,
+        282
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": true
+    },
+    {
+      "str": "Private Sector.",
+      "dir": "ltr",
+      "width": 72.04566407999992,
+      "height": 10.5,
+      "transform": [
+        10.3938,
+        0,
+        0,
+        10.5,
+        72.3456,
+        282
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1594144797860275,
+      "height": 0,
+      "transform": [
+        10.3938,
+        0,
+        0,
+        10.5,
+        144.39126407999998,
+        282
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": "Entities across the private and public sectors in the United States",
+      "dir": "ltr",
+      "width": 285.4657170000001,
+      "height": 10.5,
+      "transform": [
+        10.3938,
+        0,
+        0,
+        10.5,
+        146.0481863,
+        282
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2556,
+        268
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "have been besieged in recent years by an unholy alliance of special interests, rad",
+      "dir": "ltr",
+      "width": 358.5015000000001,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2556,
+        268
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.843,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        430.7421,
+        268
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6869,
+        0,
+        0,
+        10.5,
+        72.2304,
+        254
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "icals in government, and the far Left. This unholy alliance speaks in platitudes",
+      "dir": "ltr",
+      "width": 359.13968663999964,
+      "height": 10.5,
+      "transform": [
+        10.6869,
+        0,
+        0,
+        10.5,
+        72.2304,
+        254
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5961,
+        0,
+        0,
+        10.5,
+        72.318,
+        240
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "about advancing the interests of certain segments of American society, but that",
+      "dir": "ltr",
+      "width": 359.67507800999954,
+      "height": 10.5,
+      "transform": [
+        10.5961,
+        0,
+        0,
+        10.5,
+        72.318,
+        240
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.318,
+        226
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "advancement comes at the expense of other Americans and in nearly all cases vio",
+      "dir": "ltr",
+      "width": 358.48050000000006,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.318,
+        226
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.843,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        430.7422,
+        226
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2028,
+        212
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "lates long-standing federal law.",
+      "dir": "ltr",
+      "width": 139.1355,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2028,
+        212
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        85.4316,
+        198
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Even though numerous federal laws prohibit discrimination based on notable",
+      "dir": "ltr",
+      "width": 346.0695000000002,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        85.4316,
+        198
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.2304,
+        184
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "immutable characteristics such as race and sex,",
+      "dir": "ltr",
+      "width": 223.74903600000025,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.2304,
+        184
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "73",
+      "dir": "ltr",
+      "width": 6.537363299999984,
+      "height": 6.1215,
+      "transform": [
+        6.2439,
+        0,
+        0,
+        6.1215,
+        295.9332,
+        187.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.42440729351847695,
+      "height": 0,
+      "transform": [
+        6.2439,
+        0,
+        0,
+        6.1215,
+        302.4705633,
+        187.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "the Biden Administration—",
+      "dir": "ltr",
+      "width": 129.73344300000002,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        305.12052,
+        184
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4648,
+        0,
+        0,
+        10.5,
+        72.2868,
+        170
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "through the DOJ’s Civil Rights Division and other federal entities—has enshrined",
+      "dir": "ltr",
+      "width": 359.02845135999974,
+      "height": 10.5,
+      "transform": [
+        10.4648,
+        0,
+        0,
+        10.5,
+        72.2868,
+        170
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.2903,
+        0,
+        0,
+        10.5,
+        72.318,
+        156
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "affirmative discrimination in all aspects of its operations under the guise of “equity.”",
+      "dir": "ltr",
+      "width": 362.12903439000064,
+      "height": 10.5,
+      "transform": [
+        10.2903,
+        0,
+        0,
+        10.5,
+        72.318,
+        156
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3651,
+        0,
+        0,
+        10.5,
+        71.9316,
+        142
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Federal agencies and their components have established so-called diversity, equity,",
+      "dir": "ltr",
+      "width": 362.08714783000016,
+      "height": 10.5,
+      "transform": [
+        10.3651,
+        0,
+        0,
+        10.5,
+        71.9316,
+        142
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3492,
+        0,
+        0,
+        10.5,
+        72.318,
+        128
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "and inclusion (DEI) offices that have become the vehicles for this unlawful discrim",
+      "dir": "ltr",
+      "width": 358.3131071599995,
+      "height": 10.5,
+      "transform": [
+        10.3492,
+        0,
+        0,
+        10.5,
+        72.318,
+        128
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.7878072,
+      "height": 10.5,
+      "transform": [
+        10.3492,
+        0,
+        0,
+        10.5,
+        430.7648,
+        128
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4282,
+        0,
+        0,
+        10.5,
+        72.2304,
+        114
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "ination, and all departments and agencies have created “equity” plans to carry out",
+      "dir": "ltr",
+      "width": 359.6894744000005,
+      "height": 10.5,
+      "transform": [
+        10.4282,
+        0,
+        0,
+        10.5,
+        72.2304,
+        114
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5752,
+        0,
+        0,
+        10.5,
+        72.2868,
+        100
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "these invidious schemes.",
+      "dir": "ltr",
+      "width": 112.45773432000014,
+      "height": 10.5,
+      "transform": [
+        10.5752,
+        0,
+        0,
+        10.5,
+        72.2868,
+        100
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "74",
+      "dir": "ltr",
+      "width": 6.0728205000000015,
+      "height": 6.1215,
+      "transform": [
+        6.1653,
+        0,
+        0,
+        6.1215,
+        184.8143,
+        103.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.351519033948059,
+      "height": 0,
+      "transform": [
+        6.1653,
+        0,
+        0,
+        6.1215,
+        190.8871205,
+        103.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "To reverse this trend, the next conservative Adminis",
+      "dir": "ltr",
+      "width": 237.57186800000034,
+      "height": 10.5,
+      "transform": [
+        10.5752,
+        0,
+        0,
+        10.5,
+        193.05434079999998,
+        100
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.8705232,
+      "height": 10.5,
+      "transform": [
+        10.5752,
+        0,
+        0,
+        10.5,
+        430.7311,
+        100
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2868,
+        86
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "tration should:",
+      "dir": "ltr",
+      "width": 66.74849999999999,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2868,
+        86
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    }
+  ],
+  "styles": {
+    "g_d0_f3": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f64": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f4": {
+      "fontFamily": "serif",
+      "ascent": 1.089,
+      "descent": -0.312,
+      "vertical": false
+    },
+    "g_d0_f10": {
+      "fontFamily": "serif",
+      "ascent": 1.103,
+      "descent": -0.315,
+      "vertical": false
+    },
+    "g_d0_f11": {
+      "fontFamily": "serif",
+      "ascent": 1.143,
+      "descent": -0.351,
+      "vertical": false
+    }
+  },
+  "lang": "en-US"
+}

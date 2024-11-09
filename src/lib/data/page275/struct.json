@@ -1,0 +1,407 @@
+{
+  "children": [
+    {
+      "role": "Document",
+      "children": [
+        {
+          "role": "Art",
+          "children": [
+            {
+              "role": "Sect",
+              "children": [
+                {
+                  "role": "P",
+                  "children": [
+                    {
+                      "type": "content",
+                      "id": "p700R_mc13038"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p700R_mc13039"
+                    }
+                  ]
+                },
+                {
+                  "role": "P",
+                  "children": [
+                    {
+                      "type": "content",
+                      "id": "p700R_mc13040"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p700R_mc13041"
+                    },
+                    {
+                      "role": "Span",
+                      "children": [
+                        {
+                          "type": "content",
+                          "id": "p700R_mc13042"
+                        }
+                      ],
+                      "alt": "­"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p700R_mc13043"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p700R_mc13044"
+                    },
+                    {
+                      "role": "Span",
+                      "children": [
+                        {
+                          "type": "content",
+                          "id": "p700R_mc13045"
+                        }
+                      ],
+                      "alt": "­"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p700R_mc13046"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p700R_mc13047"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p700R_mc13048"
+                    }
+                  ]
+                },
+                {
+                  "role": "P",
+                  "children": [
+                    {
+                      "type": "content",
+                      "id": "p700R_mc13049"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p700R_mc13050"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p700R_mc13051"
+                    },
+                    {
+                      "role": "Span",
+                      "children": [
+                        {
+                          "type": "content",
+                          "id": "p700R_mc13052"
+                        }
+                      ],
+                      "alt": "­"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p700R_mc13053"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p700R_mc13054"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p700R_mc13055"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p700R_mc13056"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p700R_mc13057"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p700R_mc13058"
+                    }
+                  ]
+                },
+                {
+                  "role": "P",
+                  "children": [
+                    {
+                      "type": "content",
+                      "id": "p700R_mc13059"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p700R_mc13060"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p700R_mc13061"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p700R_mc13062"
+                    },
+                    {
+                      "role": "Reference",
+                      "children": [
+                        {
+                          "role": "Link",
+                          "children": [
+                            {
+                              "type": "object",
+                              "id": "32078R"
+                            },
+                            {
+                              "role": "Span",
+                              "children": [
+                                {
+                                  "type": "content",
+                                  "id": "p700R_mc13063"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "content",
+                      "id": "p700R_mc13064"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p700R_mc13065"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p700R_mc13066"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p700R_mc13067"
+                    },
+                    {
+                      "role": "Span",
+                      "children": [
+                        {
+                          "type": "content",
+                          "id": "p700R_mc13068"
+                        }
+                      ],
+                      "alt": "­"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p700R_mc13069"
+                    },
+                    {
+                      "role": "Reference",
+                      "children": [
+                        {
+                          "role": "Link",
+                          "children": [
+                            {
+                              "type": "object",
+                              "id": "32074R"
+                            },
+                            {
+                              "role": "Span",
+                              "children": [
+                                {
+                                  "type": "content",
+                                  "id": "p700R_mc13070"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "role": "P",
+                  "children": [
+                    {
+                      "type": "content",
+                      "id": "p700R_mc13071"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p700R_mc13072"
+                    },
+                    {
+                      "role": "Reference",
+                      "children": [
+                        {
+                          "role": "Link",
+                          "children": [
+                            {
+                              "type": "object",
+                              "id": "32067R"
+                            },
+                            {
+                              "role": "Span",
+                              "children": [
+                                {
+                                  "type": "content",
+                                  "id": "p700R_mc13073"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "content",
+                      "id": "p700R_mc13074"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p700R_mc13075"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p700R_mc13076"
+                    },
+                    {
+                      "role": "Span",
+                      "children": [
+                        {
+                          "type": "content",
+                          "id": "p700R_mc13077"
+                        }
+                      ],
+                      "alt": "­"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p700R_mc13078"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p700R_mc13079"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p700R_mc13080"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p700R_mc13081"
+                    },
+                    {
+                      "role": "Reference",
+                      "children": [
+                        {
+                          "role": "Link",
+                          "children": [
+                            {
+                              "type": "object",
+                              "id": "32063R"
+                            },
+                            {
+                              "role": "Span",
+                              "children": [
+                                {
+                                  "type": "content",
+                                  "id": "p700R_mc13082"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "content",
+                      "id": "p700R_mc13083"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p700R_mc13084"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p700R_mc13085"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p700R_mc13086"
+                    }
+                  ]
+                },
+                {
+                  "role": "P",
+                  "children": [
+                    {
+                      "type": "content",
+                      "id": "p700R_mc13087"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p700R_mc13088"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p700R_mc13089"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p700R_mc13090"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p700R_mc13091"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p700R_mc13092"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p700R_mc13093"
+                    }
+                  ]
+                },
+                {
+                  "role": "P",
+                  "children": [
+                    {
+                      "type": "content",
+                      "id": "p700R_mc13094"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p700R_mc13095"
+                    },
+                    {
+                      "role": "Span",
+                      "children": [
+                        {
+                          "type": "content",
+                          "id": "p700R_mc13096"
+                        }
+                      ],
+                      "alt": "­"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p700R_mc13097"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "role": "Root"
+}

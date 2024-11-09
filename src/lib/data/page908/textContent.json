@@ -1,0 +1,1605 @@
+{
+  "items": [
+    {
+      "str": "— 875 —",
+      "dir": "ltr",
+      "width": 42.23,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        230.5374,
+        32.0001
+      ],
+      "fontName": "g_d0_f3",
+      "hasEOL": false
+    },
+    {
+      "str": "Federal Trade Commission",
+      "dir": "ltr",
+      "width": 119.97810000000003,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        191.9751,
+        664.4
+      ],
+      "fontName": "g_d0_f104",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3597,
+        0,
+        0,
+        10.5,
+        85.8456,
+        632
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": true
+    },
+    {
+      "str": "Protecting Children Online.",
+      "dir": "ltr",
+      "width": 133.53860493999997,
+      "height": 10.5,
+      "transform": [
+        10.3597,
+        0,
+        0,
+        10.5,
+        85.8456,
+        632
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.16330841240576788,
+      "height": 0,
+      "transform": [
+        10.3597,
+        0,
+        0,
+        10.5,
+        219.38420494,
+        632
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": "The FTC has long protected children in a variety",
+      "dir": "ltr",
+      "width": 210.84475827999964,
+      "height": 10.5,
+      "transform": [
+        10.3597,
+        0,
+        0,
+        10.5,
+        221.07603110000002,
+        632
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.36,
+        618
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "of different contexts. Internet platforms profit from obtaining information from",
+      "dir": "ltr",
+      "width": 359.3100000000003,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.36,
+        618
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4967,
+        0,
+        0,
+        10.5,
+        72.36,
+        604
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "children without parents’ knowledge or consent—and social media’s effect on the",
+      "dir": "ltr",
+      "width": 359.18867664000027,
+      "height": 10.5,
+      "transform": [
+        10.4967,
+        0,
+        0,
+        10.5,
+        72.36,
+        604
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.096,
+        590
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "well-being of American children is well-documented. Around 2012, American",
+      "dir": "ltr",
+      "width": 359.43509699999976,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.096,
+        590
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2868,
+        576
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "teens experienced a dramatic decline in wellness. Depression, self-harm, suicide",
+      "dir": "ltr",
+      "width": 359.1735000000002,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2868,
+        576
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.318,
+        562
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "attempts, and suicide all increased sharply among U.S. adolescents between 2011",
+      "dir": "ltr",
+      "width": 359.89695000000006,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.318,
+        562
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6896,
+        0,
+        0,
+        10.5,
+        72.318,
+        548
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "and 2019,",
+      "dir": "ltr",
+      "width": 43.245845760000044,
+      "height": 10.5,
+      "transform": [
+        10.6896,
+        0,
+        0,
+        10.5,
+        72.318,
+        548
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "16",
+      "dir": "ltr",
+      "width": 5.939096000000006,
+      "height": 6.1215,
+      "transform": [
+        6.232,
+        0,
+        0,
+        6.1215,
+        115.6151,
+        551.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.3551463414634129,
+      "height": 0,
+      "transform": [
+        6.232,
+        0,
+        0,
+        6.1215,
+        121.554196,
+        551.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "with similar trends worldwide.",
+      "dir": "ltr",
+      "width": 141.85099199999976,
+      "height": 10.5,
+      "transform": [
+        10.6896,
+        0,
+        0,
+        10.5,
+        123.767468,
+        548
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "17",
+      "dir": "ltr",
+      "width": 5.714743999999977,
+      "height": 6.1215,
+      "transform": [
+        6.232,
+        0,
+        0,
+        6.1215,
+        265.7387,
+        551.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.35515468549422335,
+      "height": 0,
+      "transform": [
+        6.232,
+        0,
+        0,
+        6.1215,
+        271.453444,
+        551.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "The increase occurred at the same",
+      "dir": "ltr",
+      "width": 157.70580671999974,
+      "height": 10.5,
+      "transform": [
+        10.6896,
+        0,
+        0,
+        10.5,
+        273.666768,
+        548
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2868,
+        534
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "time that social media use moved from rare to ubiquitous among teens,",
+      "dir": "ltr",
+      "width": 317.9085000000002,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2868,
+        534
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "18",
+      "dir": "ltr",
+      "width": 5.735845500000001,
+      "height": 6.1215,
+      "transform": [
+        6.1215,
+        0,
+        0,
+        6.1215,
+        390.1516,
+        537.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.33102254349424565,
+      "height": 0,
+      "transform": [
+        6.1215,
+        0,
+        0,
+        6.1215,
+        395.88744549999996,
+        537.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "making",
+      "dir": "ltr",
+      "width": 33.726,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        397.9138,
+        534
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6111,
+        0,
+        0,
+        10.5,
+        72.3936,
+        520
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "social media a prime suspect for the sudden rise in mental health issues among",
+      "dir": "ltr",
+      "width": 359.270623800001,
+      "height": 10.5,
+      "transform": [
+        10.6111,
+        0,
+        0,
+        10.5,
+        72.3936,
+        520
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5329,
+        0,
+        0,
+        10.5,
+        72.2868,
+        506
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "teens. In addition, excessive social media use is strongly linked to mental health",
+      "dir": "ltr",
+      "width": 359.5721401999999,
+      "height": 10.5,
+      "transform": [
+        10.5329,
+        0,
+        0,
+        10.5,
+        72.2868,
+        506
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        492
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "issues among individuals. Several studies strongly support the notion that social",
+      "dir": "ltr",
+      "width": 359.4044999999999,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        492
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.2304,
+        478
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "media use is a cause, not just a correlation, of subjective well-being and poor",
+      "dir": "ltr",
+      "width": 359.8774200000004,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.2304,
+        478
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        464
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "mental health.",
+      "dir": "ltr",
+      "width": 65.25750000000001,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        464
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "19",
+      "dir": "ltr",
+      "width": 5.815425,
+      "height": 6.1215,
+      "transform": [
+        6.1215,
+        0,
+        0,
+        6.1215,
+        137.4864,
+        467.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5841,
+        0,
+        0,
+        10.5,
+        85.7976,
+        450
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Social media and other large platforms form millions of contracts every year",
+      "dir": "ltr",
+      "width": 346.08948590000006,
+      "height": 10.5,
+      "transform": [
+        10.5841,
+        0,
+        0,
+        10.5,
+        85.7976,
+        450
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.591,
+        0,
+        0,
+        10.5,
+        72.096,
+        436
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "with American children. And even though a minor can void most contracts into",
+      "dir": "ltr",
+      "width": 359.625877800001,
+      "height": 10.5,
+      "transform": [
+        10.591,
+        0,
+        0,
+        10.5,
+        72.096,
+        436
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4279,
+        0,
+        0,
+        10.5,
+        72.096,
+        422
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "which he or she enters, most jurisdictions have laws that hold minors accountable",
+      "dir": "ltr",
+      "width": 359.54773525999957,
+      "height": 10.5,
+      "transform": [
+        10.4279,
+        0,
+        0,
+        10.5,
+        72.096,
+        422
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4566,
+        0,
+        0,
+        10.5,
+        72.4296,
+        408
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "for the benefits received under the contract. Thus, children can make enforceable",
+      "dir": "ltr",
+      "width": 358.93116028000003,
+      "height": 10.5,
+      "transform": [
+        10.4566,
+        0,
+        0,
+        10.5,
+        72.4296,
+        408
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6341,
+        0,
+        0,
+        10.5,
+        72.36,
+        394
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "contracts for which parents could end up bearing responsibility. Targeting chil",
+      "dir": "ltr",
+      "width": 358.124585700001,
+      "height": 10.5,
+      "transform": [
+        10.6341,
+        0,
+        0,
+        10.5,
+        72.36,
+        394
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.8920806,
+      "height": 10.5,
+      "transform": [
+        10.6341,
+        0,
+        0,
+        10.5,
+        430.7214,
+        394
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6484,
+        0,
+        0,
+        10.5,
+        72.36,
+        380
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "dren to create potentially harmful contracts or making parents responsible for",
+      "dir": "ltr",
+      "width": 359.6656826000001,
+      "height": 10.5,
+      "transform": [
+        10.6484,
+        0,
+        0,
+        10.5,
+        72.36,
+        380
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4416,
+        0,
+        0,
+        10.5,
+        72.3936,
+        366
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "such contractual relationships is an unfair trade practice. The FTC, therefore, has",
+      "dir": "ltr",
+      "width": 359.2035699200007,
+      "height": 10.5,
+      "transform": [
+        10.4416,
+        0,
+        0,
+        10.5,
+        72.3936,
+        366
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2868,
+        352
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "the authority, interest, and duty to protect children online from such contractual",
+      "dir": "ltr",
+      "width": 359.39295000000016,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2868,
+        352
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        338
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "relationships.",
+      "dir": "ltr",
+      "width": 61.865999999999985,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        338
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        5,
+        0,
+        0,
+        5,
+        72.4752,
+        311.5
+      ],
+      "fontName": "g_d0_f13",
+      "hasEOL": true
+    },
+    {
+      "str": "l",
+      "dir": "ltr",
+      "width": 3.955,
+      "height": 5,
+      "transform": [
+        5,
+        0,
+        0,
+        5,
+        72.4752,
+        311.5
+      ],
+      "fontName": "g_d0_f13",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 2.7002800000000007,
+      "height": 0,
+      "transform": [
+        5,
+        0,
+        0,
+        5,
+        76.4302,
+        311.5
+      ],
+      "fontName": "g_d0_f13",
+      "hasEOL": false
+    },
+    {
+      "str": "The FTC should examine platforms’ advertising and contract-",
+      "dir": "ltr",
+      "width": 303.55499999999995,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        89.9316,
+        310
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.528,
+        296
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": true
+    },
+    {
+      "str": "making with children as a deceptive or unfair trade practice, perhaps",
+      "dir": "ltr",
+      "width": 339.09749999999985,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.528,
+        296
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.528,
+        282
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": true
+    },
+    {
+      "str": "requiring written parental consent.",
+      "dir": "ltr",
+      "width": 174.78300000000002,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.528,
+        282
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6541,
+        0,
+        0,
+        10.5,
+        85.5348,
+        254
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Currently, the Child Online Privacy Protection Act (COPPA)",
+      "dir": "ltr",
+      "width": 277.15682280999954,
+      "height": 10.5,
+      "transform": [
+        10.6541,
+        0,
+        0,
+        10.5,
+        85.5348,
+        254
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "20",
+      "dir": "ltr",
+      "width": 6.969078599999998,
+      "height": 6.1215,
+      "transform": [
+        6.2113,
+        0,
+        0,
+        6.1215,
+        362.5381,
+        257.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.3539374849065499,
+      "height": 0,
+      "transform": [
+        6.2113,
+        0,
+        0,
+        6.1215,
+        369.5071786,
+        257.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "regulates the",
+      "dir": "ltr",
+      "width": 59.81211739999974,
+      "height": 10.5,
+      "transform": [
+        10.6541,
+        0,
+        0,
+        10.5,
+        371.7055905,
+        254
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6093,
+        0,
+        0,
+        10.5,
+        72.2304,
+        240
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "information internet firms can obtain from children. COPPA fails because it (1)",
+      "dir": "ltr",
+      "width": 360.0340220099999,
+      "height": 10.5,
+      "transform": [
+        10.6093,
+        0,
+        0,
+        10.5,
+        72.2304,
+        240
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.36,
+        226
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "only protects children under the age of 13, leaving older teenagers completely",
+      "dir": "ltr",
+      "width": 359.35155899999967,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.36,
+        226
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2664,
+        212
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "unprotected and (2) only prohibits platforms from collecting information from a",
+      "dir": "ltr",
+      "width": 359.21445000000034,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2664,
+        212
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.2988,
+        0,
+        0,
+        10.5,
+        72.36,
+        198
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "child using “actual knowledge” rather than abiding by the “constructive knowledge”",
+      "dir": "ltr",
+      "width": 362.04298531999973,
+      "height": 10.5,
+      "transform": [
+        10.2988,
+        0,
+        0,
+        10.5,
+        72.36,
+        198
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4304,
+        0,
+        0,
+        10.5,
+        72.3936,
+        184
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "standard, which prohibits collecting information from a user reasonably assumed",
+      "dir": "ltr",
+      "width": 359.3147635199997,
+      "height": 10.5,
+      "transform": [
+        10.4304,
+        0,
+        0,
+        10.5,
+        72.3936,
+        184
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3779,
+        0,
+        0,
+        10.5,
+        72.2868,
+        170
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "to be underage. The FTC has rulemaking authority under this statute but has done",
+      "dir": "ltr",
+      "width": 359.2912003199993,
+      "height": 10.5,
+      "transform": [
+        10.3779,
+        0,
+        0,
+        10.5,
+        72.2868,
+        170
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2028,
+        156
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "little with this authority, nor can it—given the statutory constraints. However,",
+      "dir": "ltr",
+      "width": 347.2665,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2028,
+        156
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        5,
+        0,
+        0,
+        5,
+        72.4752,
+        129.5
+      ],
+      "fontName": "g_d0_f13",
+      "hasEOL": true
+    },
+    {
+      "str": "l",
+      "dir": "ltr",
+      "width": 3.955,
+      "height": 5,
+      "transform": [
+        5,
+        0,
+        0,
+        5,
+        72.4752,
+        129.5
+      ],
+      "fontName": "g_d0_f13",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 2.7002800000000007,
+      "height": 0,
+      "transform": [
+        5,
+        0,
+        0,
+        5,
+        76.4302,
+        129.5
+      ],
+      "fontName": "g_d0_f13",
+      "hasEOL": false
+    },
+    {
+      "str": "The FTC can and should institute unfair trade practices proceedings",
+      "dir": "ltr",
+      "width": 336.27195,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        89.9316,
+        128
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.4332,
+        114
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": true
+    },
+    {
+      "str": "against entities that enter into contracts with children without",
+      "dir": "ltr",
+      "width": 309.8025000000001,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.4332,
+        114
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.5556,
+        100
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": true
+    },
+    {
+      "str": "parental consent.",
+      "dir": "ltr",
+      "width": 86.0895,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.5556,
+        100
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.18392380952380855,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        176.64509999999999,
+        100
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": "Personal parental responsibility is, of course, key, but",
+      "dir": "ltr",
+      "width": 238.04550000000006,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        178.57629999999997,
+        100
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.2868,
+        86
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "the law must respect, not undermine, lawful parental authority.",
+      "dir": "ltr",
+      "width": 283.3708500000001,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.2868,
+        86
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    }
+  ],
+  "styles": {
+    "g_d0_f3": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f104": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f11": {
+      "fontFamily": "serif",
+      "ascent": 1.143,
+      "descent": -0.351,
+      "vertical": false
+    },
+    "g_d0_f4": {
+      "fontFamily": "serif",
+      "ascent": 1.089,
+      "descent": -0.312,
+      "vertical": false
+    },
+    "g_d0_f13": {
+      "fontFamily": "monospace",
+      "ascent": 0.851,
+      "descent": -0.148,
+      "vertical": false
+    }
+  },
+  "lang": "en-US"
+}

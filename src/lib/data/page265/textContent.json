@@ -1,0 +1,3317 @@
+{
+  "items": [
+    {
+      "str": "— 232 —",
+      "dir": "ltr",
+      "width": 42.39999999999999,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        230.4524,
+        32.0001
+      ],
+      "fontName": "g_d0_f3",
+      "hasEOL": false
+    },
+    {
+      "str": "Mandate for Leadership: The Conservative Promise",
+      "dir": "ltr",
+      "width": 230.1453,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        136.9111,
+        664.4
+      ],
+      "fontName": "g_d0_f12",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        8,
+        0,
+        0,
+        8,
+        72.5256,
+        640.6001
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": true
+    },
+    {
+      "str": "ENDNOTES",
+      "dir": "ltr",
+      "width": 46.480000000000004,
+      "height": 8,
+      "transform": [
+        8,
+        0,
+        0,
+        8,
+        72.5256,
+        640.6001
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        624
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "1.",
+      "dir": "ltr",
+      "width": 6.075,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        624
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 1.349999999999999,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        77.8518,
+        624
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "“Two independent agencies—the Office of the Director of National Intelligence (ODNI) and the Central",
+      "dir": "ltr",
+      "width": 315.97830000000033,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.00179999999999,
+        624
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.468,
+        613
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "Intelligence Agency (CIA); Nine Department of Defense elements—the Defense Intelligence Agency (DIA),",
+      "dir": "ltr",
+      "width": 328.6206,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.468,
+        613
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.5472,
+        602
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "the National Security Agency (NSA), the National Geospatial-Intelligence Agency (NGA), the National",
+      "dir": "ltr",
+      "width": 314.6796000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.5472,
+        602
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        591
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "Reconnaissance Office (NRO), and intelligence elements of the five DoD services; the Army, Navy, Marine",
+      "dir": "ltr",
+      "width": 324.7677000000003,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        591
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2004,
+        580
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "Corps, Air Force, and Space Force. Seven elements of other departments and agencies—the Department of",
+      "dir": "ltr",
+      "width": 331.59150000000034,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2004,
+        580
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        569
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "Energy’s Office of Intelligence and Counter-Intelligence; the Department of Homeland Security’s Office of",
+      "dir": "ltr",
+      "width": 325.9035000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        569
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.468,
+        558
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "Intelligence and Analysis and U.S. Coast Guard Intelligence; the Department of Justice’s Federal Bureau of",
+      "dir": "ltr",
+      "width": 327.26070000000027,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.468,
+        558
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.468,
+        547
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "Investigation and the Drug Enforcement Agency’s Office of National Security Intelligence; the Department of",
+      "dir": "ltr",
+      "width": 336.42450000000025,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.468,
+        547
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.282,
+        536
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "State’s Bureau of Intelligence and Research; and the Department of the Treasury’s Office of Intelligence and",
+      "dir": "ltr",
+      "width": 332.8866000000004,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.282,
+        536
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.7588,
+        525
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "Analysis.” Office of the Director of National Intelligence, “What We Do: Members of the IC,”",
+      "dir": "ltr",
+      "width": 281.00250000000034,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.7588,
+        525
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19987777777770865,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        370.76130000000063,
+        525
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.dni.",
+      "dir": "ltr",
+      "width": 51.642,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        372.5602,
+        525
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2724,
+        514
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "gov/index.php/what-we-do/members-of-the-ic",
+      "dir": "ltr",
+      "width": 148.7043000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2724,
+        514
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1999555555555427,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        238.97670000000014,
+        514
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed March 8, 2023).",
+      "dir": "ltr",
+      "width": 80.18910000000008,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        240.77630000000002,
+        514
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.9844,
+        503
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "2.",
+      "dir": "ltr",
+      "width": 6.075,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.9844,
+        503
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 1.3269999999999997,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        78.0594,
+        503
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Office of the Director of National Intelligence, “Mission,”",
+      "dir": "ltr",
+      "width": 171.8883000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0024,
+        503
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1996222222221983,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        261.8907000000002,
+        503
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.intelligence.gov/mission#:~:text=The%20",
+      "dir": "ltr",
+      "width": 167.08230000000012,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        263.6873,
+        503
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.468,
+        492
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "Intelligence%20Community's%20mission%20is,law%20enforcement%2C%20and%20the%20military",
+      "dir": "ltr",
+      "width": 312.3225000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.468,
+        492
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0756,
+        481
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "(accessed February 24, 2023).",
+      "dir": "ltr",
+      "width": 93.20310000000005,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0756,
+        481
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.8728,
+        470
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "3.",
+      "dir": "ltr",
+      "width": 6.075,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.8728,
+        470
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 1.3389999999999986,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        77.9478,
+        470
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Abraham Lincoln, Second Annual Message to Congress, December 1, 1862,",
+      "dir": "ltr",
+      "width": 229.0194000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.99879999999999,
+        470
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.20007777777774058,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        319.0182000000003,
+        470
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.presidency.ucsb.edu/",
+      "dir": "ltr",
+      "width": 106.03710000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        320.8189,
+        470
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4212,
+        459
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "documents/second-annual-message-9",
+      "dir": "ltr",
+      "width": 120.90420000000005,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4212,
+        459
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19989999999998848,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        211.32540000000012,
+        459
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed March 6, 2023).",
+      "dir": "ltr",
+      "width": 80.37810000000009,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        213.1245,
+        459
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.6064,
+        448
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "4.",
+      "dir": "ltr",
+      "width": 6.075,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.6064,
+        448
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 1.3689999999999998,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        77.6814,
+        448
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Christopher Porter, “Seven Questions the Next President Will Need the Intelligence Community to Answer",
+      "dir": "ltr",
+      "width": 327.78360000000026,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0024,
+        448
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.5472,
+        437
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "to Win the Technology Competition with China,” LinkedIn, March 14, 2023,",
+      "dir": "ltr",
+      "width": 228.82860000000016,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.5472,
+        437
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.20002222222219895,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        319.3758000000002,
+        437
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.linkedin.com/pulse/",
+      "dir": "ltr",
+      "width": 101.92319999999994,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        321.176,
+        437
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4176,
+        426
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "seven-questions-next-president-need-intelligence-community-porter/?trackingId=Dl9RF5CnSwWnAO7r9gg",
+      "dir": "ltr",
+      "width": 336.8456999999999,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4176,
+        426
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        415
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "HiQ%3D%3D",
+      "dir": "ltr",
+      "width": 39.591,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        415
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19994444444444703,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        130.131,
+        415
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed March 18, 2023).",
+      "dir": "ltr",
+      "width": 82.4481000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        131.93050000000002,
+        415
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.2364,
+        404
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "5.",
+      "dir": "ltr",
+      "width": 6.075,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.2364,
+        404
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 1.2989999999999986,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        78.3114,
+        404
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "H.R. 2845, Intelligence Reform and Terrorism Prevention Act of 2004, Public Law No. 108-458, 108th Congress,",
+      "dir": "ltr",
+      "width": 341.37450000000007,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0024,
+        404
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        393
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "December 17, 2004,",
+      "dir": "ltr",
+      "width": 60.83010000000003,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        393
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1999777777777783,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        151.3701,
+        393
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.congress.gov/108/plaws/publ458/PLAW-108publ458.pdf",
+      "dir": "ltr",
+      "width": 216.5112,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        153.1699,
+        393
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19978888888886104,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        369.68110000000024,
+        393
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed",
+      "dir": "ltr",
+      "width": 30.537000000000038,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        371.4792,
+        393
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        382
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "March 6, 2004).",
+      "dir": "ltr",
+      "width": 49.15800000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        382
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.1644,
+        371
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "6.",
+      "dir": "ltr",
+      "width": 6.075,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.1644,
+        371
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 1.306999999999999,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        78.2394,
+        371
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Testimony of Philip Zelikow, Executive Director, National Commission on Terrorist Attacks Upon the United",
+      "dir": "ltr",
+      "width": 328.2084000000004,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0024,
+        371
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.282,
+        360
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "States, in hearing,",
+      "dir": "ltr",
+      "width": 55.485,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.282,
+        360
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.199855555555552,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        145.76700000000002,
+        360
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Assessing America’s Counterterrorism’s Capabilities",
+      "dir": "ltr",
+      "width": 159.32520000000014,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        147.5657,
+        360
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": ", Committee on Governmental Affairs,",
+      "dir": "ltr",
+      "width": 117.42210000000014,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        306.8898,
+        360
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4608,
+        349
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "U.S. Senate, 108th Congress, 2d Session, August 3, 2004, p. 55,",
+      "dir": "ltr",
+      "width": 193.73040000000026,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4608,
+        349
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.20002222222219265,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        284.19120000000026,
+        349
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://ia802906.us.archive.org/31/items/gov.",
+      "dir": "ltr",
+      "width": 141.93810000000005,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        285.9914,
+        349
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2724,
+        338
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "gpo.fdsys.CHRG-108shrg95506/CHRG-108shrg95506.pdf",
+      "dir": "ltr",
+      "width": 176.39819999999997,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2724,
+        338
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19992222222221775,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        266.67060000000004,
+        338
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed March 19, 2023).",
+      "dir": "ltr",
+      "width": 82.54710000000011,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        268.4699,
+        338
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.5692,
+        327
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "7.",
+      "dir": "ltr",
+      "width": 6.075,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.5692,
+        327
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 1.373,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        77.6442,
+        327
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Michael Allen,",
+      "dir": "ltr",
+      "width": 42.939,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0012,
+        327
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19974444444444353,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        132.9402,
+        327
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Blinking Red: Crisis and Compromise in American Intelligence After 9/11",
+      "dir": "ltr",
+      "width": 221.22450000000023,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        134.7379,
+        327
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19997777777774672,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        355.9624000000003,
+        327
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": "(Dulles, VA: Potomac",
+      "dir": "ltr",
+      "width": 65.28599999999997,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        357.7622,
+        327
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        316
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "Books, 2013), p. 155; Interview with Robert Gates, April 19, 2012.",
+      "dir": "ltr",
+      "width": 196.1784000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        316
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.2268,
+        305
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "8.",
+      "dir": "ltr",
+      "width": 6.075,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.2268,
+        305
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 1.3000000000000003,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        78.3018,
+        305
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Allen,",
+      "dir": "ltr",
+      "width": 17.558999999999997,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0018,
+        305
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19974444444444353,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        107.56080000000001,
+        305
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Blinking Red",
+      "dir": "ltr",
+      "width": 39.10410000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        109.3585,
+        305
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": ", p. 154; Robert Gates e-mail to Andy Card, January 11, 2005; handwritten note from Robert",
+      "dir": "ltr",
+      "width": 281.5083000000003,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        148.4626,
+        305
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2004,
+        294
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "Gates, January 20, 2005.",
+      "dir": "ltr",
+      "width": 77.07510000000003,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2004,
+        294
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.102,
+        283
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "9.",
+      "dir": "ltr",
+      "width": 6.075,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.102,
+        283
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 1.3139999999999992,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        78.177,
+        283
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Interview with John Ratcliffe, December 15, 2022.",
+      "dir": "ltr",
+      "width": 152.75520000000014,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.003,
+        283
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        272
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "10.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        272
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8999888888888895,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.9018,
+        272
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Ibid.",
+      "dir": "ltr",
+      "width": 13.374,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0017,
+        272
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        261
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "11.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        261
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8999888888888895,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.9018,
+        261
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Ibid.",
+      "dir": "ltr",
+      "width": 13.374,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0017,
+        261
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        250
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "12.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        250
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8999888888888895,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.9018,
+        250
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "S. 258, National Security Act of 1947, Public Law No. 80-253, 80th Congress, July 26, 1947,",
+      "dir": "ltr",
+      "width": 276.49440000000027,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0017,
+        250
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19958888888886073,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        366.49610000000024,
+        250
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://govtrackus.",
+      "dir": "ltr",
+      "width": 58.05000000000003,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        368.2924,
+        250
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4176,
+        239
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "s3.amazonaws.com/legislink/pdf/stat/61/STATUTE-61-Pg495.pdf",
+      "dir": "ltr",
+      "width": 200.11229999999995,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4176,
+        239
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19996666666665103,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        290.52990000000017,
+        239
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed March 6, 2023).",
+      "dir": "ltr",
+      "width": 80.37900000000009,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        292.3296,
+        239
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        228
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "13.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        228
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8999888888888895,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.9018,
+        228
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "President Ronald Reagan, Executive Order 12333, “United States Intelligence Activities,” December 4, 1981, in",
+      "dir": "ltr",
+      "width": 335.29050000000007,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0017,
+        228
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2088,
+        217
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": true
+    },
+    {
+      "str": "Federal Register",
+      "dir": "ltr",
+      "width": 50.552099999999996,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2088,
+        217
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": ", Vol. 46, No. 235 (December 8, 1981), pp. 59941–59954,",
+      "dir": "ltr",
+      "width": 171.46440000000007,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        140.7606,
+        217
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.200011111111078,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        312.2250000000003,
+        217
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.govinfo.gov/content/",
+      "dir": "ltr",
+      "width": 105.86610000000005,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        314.0251,
+        217
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4788,
+        206
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "pkg/FR-1981-12-08/pdf/FR-1981-12-08.pdf",
+      "dir": "ltr",
+      "width": 129.01320000000004,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4788,
+        206
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19994444444443754,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        219.49200000000008,
+        206
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed March 6, 2023).",
+      "dir": "ltr",
+      "width": 80.37810000000009,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        221.2915,
+        206
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        195
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "14.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        195
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8999888888888895,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.9018,
+        195
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "President George W. Bush, Executive Order 13470, “Further Amendments to Executive Order 12333, United",
+      "dir": "ltr",
+      "width": 338.49989999999923,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0017,
+        195
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.282,
+        184
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "States Intelligence Activities,” July 30, 2008, in",
+      "dir": "ltr",
+      "width": 148.86900000000006,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.282,
+        184
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.21961111111109707,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        239.15100000000012,
+        184
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Federal Register",
+      "dir": "ltr",
+      "width": 51.90299999999977,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        241.1275,
+        184
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": ", Vol. 73, No. 150 (August 4, 2008), pp.",
+      "dir": "ltr",
+      "width": 122.13899999999936,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        293.1193,
+        184
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.6508,
+        173
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "45325–45342,",
+      "dir": "ltr",
+      "width": 44.946,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.6508,
+        173
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.21993333333332998,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        134.59680000000003,
+        173
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.govinfo.gov/content/pkg/FR-2008-08-04/pdf/E8-17940.pdf",
+      "dir": "ltr",
+      "width": 233.2889999999997,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        136.5762,
+        173
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.21958888888890568,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        369.86519999999985,
+        173
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed March",
+      "dir": "ltr",
+      "width": 52.433999999999735,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        371.8415,
+        173
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.3492,
+        162
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "6, 2023). See also President George W. Bush, Executive Order 13355, “Strengthened Management of",
+      "dir": "ltr",
+      "width": 318.17609999999945,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.3492,
+        162
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.5472,
+        151
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "the Intelligence Community,” August 27, 2004, in",
+      "dir": "ltr",
+      "width": 155.745,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.5472,
+        151
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.21963333333332002,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        246.29220000000012,
+        151
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Federal Register",
+      "dir": "ltr",
+      "width": 51.90299999999975,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        248.2689,
+        151
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": ", Vol. 69, No. 169 (September 1, 2004),",
+      "dir": "ltr",
+      "width": 121.67999999999937,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        300.2607,
+        151
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4788,
+        140
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "pp. 53593–53597,",
+      "dir": "ltr",
+      "width": 55.431000000000004,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4788,
+        140
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.2199444444444446,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        145.9098,
+        140
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.govinfo.gov/content/pkg/FR-2004-09-01/pdf/04-20051.pdf",
+      "dir": "ltr",
+      "width": 232.8299999999997,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        147.8893,
+        140
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.21956666666668273,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        380.71929999999986,
+        140
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed",
+      "dir": "ltr",
+      "width": 31.256999999999834,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        382.6954,
+        140
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        129
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "March 6, 2023).",
+      "dir": "ltr",
+      "width": 49.30200000000005,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        129
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        118
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "15.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        118
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8999888888888895,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.9018,
+        118
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "U.S. Department of Defense, Defense Counterintelligence and Security Agency, “Trusted Workforce 2.0 and",
+      "dir": "ltr",
+      "width": 331.5195000000004,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0017,
+        118
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2004,
+        107
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "Continuous Vetting,”",
+      "dir": "ltr",
+      "width": 63.934199999999976,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2004,
+        107
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.2000222222222242,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        154.13459999999998,
+        107
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.dcsa.mil/mc/pv/cv/",
+      "dir": "ltr",
+      "width": 100.30320000000005,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        155.9348,
+        107
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.20002222222221158,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        256.2380000000001,
+        107
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed March 9, 2023).",
+      "dir": "ltr",
+      "width": 80.28810000000011,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        258.0382,
+        107
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        96
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "16.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        96
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8999888888888895,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.9018,
+        96
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "50 U.S. Code § 3093(e),",
+      "dir": "ltr",
+      "width": 73.755,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0017,
+        96
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19967777777777465,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        163.75670000000002,
+        96
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.law.cornell.edu/uscode/text/50/3093",
+      "dir": "ltr",
+      "width": 156.2553000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        165.5538,
+        96
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.20002222222219265,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        321.8091000000003,
+        96
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed February 24, 2023).",
+      "dir": "ltr",
+      "width": 93.20490000000014,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        323.6093,
+        96
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        85
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "17.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        85
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8999888888888895,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.9018,
+        85
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "50 U.S. Code § 3093(a).",
+      "dir": "ltr",
+      "width": 73.99800000000003,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0017,
+        85
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        74
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "18.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        74
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8999888888888895,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.9018,
+        74
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "50 U.S. Code § 3093(a)(4).",
+      "dir": "ltr",
+      "width": 83.31300000000003,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0017,
+        74
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    }
+  ],
+  "styles": {
+    "g_d0_f3": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f12": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f8": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.017,
+      "descent": -0.297,
+      "vertical": false
+    },
+    "g_d0_f17": {
+      "fontFamily": "sans-serif",
+      "ascent": 0.939,
+      "descent": -0.202,
+      "vertical": false
+    },
+    "g_d0_f18": {
+      "fontFamily": "sans-serif",
+      "ascent": 0.939,
+      "descent": -0.202,
+      "vertical": false
+    }
+  },
+  "lang": "en-US"
+}

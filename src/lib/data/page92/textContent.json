@@ -1,0 +1,1545 @@
+{
+  "items": [
+    {
+      "str": "— 59 —",
+      "dir": "ltr",
+      "width": 36.69999999999999,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        233.3023,
+        32.0001
+      ],
+      "fontName": "g_d0_f3",
+      "hasEOL": false
+    },
+    {
+      "str": "Executive Office of the President of the United States",
+      "dir": "ltr",
+      "width": 241.93529999999987,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        131.023,
+        664.4
+      ],
+      "fontName": "g_d0_f21",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6492,
+        0,
+        0,
+        10.5,
+        85.2636,
+        632
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "The OSTP’s functions, as contained in the law, are to advise the President of",
+      "dir": "ltr",
+      "width": 346.7134588400005,
+      "height": 10.5,
+      "transform": [
+        10.6492,
+        0,
+        0,
+        10.5,
+        85.2636,
+        632
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.29,
+        0,
+        0,
+        10.5,
+        72.3936,
+        618
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "scientific and technological considerations, evaluate the effectiveness of the federal",
+      "dir": "ltr",
+      "width": 359.3360610000008,
+      "height": 10.5,
+      "transform": [
+        10.29,
+        0,
+        0,
+        10.5,
+        72.3936,
+        618
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4391,
+        0,
+        0,
+        10.5,
+        72.36,
+        604
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "effort, and generally lead and coordinate the federal government’s R&D programs.",
+      "dir": "ltr",
+      "width": 361.15736706000047,
+      "height": 10.5,
+      "transform": [
+        10.4391,
+        0,
+        0,
+        10.5,
+        72.36,
+        604
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5713,
+        0,
+        0,
+        10.5,
+        71.8272,
+        590
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "If science is being manipulated at the agencies to support separate political and",
+      "dir": "ltr",
+      "width": 359.5637411599995,
+      "height": 10.5,
+      "transform": [
+        10.5713,
+        0,
+        0,
+        10.5,
+        71.8272,
+        590
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3666,
+        0,
+        0,
+        10.5,
+        72.2304,
+        576
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "institutional agendas, the President should increase the prominence of the OSTP’s",
+      "dir": "ltr",
+      "width": 359.6018041000007,
+      "height": 10.5,
+      "transform": [
+        10.3666,
+        0,
+        0,
+        10.5,
+        72.2304,
+        576
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6215,
+        0,
+        0,
+        10.5,
+        71.9316,
+        562
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Director either formally or informally. This would elevate the role of science in",
+      "dir": "ltr",
+      "width": 359.65567365000106,
+      "height": 10.5,
+      "transform": [
+        10.6215,
+        0,
+        0,
+        10.5,
+        71.9316,
+        562
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6938,
+        0,
+        0,
+        10.5,
+        72.3984,
+        548
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "policy discussions and subsequent outcomes and theoretically help to balance",
+      "dir": "ltr",
+      "width": 358.8047938799991,
+      "height": 10.5,
+      "transform": [
+        10.6938,
+        0,
+        0,
+        10.5,
+        72.3984,
+        548
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.36,
+        534
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "out agencies like the Departments of Energy, State, and Commerce and the Envi",
+      "dir": "ltr",
+      "width": 358.38600000000037,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.36,
+        534
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.843,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        430.7421,
+        534
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        520
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "ronmental Protection Agency and Council on Environmental Quality. The OSTP",
+      "dir": "ltr",
+      "width": 359.98095000000023,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        520
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4253,
+        0,
+        0,
+        10.5,
+        72.36,
+        506
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "can also help to bring technical expertise to regulatory matters in support of OMB.",
+      "dir": "ltr",
+      "width": 361.3554934199995,
+      "height": 10.5,
+      "transform": [
+        10.4253,
+        0,
+        0,
+        10.5,
+        72.36,
+        506
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        85.2636,
+        492
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "The OSTP should continue to play a lead role in coordinating federal R&D pro",
+      "dir": "ltr",
+      "width": 345.49200000000013,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        85.2636,
+        492
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.843,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        430.7422,
+        492
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5099,
+        0,
+        0,
+        10.5,
+        72.3564,
+        478
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "grams. Recent legislation, especially the CHIPS and Science Act,",
+      "dir": "ltr",
+      "width": 288.9308138700001,
+      "height": 10.5,
+      "transform": [
+        10.5099,
+        0,
+        0,
+        10.5,
+        72.3564,
+        478
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "34",
+      "dir": "ltr",
+      "width": 6.611356700000001,
+      "height": 6.1215,
+      "transform": [
+        6.1273,
+        0,
+        0,
+        6.1215,
+        361.363,
+        481.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.34765688802571004,
+      "height": 0,
+      "transform": [
+        6.1273,
+        0,
+        0,
+        6.1215,
+        367.97435670000004,
+        481.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "has expanded",
+      "dir": "ltr",
+      "width": 61.44087539999998,
+      "height": 10.5,
+      "transform": [
+        10.5099,
+        0,
+        0,
+        10.5,
+        370.10455475,
+        478
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.4296,
+        464
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "federal policy and funding across the enterprise, and there is a need for more sig",
+      "dir": "ltr",
+      "width": 358.30200000000025,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.4296,
+        464
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.843,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        430.7421,
+        464
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.29,
+        0,
+        0,
+        10.5,
+        72.2304,
+        450
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "nificant leadership in this area both to ensure effectiveness and to avoid duplication",
+      "dir": "ltr",
+      "width": 359.72708100000085,
+      "height": 10.5,
+      "transform": [
+        10.29,
+        0,
+        0,
+        10.5,
+        72.2304,
+        450
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3907,
+        0,
+        0,
+        10.5,
+        72.36,
+        436
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "of effort. As befitting its location in the White House, the OSTP must be concerned",
+      "dir": "ltr",
+      "width": 359.17428783000037,
+      "height": 10.5,
+      "transform": [
+        10.3907,
+        0,
+        0,
+        10.5,
+        72.36,
+        436
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3831,
+        0,
+        0,
+        10.5,
+        72.096,
+        422
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "with advancing national interests and not merely the parochial concerns of depart",
+      "dir": "ltr",
+      "width": 358.7028790799993,
+      "height": 10.5,
+      "transform": [
+        10.3831,
+        0,
+        0,
+        10.5,
+        72.096,
+        422
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.8002146000000003,
+      "height": 10.5,
+      "transform": [
+        10.3831,
+        0,
+        0,
+        10.5,
+        430.7572,
+        422
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        408
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "ments, agencies, or parts of the scientific community.",
+      "dir": "ltr",
+      "width": 237.2685,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        408
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4827,
+        0,
+        0,
+        10.5,
+        85.4316,
+        394
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "During the Trump and Biden Administrations, there has been a bipartisan focus",
+      "dir": "ltr",
+      "width": 346.3043806599999,
+      "height": 10.5,
+      "transform": [
+        10.4827,
+        0,
+        0,
+        10.5,
+        85.4316,
+        394
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.36,
+        380
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "on prioritizing R&D funding around the so-called Industries of the Future (IOTF).",
+      "dir": "ltr",
+      "width": 361.1474999999996,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.36,
+        380
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        71.994,
+        366
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Under President Trump, IOTF priorities were artificial intelligence (AI), quantum",
+      "dir": "ltr",
+      "width": 359.6984999999997,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        71.994,
+        366
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3421,
+        0,
+        0,
+        10.5,
+        72.2304,
+        352
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "information science (QIS), advanced communications/5G, advanced manufacturing,",
+      "dir": "ltr",
+      "width": 361.3943424000007,
+      "height": 10.5,
+      "transform": [
+        10.3421,
+        0,
+        0,
+        10.5,
+        72.2304,
+        352
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5709,
+        0,
+        0,
+        10.5,
+        72.318,
+        338
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "and biotechnology. Under President Biden, this list has been expanded to include",
+      "dir": "ltr",
+      "width": 359.0004490799996,
+      "height": 10.5,
+      "transform": [
+        10.5709,
+        0,
+        0,
+        10.5,
+        72.318,
+        338
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4235,
+        0,
+        0,
+        10.5,
+        72.318,
+        324
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "advanced materials, robotics, battery technology, cybersecurity, green products and",
+      "dir": "ltr",
+      "width": 359.49296444999914,
+      "height": 10.5,
+      "transform": [
+        10.4235,
+        0,
+        0,
+        10.5,
+        72.318,
+        324
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4151,
+        0,
+        0,
+        10.5,
+        72.36,
+        310
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "clean technology, plant genetics and agricultural technologies, nanotechnology, and",
+      "dir": "ltr",
+      "width": 359.21575748999925,
+      "height": 10.5,
+      "transform": [
+        10.4151,
+        0,
+        0,
+        10.5,
+        72.36,
+        310
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.3936,
+        296
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "semiconductor and microelectronics technologies. These priorities should be eval",
+      "dir": "ltr",
+      "width": 358.45844999999935,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.3936,
+        296
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.843,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        430.7421,
+        296
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4331,
+        0,
+        0,
+        10.5,
+        72.2664,
+        282
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "uated and narrowed to ensure consistency with the next Administration’s priorities.",
+      "dir": "ltr",
+      "width": 361.3358121599999,
+      "height": 10.5,
+      "transform": [
+        10.4331,
+        0,
+        0,
+        10.5,
+        72.2664,
+        282
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        85.5348,
+        268
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Given a long list of priorities, coordinating efforts across agencies and mea",
+      "dir": "ltr",
+      "width": 345.0708449999999,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        85.5348,
+        268
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.9198600000000003,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        430.7163,
+        268
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.3936,
+        254
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "suring success are extremely challenging. The OSTP and OMB are required to",
+      "dir": "ltr",
+      "width": 359.0013420000008,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.3936,
+        254
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.096,
+        240
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "work together on an annual basis to prioritize the funding requests and whatever",
+      "dir": "ltr",
+      "width": 359.79194999999993,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.096,
+        240
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5917,
+        0,
+        0,
+        10.5,
+        72.0348,
+        226
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Congress adds on top of them, but there continues to be concern about mission",
+      "dir": "ltr",
+      "width": 359.8953742999999,
+      "height": 10.5,
+      "transform": [
+        10.5917,
+        0,
+        0,
+        10.5,
+        72.0348,
+        226
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.36,
+        212
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "creep and funds expended on nonscientific R&D.",
+      "dir": "ltr",
+      "width": 217.36050000000003,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.36,
+        212
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5409,
+        0,
+        0,
+        10.5,
+        85.2636,
+        198
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "The President should also issue an executive order to reshape the U.S. Global",
+      "dir": "ltr",
+      "width": 346.5510611200005,
+      "height": 10.5,
+      "transform": [
+        10.5409,
+        0,
+        0,
+        10.5,
+        85.2636,
+        198
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.621,
+        0,
+        0,
+        10.5,
+        72.0348,
+        184
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Change Research Program (USGCRP) and related climate change research pro",
+      "dir": "ltr",
+      "width": 358.58938829999965,
+      "height": 10.5,
+      "transform": [
+        10.621,
+        0,
+        0,
+        10.5,
+        72.0348,
+        184
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.887286,
+      "height": 10.5,
+      "transform": [
+        10.621,
+        0,
+        0,
+        10.5,
+        430.7272,
+        184
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.3564,
+        170
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "grams. The USGCRP produces strategic plans and research (for example, the",
+      "dir": "ltr",
+      "width": 359.20911600000096,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.3564,
+        170
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.522,
+        0,
+        0,
+        10.5,
+        71.9316,
+        156
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "National Climate Assessment) that reduce the scope of legally proper options in",
+      "dir": "ltr",
+      "width": 359.53042680000004,
+      "height": 10.5,
+      "transform": [
+        10.522,
+        0,
+        0,
+        10.5,
+        71.9316,
+        156
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.3984,
+        142
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "presidential decision-making and in agency rulemakings and adjudications. Also,",
+      "dir": "ltr",
+      "width": 361.37745000000007,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.3984,
+        142
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4937,
+        0,
+        0,
+        10.5,
+        72.3936,
+        128
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "since much environmental policymaking must run the gauntlet of judicial review,",
+      "dir": "ltr",
+      "width": 361.4691383100002,
+      "height": 10.5,
+      "transform": [
+        10.4937,
+        0,
+        0,
+        10.5,
+        72.3936,
+        128
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3966,
+        0,
+        0,
+        10.5,
+        71.994,
+        114
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "USGCRP actions can frustrate successful litigation defense in ways that the career",
+      "dir": "ltr",
+      "width": 359.7909775599992,
+      "height": 10.5,
+      "transform": [
+        10.3966,
+        0,
+        0,
+        10.5,
+        71.994,
+        114
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.426,
+        0,
+        0,
+        10.5,
+        72.4548,
+        100
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "bureaucracy should not be permitted to control. The process for producing assess",
+      "dir": "ltr",
+      "width": 358.5094786000002,
+      "height": 10.5,
+      "transform": [
+        10.426,
+        0,
+        0,
+        10.5,
+        72.4548,
+        100
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.815916,
+      "height": 10.5,
+      "transform": [
+        10.426,
+        0,
+        0,
+        10.5,
+        430.7542,
+        100
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.2941,
+        0,
+        0,
+        10.5,
+        72.2304,
+        86
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "ments should include diverse viewpoints. The OSTP and OMB should jointly assess",
+      "dir": "ltr",
+      "width": 359.15188431000036,
+      "height": 10.5,
+      "transform": [
+        10.2941,
+        0,
+        0,
+        10.5,
+        72.2304,
+        86
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.2868,
+        72
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "the independence of the contractors used to conduct much of this outsourced",
+      "dir": "ltr",
+      "width": 358.99920000000066,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.2868,
+        72
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    }
+  ],
+  "styles": {
+    "g_d0_f3": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f21": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f4": {
+      "fontFamily": "serif",
+      "ascent": 1.089,
+      "descent": -0.312,
+      "vertical": false
+    }
+  },
+  "lang": "en-US"
+}

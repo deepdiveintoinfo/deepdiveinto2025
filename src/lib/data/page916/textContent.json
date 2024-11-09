@@ -1,0 +1,949 @@
+{
+  "items": [
+    {
+      "str": "— 883 —",
+      "dir": "ltr",
+      "width": 42.739999999999995,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        230.2824,
+        32.0001
+      ],
+      "fontName": "g_d0_f3",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        16,
+        0,
+        0,
+        16,
+        347.5207,
+        454.2
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": true
+    },
+    {
+      "str": "ONWARD!",
+      "dir": "ltr",
+      "width": 84.656,
+      "height": 16,
+      "transform": [
+        16,
+        0,
+        0,
+        16,
+        347.5207,
+        454.2
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        13,
+        0,
+        0,
+        13,
+        323.1087,
+        436.2
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": true
+    },
+    {
+      "str": "Edwin J. Feulner",
+      "dir": "ltr",
+      "width": 109.05569999999993,
+      "height": 13,
+      "transform": [
+        13,
+        0,
+        0,
+        13,
+        323.1087,
+        436.2
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        50.6722,
+        0,
+        0,
+        50.6722,
+        70.0206,
+        352
+      ],
+      "fontName": "g_d0_f9",
+      "hasEOL": true
+    },
+    {
+      "str": "T",
+      "dir": "ltr",
+      "width": 35.47054,
+      "height": 50.6722,
+      "transform": [
+        50.6722,
+        0,
+        0,
+        50.6722,
+        70.0206,
+        352
+      ],
+      "fontName": "g_d0_f9",
+      "hasEOL": false
+    },
+    {
+      "str": "he idea of",
+      "dir": "ltr",
+      "width": 44.143779200000054,
+      "height": 10.5,
+      "transform": [
+        10.6576,
+        0,
+        0,
+        10.5,
+        107.0134,
+        380
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.20518886053144836,
+      "height": 0,
+      "transform": [
+        10.6576,
+        0,
+        0,
+        10.5,
+        151.15717920000003,
+        380
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "Mandate for Leadership",
+      "dir": "ltr",
+      "width": 108.82901664000005,
+      "height": 10.5,
+      "transform": [
+        10.6576,
+        0,
+        0,
+        10.5,
+        153.344,
+        380
+      ],
+      "fontName": "g_d0_f10",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.20229539108240344,
+      "height": 0,
+      "transform": [
+        10.6576,
+        0,
+        0,
+        10.5,
+        262.1730166400002,
+        380
+      ],
+      "fontName": "g_d0_f10",
+      "hasEOL": false
+    },
+    {
+      "str": "was first conceived in the fall of 1979",
+      "dir": "ltr",
+      "width": 167.61314095999992,
+      "height": 10.5,
+      "transform": [
+        10.6576,
+        0,
+        0,
+        10.5,
+        264.329,
+        380
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        107.0758,
+        366
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "at a Heritage Foundation board of trustees meeting when former Trea",
+      "dir": "ltr",
+      "width": 323.57266200000095,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        107.0758,
+        366
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.9198600000000003,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        430.7106,
+        366
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6759,
+        0,
+        0,
+        10.5,
+        107.1514,
+        352
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "sury Secretary Bill Simon and former General Services Administration",
+      "dir": "ltr",
+      "width": 324.5067915799999,
+      "height": 10.5,
+      "transform": [
+        10.6759,
+        0,
+        0,
+        10.5,
+        107.1514,
+        352
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        71.4264,
+        338
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Administrator Jack Eckerd discussed the predicament they had faced when they",
+      "dir": "ltr",
+      "width": 360.4702500000001,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        71.4264,
+        338
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.1416,
+        324
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "first joined a new, more conservative presidential Administration: They received",
+      "dir": "ltr",
+      "width": 359.38139999999987,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.1416,
+        324
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        310
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "no practical plans on how to move their part of the federal bureaucracy to reflect",
+      "dir": "ltr",
+      "width": 359.55045000000007,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        310
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5987,
+        0,
+        0,
+        10.5,
+        72.318,
+        296
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "a more conservative policy direction other than vague exhortations to promote",
+      "dir": "ltr",
+      "width": 359.3574024599999,
+      "height": 10.5,
+      "transform": [
+        10.5987,
+        0,
+        0,
+        10.5,
+        72.318,
+        296
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4308,
+        0,
+        0,
+        10.5,
+        72.4296,
+        282
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "free markets; smaller, more efficient government; and a stronger national defense.",
+      "dir": "ltr",
+      "width": 361.1998285599999,
+      "height": 10.5,
+      "transform": [
+        10.4308,
+        0,
+        0,
+        10.5,
+        72.4296,
+        282
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        71.8272,
+        268
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "In their new positions, they were briefed either by holdover appointees from the",
+      "dir": "ltr",
+      "width": 359.69744999999995,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        71.8272,
+        268
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6724,
+        0,
+        0,
+        10.5,
+        72.4296,
+        254
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "former liberal Administration or by career civil servants who, inevitably, had a",
+      "dir": "ltr",
+      "width": 359.0707635200002,
+      "height": 10.5,
+      "transform": [
+        10.6724,
+        0,
+        0,
+        10.5,
+        72.4296,
+        254
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.1284,
+        240
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "vested interest in maintaining the status quo.",
+      "dir": "ltr",
+      "width": 201.94649999999996,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.1284,
+        240
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        85.2636,
+        226
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "The discussion became quite animated as these Heritage board members",
+      "dir": "ltr",
+      "width": 346.37853599999954,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        85.2636,
+        226
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.2304,
+        212
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "recalled transitioning to government positions from their former lives in the",
+      "dir": "ltr",
+      "width": 359.304435000001,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.2304,
+        212
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.3984,
+        198
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "private sector—moving their families, finding new homes, and uprooting their",
+      "dir": "ltr",
+      "width": 359.3140740000008,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.3984,
+        198
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5472,
+        0,
+        0,
+        10.5,
+        72.36,
+        184
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "children’s education while they assumed new responsibilities in a very different",
+      "dir": "ltr",
+      "width": 359.50764032000075,
+      "height": 10.5,
+      "transform": [
+        10.5472,
+        0,
+        0,
+        10.5,
+        72.36,
+        184
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.36,
+        170
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "environment.",
+      "dir": "ltr",
+      "width": 61.550999999999995,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.36,
+        170
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.7029,
+        0,
+        0,
+        10.5,
+        85.4316,
+        156
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Frank Shakespeare, who had headed the United States Information Agency",
+      "dir": "ltr",
+      "width": 346.46357590000065,
+      "height": 10.5,
+      "transform": [
+        10.7029,
+        0,
+        0,
+        10.5,
+        85.4316,
+        156
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.416,
+        0,
+        0,
+        10.5,
+        72.36,
+        142
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "during the Cold War, noted that electoral politics is what gets a President and Vice",
+      "dir": "ltr",
+      "width": 359.1634703999999,
+      "height": 10.5,
+      "transform": [
+        10.416,
+        0,
+        0,
+        10.5,
+        72.36,
+        142
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3787,
+        0,
+        0,
+        10.5,
+        71.9316,
+        128
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "President elected and sent to Washington, but then policy politics is what they had",
+      "dir": "ltr",
+      "width": 359.71121182000036,
+      "height": 10.5,
+      "transform": [
+        10.3787,
+        0,
+        0,
+        10.5,
+        71.9316,
+        128
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2868,
+        114
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "to focus on to do the right thing once they got the big job.",
+      "dir": "ltr",
+      "width": 252.63000000000002,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2868,
+        114
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3348,
+        0,
+        0,
+        10.5,
+        85.4316,
+        100
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Former Navy Secretary and Ambassador Bill Middendorf added that there must",
+      "dir": "ltr",
+      "width": 346.26023964000126,
+      "height": 10.5,
+      "transform": [
+        10.3348,
+        0,
+        0,
+        10.5,
+        85.4316,
+        100
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.4548,
+        86
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "be a better way to prepare for real change in a more conservative direction in the",
+      "dir": "ltr",
+      "width": 358.9718999999999,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.4548,
+        86
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4648,
+        0,
+        0,
+        10.5,
+        72.3984,
+        72
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "political environment in Washington. If a conservative candidate were to become",
+      "dir": "ltr",
+      "width": 358.84008495999984,
+      "height": 10.5,
+      "transform": [
+        10.4648,
+        0,
+        0,
+        10.5,
+        72.3984,
+        72
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    }
+  ],
+  "styles": {
+    "g_d0_f3": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f8": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.017,
+      "descent": -0.297,
+      "vertical": false
+    },
+    "g_d0_f9": {
+      "fontFamily": "serif",
+      "ascent": 1.133,
+      "descent": -0.292,
+      "vertical": false
+    },
+    "g_d0_f4": {
+      "fontFamily": "serif",
+      "ascent": 1.089,
+      "descent": -0.312,
+      "vertical": false
+    },
+    "g_d0_f10": {
+      "fontFamily": "serif",
+      "ascent": 1.103,
+      "descent": -0.315,
+      "vertical": false
+    }
+  },
+  "lang": "en-US"
+}

@@ -1,0 +1,1909 @@
+{
+  "items": [
+    {
+      "str": "— 699 —",
+      "dir": "ltr",
+      "width": 43.540000000000006,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        229.8824,
+        32.0001
+      ],
+      "fontName": "g_d0_f3",
+      "hasEOL": false
+    },
+    {
+      "str": "Department of the Treasury",
+      "dir": "ltr",
+      "width": 125.19809999999998,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        189.5331,
+        664.4
+      ],
+      "fontName": "g_d0_f70",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.492,
+        0,
+        0,
+        10.5,
+        85.8456,
+        632
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": true
+    },
+    {
+      "str": "Doubling the IRS?",
+      "dir": "ltr",
+      "width": 88.46854400000004,
+      "height": 10.5,
+      "transform": [
+        10.492,
+        0,
+        0,
+        10.5,
+        85.8456,
+        632
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1621364849409065,
+      "height": 0,
+      "transform": [
+        10.492,
+        0,
+        0,
+        10.5,
+        174.314144,
+        632
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": "The Inflation Reduction Act contains a radical $80 billion",
+      "dir": "ltr",
+      "width": 255.7089256,
+      "height": 10.5,
+      "transform": [
+        10.492,
+        0,
+        0,
+        10.5,
+        176.01528,
+        632
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.2944,
+        0,
+        0,
+        10.5,
+        72.36,
+        618
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "expansion of the IRS—enough to",
+      "dir": "ltr",
+      "width": 141.76727072000008,
+      "height": 10.5,
+      "transform": [
+        10.2944,
+        0,
+        0,
+        10.5,
+        72.36,
+        618
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1646748989742002,
+      "height": 0,
+      "transform": [
+        10.2944,
+        0,
+        0,
+        10.5,
+        214.12727071999998,
+        618
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "double",
+      "dir": "ltr",
+      "width": 28.731670400000016,
+      "height": 10.5,
+      "transform": [
+        10.2944,
+        0,
+        0,
+        10.5,
+        215.8225,
+        618
+      ],
+      "fontName": "g_d0_f10",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1593949331675429,
+      "height": 0,
+      "transform": [
+        10.2944,
+        0,
+        0,
+        10.5,
+        244.55417040000003,
+        618
+      ],
+      "fontName": "g_d0_f10",
+      "hasEOL": false
+    },
+    {
+      "str": "the size of its workforce.",
+      "dir": "ltr",
+      "width": 104.90508319999945,
+      "height": 10.5,
+      "transform": [
+        10.2944,
+        0,
+        0,
+        10.5,
+        246.1950456,
+        618
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "34",
+      "dir": "ltr",
+      "width": 6.451719999999982,
+      "height": 6.1215,
+      "transform": [
+        6.0016,
+        0,
+        0,
+        6.1215,
+        351.1282,
+        621.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.2736646227672566,
+      "height": 0,
+      "transform": [
+        6.0016,
+        0,
+        0,
+        6.1215,
+        357.57992,
+        621.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "Unless Congress",
+      "dir": "ltr",
+      "width": 72.31815999999965,
+      "height": 10.5,
+      "transform": [
+        10.2944,
+        0,
+        0,
+        10.5,
+        359.2223456,
+        618
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6815,
+        0,
+        0,
+        10.5,
+        72.2304,
+        604
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "reverses this policy, the IRS will become much more intrusive and impose still",
+      "dir": "ltr",
+      "width": 359.28934290000024,
+      "height": 10.5,
+      "transform": [
+        10.6815,
+        0,
+        0,
+        10.5,
+        72.2304,
+        604
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.3564,
+        590
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "greater costs on the American people.",
+      "dir": "ltr",
+      "width": 168.55649999999997,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.3564,
+        590
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6432,
+        0,
+        0,
+        10.5,
+        85.2636,
+        576
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "The Biden Administration has also sought to make the tax system’s adminis",
+      "dir": "ltr",
+      "width": 345.4804006400006,
+      "height": 10.5,
+      "transform": [
+        10.6432,
+        0,
+        0,
+        10.5,
+        85.2636,
+        576
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.8954112,
+      "height": 10.5,
+      "transform": [
+        10.6432,
+        0,
+        0,
+        10.5,
+        430.7282,
+        576
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4905,
+        0,
+        0,
+        10.5,
+        72.2868,
+        562
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "trative burden much worse in other ways. For example, it has proposed creating a",
+      "dir": "ltr",
+      "width": 359.26920255000005,
+      "height": 10.5,
+      "transform": [
+        10.4905,
+        0,
+        0,
+        10.5,
+        72.2868,
+        562
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.29,
+        0,
+        0,
+        10.5,
+        72.36,
+        548
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "comprehensive financial account information reporting regime that would apply to",
+      "dir": "ltr",
+      "width": 359.349438000001,
+      "height": 10.5,
+      "transform": [
+        10.29,
+        0,
+        0,
+        10.5,
+        72.36,
+        548
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4084,
+        0,
+        0,
+        10.5,
+        72.318,
+        534
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "all business and personal accounts with more than $600. Banks would be required",
+      "dir": "ltr",
+      "width": 359.0211045600006,
+      "height": 10.5,
+      "transform": [
+        10.4084,
+        0,
+        0,
+        10.5,
+        72.318,
+        534
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5795,
+        0,
+        0,
+        10.5,
+        72.2868,
+        520
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "to collect the taxpayer identification numbers of and file a revised Form 1099-K",
+      "dir": "ltr",
+      "width": 360.09655740000056,
+      "height": 10.5,
+      "transform": [
+        10.5795,
+        0,
+        0,
+        10.5,
+        72.2868,
+        520
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5836,
+        0,
+        0,
+        10.5,
+        72.4296,
+        506
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "for all affected payees, as well as provide additional information.",
+      "dir": "ltr",
+      "width": 291.29242280000085,
+      "height": 10.5,
+      "transform": [
+        10.5836,
+        0,
+        0,
+        10.5,
+        72.4296,
+        506
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "35",
+      "dir": "ltr",
+      "width": 6.530539680000014,
+      "height": 6.1215,
+      "transform": [
+        6.1702,
+        0,
+        0,
+        6.1215,
+        363.7082,
+        509.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.3514010437263034,
+      "height": 0,
+      "transform": [
+        6.1702,
+        0,
+        0,
+        6.1215,
+        370.23873968,
+        509.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "This massive",
+      "dir": "ltr",
+      "width": 59.07236340000023,
+      "height": 10.5,
+      "transform": [
+        10.5836,
+        0,
+        0,
+        10.5,
+        372.4069544,
+        506
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5925,
+        0,
+        0,
+        10.5,
+        72.2304,
+        492
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "increase in the scope and breadth of information reporting should be unequivo",
+      "dir": "ltr",
+      "width": 358.7584417499999,
+      "height": 10.5,
+      "transform": [
+        10.5925,
+        0,
+        0,
+        10.5,
+        72.2304,
+        492
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.8768549999999995,
+      "height": 10.5,
+      "transform": [
+        10.5925,
+        0,
+        0,
+        10.5,
+        430.729,
+        492
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.36,
+        478
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "cally opposed.",
+      "dir": "ltr",
+      "width": 63.36749999999999,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.36,
+        478
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        85.65,
+        464
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": true
+    },
+    {
+      "str": "Management.",
+      "dir": "ltr",
+      "width": 67.515,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        85.65,
+        464
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1904428571428547,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        153.16500000000002,
+        464
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": "The IRS has approximately 81,000 employees.",
+      "dir": "ltr",
+      "width": 206.05515000000003,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        155.16465,
+        464
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "36",
+      "dir": "ltr",
+      "width": 6.5683695,
+      "height": 6.1215,
+      "transform": [
+        6.1215,
+        0,
+        0,
+        6.1215,
+        361.2177,
+        467.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.3267304582210282,
+      "height": 0,
+      "transform": [
+        6.1215,
+        0,
+        0,
+        6.1215,
+        367.7860695,
+        467.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "Of those, only",
+      "dir": "ltr",
+      "width": 62.106449999999974,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        369.78615,
+        464
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5262,
+        0,
+        0,
+        10.5,
+        72.2868,
+        450
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "two are presidential appointments—the Commissioner and the Chief Counsel.",
+      "dir": "ltr",
+      "width": 353.21085148000003,
+      "height": 10.5,
+      "transform": [
+        10.5262,
+        0,
+        0,
+        10.5,
+        72.2868,
+        450
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "37",
+      "dir": "ltr",
+      "width": 6.305562000000002,
+      "height": 6.1215,
+      "transform": [
+        6.1368,
+        0,
+        0,
+        6.1215,
+        425.4873,
+        453.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5932,
+        0,
+        0,
+        10.5,
+        71.4264,
+        436
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "As a practical matter, it is impossible for these two officials to overcome bureau",
+      "dir": "ltr",
+      "width": 359.57028419999966,
+      "height": 10.5,
+      "transform": [
+        10.5932,
+        0,
+        0,
+        10.5,
+        71.4264,
+        436
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.8771112,
+      "height": 10.5,
+      "transform": [
+        10.5932,
+        0,
+        0,
+        10.5,
+        430.7361,
+        436
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4827,
+        0,
+        0,
+        10.5,
+        72.36,
+        422
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "cratic inertia and to implement policy changes that the IRS bureaucracy wants to",
+      "dir": "ltr",
+      "width": 359.3343767600001,
+      "height": 10.5,
+      "transform": [
+        10.4827,
+        0,
+        0,
+        10.5,
+        72.36,
+        422
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        408
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "impede. That is why, notwithstanding decades of sound and fury, almost nothing",
+      "dir": "ltr",
+      "width": 359.42550000000017,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        408
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2556,
+        394
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "has changed at the IRS.",
+      "dir": "ltr",
+      "width": 103.61399999999996,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2556,
+        394
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5777,
+        0,
+        0,
+        10.5,
+        85.4316,
+        380
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "For the IRS to change and become more accountable, more transparent, and",
+      "dir": "ltr",
+      "width": 345.96271836000057,
+      "height": 10.5,
+      "transform": [
+        10.5777,
+        0,
+        0,
+        10.5,
+        85.4316,
+        380
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.619,
+        0,
+        0,
+        10.5,
+        72.4548,
+        366
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "better managed, there is a need to increase the number of Presidential appoint",
+      "dir": "ltr",
+      "width": 358.17993189999976,
+      "height": 10.5,
+      "transform": [
+        10.619,
+        0,
+        0,
+        10.5,
+        72.4548,
+        366
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.886554,
+      "height": 10.5,
+      "transform": [
+        10.619,
+        0,
+        0,
+        10.5,
+        430.7227,
+        366
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        352
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "ments subject to Senate confirmation, and not subject to Senate confirmation, at",
+      "dir": "ltr",
+      "width": 359.48850000000016,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        352
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4915,
+        0,
+        0,
+        10.5,
+        72.2868,
+        338
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "the IRS. At the very least, Congress should ensure that the Deputy Commissioner",
+      "dir": "ltr",
+      "width": 359.62239125000013,
+      "height": 10.5,
+      "transform": [
+        10.4915,
+        0,
+        0,
+        10.5,
+        72.2868,
+        338
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4508,
+        0,
+        0,
+        10.5,
+        72.4296,
+        324
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "for Services and Enforcement, the Deputy Commissioner for Operations Support,",
+      "dir": "ltr",
+      "width": 361.2946067999999,
+      "height": 10.5,
+      "transform": [
+        10.4508,
+        0,
+        0,
+        10.5,
+        72.4296,
+        324
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2868,
+        310
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "the National Taxpayer Advocate, the Commissioner of the Wage and Investment",
+      "dir": "ltr",
+      "width": 359.4780000000001,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2868,
+        310
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        71.9316,
+        296
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Division, the Commissioner of the Large Business and International Division,",
+      "dir": "ltr",
+      "width": 362.175786,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        71.9316,
+        296
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6133,
+        0,
+        0,
+        10.5,
+        72.2868,
+        282
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "the Commissioner of the Small Business Self-Employed Division, and the Com",
+      "dir": "ltr",
+      "width": 358.43130627,
+      "height": 10.5,
+      "transform": [
+        10.6133,
+        0,
+        0,
+        10.5,
+        72.2868,
+        282
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.8844678000000004,
+      "height": 10.5,
+      "transform": [
+        10.6133,
+        0,
+        0,
+        10.5,
+        430.7255,
+        282
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        268
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "missioner of the Tax Exempt and Government Entities Division are presidential",
+      "dir": "ltr",
+      "width": 359.41394999999994,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        268
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.318,
+        254
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "appointees.",
+      "dir": "ltr",
+      "width": 51.9225,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.318,
+        254
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "38",
+      "dir": "ltr",
+      "width": 6.488790000000001,
+      "height": 6.1215,
+      "transform": [
+        6.1215,
+        0,
+        0,
+        6.1215,
+        124.2394,
+        257.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        85.6188,
+        240
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": true
+    },
+    {
+      "str": "Information Technology.",
+      "dir": "ltr",
+      "width": 122.136,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        85.6188,
+        240
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19062857142857378,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        207.7548,
+        240
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": "Despite the investment of billions of dollars for at",
+      "dir": "ltr",
+      "width": 222.02145,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        209.7564,
+        240
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6323,
+        0,
+        0,
+        10.5,
+        72.2028,
+        226
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "least two decades, IRS information technology (IT) systems remain deficient.",
+      "dir": "ltr",
+      "width": 352.59258551999955,
+      "height": 10.5,
+      "transform": [
+        10.6323,
+        0,
+        0,
+        10.5,
+        72.2028,
+        226
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "39",
+      "dir": "ltr",
+      "width": 6.663495000000009,
+      "height": 6.1215,
+      "transform": [
+        6.1986,
+        0,
+        0,
+        6.1215,
+        424.9975,
+        229.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6491,
+        0,
+        0,
+        10.5,
+        71.7636,
+        212
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "The IRS inadequately protects taxpayer information, its IT systems do not ade",
+      "dir": "ltr",
+      "width": 359.12385894000045,
+      "height": 10.5,
+      "transform": [
+        10.6491,
+        0,
+        0,
+        10.5,
+        71.7636,
+        212
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.8975706000000003,
+      "height": 10.5,
+      "transform": [
+        10.6491,
+        0,
+        0,
+        10.5,
+        430.7277,
+        212
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5358,
+        0,
+        0,
+        10.5,
+        72.36,
+        198
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "quately support operations or taxpayer services, and its matching and detection",
+      "dir": "ltr",
+      "width": 359.59106832000106,
+      "height": 10.5,
+      "transform": [
+        10.5358,
+        0,
+        0,
+        10.5,
+        72.36,
+        198
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.318,
+        184
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "algorithms are antiquated.",
+      "dir": "ltr",
+      "width": 119.14349999999999,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.318,
+        184
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        85.2636,
+        170
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "These problems are not primarily about resources. The IRS has spent approxi",
+      "dir": "ltr",
+      "width": 345.49830000000026,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        85.2636,
+        170
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.843,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        430.7422,
+        170
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4937,
+        0,
+        0,
+        10.5,
+        72.2304,
+        156
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "mately $27 billion on IT during the past decade, with $7 billion of that designated",
+      "dir": "ltr",
+      "width": 359.4155212200001,
+      "height": 10.5,
+      "transform": [
+        10.4937,
+        0,
+        0,
+        10.5,
+        72.2304,
+        156
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4151,
+        0,
+        0,
+        10.5,
+        72.318,
+        142
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "as “development, modernization and enhancement.“",
+      "dir": "ltr",
+      "width": 232.98682850999975,
+      "height": 10.5,
+      "transform": [
+        10.4151,
+        0,
+        0,
+        10.5,
+        72.318,
+        142
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "40",
+      "dir": "ltr",
+      "width": 6.815819999999975,
+      "height": 6.1215,
+      "transform": [
+        6.072,
+        0,
+        0,
+        6.1215,
+        305.2747,
+        145.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.27976884057971607,
+      "height": 0,
+      "transform": [
+        6.072,
+        0,
+        0,
+        6.1215,
+        312.09051999999997,
+        145.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "The problem is one of man",
+      "dir": "ltr",
+      "width": 116.99177678999973,
+      "height": 10.5,
+      "transform": [
+        10.4151,
+        0,
+        0,
+        10.5,
+        313.7892764,
+        142
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.8119266,
+      "height": 10.5,
+      "transform": [
+        10.4151,
+        0,
+        0,
+        10.5,
+        430.7549,
+        142
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5246,
+        0,
+        0,
+        10.5,
+        72.318,
+        128
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "agement. The bureaucracy is not up to the task, and neither Congress nor a long",
+      "dir": "ltr",
+      "width": 359.08146018000014,
+      "height": 10.5,
+      "transform": [
+        10.5246,
+        0,
+        0,
+        10.5,
+        72.318,
+        128
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2028,
+        114
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "line of IRS commissioners has forced changes.",
+      "dir": "ltr",
+      "width": 206.5024500000001,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2028,
+        114
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5056,
+        0,
+        0,
+        10.5,
+        84.9264,
+        100
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "A Deputy Commissioner for Operations Support with strong IT management",
+      "dir": "ltr",
+      "width": 346.7740976000002,
+      "height": 10.5,
+      "transform": [
+        10.5056,
+        0,
+        0,
+        10.5,
+        84.9264,
+        100
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6034,
+        0,
+        0,
+        10.5,
+        72.3936,
+        86
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "skills should be appointed by the IRS Commissioner or the President (once the",
+      "dir": "ltr",
+      "width": 359.2198645200007,
+      "height": 10.5,
+      "transform": [
+        10.6034,
+        0,
+        0,
+        10.5,
+        72.3936,
+        86
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6849,
+        0,
+        0,
+        10.5,
+        72.3984,
+        72
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "position is made a presidential appointment). The various subordinates to the",
+      "dir": "ltr",
+      "width": 358.91647590000025,
+      "height": 10.5,
+      "transform": [
+        10.6849,
+        0,
+        0,
+        10.5,
+        72.3984,
+        72
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    }
+  ],
+  "styles": {
+    "g_d0_f3": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f70": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f11": {
+      "fontFamily": "serif",
+      "ascent": 1.143,
+      "descent": -0.351,
+      "vertical": false
+    },
+    "g_d0_f4": {
+      "fontFamily": "serif",
+      "ascent": 1.089,
+      "descent": -0.312,
+      "vertical": false
+    },
+    "g_d0_f10": {
+      "fontFamily": "serif",
+      "ascent": 1.103,
+      "descent": -0.315,
+      "vertical": false
+    }
+  },
+  "lang": "en-US"
+}

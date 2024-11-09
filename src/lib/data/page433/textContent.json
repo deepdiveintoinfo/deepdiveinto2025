@@ -1,0 +1,1515 @@
+{
+  "items": [
+    {
+      "str": "— 400 —",
+      "dir": "ltr",
+      "width": 45.26,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        229.0223,
+        32.0001
+      ],
+      "fontName": "g_d0_f3",
+      "hasEOL": false
+    },
+    {
+      "str": "Mandate for Leadership: The Conservative Promise",
+      "dir": "ltr",
+      "width": 230.1453,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        136.9111,
+        664.4
+      ],
+      "fontName": "g_d0_f12",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        5,
+        0,
+        0,
+        5,
+        72.4752,
+        633.4999
+      ],
+      "fontName": "g_d0_f13",
+      "hasEOL": true
+    },
+    {
+      "str": "l",
+      "dir": "ltr",
+      "width": 3.955,
+      "height": 5,
+      "transform": [
+        5,
+        0,
+        0,
+        5,
+        72.4752,
+        633.4999
+      ],
+      "fontName": "g_d0_f13",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 2.783080000000001,
+      "height": 0,
+      "transform": [
+        5,
+        0,
+        0,
+        5,
+        76.4302,
+        633.4999
+      ],
+      "fontName": "g_d0_f13",
+      "hasEOL": false
+    },
+    {
+      "str": "Review the operations of the Nuclear Weapons Council (NWC).",
+      "dir": "ltr",
+      "width": 308.76300000000003,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.3456,
+        631.9999
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.18367619047619752,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        399.10859999999997,
+        631.9999
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": "The",
+      "dir": "ltr",
+      "width": 17.860500000000002,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        401.03720000000004,
+        631.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.3936,
+        617.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "statutorily established NWC is required to report to the President and",
+      "dir": "ltr",
+      "width": 312.92100000000016,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.3936,
+        617.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.0348,
+        603.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Congress but needs to refocus its efforts on providing comprehensive",
+      "dir": "ltr",
+      "width": 309.23550000000006,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.0348,
+        603.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.36,
+        589.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "oversight of DOE and DOD nuclear weapons policy and requirements.",
+      "dir": "ltr",
+      "width": 312.4999500000002,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.36,
+        589.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9.5,
+        0,
+        0,
+        9.5,
+        72.3996,
+        561.9999
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": true
+    },
+    {
+      "str": "Budget",
+      "dir": "ltr",
+      "width": 35.368500000000004,
+      "height": 9.5,
+      "transform": [
+        9.5,
+        0,
+        0,
+        9.5,
+        72.3996,
+        561.9999
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3816,
+        0,
+        0,
+        10.5,
+        85.5348,
+        547.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Concurrent modernization of the nuclear triad and its warheads will be a major",
+      "dir": "ltr",
+      "width": 346.3602826400008,
+      "height": 10.5,
+      "transform": [
+        10.3816,
+        0,
+        0,
+        10.5,
+        85.5348,
+        547.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3751,
+        0,
+        0,
+        10.5,
+        72.36,
+        533.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "challenge to the DOD and DOE budgets over the coming decade. DOE non-nuclear",
+      "dir": "ltr",
+      "width": 359.62067868999935,
+      "height": 10.5,
+      "transform": [
+        10.3751,
+        0,
+        0,
+        10.5,
+        72.36,
+        533.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6207,
+        0,
+        0,
+        10.5,
+        72.3984,
+        519.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "programs should be the first source of additional resources for NNSA activities.",
+      "dir": "ltr",
+      "width": 361.0421999400011,
+      "height": 10.5,
+      "transform": [
+        10.6207,
+        0,
+        0,
+        10.5,
+        72.3984,
+        519.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5309,
+        0,
+        0,
+        10.5,
+        71.9316,
+        505.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Divestment of non-nuclear activities from NNSA laboratories can address some",
+      "dir": "ltr",
+      "width": 359.61970410000055,
+      "height": 10.5,
+      "transform": [
+        10.5309,
+        0,
+        0,
+        10.5,
+        71.9316,
+        505.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6156,
+        0,
+        0,
+        10.5,
+        72.36,
+        491.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "overhead and operational costs. NNSA received $19.7 billion in 2021, and its FY",
+      "dir": "ltr",
+      "width": 360.3040795999997,
+      "height": 10.5,
+      "transform": [
+        10.6156,
+        0,
+        0,
+        10.5,
+        72.36,
+        491.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        71.8884,
+        477.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "2023 budget request was $21.4 billion.",
+      "dir": "ltr",
+      "width": 170.68799999999996,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        71.8884,
+        477.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "106",
+      "dir": "ltr",
+      "width": 9.341409000000002,
+      "height": 6.1215,
+      "transform": [
+        6.1215,
+        0,
+        0,
+        6.1215,
+        242.5723,
+        481.4964
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.33101217021971513,
+      "height": 0,
+      "transform": [
+        6.1215,
+        0,
+        0,
+        6.1215,
+        251.913709,
+        481.4964
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "The next Administration should ensure",
+      "dir": "ltr",
+      "width": 177.54450000000003,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        253.94,
+        477.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2868,
+        463.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "that funding is targeted to the accelerated development of new warheads.",
+      "dir": "ltr",
+      "width": 326.8965000000001,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2868,
+        463.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9.5,
+        0,
+        0,
+        9.5,
+        72.3996,
+        435.9999
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": true
+    },
+    {
+      "str": "Personnel",
+      "dir": "ltr",
+      "width": 47.69950000000001,
+      "height": 9.5,
+      "transform": [
+        9.5,
+        0,
+        0,
+        9.5,
+        72.3996,
+        435.9999
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.29,
+        0,
+        0,
+        10.5,
+        85.4316,
+        421.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "NNSA has tended to act as though it is not part of DOE and has resisted oversight",
+      "dir": "ltr",
+      "width": 346.48488000000094,
+      "height": 10.5,
+      "transform": [
+        10.29,
+        0,
+        0,
+        10.5,
+        85.4316,
+        421.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3472,
+        0,
+        0,
+        10.5,
+        72.4548,
+        407.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "by the Secretary of Energy. The NNSA Act grants some autonomy to the NNSA, but",
+      "dir": "ltr",
+      "width": 359.20822160000074,
+      "height": 10.5,
+      "transform": [
+        10.3472,
+        0,
+        0,
+        10.5,
+        72.4548,
+        407.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6108,
+        0,
+        0,
+        10.5,
+        72.2304,
+        393.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "it also makes it clear that NNSA is under the authority of the Secretary. NNSA’s",
+      "dir": "ltr",
+      "width": 359.36126899999954,
+      "height": 10.5,
+      "transform": [
+        10.6108,
+        0,
+        0,
+        10.5,
+        72.2304,
+        393.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2028,
+        379.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "leaders need to understand that ultimately, they report to the Secretary.",
+      "dir": "ltr",
+      "width": 320.67000000000013,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2028,
+        379.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        72.3576,
+        351.9999
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": true
+    },
+    {
+      "str": "FERC: ELECTRIC RELIABILITY AND RESILIENCE",
+      "dir": "ltr",
+      "width": 244.94,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        72.3576,
+        351.9999
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9.5,
+        0,
+        0,
+        9.5,
+        72.3996,
+        323.9999
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": true
+    },
+    {
+      "str": "Mission/Overview",
+      "dir": "ltr",
+      "width": 85.92750000000001,
+      "height": 9.5,
+      "transform": [
+        9.5,
+        0,
+        0,
+        9.5,
+        72.3996,
+        323.9999
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6795,
+        0,
+        0,
+        10.5,
+        85.2636,
+        309.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "The Federal Power Act tasks FERC, along with the FERC-designated North",
+      "dir": "ltr",
+      "width": 346.36395170000026,
+      "height": 10.5,
+      "transform": [
+        10.6795,
+        0,
+        0,
+        10.5,
+        85.2636,
+        309.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.436,
+        0,
+        0,
+        10.5,
+        71.4264,
+        295.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "American Electric Reliability Corporation (NERC), with promoting the reliability",
+      "dir": "ltr",
+      "width": 360.52936119999936,
+      "height": 10.5,
+      "transform": [
+        10.436,
+        0,
+        0,
+        10.5,
+        71.4264,
+        295.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5109,
+        0,
+        0,
+        10.5,
+        72.36,
+        281.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "of the bulk power system (the transmission and generation needed to power the",
+      "dir": "ltr",
+      "width": 359.03027111000006,
+      "height": 10.5,
+      "transform": [
+        10.5109,
+        0,
+        0,
+        10.5,
+        72.36,
+        281.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6211,
+        0,
+        0,
+        10.5,
+        72.36,
+        267.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "electric grid).",
+      "dir": "ltr",
+      "width": 61.36871580000003,
+      "height": 10.5,
+      "transform": [
+        10.6211,
+        0,
+        0,
+        10.5,
+        72.36,
+        267.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "107",
+      "dir": "ltr",
+      "width": 9.25099740000003,
+      "height": 6.1215,
+      "transform": [
+        6.1921,
+        0,
+        0,
+        6.1215,
+        133.7666,
+        271.4964
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.35219182506741337,
+      "height": 0,
+      "transform": [
+        6.1921,
+        0,
+        0,
+        6.1215,
+        143.01759740000006,
+        271.4964
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "NERC develops technical standards, and FERC adopts them as",
+      "dir": "ltr",
+      "width": 286.28750206000063,
+      "height": 10.5,
+      "transform": [
+        10.6211,
+        0,
+        0,
+        10.5,
+        145.1984044,
+        267.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5532,
+        0,
+        0,
+        10.5,
+        72.2304,
+        253.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "mandatory standards (including cyber security standards) with which transmis",
+      "dir": "ltr",
+      "width": 358.53230616000076,
+      "height": 10.5,
+      "transform": [
+        10.5532,
+        0,
+        0,
+        10.5,
+        72.2304,
+        253.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.8624712,
+      "height": 10.5,
+      "transform": [
+        10.5532,
+        0,
+        0,
+        10.5,
+        430.7346,
+        253.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6189,
+        0,
+        0,
+        10.5,
+        72.3936,
+        239.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "sion providers, generators, and utilities must comply. Under the Federal Power",
+      "dir": "ltr",
+      "width": 359.40197994999966,
+      "height": 10.5,
+      "transform": [
+        10.6189,
+        0,
+        0,
+        10.5,
+        72.3936,
+        239.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        71.4264,
+        225.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Act, critical electric infrastructure security and issues like electromagnetic pulse",
+      "dir": "ltr",
+      "width": 360.087,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        71.4264,
+        225.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6089,
+        0,
+        0,
+        10.5,
+        71.5848,
+        211.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "(EMP) are addressed by both FERC and DOE.",
+      "dir": "ltr",
+      "width": 208.88605832999983,
+      "height": 10.5,
+      "transform": [
+        10.6089,
+        0,
+        0,
+        10.5,
+        71.5848,
+        211.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "108",
+      "dir": "ltr",
+      "width": 9.382644999999952,
+      "height": 6.1215,
+      "transform": [
+        6.185,
+        0,
+        0,
+        6.1215,
+        280.4574,
+        215.4964
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.351523136620861,
+      "height": 0,
+      "transform": [
+        6.185,
+        0,
+        0,
+        6.1215,
+        289.840045,
+        215.4964
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "In addition, the Infrastructure",
+      "dir": "ltr",
+      "width": 139.49536520999965,
+      "height": 10.5,
+      "transform": [
+        10.6089,
+        0,
+        0,
+        10.5,
+        292.0142156,
+        211.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6037,
+        0,
+        0,
+        10.5,
+        71.8272,
+        197.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Investment and Jobs Act directed FERC to establish incentive-based rate treat",
+      "dir": "ltr",
+      "width": 359.0137123799996,
+      "height": 10.5,
+      "transform": [
+        10.6037,
+        0,
+        0,
+        10.5,
+        71.8272,
+        197.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.8809541999999997,
+      "height": 10.5,
+      "transform": [
+        10.6037,
+        0,
+        0,
+        10.5,
+        430.7314,
+        197.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.357,
+        0,
+        0,
+        10.5,
+        72.2304,
+        183.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "ments by encouraging utilities to invest in advanced cyber security technology and",
+      "dir": "ltr",
+      "width": 359.3609718000004,
+      "height": 10.5,
+      "transform": [
+        10.357,
+        0,
+        0,
+        10.5,
+        72.2304,
+        183.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.3984,
+        169.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "participate in cyber security threat information-sharing programs.",
+      "dir": "ltr",
+      "width": 298.46250000000015,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.3984,
+        169.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9.5,
+        0,
+        0,
+        9.5,
+        72.3996,
+        141.9999
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": true
+    },
+    {
+      "str": "Needed Reforms",
+      "dir": "ltr",
+      "width": 80.85355,
+      "height": 9.5,
+      "transform": [
+        9.5,
+        0,
+        0,
+        9.5,
+        72.3996,
+        141.9999
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6808,
+        0,
+        0,
+        10.5,
+        85.2636,
+        127.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "There is a growing problem with the electric grid’s reliability because of the",
+      "dir": "ltr",
+      "width": 346.11346016000135,
+      "height": 10.5,
+      "transform": [
+        10.6808,
+        0,
+        0,
+        10.5,
+        85.2636,
+        127.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3862,
+        0,
+        0,
+        10.5,
+        72.2304,
+        113.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "increasing growth of subsidized intermittent renewable generation (like wind and",
+      "dir": "ltr",
+      "width": 359.31993658000016,
+      "height": 10.5,
+      "transform": [
+        10.3862,
+        0,
+        0,
+        10.5,
+        72.2304,
+        113.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5097,
+        0,
+        0,
+        10.5,
+        72.3936,
+        99.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "solar) and a lack of dispatchable generation (for example, power plants powered",
+      "dir": "ltr",
+      "width": 359.08386893,
+      "height": 10.5,
+      "transform": [
+        10.5097,
+        0,
+        0,
+        10.5,
+        72.3936,
+        99.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4645,
+        0,
+        0,
+        10.5,
+        72.4548,
+        85.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "by natural gas, nuclear, and coal), especially during hot and cold weather.",
+      "dir": "ltr",
+      "width": 320.54856399999954,
+      "height": 10.5,
+      "transform": [
+        10.4645,
+        0,
+        0,
+        10.5,
+        72.4548,
+        85.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "109",
+      "dir": "ltr",
+      "width": 9.297619199999975,
+      "height": 6.1215,
+      "transform": [
+        6.1008,
+        0,
+        0,
+        6.1215,
+        393.2091,
+        89.4964
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.28311423092055227,
+      "height": 0,
+      "transform": [
+        6.1008,
+        0,
+        0,
+        6.1215,
+        402.5067191999999,
+        89.4964
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "FERC",
+      "dir": "ltr",
+      "width": 27.43059384999999,
+      "height": 10.5,
+      "transform": [
+        10.4645,
+        0,
+        0,
+        10.5,
+        404.2339425,
+        85.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5508,
+        0,
+        0,
+        10.5,
+        72.318,
+        71.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "and NERC have been studying the potential for generation shortages across the",
+      "dir": "ltr",
+      "width": 359.2135918799995,
+      "height": 10.5,
+      "transform": [
+        10.5508,
+        0,
+        0,
+        10.5,
+        72.318,
+        71.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    }
+  ],
+  "styles": {
+    "g_d0_f3": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f12": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f13": {
+      "fontFamily": "monospace",
+      "ascent": 0.851,
+      "descent": -0.148,
+      "vertical": false
+    },
+    "g_d0_f11": {
+      "fontFamily": "serif",
+      "ascent": 1.143,
+      "descent": -0.351,
+      "vertical": false
+    },
+    "g_d0_f4": {
+      "fontFamily": "serif",
+      "ascent": 1.089,
+      "descent": -0.312,
+      "vertical": false
+    },
+    "g_d0_f8": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.017,
+      "descent": -0.297,
+      "vertical": false
+    }
+  },
+  "lang": "en-US"
+}

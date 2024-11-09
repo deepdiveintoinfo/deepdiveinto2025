@@ -1,0 +1,1701 @@
+{
+  "items": [
+    {
+      "str": "— 418 —",
+      "dir": "ltr",
+      "width": 40.84,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        231.2323,
+        32.0001
+      ],
+      "fontName": "g_d0_f3",
+      "hasEOL": false
+    },
+    {
+      "str": "Mandate for Leadership: The Conservative Promise",
+      "dir": "ltr",
+      "width": 230.1453,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        136.9111,
+        664.4
+      ],
+      "fontName": "g_d0_f12",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        71.832,
+        631.9999
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": true
+    },
+    {
+      "str": "OVERVIEW",
+      "dir": "ltr",
+      "width": 58.05999999999999,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        71.832,
+        631.9999
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5871,
+        0,
+        0,
+        10.5,
+        85.4316,
+        617.9999
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": true
+    },
+    {
+      "str": "The Status Quo.",
+      "dir": "ltr",
+      "width": 79.34290352999999,
+      "height": 10.5,
+      "transform": [
+        10.5871,
+        0,
+        0,
+        10.5,
+        85.4316,
+        617.9999
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.20216724787713208,
+      "height": 0,
+      "transform": [
+        10.5871,
+        0,
+        0,
+        10.5,
+        164.77450353,
+        617.9999
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": "Not surprisingly, the EPA under the Biden Administration",
+      "dir": "ltr",
+      "width": 264.82042585000016,
+      "height": 10.5,
+      "transform": [
+        10.5871,
+        0,
+        0,
+        10.5,
+        166.9148684,
+        617.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6463,
+        0,
+        0,
+        10.5,
+        72.2556,
+        603.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "has returned to the same top-down, coercive approach that defined the Obama",
+      "dir": "ltr",
+      "width": 359.3073018500005,
+      "height": 10.5,
+      "transform": [
+        10.6463,
+        0,
+        0,
+        10.5,
+        72.2556,
+        603.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3186,
+        0,
+        0,
+        10.5,
+        71.4264,
+        589.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Administration. There has been a reinstitution of unachievable standards designed",
+      "dir": "ltr",
+      "width": 360.29661992000035,
+      "height": 10.5,
+      "transform": [
+        10.3186,
+        0,
+        0,
+        10.5,
+        71.4264,
+        589.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4535,
+        0,
+        0,
+        10.5,
+        72.2868,
+        575.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "to aid in the “transition” away from politically disfavored industries and technolo",
+      "dir": "ltr",
+      "width": 358.38988470000055,
+      "height": 10.5,
+      "transform": [
+        10.4535,
+        0,
+        0,
+        10.5,
+        72.2868,
+        575.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.825981,
+      "height": 10.5,
+      "transform": [
+        10.4535,
+        0,
+        0,
+        10.5,
+        430.749,
+        575.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4602,
+        0,
+        0,
+        10.5,
+        72.3564,
+        561.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "gies and toward the Biden Administration’s preferred alternatives. This approach",
+      "dir": "ltr",
+      "width": 359.16247321999964,
+      "height": 10.5,
+      "transform": [
+        10.4602,
+        0,
+        0,
+        10.5,
+        72.3564,
+        561.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        547.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "is most obvious in the Biden Administration’s assault on the energy sector as the",
+      "dir": "ltr",
+      "width": 359.2774500000001,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        547.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        71.4264,
+        533.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Administration uses its regulatory might to make coal, oil, and natural gas opera",
+      "dir": "ltr",
+      "width": 359.27849999999984,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        71.4264,
+        533.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.843,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        430.7421,
+        533.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5318,
+        0,
+        0,
+        10.5,
+        72.2868,
+        519.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "tions very expensive and increasingly inaccessible while forcing the economy to",
+      "dir": "ltr",
+      "width": 359.3408032800002,
+      "height": 10.5,
+      "transform": [
+        10.5318,
+        0,
+        0,
+        10.5,
+        72.2868,
+        519.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4885,
+        0,
+        0,
+        10.5,
+        72.4548,
+        505.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "build out and rely on unreliable renewables.",
+      "dir": "ltr",
+      "width": 194.95604260000013,
+      "height": 10.5,
+      "transform": [
+        10.4885,
+        0,
+        0,
+        10.5,
+        72.4548,
+        505.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "1",
+      "dir": "ltr",
+      "width": 2.4948384,
+      "height": 6.1215,
+      "transform": [
+        6.1148,
+        0,
+        0,
+        6.1215,
+        267.3538,
+        509.4964
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.28281613462419014,
+      "height": 0,
+      "transform": [
+        6.1148,
+        0,
+        0,
+        6.1215,
+        269.84863839999997,
+        509.4964
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "This approach has also been applied",
+      "dir": "ltr",
+      "width": 160.0230444999999,
+      "height": 10.5,
+      "transform": [
+        10.4885,
+        0,
+        0,
+        10.5,
+        271.57800249999997,
+        505.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4636,
+        0,
+        0,
+        10.5,
+        72.2868,
+        491.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "to pesticides and chemicals as the Biden Administration pushes the “greening” of",
+      "dir": "ltr",
+      "width": 359.2729378000007,
+      "height": 10.5,
+      "transform": [
+        10.4636,
+        0,
+        0,
+        10.5,
+        72.2868,
+        491.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.318,
+        477.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "agriculture and manufacturing among other industrial activities.",
+      "dir": "ltr",
+      "width": 289.26450000000006,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.318,
+        477.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        84.9264,
+        463.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "As a consequence of this approach, we see the return of costly, job-killing",
+      "dir": "ltr",
+      "width": 346.5606059999992,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        84.9264,
+        463.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4918,
+        0,
+        0,
+        10.5,
+        72.2304,
+        449.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "regulations that serve to depress the economy and grow the bureaucracy but do",
+      "dir": "ltr",
+      "width": 359.32841230000037,
+      "height": 10.5,
+      "transform": [
+        10.4918,
+        0,
+        0,
+        10.5,
+        72.2304,
+        449.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2028,
+        435.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "little to address, much less resolve, complex environmental problems. In some",
+      "dir": "ltr",
+      "width": 359.2995000000007,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2028,
+        435.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        421.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "instances, these actions even work to undermine environmental efforts as they",
+      "dir": "ltr",
+      "width": 359.64600000000047,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        421.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5121,
+        0,
+        0,
+        10.5,
+        72.3984,
+        407.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "push industries overseas to countries whose enforcement of pollution-control",
+      "dir": "ltr",
+      "width": 359.13117955999945,
+      "height": 10.5,
+      "transform": [
+        10.5121,
+        0,
+        0,
+        10.5,
+        72.3984,
+        407.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4372,
+        0,
+        0,
+        10.5,
+        72.2304,
+        393.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "requirements is seriously deficient—if indeed they have any meaningful require",
+      "dir": "ltr",
+      "width": 358.4718963200001,
+      "height": 10.5,
+      "transform": [
+        10.4372,
+        0,
+        0,
+        10.5,
+        72.2304,
+        393.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.8199786,
+      "height": 10.5,
+      "transform": [
+        10.4371,
+        0,
+        0,
+        10.5,
+        430.751,
+        393.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5447,
+        0,
+        0,
+        10.5,
+        72.2304,
+        379.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "ments at all. Meanwhile, agency costs and staffing have increased significantly.",
+      "dir": "ltr",
+      "width": 361.4195925,
+      "height": 10.5,
+      "transform": [
+        10.5447,
+        0,
+        0,
+        10.5,
+        72.2304,
+        379.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4333,
+        0,
+        0,
+        10.5,
+        71.7636,
+        365.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "The EPA’s fiscal year (FY) 2023 request included a 28.8 percent increase in fund",
+      "dir": "ltr",
+      "width": 358.96811980000047,
+      "height": 10.5,
+      "transform": [
+        10.4333,
+        0,
+        0,
+        10.5,
+        71.7636,
+        365.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.8185877999999995,
+      "height": 10.5,
+      "transform": [
+        10.4333,
+        0,
+        0,
+        10.5,
+        430.7486,
+        365.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5514,
+        0,
+        0,
+        10.5,
+        72.2304,
+        351.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "ing and a 13.3 percent increase in staffing, making it the “highest funding ever”",
+      "dir": "ltr",
+      "width": 362.49545728000083,
+      "height": 10.5,
+      "transform": [
+        10.5514,
+        0,
+        0,
+        10.5,
+        72.2304,
+        351.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        337.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "in EPA’s history.",
+      "dir": "ltr",
+      "width": 74.0355,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        337.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "2",
+      "dir": "ltr",
+      "width": 3.3239745000000003,
+      "height": 6.1215,
+      "transform": [
+        6.1215,
+        0,
+        0,
+        6.1215,
+        146.3697,
+        341.4964
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        85.5348,
+        323.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Compared to the Obama Administration, there is one key difference in the",
+      "dir": "ltr",
+      "width": 346.0443839999998,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        85.5348,
+        323.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6745,
+        0,
+        0,
+        10.5,
+        71.9316,
+        309.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Biden Administration’s approach: In a concerted effort to diminish congressio",
+      "dir": "ltr",
+      "width": 358.7475285499991,
+      "height": 10.5,
+      "transform": [
+        10.6745,
+        0,
+        0,
+        10.5,
+        71.9316,
+        309.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.906867,
+      "height": 10.5,
+      "transform": [
+        10.6745,
+        0,
+        0,
+        10.5,
+        430.7224,
+        309.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5658,
+        0,
+        0,
+        10.5,
+        72.2304,
+        295.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "nal oversight, the position of EPA Administrator has been overshadowed by the",
+      "dir": "ltr",
+      "width": 359.11358014000007,
+      "height": 10.5,
+      "transform": [
+        10.5658,
+        0,
+        0,
+        10.5,
+        72.2304,
+        295.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.36,
+        281.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "creation of multiple “Climate Czars” at the Biden White House. In effect, current",
+      "dir": "ltr",
+      "width": 359.40450000000004,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.36,
+        281.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        71.9316,
+        267.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "EPA Administrator Michael Regan, who has a reputation as a well-meaning, gen",
+      "dir": "ltr",
+      "width": 358.7850000000002,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        71.9316,
+        267.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.843,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        430.7422,
+        267.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5216,
+        0,
+        0,
+        10.5,
+        72.36,
+        253.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "erally capable former state official, has been left out of the political loop, serving",
+      "dir": "ltr",
+      "width": 359.0464435200001,
+      "height": 10.5,
+      "transform": [
+        10.5216,
+        0,
+        0,
+        10.5,
+        72.36,
+        253.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6773,
+        0,
+        0,
+        10.5,
+        72.2304,
+        239.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "mostly as a pleasant distraction from EPA’s expansive, costly, and economy-de",
+      "dir": "ltr",
+      "width": 358.41026775000023,
+      "height": 10.5,
+      "transform": [
+        10.6773,
+        0,
+        0,
+        10.5,
+        72.2304,
+        239.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.9078918000000002,
+      "height": 10.5,
+      "transform": [
+        10.6773,
+        0,
+        0,
+        10.5,
+        430.717,
+        239.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.3936,
+        225.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "stroying agenda.",
+      "dir": "ltr",
+      "width": 73.689,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.3936,
+        225.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6839,
+        0,
+        0,
+        10.5,
+        85.0884,
+        211.9999
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": true
+    },
+    {
+      "str": "A Coopted Mission.",
+      "dir": "ltr",
+      "width": 98.07392843999989,
+      "height": 10.5,
+      "transform": [
+        10.6839,
+        0,
+        0,
+        10.5,
+        85.0884,
+        211.9999
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.20364951562633643,
+      "height": 0,
+      "transform": [
+        10.6839,
+        0,
+        0,
+        10.5,
+        183.16232843999978,
+        211.9999
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": "The EPA has been a breeding ground for expansion of",
+      "dir": "ltr",
+      "width": 246.35043459000056,
+      "height": 10.5,
+      "transform": [
+        10.6839,
+        0,
+        0,
+        10.5,
+        185.3380995,
+        211.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6103,
+        0,
+        0,
+        10.5,
+        72.2868,
+        197.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "the federal government’s influence and control across the economy. Embedded",
+      "dir": "ltr",
+      "width": 359.3114433199997,
+      "height": 10.5,
+      "transform": [
+        10.6103,
+        0,
+        0,
+        10.5,
+        72.2868,
+        197.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3086,
+        0,
+        0,
+        10.5,
+        72.318,
+        183.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "activists have sought to evade legal restraints in pursuit of a global, climate-themed",
+      "dir": "ltr",
+      "width": 359.5155175800011,
+      "height": 10.5,
+      "transform": [
+        10.3086,
+        0,
+        0,
+        10.5,
+        72.318,
+        183.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6051,
+        0,
+        0,
+        10.5,
+        72.318,
+        169.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "agenda, aiming to achieve that agenda by implementing costly policies that oth",
+      "dir": "ltr",
+      "width": 358.5054055,
+      "height": 10.5,
+      "transform": [
+        10.6051,
+        0,
+        0,
+        10.5,
+        72.318,
+        169.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.8814666,
+      "height": 10.5,
+      "transform": [
+        10.6051,
+        0,
+        0,
+        10.5,
+        430.7264,
+        169.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5428,
+        0,
+        0,
+        10.5,
+        72.36,
+        155.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "erwise have failed to gain the requisite political traction in Congress. Many EPA",
+      "dir": "ltr",
+      "width": 360.06297700000033,
+      "height": 10.5,
+      "transform": [
+        10.5428,
+        0,
+        0,
+        10.5,
+        72.36,
+        155.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.318,
+        141.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "actions in liberal Administrations have simply ignored the will of Congress, align",
+      "dir": "ltr",
+      "width": 358.4290500000001,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.318,
+        141.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.843,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        430.7421,
+        141.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        127.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "ing instead with the goals and wants of politically connected activists.",
+      "dir": "ltr",
+      "width": 309.82140000000004,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        127.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4249,
+        0,
+        0,
+        10.5,
+        85.4316,
+        113.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Pursuit of this globally focused agenda has distracted the agency from fulfilling",
+      "dir": "ltr",
+      "width": 346.41629953000074,
+      "height": 10.5,
+      "transform": [
+        10.4249,
+        0,
+        0,
+        10.5,
+        85.4316,
+        113.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6482,
+        0,
+        0,
+        10.5,
+        72.2304,
+        99.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "its core mission, thereby creating a backlog of missed statutory deadlines,",
+      "dir": "ltr",
+      "width": 336.7663621199996,
+      "height": 10.5,
+      "transform": [
+        10.6482,
+        0,
+        0,
+        10.5,
+        72.2304,
+        99.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "3",
+      "dir": "ltr",
+      "width": 3.2963949000000006,
+      "height": 6.1215,
+      "transform": [
+        6.2079,
+        0,
+        0,
+        6.1215,
+        408.8705,
+        103.4964
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.35417550218270777,
+      "height": 0,
+      "transform": [
+        6.2079,
+        0,
+        0,
+        6.1215,
+        412.1668949,
+        103.4964
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "and",
+      "dir": "ltr",
+      "width": 17.191518899999952,
+      "height": 10.5,
+      "transform": [
+        10.6482,
+        0,
+        0,
+        10.5,
+        414.365581,
+        99.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.318,
+        85.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "at times has even led to preventable environmental disasters. During the Obama",
+      "dir": "ltr",
+      "width": 359.1945000000001,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.318,
+        85.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.414,
+        0,
+        0,
+        10.5,
+        71.4264,
+        71.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Administration, for example, the U.S. experienced two of the worst environmental",
+      "dir": "ltr",
+      "width": 360.2181772,
+      "height": 10.5,
+      "transform": [
+        10.414,
+        0,
+        0,
+        10.5,
+        71.4264,
+        71.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    }
+  ],
+  "styles": {
+    "g_d0_f3": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f12": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f8": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.017,
+      "descent": -0.297,
+      "vertical": false
+    },
+    "g_d0_f11": {
+      "fontFamily": "serif",
+      "ascent": 1.143,
+      "descent": -0.351,
+      "vertical": false
+    },
+    "g_d0_f4": {
+      "fontFamily": "serif",
+      "ascent": 1.089,
+      "descent": -0.312,
+      "vertical": false
+    }
+  },
+  "lang": "en-US"
+}

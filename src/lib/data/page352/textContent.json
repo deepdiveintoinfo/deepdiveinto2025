@@ -1,0 +1,975 @@
+{
+  "items": [
+    {
+      "str": "— 319 —",
+      "dir": "ltr",
+      "width": 40.66,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        231.3224,
+        32.0001
+      ],
+      "fontName": "g_d0_f3",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        30,
+        0,
+        0,
+        30,
+        407.5832,
+        610
+      ],
+      "fontName": "g_d0_f2",
+      "hasEOL": true
+    },
+    {
+      "str": "11",
+      "dir": "ltr",
+      "width": 26.1,
+      "height": 30,
+      "transform": [
+        30,
+        0,
+        0,
+        30,
+        407.5832,
+        610
+      ],
+      "fontName": "g_d0_f2",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        16,
+        0,
+        0,
+        16,
+        289.0682,
+        472.2
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": true
+    },
+    {
+      "str": "DEPARTMENT OF",
+      "dir": "ltr",
+      "width": 143.888,
+      "height": 16,
+      "transform": [
+        16,
+        0,
+        0,
+        16,
+        289.0682,
+        472.2
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        16,
+        0,
+        0,
+        16,
+        331.6183,
+        454.2
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": true
+    },
+    {
+      "str": "EDUCATION",
+      "dir": "ltr",
+      "width": 100.32000000000001,
+      "height": 16,
+      "transform": [
+        16,
+        0,
+        0,
+        16,
+        331.6183,
+        454.2
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        13,
+        0,
+        0,
+        13,
+        319.8586,
+        436.2
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": true
+    },
+    {
+      "str": "Lindsey M. Burke",
+      "dir": "ltr",
+      "width": 111.87669999999997,
+      "height": 13,
+      "transform": [
+        13,
+        0,
+        0,
+        13,
+        319.8586,
+        436.2
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        72.3576,
+        380
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": true
+    },
+    {
+      "str": "MISSION",
+      "dir": "ltr",
+      "width": 44.500000000000014,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        72.3576,
+        380
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        85.4316,
+        366
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Federal education policy should be limited and, ultimately, the federal Depart",
+      "dir": "ltr",
+      "width": 345.29144999999994,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        85.4316,
+        366
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.843,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        430.7422,
+        366
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.2304,
+        352
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "ment of Education should be eliminated. When power is exercised, it should",
+      "dir": "ltr",
+      "width": 359.6075280000004,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.2304,
+        352
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5267,
+        0,
+        0,
+        10.5,
+        72.36,
+        338
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "empower students and families, not government. In our pluralistic society, fami",
+      "dir": "ltr",
+      "width": 358.387817520001,
+      "height": 10.5,
+      "transform": [
+        10.5267,
+        0,
+        0,
+        10.5,
+        72.36,
+        338
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.8527722,
+      "height": 10.5,
+      "transform": [
+        10.5267,
+        0,
+        0,
+        10.5,
+        430.738,
+        338
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4831,
+        0,
+        0,
+        10.5,
+        72.2028,
+        324
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "lies and students should be free to choose from a diverse set of school options and",
+      "dir": "ltr",
+      "width": 359.51581788000004,
+      "height": 10.5,
+      "transform": [
+        10.4831,
+        0,
+        0,
+        10.5,
+        72.2028,
+        324
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5943,
+        0,
+        0,
+        10.5,
+        72.2028,
+        310
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "learning environments that best fit their needs. Our postsecondary institutions",
+      "dir": "ltr",
+      "width": 359.6160974900006,
+      "height": 10.5,
+      "transform": [
+        10.5943,
+        0,
+        0,
+        10.5,
+        72.2028,
+        310
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.3936,
+        296
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "should also reflect such diversity, with room for not only “traditional” liberal arts",
+      "dir": "ltr",
+      "width": 359.18295,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.3936,
+        296
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4259,
+        0,
+        0,
+        10.5,
+        72.36,
+        282
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "colleges and research universities but also faith-based institutions, career schools,",
+      "dir": "ltr",
+      "width": 361.626511860001,
+      "height": 10.5,
+      "transform": [
+        10.4259,
+        0,
+        0,
+        10.5,
+        72.36,
+        282
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        268
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "military academies, and lifelong learning programs.",
+      "dir": "ltr",
+      "width": 230.1390000000001,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        268
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6167,
+        0,
+        0,
+        10.5,
+        85.4316,
+        254
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Elementary and secondary education policy should follow the path outlined",
+      "dir": "ltr",
+      "width": 346.0948649700007,
+      "height": 10.5,
+      "transform": [
+        10.6167,
+        0,
+        0,
+        10.5,
+        85.4316,
+        254
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.4548,
+        240
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "by Milton Friedman in 1955, wherein education is publicly funded but education",
+      "dir": "ltr",
+      "width": 359.24699999999984,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.4548,
+        240
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5774,
+        0,
+        0,
+        10.5,
+        72.36,
+        226
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "decisions are made by families. Ultimately, every parent should have the option",
+      "dir": "ltr",
+      "width": 359.1587902199994,
+      "height": 10.5,
+      "transform": [
+        10.5774,
+        0,
+        0,
+        10.5,
+        72.36,
+        226
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6251,
+        0,
+        0,
+        10.5,
+        72.2868,
+        212
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "to direct his or her child’s share of education funding through an education sav",
+      "dir": "ltr",
+      "width": 358.36974785999956,
+      "height": 10.5,
+      "transform": [
+        10.6251,
+        0,
+        0,
+        10.5,
+        72.2868,
+        212
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.8887866,
+      "height": 10.5,
+      "transform": [
+        10.6251,
+        0,
+        0,
+        10.5,
+        430.7237,
+        212
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5994,
+        0,
+        0,
+        10.5,
+        72.2304,
+        198
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "ings account (ESA), funded overwhelmingly by state and local taxpayers, which",
+      "dir": "ltr",
+      "width": 359.64082181999964,
+      "height": 10.5,
+      "transform": [
+        10.5994,
+        0,
+        0,
+        10.5,
+        72.2304,
+        198
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3404,
+        0,
+        0,
+        10.5,
+        72.096,
+        184
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "would empower parents to choose a set of education options that meet their child's",
+      "dir": "ltr",
+      "width": 359.3785339200002,
+      "height": 10.5,
+      "transform": [
+        10.3404,
+        0,
+        0,
+        10.5,
+        72.096,
+        184
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2664,
+        170
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "unique needs.",
+      "dir": "ltr",
+      "width": 62.24399999999999,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2664,
+        170
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5833,
+        0,
+        0,
+        10.5,
+        85.7976,
+        156
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "States are eager to lead in K–12 education. For decades, they have acted inde",
+      "dir": "ltr",
+      "width": 344.6991393300005,
+      "height": 10.5,
+      "transform": [
+        10.5833,
+        0,
+        0,
+        10.5,
+        85.7976,
+        156
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.8734878,
+      "height": 10.5,
+      "transform": [
+        10.5833,
+        0,
+        0,
+        10.5,
+        430.7298,
+        156
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.3984,
+        142
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "pendently of the federal government to pioneer a variety of constructive reforms",
+      "dir": "ltr",
+      "width": 359.2050000000002,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.3984,
+        142
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.2924,
+        0,
+        0,
+        10.5,
+        72.318,
+        128
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "and school choice programs. For example, in 2011, Arizona first piloted ESAs, which",
+      "dir": "ltr",
+      "width": 359.22225708000104,
+      "height": 10.5,
+      "transform": [
+        10.2924,
+        0,
+        0,
+        10.5,
+        72.318,
+        128
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6435,
+        0,
+        0,
+        10.5,
+        72.3984,
+        114
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "provide families roughly 90 percent of what the state would have spent on that",
+      "dir": "ltr",
+      "width": 359.39800015000003,
+      "height": 10.5,
+      "transform": [
+        10.6435,
+        0,
+        0,
+        10.5,
+        72.3984,
+        114
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.29,
+        0,
+        0,
+        10.5,
+        72.36,
+        100
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "child in public school to be used instead on education options such as private school",
+      "dir": "ltr",
+      "width": 359.56964400000084,
+      "height": 10.5,
+      "transform": [
+        10.29,
+        0,
+        0,
+        10.5,
+        72.36,
+        100
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5199,
+        0,
+        0,
+        10.5,
+        72.2868,
+        86
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "tuition, online courses, and tutoring. In 2022, Arizona expanded the program to",
+      "dir": "ltr",
+      "width": 359.0273551600001,
+      "height": 10.5,
+      "transform": [
+        10.5199,
+        0,
+        0,
+        10.5,
+        72.2868,
+        86
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.4548,
+        72
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "be available to all families.",
+      "dir": "ltr",
+      "width": 117.26399999999997,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.4548,
+        72
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    }
+  ],
+  "styles": {
+    "g_d0_f3": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f2": {
+      "fontFamily": "serif",
+      "ascent": 1.158,
+      "descent": -0.32,
+      "vertical": false
+    },
+    "g_d0_f8": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.017,
+      "descent": -0.297,
+      "vertical": false
+    },
+    "g_d0_f4": {
+      "fontFamily": "serif",
+      "ascent": 1.089,
+      "descent": -0.312,
+      "vertical": false
+    }
+  },
+  "lang": "en-US"
+}

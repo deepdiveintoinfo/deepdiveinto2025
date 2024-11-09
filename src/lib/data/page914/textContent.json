@@ -1,0 +1,3215 @@
+{
+  "items": [
+    {
+      "str": "— 881 —",
+      "dir": "ltr",
+      "width": 40.519999999999996,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        231.3924,
+        32.0001
+      ],
+      "fontName": "g_d0_f3",
+      "hasEOL": false
+    },
+    {
+      "str": "Federal Trade Commission",
+      "dir": "ltr",
+      "width": 119.97810000000003,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        191.9751,
+        664.4
+      ],
+      "fontName": "g_d0_f104",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        634.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "17.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        634.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8999888888888895,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.9018,
+        634.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Jean M. Twenge, Jonathan Haidt, Andrew B. Blake, Cooper McAllister, Hannah Lemon, and Astrid Le Roy,",
+      "dir": "ltr",
+      "width": 322.9263000000003,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0017,
+        634.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        87.192,
+        623.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "“Worldwide Increases in Adolescent Loneliness,”",
+      "dir": "ltr",
+      "width": 150.16140000000007,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        87.192,
+        623.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.20004444444442823,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        237.35340000000014,
+        623.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Journal of Adolescence",
+      "dir": "ltr",
+      "width": 71.69310000000007,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        239.1538,
+        623.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19996666666665736,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        310.8469000000001,
+        623.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": "Vol. 93 (2019), pp. 257–269,",
+      "dir": "ltr",
+      "width": 85.57020000000017,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        312.64660000000003,
+        623.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.2000333333333199,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        398.21680000000015,
+        623.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://",
+      "dir": "ltr",
+      "width": 22.85999999999998,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        400.0171,
+        623.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.3168,
+        612.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "www.sciencedirect.com/science/article/pii/S0140197121000853",
+      "dir": "ltr",
+      "width": 195.20639999999995,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.3168,
+        612.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.39995555555553763,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        285.5232000000002,
+        612.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed March 23, 2023).",
+      "dir": "ltr",
+      "width": 83.76300000000009,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        289.12280000000004,
+        612.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        601.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "18.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        601.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8999888888888895,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.9018,
+        601.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Jean M. Twenge, Gabrielle N. Martin, and Brian H. Spitzberg, “Trends in U.S. Adolescents’ Media Use, 1976–",
+      "dir": "ltr",
+      "width": 328.03650000000016,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0017,
+        601.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.9172,
+        590.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "2016: The Rise of Digital Media, the Decline of TV, and the (Near) Demise of Print,”",
+      "dir": "ltr",
+      "width": 254.1717000000003,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.9172,
+        590.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.200011111111078,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        344.0889000000003,
+        590.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Psychology of Popular",
+      "dir": "ltr",
+      "width": 69.46199999999999,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        345.889,
+        590.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2088,
+        579.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": true
+    },
+    {
+      "str": "Media Culture",
+      "dir": "ltr",
+      "width": 42.92009999999998,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2088,
+        579.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": ", Vol. 8, No. 4 (2019), pp. 329–345,",
+      "dir": "ltr",
+      "width": 105.57720000000015,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        133.129,
+        579.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.39998888888886897,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        238.70620000000017,
+        579.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.researchgate.net/publication/327121650_",
+      "dir": "ltr",
+      "width": 168.8651999999999,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        242.3061,
+        579.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.8392,
+        568.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "Trends_in_US_Adolescents'_Media_Use_1976-2016_The_Rise_of_Digital_Media_the_Decline_of_TV_and_",
+      "dir": "ltr",
+      "width": 341.74529999999993,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.8392,
+        568.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.5472,
+        557.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "the_Near_Demise_of_Print",
+      "dir": "ltr",
+      "width": 87.7122,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.5472,
+        557.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19998888888888663,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        178.25940000000003,
+        557.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(last visited March 21, 2023).",
+      "dir": "ltr",
+      "width": 87.61320000000006,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        180.0593,
+        557.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        546.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "19.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        546.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8999888888888895,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.9018,
+        546.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Hunt Allcott, Luca Braghieri, Sarah Eichmeyer, and Matthew Gentzkow. “The Welfare Effects of Social Media,”",
+      "dir": "ltr",
+      "width": 336.61260000000027,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0017,
+        546.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.6748,
+        535.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": true
+    },
+    {
+      "str": "American Economic Review",
+      "dir": "ltr",
+      "width": 86.03009999999999,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.6748,
+        535.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1999555555555585,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        175.70489999999998,
+        535.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": "Vol. 110, No. 3 (2020), pp. 629–676; Melissa G. Hunt, Rachel Marx, Courtney Lipson,",
+      "dir": "ltr",
+      "width": 255.52530000000033,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        177.5045,
+        535.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.3348,
+        524.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "and Jordyn Young, “No More FOMO: Limiting Social Media Decreases Loneliness and Depression,”",
+      "dir": "ltr",
+      "width": 301.59450000000015,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.3348,
+        524.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19981111111107136,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        391.92930000000035,
+        524.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Journal of",
+      "dir": "ltr",
+      "width": 30.986999999999995,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        393.7276,
+        524.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.9304,
+        513.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": true
+    },
+    {
+      "str": "Social and Clinical Psychology",
+      "dir": "ltr",
+      "width": 92.6091,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.9304,
+        513.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": ", Vol. 37, No. 10 (2018), pp. 751–768,",
+      "dir": "ltr",
+      "width": 108.29520000000018,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        182.5387,
+        513.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.199988888888874,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        290.83390000000014,
+        513.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://guilfordjournals.com/doi/abs/10.1521/",
+      "dir": "ltr",
+      "width": 138.3291,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        292.6338,
+        513.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.5424,
+        502.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "jscp.2018.37.10.751",
+      "dir": "ltr",
+      "width": 55.06109999999999,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.5424,
+        502.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.20000000000000442,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        145.60349999999997,
+        502.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(last visited March 21, 2023).",
+      "dir": "ltr",
+      "width": 87.61320000000006,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        147.4035,
+        502.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.9844,
+        491.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "20.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.9844,
+        491.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8769888888888902,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        82.1094,
+        491.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "The Child Online Privacy Protection Act of 1998, 15 U.S.C. § 6501.",
+      "dir": "ltr",
+      "width": 198.35640000000018,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0023,
+        491.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.9844,
+        480.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "21.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.9844,
+        480.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8769888888888902,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        82.1094,
+        480.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "The",
+      "dir": "ltr",
+      "width": 11.429099999999998,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0023,
+        480.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19980000000000095,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        101.4314,
+        480.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Diagnostic and Statistical Manual of Mental Disorders",
+      "dir": "ltr",
+      "width": 164.18610000000007,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        103.2296,
+        480.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19978888888886737,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        267.4157000000002,
+        480.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": "(DSM-5-TR) is the authoritative publication of the",
+      "dir": "ltr",
+      "width": 153.75600000000003,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        269.2138,
+        480.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.7588,
+        469.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "American Psychiatric Association.",
+      "dir": "ltr",
+      "width": 104.25420000000005,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.7588,
+        469.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.9844,
+        458.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "22.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.9844,
+        458.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8769888888888902,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        82.1094,
+        458.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Ceren Kurban, “World’s 22 Biggest Tech Companies of 2023,” UserGuiding Blog, March 13, 2023, available at",
+      "dir": "ltr",
+      "width": 333.10530000000034,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0023,
+        458.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.612,
+        447.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "https://userguiding.com/blog/biggest-tech-companies/",
+      "dir": "ltr",
+      "width": 173.52630000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.612,
+        447.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": ".",
+      "dir": "ltr",
+      "width": 1.6019999999999999,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        264.1372,
+        447.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.9844,
+        436.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "23.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.9844,
+        436.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8769888888888902,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        82.1094,
+        436.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Australian Competition and Consumer Commission (June 2019), available at",
+      "dir": "ltr",
+      "width": 235.47240000000016,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0023,
+        436.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19961111111108368,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        325.47470000000027,
+        436.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://openresearch-repository.",
+      "dir": "ltr",
+      "width": 100.03499999999995,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        327.2712,
+        436.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.3348,
+        425.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "anu.edu.au/bitstream/1885/276408/1/AusComp_85.pdf",
+      "dir": "ltr",
+      "width": 173.49930000000003,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.3348,
+        425.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "; UK Competition & Markets Authority,",
+      "dir": "ltr",
+      "width": 118.08720000000011,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        263.8336,
+        425.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19994444444442808,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        381.92080000000016,
+        425.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Online",
+      "dir": "ltr",
+      "width": 20.07,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        383.7203,
+        425.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2088,
+        414.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": true
+    },
+    {
+      "str": "Platforms and Digital Advertising Market Study Final Report",
+      "dir": "ltr",
+      "width": 185.46840000000017,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2088,
+        414.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": ", July 2020, available at",
+      "dir": "ltr",
+      "width": 72.61110000000005,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        275.6771,
+        414.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19993333333333238,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        348.2882,
+        414.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.gov.",
+      "dir": "ltr",
+      "width": 53.03700000000003,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        350.0876,
+        414.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.5328,
+        403.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "uk/cma-cases/online-platforms-and-digital-advertising-market-study",
+      "dir": "ltr",
+      "width": 216.91349999999997,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.5328,
+        403.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "; European Union,",
+      "dir": "ltr",
+      "width": 55.17,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        307.4098,
+        403.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19986666666665087,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        362.57980000000015,
+        403.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Expert Group",
+      "dir": "ltr",
+      "width": 41.36400000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        364.3786,
+        403.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.3624,
+        392.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": true
+    },
+    {
+      "str": "for the Observatory on the Online Platform Economy: Market Power and Transparency in Open Display",
+      "dir": "ltr",
+      "width": 316.6425000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.3624,
+        392.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.6748,
+        381.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": true
+    },
+    {
+      "str": "Advertising—A Case Study",
+      "dir": "ltr",
+      "width": 82.61910000000003,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.6748,
+        381.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": ",",
+      "dir": "ltr",
+      "width": 1.6019999999999999,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        172.2935,
+        381.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19998888888888977,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        173.8955,
+        381.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Final Reports",
+      "dir": "ltr",
+      "width": 40.958100000000016,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        175.6954,
+        381.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": ", February 2021, available at",
+      "dir": "ltr",
+      "width": 86.20020000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        216.6536,
+        381.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.20001111111110326,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        302.8538000000001,
+        381.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://digital-strategy.ec.europa.eu/en/",
+      "dir": "ltr",
+      "width": 124.45919999999995,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        304.6539,
+        381.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4788,
+        370.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "news/final-reports-eu-observatory-online-platform-economy",
+      "dir": "ltr",
+      "width": 191.47950000000014,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4788,
+        370.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": ".",
+      "dir": "ltr",
+      "width": 1.6019999999999999,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        281.4816,
+        370.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.9844,
+        359.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "24.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.9844,
+        359.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8769888888888902,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        82.1094,
+        359.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "St. Louis Fed, Producer Price Index by Commodity: Advertising Space and Time Sales: Internet Advertising",
+      "dir": "ltr",
+      "width": 329.00760000000025,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0023,
+        359.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.282,
+        348.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "Sales, Excluding Internet Advertising Sold by Print Publishers, available at",
+      "dir": "ltr",
+      "width": 228.0906000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.282,
+        348.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19997777777775305,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        318.3726000000002,
+        348.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://fred.stlouisfed.org/",
+      "dir": "ltr",
+      "width": 81.92519999999999,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        320.1724,
+        348.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2724,
+        337.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "graph/?g=vtTd",
+      "dir": "ltr",
+      "width": 46.4481,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2724,
+        337.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": ".",
+      "dir": "ltr",
+      "width": 1.6019999999999999,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        136.7204,
+        337.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.9844,
+        326.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "25.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.9844,
+        326.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8769888888888902,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        82.1094,
+        326.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Allcott,",
+      "dir": "ltr",
+      "width": 21.94109999999999,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0023,
+        326.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19978888888888946,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        111.9434,
+        326.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "supra",
+      "dir": "ltr",
+      "width": 17.198999999999995,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        113.7415,
+        326.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19996666666666998,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        130.9405,
+        326.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": "note 19;",
+      "dir": "ltr",
+      "width": 23.940000000000026,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        132.74020000000002,
+        326.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19991111111110627,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        156.68020000000004,
+        326.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "see also",
+      "dir": "ltr",
+      "width": 24.677100000000006,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        158.4794,
+        326.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.20004444444444403,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        183.15650000000002,
+        326.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": "Jean M. Twenge, Jonathan Haidt, Jimmy Lozano, and Kevin M. Cummins,",
+      "dir": "ltr",
+      "width": 224.7012000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        184.95690000000002,
+        326.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        87.192,
+        315.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "“Specification Curve Analysis Shows that Social Media Use Is Linked to Poor Mental Health, Especially Among",
+      "dir": "ltr",
+      "width": 338.6556000000003,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        87.192,
+        315.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2004,
+        304.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "Girls,”",
+      "dir": "ltr",
+      "width": 17.955000000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2004,
+        304.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19996666666666524,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        108.15540000000001,
+        304.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Acta Psychologica",
+      "dir": "ltr",
+      "width": 56.17709999999998,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        109.9551,
+        304.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": ", Vol. 224 (2022), p.103512,",
+      "dir": "ltr",
+      "width": 81.37710000000007,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        166.1324,
+        304.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1999999999999981,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        247.50950000000003,
+        304.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://doi.org/10.1016/j.actpsy.2022.103512",
+      "dir": "ltr",
+      "width": 132.7572,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        249.3095,
+        304.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19996666666665736,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        382.0667000000001,
+        304.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed",
+      "dir": "ltr",
+      "width": 30.537000000000038,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        383.8664,
+        304.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        293.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "March 23, 2023).",
+      "dir": "ltr",
+      "width": 51.42599999999999,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        293.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.9844,
+        282.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "26.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.9844,
+        282.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8769888888888902,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        82.1094,
+        282.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Markus Appel, Caroline Marker, and Timo Gnambs, “Are Social Media Ruining Our Lives? A Review of Meta-",
+      "dir": "ltr",
+      "width": 330.7563000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0023,
+        282.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.7588,
+        271.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "Analytic Evidence,\"",
+      "dir": "ltr",
+      "width": 59.33520000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.7588,
+        271.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.20003333333333254,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        149.094,
+        271.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Review of General Psychology",
+      "dir": "ltr",
+      "width": 93.45510000000007,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        150.8943,
+        271.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": ", Vol. 24, No.1 (2020), pp. 60–74.",
+      "dir": "ltr",
+      "width": 99.4671000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        244.3487,
+        271.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.9844,
+        260.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "27.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.9844,
+        260.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8769888888888902,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        82.1094,
+        260.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Leah Nylen, “How Washington Fumbled the Future,”",
+      "dir": "ltr",
+      "width": 162.54630000000003,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0023,
+        260.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19964444444442442,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        252.5486000000002,
+        260.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Politico",
+      "dir": "ltr",
+      "width": 22.80600000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        254.3454,
+        260.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": ", March 16, 2021,",
+      "dir": "ltr",
+      "width": 49.535100000000035,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        277.151,
+        260.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19999999999999496,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        326.68610000000007,
+        260.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.politico.com/",
+      "dir": "ltr",
+      "width": 81.08009999999993,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        328.4861,
+        260.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4788,
+        249.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "news/2021/03/16/google-files-ftc-antitrust-investigation-475573",
+      "dir": "ltr",
+      "width": 200.5794000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4788,
+        249.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19994444444441545,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        291.0582000000003,
+        249.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed March 10, 2023).",
+      "dir": "ltr",
+      "width": 82.82700000000013,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        292.8577,
+        249.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.9844,
+        238.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "28.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.9844,
+        238.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8769888888888902,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        82.1094,
+        238.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Frank H. Easterbrook, “The Limits of Antitrust,”",
+      "dir": "ltr",
+      "width": 144.67320000000007,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0023,
+        238.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19962222222220463,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        234.67550000000017,
+        238.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Texas Law Review",
+      "dir": "ltr",
+      "width": 55.484100000000055,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        236.4721,
+        238.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": ", Vol. 63, No. 1 (1984), pp. 1–41,",
+      "dir": "ltr",
+      "width": 93.06810000000016,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        291.9563,
+        238.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19988888888887382,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        385.0244000000001,
+        238.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://",
+      "dir": "ltr",
+      "width": 22.85999999999998,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        386.8234,
+        238.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2904,
+        227.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "chicagounbound.uchicago.edu/cgi/viewcontent.cgi?article=2152&context=journal_articles",
+      "dir": "ltr",
+      "width": 277.92450000000014,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2904,
+        227.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19982222222221127,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        368.2149000000001,
+        227.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed",
+      "dir": "ltr",
+      "width": 30.537000000000038,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        370.0133,
+        227.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        216.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "March 23, 2023).",
+      "dir": "ltr",
+      "width": 51.42599999999999,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        216.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.9844,
+        205.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "29.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.9844,
+        205.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8769777777777787,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        82.1094,
+        205.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Allcott et al., “The Welfare Effects of Social Media.”",
+      "dir": "ltr",
+      "width": 156.6243000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0022,
+        205.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.8728,
+        194.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "30.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.8728,
+        194.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.888988888888889,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.9978,
+        194.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Adam Candeub, “Behavioral Economics, Internet Search, and Antitrust,”",
+      "dir": "ltr",
+      "width": 222.3855000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.9987,
+        194.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.20013333333331376,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        312.3842000000002,
+        194.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "ISJLP",
+      "dir": "ltr",
+      "width": 16.650000000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        314.1854,
+        194.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": ", Vol. 9, No. 407 (2013),",
+      "dir": "ltr",
+      "width": 71.23500000000007,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        330.835,
+        194.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4788,
+        183.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "pp. 407–434.",
+      "dir": "ltr",
+      "width": 40.544100000000014,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4788,
+        183.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    }
+  ],
+  "styles": {
+    "g_d0_f3": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f104": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f17": {
+      "fontFamily": "sans-serif",
+      "ascent": 0.939,
+      "descent": -0.202,
+      "vertical": false
+    },
+    "g_d0_f18": {
+      "fontFamily": "sans-serif",
+      "ascent": 0.939,
+      "descent": -0.202,
+      "vertical": false
+    }
+  },
+  "lang": "en-US"
+}

@@ -1,0 +1,623 @@
+{
+  "items": [
+    {
+      "str": "— 281 —",
+      "dir": "ltr",
+      "width": 40.349999999999994,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        231.4774,
+        32.0001
+      ],
+      "fontName": "g_d0_f3",
+      "hasEOL": false
+    },
+    {
+      "str": "Agency for International Development",
+      "dir": "ltr",
+      "width": 173.5632,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        164.8107,
+        664.4
+      ],
+      "fontName": "g_d0_f31",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        634.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "16.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        634.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8999888888888895,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.9018,
+        634.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "President Donald J. Trump, Executive Order 13957, “Creating Schedule F in the Excepted Service,” October 21,",
+      "dir": "ltr",
+      "width": 336.2913000000005,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0017,
+        634.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.9172,
+        623.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "2020, in",
+      "dir": "ltr",
+      "width": 25.21799999999999,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.9172,
+        623.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1999555555555569,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        115.13519999999998,
+        623.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Federal Register",
+      "dir": "ltr",
+      "width": 50.55210000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        116.9348,
+        623.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": ", Vol. 85, No. 207 (October 26, 2020), pp. 67631–67635,",
+      "dir": "ltr",
+      "width": 169.81920000000022,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        167.4866,
+        623.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19995555555551744,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        337.3058000000003,
+        623.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.govinfo.gov/",
+      "dir": "ltr",
+      "width": 79.56900000000006,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        339.1054,
+        623.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2904,
+        612.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "content/pkg/FR-2020-10-26/pdf/2020-23780.pdf",
+      "dir": "ltr",
+      "width": 154.7082,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2904,
+        612.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19998888888888977,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        244.9986,
+        612.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed March 18, 2023).",
+      "dir": "ltr",
+      "width": 82.4481000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        246.79850000000002,
+        612.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        601.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "17.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        601.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8999888888888895,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.9018,
+        601.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Prosper Africa, “Increasing Trade & Investment Between the U.S. and African Countries,”",
+      "dir": "ltr",
+      "width": 272.75760000000037,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0017,
+        601.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1997555555555045,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        362.75930000000045,
+        601.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.",
+      "dir": "ltr",
+      "width": 40.31999999999997,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        364.5571,
+        601.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4788,
+        590.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "prosperafrica.gov/",
+      "dir": "ltr",
+      "width": 56.87010000000004,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4788,
+        590.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19998888888888977,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        147.34890000000001,
+        590.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed March 18, 2023).",
+      "dir": "ltr",
+      "width": 82.4481000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        149.14880000000002,
+        590.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        579.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "18.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        579.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8999888888888895,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.9018,
+        579.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "H.R. 434, Trade and Development Act of 2000, Public Law 106-200, 106th Congress, May 18, 2000, Title I,",
+      "dir": "ltr",
+      "width": 325.1295000000003,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0017,
+        579.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.282,
+        568.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "Subtitle A,",
+      "dir": "ltr",
+      "width": 32.409,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.282,
+        568.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19988888888888962,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        122.69099999999999,
+        568.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://agoa.info/images/documents/2385/AGOA_legal_text.pdf",
+      "dir": "ltr",
+      "width": 202.31640000000007,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        124.49,
+        568.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19997777777775935,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        326.80640000000017,
+        568.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed March 18, 2023).",
+      "dir": "ltr",
+      "width": 82.4490000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        328.6062,
+        568.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    }
+  ],
+  "styles": {
+    "g_d0_f3": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f31": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f17": {
+      "fontFamily": "sans-serif",
+      "ascent": 0.939,
+      "descent": -0.202,
+      "vertical": false
+    },
+    "g_d0_f18": {
+      "fontFamily": "sans-serif",
+      "ascent": 0.939,
+      "descent": -0.202,
+      "vertical": false
+    }
+  },
+  "lang": "en-US"
+}

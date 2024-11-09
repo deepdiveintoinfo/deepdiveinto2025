@@ -1,0 +1,98 @@
+{
+  "children": [
+    {
+      "role": "Document",
+      "children": [
+        {
+          "role": "Art",
+          "children": [
+            {
+              "role": "Sect",
+              "children": [
+                {
+                  "role": "P",
+                  "children": [
+                    {
+                      "type": "content",
+                      "id": "p305R_mc5625"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p305R_mc5626"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p305R_mc5627"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p305R_mc5628"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p305R_mc5629"
+                    }
+                  ]
+                },
+                {
+                  "role": "P",
+                  "children": [
+                    {
+                      "type": "content",
+                      "id": "p305R_mc5630"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p305R_mc5631"
+                    },
+                    {
+                      "role": "Span",
+                      "children": [
+                        {
+                          "type": "content",
+                          "id": "p305R_mc5632"
+                        }
+                      ],
+                      "alt": "­"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p305R_mc5633"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p305R_mc5634"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p305R_mc5635"
+                    },
+                    {
+                      "role": "Span",
+                      "children": [
+                        {
+                          "type": "content",
+                          "id": "p305R_mc5636"
+                        }
+                      ],
+                      "alt": "­"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p305R_mc5637"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p305R_mc5638"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "role": "Root"
+}

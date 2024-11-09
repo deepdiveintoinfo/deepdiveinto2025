@@ -1,0 +1,232 @@
+[
+  {
+    "annotationFlags": 0,
+    "borderStyle": {
+      "width": 0,
+      "rawWidth": 1,
+      "style": 1,
+      "dashArray": [
+        3
+      ],
+      "horizontalCornerRadius": 0,
+      "verticalCornerRadius": 0
+    },
+    "color": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "backgroundColor": null,
+    "borderColor": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "rotation": 0,
+    "contentsObj": {
+      "str": "",
+      "dir": "ltr"
+    },
+    "hasAppearance": false,
+    "id": "10436R",
+    "modificationDate": null,
+    "rect": [
+      349.966,
+      532.09,
+      353.225,
+      540.666
+    ],
+    "subtype": "Link",
+    "hasOwnCanvas": false,
+    "noRotate": false,
+    "noHTML": false,
+    "isEditable": false,
+    "structParent": 4806,
+    "annotationType": 2,
+    "dest": "2025_MandateForLeadership_TEXT.indd:94777"
+  },
+  {
+    "annotationFlags": 0,
+    "borderStyle": {
+      "width": 0,
+      "rawWidth": 1,
+      "style": 1,
+      "dashArray": [
+        3
+      ],
+      "horizontalCornerRadius": 0,
+      "verticalCornerRadius": 0
+    },
+    "color": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "backgroundColor": null,
+    "borderColor": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "rotation": 0,
+    "contentsObj": {
+      "str": "",
+      "dir": "ltr"
+    },
+    "hasAppearance": false,
+    "id": "10432R",
+    "modificationDate": null,
+    "rect": [
+      178.139,
+      490.09,
+      181.253,
+      498.666
+    ],
+    "subtype": "Link",
+    "hasOwnCanvas": false,
+    "noRotate": false,
+    "noHTML": false,
+    "isEditable": false,
+    "structParent": 4807,
+    "annotationType": 2,
+    "dest": "2025_MandateForLeadership_TEXT.indd:94778"
+  },
+  {
+    "annotationFlags": 0,
+    "borderStyle": {
+      "width": 0,
+      "rawWidth": 1,
+      "style": 1,
+      "dashArray": [
+        3
+      ],
+      "horizontalCornerRadius": 0,
+      "verticalCornerRadius": 0
+    },
+    "color": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "backgroundColor": null,
+    "borderColor": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "rotation": 0,
+    "contentsObj": {
+      "str": "",
+      "dir": "ltr"
+    },
+    "hasAppearance": false,
+    "id": "10428R",
+    "modificationDate": null,
+    "rect": [
+      428.39,
+      462.09,
+      431.649,
+      470.666
+    ],
+    "subtype": "Link",
+    "hasOwnCanvas": false,
+    "noRotate": false,
+    "noHTML": false,
+    "isEditable": false,
+    "structParent": 4808,
+    "annotationType": 2,
+    "dest": "2025_MandateForLeadership_TEXT.indd:94779"
+  },
+  {
+    "annotationFlags": 0,
+    "borderStyle": {
+      "width": 0,
+      "rawWidth": 1,
+      "style": 1,
+      "dashArray": [
+        3
+      ],
+      "horizontalCornerRadius": 0,
+      "verticalCornerRadius": 0
+    },
+    "color": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "backgroundColor": null,
+    "borderColor": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "rotation": 0,
+    "contentsObj": {
+      "str": "",
+      "dir": "ltr"
+    },
+    "hasAppearance": false,
+    "id": "10419R",
+    "modificationDate": null,
+    "rect": [
+      344.268,
+      364.09,
+      347.53,
+      372.666
+    ],
+    "subtype": "Link",
+    "hasOwnCanvas": false,
+    "noRotate": false,
+    "noHTML": false,
+    "isEditable": false,
+    "structParent": 4809,
+    "annotationType": 2,
+    "dest": "2025_MandateForLeadership_TEXT.indd:94780"
+  },
+  {
+    "annotationFlags": 0,
+    "borderStyle": {
+      "width": 0,
+      "rawWidth": 1,
+      "style": 1,
+      "dashArray": [
+        3
+      ],
+      "horizontalCornerRadius": 0,
+      "verticalCornerRadius": 0
+    },
+    "color": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "backgroundColor": null,
+    "borderColor": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "rotation": 0,
+    "contentsObj": {
+      "str": "",
+      "dir": "ltr"
+    },
+    "hasAppearance": false,
+    "id": "10412R",
+    "modificationDate": null,
+    "rect": [
+      398.133,
+      294.09,
+      401.377,
+      302.666
+    ],
+    "subtype": "Link",
+    "hasOwnCanvas": false,
+    "noRotate": false,
+    "noHTML": false,
+    "isEditable": false,
+    "structParent": 4810,
+    "annotationType": 2,
+    "dest": "2025_MandateForLeadership_TEXT.indd:94781"
+  }
+]

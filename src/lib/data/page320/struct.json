@@ -1,0 +1,75 @@
+{
+  "children": [
+    {
+      "role": "Document",
+      "children": [
+        {
+          "role": "Art",
+          "children": [
+            {
+              "role": "Sect",
+              "children": [
+                {
+                  "role": "P",
+                  "children": [
+                    {
+                      "type": "content",
+                      "id": "p816R_mc15218"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p816R_mc15219"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p816R_mc15220"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p816R_mc15221"
+                    },
+                    {
+                      "role": "Span",
+                      "children": [
+                        {
+                          "type": "content",
+                          "id": "p816R_mc15222"
+                        }
+                      ],
+                      "alt": "­"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p816R_mc15223"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p816R_mc15224"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p816R_mc15225"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p816R_mc15226"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p816R_mc15227"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p816R_mc15228"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "role": "Root"
+}

@@ -1,0 +1,767 @@
+{
+  "items": [
+    {
+      "str": "— 131 —",
+      "dir": "ltr",
+      "width": 38.059999999999995,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        232.6223,
+        32.0001
+      ],
+      "fontName": "g_d0_f3",
+      "hasEOL": false
+    },
+    {
+      "str": "Department of Defense",
+      "dir": "ltr",
+      "width": 105.8931,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        199.0374,
+        664.4
+      ],
+      "fontName": "g_d0_f24",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.6064,
+        634.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "45.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.6064,
+        634.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.9189888888888902,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.7314,
+        634.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Forum for American Leadership, “How Biden's Missile Defense Review Can Succeed,” October 21, 2021,",
+      "dir": "ltr",
+      "width": 316.9215000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0023,
+        634.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19957777777772712,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        406.9238000000005,
+        634.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://",
+      "dir": "ltr",
+      "width": 22.85999999999998,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        408.72,
+        634.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.5388,
+        623.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "forumforamericanleadership.org/missile-defense-review",
+      "dir": "ltr",
+      "width": 175.35240000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.5388,
+        623.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19996666666665103,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        265.89120000000014,
+        623.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed February 16, 2023).",
+      "dir": "ltr",
+      "width": 91.92510000000011,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        267.6909,
+        623.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.6064,
+        612.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "46.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.6064,
+        612.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.9189888888888902,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.7314,
+        612.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Tom Karako, Matt Strohmeyer, Ian Williams, Wes Rumbaugh, and Ken Harmon,",
+      "dir": "ltr",
+      "width": 244.15740000000025,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0023,
+        612.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1996444444443897,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        334.1597000000005,
+        612.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "North America Is a Region,",
+      "dir": "ltr",
+      "width": 83.12400000000008,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        335.9565,
+        612.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.5536,
+        601.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": true
+    },
+    {
+      "str": "Too: An Integrated, Phased, and Affordable Approach to Air and Missile Defense for the Homeland",
+      "dir": "ltr",
+      "width": 303.83550000000025,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.5536,
+        601.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": ", Center",
+      "dir": "ltr",
+      "width": 23.931000000000047,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        393.3878,
+        601.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.5388,
+        590.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "for Strategic and International Studies, Missile Defense Project, July 2022,",
+      "dir": "ltr",
+      "width": 227.44350000000023,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.5388,
+        590.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19993333333330712,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        317.98230000000024,
+        590.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://csis-website-prod.",
+      "dir": "ltr",
+      "width": 79.45109999999998,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        319.7817,
+        590.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4176,
+        579.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "s3.amazonaws.com/s3fs-public/publication/220714_Karako_North_America.pdf?VersionId=BhIKa8jHHF_",
+      "dir": "ltr",
+      "width": 328.9635000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4176,
+        579.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.612,
+        568.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "kV94NXRMx6D4m2o6LQqUf",
+      "dir": "ltr",
+      "width": 89.96309999999997,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.612,
+        568.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19992222222222406,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        180.5751,
+        568.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed February 16, 2023).",
+      "dir": "ltr",
+      "width": 91.92510000000011,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        182.3744,
+        568.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.6064,
+        557.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "47.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.6064,
+        557.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.9189888888888902,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.7314,
+        557.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Rebeccah Heinrichs, “Why America Needs the Ability to Track Enemy Missiles from Space,”",
+      "dir": "ltr",
+      "width": 281.2185000000003,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0023,
+        557.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19962222222217305,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        371.22080000000045,
+        557.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "The Hill",
+      "dir": "ltr",
+      "width": 22.968000000000035,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        373.0174,
+        557.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": ", April 16,",
+      "dir": "ltr",
+      "width": 28.05300000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        395.9847,
+        557.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.9172,
+        546.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "2019,",
+      "dir": "ltr",
+      "width": 15.983999999999993,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.9172,
+        546.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1999666666666684,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        105.90119999999999,
+        546.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://thehill.com/opinion/national-security/438939-why-america-needs-the-ability-to-track-enemy-",
+      "dir": "ltr",
+      "width": 317.55960000000005,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        107.7009,
+        546.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4788,
+        535.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "missiles-from-space/",
+      "dir": "ltr",
+      "width": 65.64510000000003,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4788,
+        535.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1999555555555522,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        156.12390000000005,
+        535.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed February 16, 2023).",
+      "dir": "ltr",
+      "width": 91.9251000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        157.92350000000002,
+        535.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    }
+  ],
+  "styles": {
+    "g_d0_f3": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f24": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f17": {
+      "fontFamily": "sans-serif",
+      "ascent": 0.939,
+      "descent": -0.202,
+      "vertical": false
+    },
+    "g_d0_f18": {
+      "fontFamily": "sans-serif",
+      "ascent": 0.939,
+      "descent": -0.202,
+      "vertical": false
+    }
+  },
+  "lang": "en-US"
+}

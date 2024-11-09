@@ -1,0 +1,1205 @@
+{
+  "items": [
+    {
+      "str": "— 861 —",
+      "dir": "ltr",
+      "width": 40.650000000000006,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        231.3273,
+        32.0001
+      ],
+      "fontName": "g_d0_f3",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        30,
+        0,
+        0,
+        30,
+        397.2033,
+        610
+      ],
+      "fontName": "g_d0_f2",
+      "hasEOL": true
+    },
+    {
+      "str": "29",
+      "dir": "ltr",
+      "width": 34.739999999999995,
+      "height": 30,
+      "transform": [
+        30,
+        0,
+        0,
+        30,
+        397.2033,
+        610
+      ],
+      "fontName": "g_d0_f2",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        16,
+        0,
+        0,
+        16,
+        355.2359,
+        490.2
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": true
+    },
+    {
+      "str": "FEDERAL",
+      "dir": "ltr",
+      "width": 78.56,
+      "height": 16,
+      "transform": [
+        16,
+        0,
+        0,
+        16,
+        355.2359,
+        490.2
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        16,
+        0,
+        0,
+        16,
+        346.8023,
+        472.2
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": true
+    },
+    {
+      "str": "ELECTION",
+      "dir": "ltr",
+      "width": 85.136,
+      "height": 16,
+      "transform": [
+        16,
+        0,
+        0,
+        16,
+        346.8023,
+        472.2
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        16,
+        0,
+        0,
+        16,
+        321.7621,
+        454.2
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": true
+    },
+    {
+      "str": "COMMISSION",
+      "dir": "ltr",
+      "width": 110.17599999999997,
+      "height": 16,
+      "transform": [
+        16,
+        0,
+        0,
+        16,
+        321.7621,
+        454.2
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        13,
+        0,
+        0,
+        13,
+        280.3062,
+        436.2
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": true
+    },
+    {
+      "str": "Hans A. von Spakovsky",
+      "dir": "ltr",
+      "width": 151.92969999999997,
+      "height": 13,
+      "transform": [
+        13,
+        0,
+        0,
+        13,
+        280.3062,
+        436.2
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        72.3576,
+        380
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": true
+    },
+    {
+      "str": "MISSION/OVERVIEW",
+      "dir": "ltr",
+      "width": 107.46000000000002,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        72.3576,
+        380
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4026,
+        0,
+        0,
+        10.5,
+        85.2636,
+        366
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "The Federal Election Commission (FEC) is an independent federal agency that",
+      "dir": "ltr",
+      "width": 346.3535267400002,
+      "height": 10.5,
+      "transform": [
+        10.4026,
+        0,
+        0,
+        10.5,
+        85.2636,
+        366
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5694,
+        0,
+        0,
+        10.5,
+        72.4548,
+        352
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "began operations in 1975 to enforce the Federal Election Campaign Act (FECA)",
+      "dir": "ltr",
+      "width": 359.61326560000066,
+      "height": 10.5,
+      "transform": [
+        10.5694,
+        0,
+        0,
+        10.5,
+        72.4548,
+        352
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5238,
+        0,
+        0,
+        10.5,
+        72.3984,
+        338
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "passed by Congress in 1971 and amended in 1974.",
+      "dir": "ltr",
+      "width": 220.04002944000013,
+      "height": 10.5,
+      "transform": [
+        10.5238,
+        0,
+        0,
+        10.5,
+        72.3984,
+        338
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "1",
+      "dir": "ltr",
+      "width": 2.5032432,
+      "height": 6.1215,
+      "transform": [
+        6.1354,
+        0,
+        0,
+        6.1215,
+        292.577,
+        341.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.34859800502005117,
+      "height": 0,
+      "transform": [
+        6.1354,
+        0,
+        0,
+        6.1215,
+        295.0802432,
+        341.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "FECA governs the raising and",
+      "dir": "ltr",
+      "width": 134.26895468000006,
+      "height": 10.5,
+      "transform": [
+        10.5238,
+        0,
+        0,
+        10.5,
+        297.2190314,
+        338
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5258,
+        0,
+        0,
+        10.5,
+        72.3936,
+        324
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "spending of funds in all federal campaigns for Congress and the presidency. The",
+      "dir": "ltr",
+      "width": 359.1066134400005,
+      "height": 10.5,
+      "transform": [
+        10.5258,
+        0,
+        0,
+        10.5,
+        72.3936,
+        324
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6366,
+        0,
+        0,
+        10.5,
+        71.9316,
+        310
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "FEC has no authority over the administration of federal elections, which is per",
+      "dir": "ltr",
+      "width": 358.64594245999945,
+      "height": 10.5,
+      "transform": [
+        10.6366,
+        0,
+        0,
+        10.5,
+        71.9316,
+        310
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.8929956,
+      "height": 10.5,
+      "transform": [
+        10.6366,
+        0,
+        0,
+        10.5,
+        430.7267,
+        310
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.4296,
+        296
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "formed by state governments.",
+      "dir": "ltr",
+      "width": 133.30485000000002,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.4296,
+        296
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        85.1424,
+        282
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "While the FEC has exclusive civil enforcement authority over FECA,",
+      "dir": "ltr",
+      "width": 324.7903889999998,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        85.1424,
+        282
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "2",
+      "dir": "ltr",
+      "width": 3.3904377,
+      "height": 6.1215,
+      "transform": [
+        6.2439,
+        0,
+        0,
+        6.1215,
+        410.0219,
+        285.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.43412487387690163,
+      "height": 0,
+      "transform": [
+        6.2439,
+        0,
+        0,
+        6.1215,
+        413.4123377,
+        285.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "the",
+      "dir": "ltr",
+      "width": 15.357069000000001,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        416.12297,
+        282
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        71.994,
+        268
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "U.S. Justice Department has criminal enforcement authority, which is defined",
+      "dir": "ltr",
+      "width": 359.5186350000007,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        71.994,
+        268
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.318,
+        254
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "as a knowing and willful violation of the law.",
+      "dir": "ltr",
+      "width": 196.20299999999997,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.318,
+        254
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "3",
+      "dir": "ltr",
+      "width": 3.2505165000000003,
+      "height": 6.1215,
+      "transform": [
+        6.1215,
+        0,
+        0,
+        6.1215,
+        268.5486,
+        257.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.3070298946336669,
+      "height": 0,
+      "transform": [
+        6.1215,
+        0,
+        0,
+        6.1215,
+        271.7991165,
+        257.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "Because the FEC is an independent",
+      "dir": "ltr",
+      "width": 158.05650000000009,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        273.6786,
+        254
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3947,
+        0,
+        0,
+        10.5,
+        72.318,
+        240
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "agency and not a division or office directly within the executive branch, the author",
+      "dir": "ltr",
+      "width": 358.49553200999895,
+      "height": 10.5,
+      "transform": [
+        10.3947,
+        0,
+        0,
+        10.5,
+        72.318,
+        240
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.8044602,
+      "height": 10.5,
+      "transform": [
+        10.3947,
+        0,
+        0,
+        10.5,
+        430.7579,
+        240
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        226
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "ity of the President over the actions of the FEC is extremely limited.",
+      "dir": "ltr",
+      "width": 303.1245,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        226
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        84.9264,
+        212
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "As former FEC Commissioner Bradley Smith has said, the FEC’s “[r]egulation",
+      "dir": "ltr",
+      "width": 346.7530500000002,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        84.9264,
+        212
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4358,
+        0,
+        0,
+        10.5,
+        72.36,
+        198
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "of campaign finance deeply implicates First Amendment principles of free speech",
+      "dir": "ltr",
+      "width": 359.39747262000077,
+      "height": 10.5,
+      "transform": [
+        10.4358,
+        0,
+        0,
+        10.5,
+        72.36,
+        198
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3234,
+        0,
+        0,
+        10.5,
+        72.318,
+        184
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "and association.”",
+      "dir": "ltr",
+      "width": 74.10962391999996,
+      "height": 10.5,
+      "transform": [
+        10.3234,
+        0,
+        0,
+        10.5,
+        72.318,
+        184
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "4",
+      "dir": "ltr",
+      "width": 3.2981928000000003,
+      "height": 6.1215,
+      "transform": [
+        6.0186,
+        0,
+        0,
+        6.1215,
+        146.3749,
+        187.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.2747147177084341,
+      "height": 0,
+      "transform": [
+        6.0186,
+        0,
+        0,
+        6.1215,
+        149.6730928,
+        187.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "The FEC regulates in one of the most sensitive areas of the Bill of",
+      "dir": "ltr",
+      "width": 280.5249745799996,
+      "height": 10.5,
+      "transform": [
+        10.3234,
+        0,
+        0,
+        10.5,
+        151.3264908,
+        184
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        71.9316,
+        170
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Rights: political speech and political activity by citizens, candidates, political par",
+      "dir": "ltr",
+      "width": 358.9204499999998,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        71.9316,
+        170
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.843,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        430.7422,
+        170
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4934,
+        0,
+        0,
+        10.5,
+        72.2868,
+        156
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "ties, and the voluntary membership organizations that represent Americans who",
+      "dir": "ltr",
+      "width": 359.31605214000024,
+      "height": 10.5,
+      "transform": [
+        10.4934,
+        0,
+        0,
+        10.5,
+        72.2868,
+        156
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.3936,
+        142
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "share common views on a huge range of important and vital public policy issues.",
+      "dir": "ltr",
+      "width": 357.31395000000003,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.3936,
+        142
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        72.3576,
+        114
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": true
+    },
+    {
+      "str": "NEEDED REFORMS",
+      "dir": "ltr",
+      "width": 97.94,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        72.3576,
+        114
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4037,
+        0,
+        0,
+        10.5,
+        85.65,
+        100
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": true
+    },
+    {
+      "str": "Nomination Authority.",
+      "dir": "ltr",
+      "width": 110.72865984000012,
+      "height": 10.5,
+      "transform": [
+        10.4037,
+        0,
+        0,
+        10.5,
+        85.65,
+        100
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1625909013139457,
+      "height": 0,
+      "transform": [
+        10.4037,
+        0,
+        0,
+        10.5,
+        196.3786598400001,
+        100
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": "The President’s most significant power is the appoint",
+      "dir": "ltr",
+      "width": 232.60488422999939,
+      "height": 10.5,
+      "transform": [
+        10.4037,
+        0,
+        0,
+        10.5,
+        198.0702068,
+        100
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.8077542,
+      "height": 10.5,
+      "transform": [
+        10.4037,
+        0,
+        0,
+        10.5,
+        430.7551,
+        100
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6154,
+        0,
+        0,
+        10.5,
+        72.2304,
+        86
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "ment of the six commissioners who govern the FEC, subject to confirmation by",
+      "dir": "ltr",
+      "width": 359.6380750600009,
+      "height": 10.5,
+      "transform": [
+        10.6154,
+        0,
+        0,
+        10.5,
+        72.2304,
+        86
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.2868,
+        72
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "the U.S. Senate. Commissioners may only serve a single term of six years but",
+      "dir": "ltr",
+      "width": 359.4318840000004,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.2868,
+        72
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    }
+  ],
+  "styles": {
+    "g_d0_f3": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f2": {
+      "fontFamily": "serif",
+      "ascent": 1.158,
+      "descent": -0.32,
+      "vertical": false
+    },
+    "g_d0_f8": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.017,
+      "descent": -0.297,
+      "vertical": false
+    },
+    "g_d0_f4": {
+      "fontFamily": "serif",
+      "ascent": 1.089,
+      "descent": -0.312,
+      "vertical": false
+    },
+    "g_d0_f11": {
+      "fontFamily": "serif",
+      "ascent": 1.143,
+      "descent": -0.351,
+      "vertical": false
+    }
+  },
+  "lang": "en-US"
+}

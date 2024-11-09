@@ -1,0 +1,2061 @@
+[
+  {
+    "annotationFlags": 0,
+    "borderStyle": {
+      "width": 0,
+      "rawWidth": 1,
+      "style": 1,
+      "dashArray": [
+        3
+      ],
+      "horizontalCornerRadius": 0,
+      "verticalCornerRadius": 0
+    },
+    "color": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "backgroundColor": null,
+    "borderColor": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "rotation": 0,
+    "contentsObj": {
+      "str": "",
+      "dir": "ltr"
+    },
+    "hasAppearance": false,
+    "id": "5867R",
+    "modificationDate": null,
+    "rect": [
+      350.635,
+      622.182,
+      428.826,
+      632.451
+    ],
+    "subtype": "Link",
+    "hasOwnCanvas": false,
+    "noRotate": false,
+    "noHTML": false,
+    "isEditable": false,
+    "structParent": 5687,
+    "annotationType": 2,
+    "url": "https://www.reginfo.gov/public/do/eAgendaMain",
+    "unsafeUrl": "https://www.reginfo.gov/public/do/eAgendaMain"
+  },
+  {
+    "annotationFlags": 0,
+    "borderStyle": {
+      "width": 0,
+      "rawWidth": 1,
+      "style": 1,
+      "dashArray": [
+        3
+      ],
+      "horizontalCornerRadius": 0,
+      "verticalCornerRadius": 0
+    },
+    "color": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "backgroundColor": null,
+    "borderColor": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "rotation": 0,
+    "contentsObj": {
+      "str": "",
+      "dir": "ltr"
+    },
+    "hasAppearance": false,
+    "id": "5863R",
+    "modificationDate": null,
+    "rect": [
+      90.4788,
+      611.182,
+      165.762,
+      621.451
+    ],
+    "subtype": "Link",
+    "hasOwnCanvas": false,
+    "noRotate": false,
+    "noHTML": false,
+    "isEditable": false,
+    "structParent": 5688,
+    "annotationType": 2,
+    "url": "https://www.reginfo.gov/public/do/eAgendaMain",
+    "unsafeUrl": "https://www.reginfo.gov/public/do/eAgendaMain"
+  },
+  {
+    "annotationFlags": 0,
+    "borderStyle": {
+      "width": 0,
+      "rawWidth": 1,
+      "style": 1,
+      "dashArray": [
+        3
+      ],
+      "horizontalCornerRadius": 0,
+      "verticalCornerRadius": 0
+    },
+    "color": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "backgroundColor": null,
+    "borderColor": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "rotation": 0,
+    "contentsObj": {
+      "str": "",
+      "dir": "ltr"
+    },
+    "hasAppearance": false,
+    "id": "5859R",
+    "modificationDate": null,
+    "rect": [
+      111.386,
+      600.182,
+      384.117,
+      610.451
+    ],
+    "subtype": "Link",
+    "hasOwnCanvas": false,
+    "noRotate": false,
+    "noHTML": false,
+    "isEditable": false,
+    "structParent": 5689,
+    "annotationType": 2,
+    "url": "https://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202204&RIN=3235-AM88",
+    "unsafeUrl": "https://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202204&RIN=3235-AM88"
+  },
+  {
+    "annotationFlags": 0,
+    "borderStyle": {
+      "width": 0,
+      "rawWidth": 1,
+      "style": 1,
+      "dashArray": [
+        3
+      ],
+      "horizontalCornerRadius": 0,
+      "verticalCornerRadius": 0
+    },
+    "color": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "backgroundColor": null,
+    "borderColor": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "rotation": 0,
+    "contentsObj": {
+      "str": "",
+      "dir": "ltr"
+    },
+    "hasAppearance": false,
+    "id": "5861R",
+    "modificationDate": null,
+    "rect": [
+      293.037,
+      589.182,
+      403.654,
+      599.451
+    ],
+    "subtype": "Link",
+    "hasOwnCanvas": false,
+    "noRotate": false,
+    "noHTML": false,
+    "isEditable": false,
+    "structParent": 5690,
+    "annotationType": 2,
+    "url": "https://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202204&RIN=3235-AL91",
+    "unsafeUrl": "https://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202204&RIN=3235-AL91"
+  },
+  {
+    "annotationFlags": 0,
+    "borderStyle": {
+      "width": 0,
+      "rawWidth": 1,
+      "style": 1,
+      "dashArray": [
+        3
+      ],
+      "horizontalCornerRadius": 0,
+      "verticalCornerRadius": 0
+    },
+    "color": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "backgroundColor": null,
+    "borderColor": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "rotation": 0,
+    "contentsObj": {
+      "str": "",
+      "dir": "ltr"
+    },
+    "hasAppearance": false,
+    "id": "5848R",
+    "modificationDate": null,
+    "rect": [
+      90.2904,
+      578.182,
+      249.489,
+      588.451
+    ],
+    "subtype": "Link",
+    "hasOwnCanvas": false,
+    "noRotate": false,
+    "noHTML": false,
+    "isEditable": false,
+    "structParent": 5692,
+    "annotationType": 2,
+    "url": "https://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202204&RIN=3235-AL91",
+    "unsafeUrl": "https://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202204&RIN=3235-AL91"
+  },
+  {
+    "annotationFlags": 0,
+    "borderStyle": {
+      "width": 0,
+      "rawWidth": 1,
+      "style": 1,
+      "dashArray": [
+        3
+      ],
+      "horizontalCornerRadius": 0,
+      "verticalCornerRadius": 0
+    },
+    "color": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "backgroundColor": null,
+    "borderColor": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "rotation": 0,
+    "contentsObj": {
+      "str": "",
+      "dir": "ltr"
+    },
+    "hasAppearance": false,
+    "id": "5851R",
+    "modificationDate": null,
+    "rect": [
+      71.7768,
+      567.182,
+      79.8767,
+      577.451
+    ],
+    "subtype": "Link",
+    "hasOwnCanvas": false,
+    "noRotate": false,
+    "noHTML": false,
+    "isEditable": false,
+    "structParent": 5691,
+    "annotationType": 2,
+    "dest": "2025_MandateForLeadership_TEXT.indd:91540"
+  },
+  {
+    "annotationFlags": 0,
+    "borderStyle": {
+      "width": 0,
+      "rawWidth": 1,
+      "style": 1,
+      "dashArray": [
+        3
+      ],
+      "horizontalCornerRadius": 0,
+      "verticalCornerRadius": 0
+    },
+    "color": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "backgroundColor": null,
+    "borderColor": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "rotation": 0,
+    "contentsObj": {
+      "str": "",
+      "dir": "ltr"
+    },
+    "hasAppearance": false,
+    "id": "5846R",
+    "modificationDate": null,
+    "rect": [
+      156.716,
+      567.182,
+      312.044,
+      577.451
+    ],
+    "subtype": "Link",
+    "hasOwnCanvas": false,
+    "noRotate": false,
+    "noHTML": false,
+    "isEditable": false,
+    "structParent": 5693,
+    "annotationType": 2,
+    "url": "https://www.law.cornell.edu/uscode/text/15/77z-3",
+    "unsafeUrl": "https://www.law.cornell.edu/uscode/text/15/77z-3"
+  },
+  {
+    "annotationFlags": 0,
+    "borderStyle": {
+      "width": 0,
+      "rawWidth": 1,
+      "style": 1,
+      "dashArray": [
+        3
+      ],
+      "horizontalCornerRadius": 0,
+      "verticalCornerRadius": 0
+    },
+    "color": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "backgroundColor": null,
+    "borderColor": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "rotation": 0,
+    "contentsObj": {
+      "str": "",
+      "dir": "ltr"
+    },
+    "hasAppearance": false,
+    "id": "5836R",
+    "modificationDate": null,
+    "rect": [
+      137.252,
+      556.182,
+      295.613,
+      566.451
+    ],
+    "subtype": "Link",
+    "hasOwnCanvas": false,
+    "noRotate": false,
+    "noHTML": false,
+    "isEditable": false,
+    "structParent": 5695,
+    "annotationType": 2,
+    "url": "https://www.law.cornell.edu/uscode/text/15/78mm",
+    "unsafeUrl": "https://www.law.cornell.edu/uscode/text/15/78mm"
+  },
+  {
+    "annotationFlags": 0,
+    "borderStyle": {
+      "width": 0,
+      "rawWidth": 1,
+      "style": 1,
+      "dashArray": [
+        3
+      ],
+      "horizontalCornerRadius": 0,
+      "verticalCornerRadius": 0
+    },
+    "color": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "backgroundColor": null,
+    "borderColor": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "rotation": 0,
+    "contentsObj": {
+      "str": "",
+      "dir": "ltr"
+    },
+    "hasAppearance": false,
+    "id": "5841R",
+    "modificationDate": null,
+    "rect": [
+      71.7768,
+      545.182,
+      79.8767,
+      555.451
+    ],
+    "subtype": "Link",
+    "hasOwnCanvas": false,
+    "noRotate": false,
+    "noHTML": false,
+    "isEditable": false,
+    "structParent": 5694,
+    "annotationType": 2,
+    "dest": "2025_MandateForLeadership_TEXT.indd:91542"
+  },
+  {
+    "annotationFlags": 0,
+    "borderStyle": {
+      "width": 0,
+      "rawWidth": 1,
+      "style": 1,
+      "dashArray": [
+        3
+      ],
+      "horizontalCornerRadius": 0,
+      "verticalCornerRadius": 0
+    },
+    "color": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "backgroundColor": null,
+    "borderColor": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "rotation": 0,
+    "contentsObj": {
+      "str": "",
+      "dir": "ltr"
+    },
+    "hasAppearance": false,
+    "id": "5838R",
+    "modificationDate": null,
+    "rect": [
+      398.568,
+      545.182,
+      421.427,
+      555.451
+    ],
+    "subtype": "Link",
+    "hasOwnCanvas": false,
+    "noRotate": false,
+    "noHTML": false,
+    "isEditable": false,
+    "structParent": 5696,
+    "annotationType": 2,
+    "url": "https://www.banking.senate.gov/imo/media/doc/the_jobs_act_4.0discussiondraft.pdf",
+    "unsafeUrl": "https://www.banking.senate.gov/imo/media/doc/the_jobs_act_4.0discussiondraft.pdf"
+  },
+  {
+    "annotationFlags": 0,
+    "borderStyle": {
+      "width": 0,
+      "rawWidth": 1,
+      "style": 1,
+      "dashArray": [
+        3
+      ],
+      "horizontalCornerRadius": 0,
+      "verticalCornerRadius": 0
+    },
+    "color": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "backgroundColor": null,
+    "borderColor": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "rotation": 0,
+    "contentsObj": {
+      "str": "",
+      "dir": "ltr"
+    },
+    "hasAppearance": false,
+    "id": "5832R",
+    "modificationDate": null,
+    "rect": [
+      90.3168,
+      534.182,
+      337.506,
+      544.451
+    ],
+    "subtype": "Link",
+    "hasOwnCanvas": false,
+    "noRotate": false,
+    "noHTML": false,
+    "isEditable": false,
+    "structParent": 5697,
+    "annotationType": 2,
+    "url": "https://www.banking.senate.gov/imo/media/doc/the_jobs_act_4.0discussiondraft.pdf",
+    "unsafeUrl": "https://www.banking.senate.gov/imo/media/doc/the_jobs_act_4.0discussiondraft.pdf"
+  },
+  {
+    "annotationFlags": 0,
+    "borderStyle": {
+      "width": 0,
+      "rawWidth": 1,
+      "style": 1,
+      "dashArray": [
+        3
+      ],
+      "horizontalCornerRadius": 0,
+      "verticalCornerRadius": 0
+    },
+    "color": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "backgroundColor": null,
+    "borderColor": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "rotation": 0,
+    "contentsObj": {
+      "str": "",
+      "dir": "ltr"
+    },
+    "hasAppearance": false,
+    "id": "5834R",
+    "modificationDate": null,
+    "rect": [
+      259.233,
+      512.182,
+      424.452,
+      522.451
+    ],
+    "subtype": "Link",
+    "hasOwnCanvas": false,
+    "noRotate": false,
+    "noHTML": false,
+    "isEditable": false,
+    "structParent": 5698,
+    "annotationType": 2,
+    "url": "https://www.heritage.org/testimony/entrepreneurial-capital-formation",
+    "unsafeUrl": "https://www.heritage.org/testimony/entrepreneurial-capital-formation"
+  },
+  {
+    "annotationFlags": 0,
+    "borderStyle": {
+      "width": 0,
+      "rawWidth": 1,
+      "style": 1,
+      "dashArray": [
+        3
+      ],
+      "horizontalCornerRadius": 0,
+      "verticalCornerRadius": 0
+    },
+    "color": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "backgroundColor": null,
+    "borderColor": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "rotation": 0,
+    "contentsObj": {
+      "str": "",
+      "dir": "ltr"
+    },
+    "hasAppearance": false,
+    "id": "5828R",
+    "modificationDate": null,
+    "rect": [
+      90.2904,
+      501.182,
+      144.532,
+      511.451
+    ],
+    "subtype": "Link",
+    "hasOwnCanvas": false,
+    "noRotate": false,
+    "noHTML": false,
+    "isEditable": false,
+    "structParent": 5699,
+    "annotationType": 2,
+    "url": "https://www.heritage.org/testimony/entrepreneurial-capital-formation",
+    "unsafeUrl": "https://www.heritage.org/testimony/entrepreneurial-capital-formation"
+  },
+  {
+    "annotationFlags": 0,
+    "borderStyle": {
+      "width": 0,
+      "rawWidth": 1,
+      "style": 1,
+      "dashArray": [
+        3
+      ],
+      "horizontalCornerRadius": 0,
+      "verticalCornerRadius": 0
+    },
+    "color": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "backgroundColor": null,
+    "borderColor": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "rotation": 0,
+    "contentsObj": {
+      "str": "",
+      "dir": "ltr"
+    },
+    "hasAppearance": false,
+    "id": "5830R",
+    "modificationDate": null,
+    "rect": [
+      237.222,
+      468.182,
+      414.988,
+      478.451
+    ],
+    "subtype": "Link",
+    "hasOwnCanvas": false,
+    "noRotate": false,
+    "noHTML": false,
+    "isEditable": false,
+    "structParent": 5700,
+    "annotationType": 2,
+    "url": "https://www.cato.org/sites/cato.org/files/2022-10/sound-financial-policy-118th-congress.pdf",
+    "unsafeUrl": "https://www.cato.org/sites/cato.org/files/2022-10/sound-financial-policy-118th-congress.pdf"
+  },
+  {
+    "annotationFlags": 0,
+    "borderStyle": {
+      "width": 0,
+      "rawWidth": 1,
+      "style": 1,
+      "dashArray": [
+        3
+      ],
+      "horizontalCornerRadius": 0,
+      "verticalCornerRadius": 0
+    },
+    "color": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "backgroundColor": null,
+    "borderColor": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "rotation": 0,
+    "contentsObj": {
+      "str": "",
+      "dir": "ltr"
+    },
+    "hasAppearance": false,
+    "id": "5824R",
+    "modificationDate": null,
+    "rect": [
+      90.2556,
+      457.182,
+      197.245,
+      467.451
+    ],
+    "subtype": "Link",
+    "hasOwnCanvas": false,
+    "noRotate": false,
+    "noHTML": false,
+    "isEditable": false,
+    "structParent": 5701,
+    "annotationType": 2,
+    "url": "https://www.cato.org/sites/cato.org/files/2022-10/sound-financial-policy-118th-congress.pdf",
+    "unsafeUrl": "https://www.cato.org/sites/cato.org/files/2022-10/sound-financial-policy-118th-congress.pdf"
+  },
+  {
+    "annotationFlags": 0,
+    "borderStyle": {
+      "width": 0,
+      "rawWidth": 1,
+      "style": 1,
+      "dashArray": [
+        3
+      ],
+      "horizontalCornerRadius": 0,
+      "verticalCornerRadius": 0
+    },
+    "color": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "backgroundColor": null,
+    "borderColor": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "rotation": 0,
+    "contentsObj": {
+      "str": "",
+      "dir": "ltr"
+    },
+    "hasAppearance": false,
+    "id": "5826R",
+    "modificationDate": null,
+    "rect": [
+      234.774,
+      435.182,
+      421.115,
+      445.451
+    ],
+    "subtype": "Link",
+    "hasOwnCanvas": false,
+    "noRotate": false,
+    "noHTML": false,
+    "isEditable": false,
+    "structParent": 5702,
+    "annotationType": 2,
+    "url": "https://www.banking.senate.gov/imo/media/doc/David%20Burton%20and%20Norbert%20Michel%20-%202021-3-18.pdf",
+    "unsafeUrl": "https://www.banking.senate.gov/imo/media/doc/David%20Burton%20and%20Norbert%20Michel%20-%202021-3-18.pdf"
+  },
+  {
+    "annotationFlags": 0,
+    "borderStyle": {
+      "width": 0,
+      "rawWidth": 1,
+      "style": 1,
+      "dashArray": [
+        3
+      ],
+      "horizontalCornerRadius": 0,
+      "verticalCornerRadius": 0
+    },
+    "color": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "backgroundColor": null,
+    "borderColor": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "rotation": 0,
+    "contentsObj": {
+      "str": "",
+      "dir": "ltr"
+    },
+    "hasAppearance": false,
+    "id": "5822R",
+    "modificationDate": null,
+    "rect": [
+      90.54,
+      424.182,
+      280.491,
+      434.451
+    ],
+    "subtype": "Link",
+    "hasOwnCanvas": false,
+    "noRotate": false,
+    "noHTML": false,
+    "isEditable": false,
+    "structParent": 5703,
+    "annotationType": 2,
+    "url": "https://www.banking.senate.gov/imo/media/doc/David%20Burton%20and%20Norbert%20Michel%20-%202021-3-18.pdf",
+    "unsafeUrl": "https://www.banking.senate.gov/imo/media/doc/David%20Burton%20and%20Norbert%20Michel%20-%202021-3-18.pdf"
+  },
+  {
+    "annotationFlags": 0,
+    "borderStyle": {
+      "width": 0,
+      "rawWidth": 1,
+      "style": 1,
+      "dashArray": [
+        3
+      ],
+      "horizontalCornerRadius": 0,
+      "verticalCornerRadius": 0
+    },
+    "color": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "backgroundColor": null,
+    "borderColor": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "rotation": 0,
+    "contentsObj": {
+      "str": "",
+      "dir": "ltr"
+    },
+    "hasAppearance": false,
+    "id": "5805R",
+    "modificationDate": null,
+    "rect": [
+      176.255,
+      402.182,
+      376.6,
+      412.451
+    ],
+    "subtype": "Link",
+    "hasOwnCanvas": false,
+    "noRotate": false,
+    "noHTML": false,
+    "isEditable": false,
+    "structParent": 5706,
+    "annotationType": 2,
+    "url": "https://www.heritage.org/sites/default/files/2017-02/BG3182.pdf",
+    "unsafeUrl": "https://www.heritage.org/sites/default/files/2017-02/BG3182.pdf"
+  },
+  {
+    "annotationFlags": 0,
+    "borderStyle": {
+      "width": 0,
+      "rawWidth": 1,
+      "style": 1,
+      "dashArray": [
+        3
+      ],
+      "horizontalCornerRadius": 0,
+      "verticalCornerRadius": 0
+    },
+    "color": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "backgroundColor": null,
+    "borderColor": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "rotation": 0,
+    "contentsObj": {
+      "str": "",
+      "dir": "ltr"
+    },
+    "hasAppearance": false,
+    "id": "5814R",
+    "modificationDate": null,
+    "rect": [
+      71.7768,
+      391.182,
+      79.8767,
+      401.451
+    ],
+    "subtype": "Link",
+    "hasOwnCanvas": false,
+    "noRotate": false,
+    "noHTML": false,
+    "isEditable": false,
+    "structParent": 5704,
+    "annotationType": 2,
+    "dest": "2025_MandateForLeadership_TEXT.indd:91544"
+  },
+  {
+    "annotationFlags": 0,
+    "borderStyle": {
+      "width": 0,
+      "rawWidth": 1,
+      "style": 1,
+      "dashArray": [
+        3
+      ],
+      "horizontalCornerRadius": 0,
+      "verticalCornerRadius": 0
+    },
+    "color": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "backgroundColor": null,
+    "borderColor": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "rotation": 0,
+    "contentsObj": {
+      "str": "",
+      "dir": "ltr"
+    },
+    "hasAppearance": false,
+    "id": "5810R",
+    "modificationDate": null,
+    "rect": [
+      71.7768,
+      380.182,
+      79.8767,
+      390.451
+    ],
+    "subtype": "Link",
+    "hasOwnCanvas": false,
+    "noRotate": false,
+    "noHTML": false,
+    "isEditable": false,
+    "structParent": 5705,
+    "annotationType": 2,
+    "dest": "2025_MandateForLeadership_TEXT.indd:91546"
+  },
+  {
+    "annotationFlags": 0,
+    "borderStyle": {
+      "width": 0,
+      "rawWidth": 1,
+      "style": 1,
+      "dashArray": [
+        3
+      ],
+      "horizontalCornerRadius": 0,
+      "verticalCornerRadius": 0
+    },
+    "color": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "backgroundColor": null,
+    "borderColor": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "rotation": 0,
+    "contentsObj": {
+      "str": "",
+      "dir": "ltr"
+    },
+    "hasAppearance": false,
+    "id": "5807R",
+    "modificationDate": null,
+    "rect": [
+      368.842,
+      369.182,
+      409.161,
+      379.451
+    ],
+    "subtype": "Link",
+    "hasOwnCanvas": false,
+    "noRotate": false,
+    "noHTML": false,
+    "isEditable": false,
+    "structParent": 5707,
+    "annotationType": 2,
+    "url": "https://www.govinfo.gov/content/pkg/PLAW-112publ106/pdf/PLAW-112publ106.pdf",
+    "unsafeUrl": "https://www.govinfo.gov/content/pkg/PLAW-112publ106/pdf/PLAW-112publ106.pdf"
+  },
+  {
+    "annotationFlags": 0,
+    "borderStyle": {
+      "width": 0,
+      "rawWidth": 1,
+      "style": 1,
+      "dashArray": [
+        3
+      ],
+      "horizontalCornerRadius": 0,
+      "verticalCornerRadius": 0
+    },
+    "color": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "backgroundColor": null,
+    "borderColor": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "rotation": 0,
+    "contentsObj": {
+      "str": "",
+      "dir": "ltr"
+    },
+    "hasAppearance": false,
+    "id": "5796R",
+    "modificationDate": null,
+    "rect": [
+      90.2724,
+      358.182,
+      307.511,
+      368.451
+    ],
+    "subtype": "Link",
+    "hasOwnCanvas": false,
+    "noRotate": false,
+    "noHTML": false,
+    "isEditable": false,
+    "structParent": 5709,
+    "annotationType": 2,
+    "url": "https://www.govinfo.gov/content/pkg/PLAW-112publ106/pdf/PLAW-112publ106.pdf",
+    "unsafeUrl": "https://www.govinfo.gov/content/pkg/PLAW-112publ106/pdf/PLAW-112publ106.pdf"
+  },
+  {
+    "annotationFlags": 0,
+    "borderStyle": {
+      "width": 0,
+      "rawWidth": 1,
+      "style": 1,
+      "dashArray": [
+        3
+      ],
+      "horizontalCornerRadius": 0,
+      "verticalCornerRadius": 0
+    },
+    "color": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "backgroundColor": null,
+    "borderColor": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "rotation": 0,
+    "contentsObj": {
+      "str": "",
+      "dir": "ltr"
+    },
+    "hasAppearance": false,
+    "id": "5801R",
+    "modificationDate": null,
+    "rect": [
+      71.7768,
+      347.182,
+      79.8767,
+      357.451
+    ],
+    "subtype": "Link",
+    "hasOwnCanvas": false,
+    "noRotate": false,
+    "noHTML": false,
+    "isEditable": false,
+    "structParent": 5708,
+    "annotationType": 2,
+    "dest": "2025_MandateForLeadership_TEXT.indd:91548"
+  },
+  {
+    "annotationFlags": 0,
+    "borderStyle": {
+      "width": 0,
+      "rawWidth": 1,
+      "style": 1,
+      "dashArray": [
+        3
+      ],
+      "horizontalCornerRadius": 0,
+      "verticalCornerRadius": 0
+    },
+    "color": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "backgroundColor": null,
+    "borderColor": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "rotation": 0,
+    "contentsObj": {
+      "str": "",
+      "dir": "ltr"
+    },
+    "hasAppearance": false,
+    "id": "5798R",
+    "modificationDate": null,
+    "rect": [
+      156.564,
+      325.182,
+      404.41,
+      335.451
+    ],
+    "subtype": "Link",
+    "hasOwnCanvas": false,
+    "noRotate": false,
+    "noHTML": false,
+    "isEditable": false,
+    "structParent": 5710,
+    "annotationType": 2,
+    "url": "https://www.heritage.org/sites/default/files/2017-02/06_ProsperityUnleashed_Chapter06.pdf",
+    "unsafeUrl": "https://www.heritage.org/sites/default/files/2017-02/06_ProsperityUnleashed_Chapter06.pdf"
+  },
+  {
+    "annotationFlags": 0,
+    "borderStyle": {
+      "width": 0,
+      "rawWidth": 1,
+      "style": 1,
+      "dashArray": [
+        3
+      ],
+      "horizontalCornerRadius": 0,
+      "verticalCornerRadius": 0
+    },
+    "color": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "backgroundColor": null,
+    "borderColor": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "rotation": 0,
+    "contentsObj": {
+      "str": "",
+      "dir": "ltr"
+    },
+    "hasAppearance": false,
+    "id": "5787R",
+    "modificationDate": null,
+    "rect": [
+      90.2004,
+      314.182,
+      135.227,
+      324.451
+    ],
+    "subtype": "Link",
+    "hasOwnCanvas": false,
+    "noRotate": false,
+    "noHTML": false,
+    "isEditable": false,
+    "structParent": 5712,
+    "annotationType": 2,
+    "url": "https://www.heritage.org/sites/default/files/2017-02/06_ProsperityUnleashed_Chapter06.pdf",
+    "unsafeUrl": "https://www.heritage.org/sites/default/files/2017-02/06_ProsperityUnleashed_Chapter06.pdf"
+  },
+  {
+    "annotationFlags": 0,
+    "borderStyle": {
+      "width": 0,
+      "rawWidth": 1,
+      "style": 1,
+      "dashArray": [
+        3
+      ],
+      "horizontalCornerRadius": 0,
+      "verticalCornerRadius": 0
+    },
+    "color": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "backgroundColor": null,
+    "borderColor": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "rotation": 0,
+    "contentsObj": {
+      "str": "",
+      "dir": "ltr"
+    },
+    "hasAppearance": false,
+    "id": "5792R",
+    "modificationDate": null,
+    "rect": [
+      71.7768,
+      303.182,
+      79.8767,
+      313.451
+    ],
+    "subtype": "Link",
+    "hasOwnCanvas": false,
+    "noRotate": false,
+    "noHTML": false,
+    "isEditable": false,
+    "structParent": 5711,
+    "annotationType": 2,
+    "dest": "2025_MandateForLeadership_TEXT.indd:91550"
+  },
+  {
+    "annotationFlags": 0,
+    "borderStyle": {
+      "width": 0,
+      "rawWidth": 1,
+      "style": 1,
+      "dashArray": [
+        3
+      ],
+      "horizontalCornerRadius": 0,
+      "verticalCornerRadius": 0
+    },
+    "color": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "backgroundColor": null,
+    "borderColor": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "rotation": 0,
+    "contentsObj": {
+      "str": "",
+      "dir": "ltr"
+    },
+    "hasAppearance": false,
+    "id": "5789R",
+    "modificationDate": null,
+    "rect": [
+      249.245,
+      292.182,
+      403.241,
+      302.451
+    ],
+    "subtype": "Link",
+    "hasOwnCanvas": false,
+    "noRotate": false,
+    "noHTML": false,
+    "isEditable": false,
+    "structParent": 5713,
+    "annotationType": 2,
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3719280",
+    "unsafeUrl": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3719280"
+  },
+  {
+    "annotationFlags": 0,
+    "borderStyle": {
+      "width": 0,
+      "rawWidth": 1,
+      "style": 1,
+      "dashArray": [
+        3
+      ],
+      "horizontalCornerRadius": 0,
+      "verticalCornerRadius": 0
+    },
+    "color": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "backgroundColor": null,
+    "borderColor": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "rotation": 0,
+    "contentsObj": {
+      "str": "",
+      "dir": "ltr"
+    },
+    "hasAppearance": false,
+    "id": "5783R",
+    "modificationDate": null,
+    "rect": [
+      90.5856,
+      281.182,
+      125.01,
+      291.451
+    ],
+    "subtype": "Link",
+    "hasOwnCanvas": false,
+    "noRotate": false,
+    "noHTML": false,
+    "isEditable": false,
+    "structParent": 5714,
+    "annotationType": 2,
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3719280",
+    "unsafeUrl": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3719280"
+  },
+  {
+    "annotationFlags": 0,
+    "borderStyle": {
+      "width": 0,
+      "rawWidth": 1,
+      "style": 1,
+      "dashArray": [
+        3
+      ],
+      "horizontalCornerRadius": 0,
+      "verticalCornerRadius": 0
+    },
+    "color": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "backgroundColor": null,
+    "borderColor": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "rotation": 0,
+    "contentsObj": {
+      "str": "",
+      "dir": "ltr"
+    },
+    "hasAppearance": false,
+    "id": "5785R",
+    "modificationDate": null,
+    "rect": [
+      402.63,
+      270.182,
+      424.859,
+      280.451
+    ],
+    "subtype": "Link",
+    "hasOwnCanvas": false,
+    "noRotate": false,
+    "noHTML": false,
+    "isEditable": false,
+    "structParent": 5715,
+    "annotationType": 2,
+    "url": "https://www.cato.org/sites/cato.org/files/pubs/pdf/pa833.pdf",
+    "unsafeUrl": "https://www.cato.org/sites/cato.org/files/pubs/pdf/pa833.pdf"
+  },
+  {
+    "annotationFlags": 0,
+    "borderStyle": {
+      "width": 0,
+      "rawWidth": 1,
+      "style": 1,
+      "dashArray": [
+        3
+      ],
+      "horizontalCornerRadius": 0,
+      "verticalCornerRadius": 0
+    },
+    "color": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "backgroundColor": null,
+    "borderColor": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "rotation": 0,
+    "contentsObj": {
+      "str": "",
+      "dir": "ltr"
+    },
+    "hasAppearance": false,
+    "id": "5781R",
+    "modificationDate": null,
+    "rect": [
+      90.3168,
+      259.182,
+      253.953,
+      269.451
+    ],
+    "subtype": "Link",
+    "hasOwnCanvas": false,
+    "noRotate": false,
+    "noHTML": false,
+    "isEditable": false,
+    "structParent": 5716,
+    "annotationType": 2,
+    "url": "https://www.cato.org/sites/cato.org/files/pubs/pdf/pa833.pdf",
+    "unsafeUrl": "https://www.cato.org/sites/cato.org/files/pubs/pdf/pa833.pdf"
+  },
+  {
+    "annotationFlags": 0,
+    "borderStyle": {
+      "width": 0,
+      "rawWidth": 1,
+      "style": 1,
+      "dashArray": [
+        3
+      ],
+      "horizontalCornerRadius": 0,
+      "verticalCornerRadius": 0
+    },
+    "color": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "backgroundColor": null,
+    "borderColor": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "rotation": 0,
+    "contentsObj": {
+      "str": "",
+      "dir": "ltr"
+    },
+    "hasAppearance": false,
+    "id": "5777R",
+    "modificationDate": null,
+    "rect": [
+      107.062,
+      237.182,
+      302.574,
+      247.451
+    ],
+    "subtype": "Link",
+    "hasOwnCanvas": false,
+    "noRotate": false,
+    "noHTML": false,
+    "isEditable": false,
+    "structParent": 5717,
+    "annotationType": 2,
+    "url": "https://www.heritage.org/sites/default/files/2018-08/IB4899.pdf",
+    "unsafeUrl": "https://www.heritage.org/sites/default/files/2018-08/IB4899.pdf"
+  },
+  {
+    "annotationFlags": 0,
+    "borderStyle": {
+      "width": 0,
+      "rawWidth": 1,
+      "style": 1,
+      "dashArray": [
+        3
+      ],
+      "horizontalCornerRadius": 0,
+      "verticalCornerRadius": 0
+    },
+    "color": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "backgroundColor": null,
+    "borderColor": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "rotation": 0,
+    "contentsObj": {
+      "str": "",
+      "dir": "ltr"
+    },
+    "hasAppearance": false,
+    "id": "5779R",
+    "modificationDate": null,
+    "rect": [
+      248.379,
+      215.182,
+      431.444,
+      225.451
+    ],
+    "subtype": "Link",
+    "hasOwnCanvas": false,
+    "noRotate": false,
+    "noHTML": false,
+    "isEditable": false,
+    "structParent": 5718,
+    "annotationType": 2,
+    "url": "https://www.mercatus.org/publications/financial-regulation/evidence-use-disclosure-documents-private-securities-offerings-0",
+    "unsafeUrl": "https://www.mercatus.org/publications/financial-regulation/evidence-use-disclosure-documents-private-securities-offerings-0"
+  },
+  {
+    "annotationFlags": 0,
+    "borderStyle": {
+      "width": 0,
+      "rawWidth": 1,
+      "style": 1,
+      "dashArray": [
+        3
+      ],
+      "horizontalCornerRadius": 0,
+      "verticalCornerRadius": 0
+    },
+    "color": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "backgroundColor": null,
+    "borderColor": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "rotation": 0,
+    "contentsObj": {
+      "str": "",
+      "dir": "ltr"
+    },
+    "hasAppearance": false,
+    "id": "5761R",
+    "modificationDate": null,
+    "rect": [
+      90.2904,
+      204.182,
+      291.768,
+      214.451
+    ],
+    "subtype": "Link",
+    "hasOwnCanvas": false,
+    "noRotate": false,
+    "noHTML": false,
+    "isEditable": false,
+    "structParent": 5721,
+    "annotationType": 2,
+    "url": "https://www.mercatus.org/publications/financial-regulation/evidence-use-disclosure-documents-private-securities-offerings-0",
+    "unsafeUrl": "https://www.mercatus.org/publications/financial-regulation/evidence-use-disclosure-documents-private-securities-offerings-0"
+  },
+  {
+    "annotationFlags": 0,
+    "borderStyle": {
+      "width": 0,
+      "rawWidth": 1,
+      "style": 1,
+      "dashArray": [
+        3
+      ],
+      "horizontalCornerRadius": 0,
+      "verticalCornerRadius": 0
+    },
+    "color": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "backgroundColor": null,
+    "borderColor": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "rotation": 0,
+    "contentsObj": {
+      "str": "",
+      "dir": "ltr"
+    },
+    "hasAppearance": false,
+    "id": "5770R",
+    "modificationDate": null,
+    "rect": [
+      71.7768,
+      193.182,
+      79.8767,
+      203.451
+    ],
+    "subtype": "Link",
+    "hasOwnCanvas": false,
+    "noRotate": false,
+    "noHTML": false,
+    "isEditable": false,
+    "structParent": 5719,
+    "annotationType": 2,
+    "dest": "2025_MandateForLeadership_TEXT.indd:91552"
+  },
+  {
+    "annotationFlags": 0,
+    "borderStyle": {
+      "width": 0,
+      "rawWidth": 1,
+      "style": 1,
+      "dashArray": [
+        3
+      ],
+      "horizontalCornerRadius": 0,
+      "verticalCornerRadius": 0
+    },
+    "color": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "backgroundColor": null,
+    "borderColor": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "rotation": 0,
+    "contentsObj": {
+      "str": "",
+      "dir": "ltr"
+    },
+    "hasAppearance": false,
+    "id": "5766R",
+    "modificationDate": null,
+    "rect": [
+      71.7768,
+      171.182,
+      79.8767,
+      181.451
+    ],
+    "subtype": "Link",
+    "hasOwnCanvas": false,
+    "noRotate": false,
+    "noHTML": false,
+    "isEditable": false,
+    "structParent": 5720,
+    "annotationType": 2,
+    "dest": "2025_MandateForLeadership_TEXT.indd:91555"
+  },
+  {
+    "annotationFlags": 0,
+    "borderStyle": {
+      "width": 0,
+      "rawWidth": 1,
+      "style": 1,
+      "dashArray": [
+        3
+      ],
+      "horizontalCornerRadius": 0,
+      "verticalCornerRadius": 0
+    },
+    "color": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "backgroundColor": null,
+    "borderColor": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "rotation": 0,
+    "contentsObj": {
+      "str": "",
+      "dir": "ltr"
+    },
+    "hasAppearance": false,
+    "id": "5763R",
+    "modificationDate": null,
+    "rect": [
+      246.03,
+      160.182,
+      411.339,
+      170.451
+    ],
+    "subtype": "Link",
+    "hasOwnCanvas": false,
+    "noRotate": false,
+    "noHTML": false,
+    "isEditable": false,
+    "structParent": 5722,
+    "annotationType": 2,
+    "url": "https://www.heritage.org/sites/default/files/2018-07/BG3328.pdf",
+    "unsafeUrl": "https://www.heritage.org/sites/default/files/2018-07/BG3328.pdf"
+  },
+  {
+    "annotationFlags": 0,
+    "borderStyle": {
+      "width": 0,
+      "rawWidth": 1,
+      "style": 1,
+      "dashArray": [
+        3
+      ],
+      "horizontalCornerRadius": 0,
+      "verticalCornerRadius": 0
+    },
+    "color": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "backgroundColor": null,
+    "borderColor": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "rotation": 0,
+    "contentsObj": {
+      "str": "",
+      "dir": "ltr"
+    },
+    "hasAppearance": false,
+    "id": "5757R",
+    "modificationDate": null,
+    "rect": [
+      90.54,
+      149.182,
+      126.981,
+      159.451
+    ],
+    "subtype": "Link",
+    "hasOwnCanvas": false,
+    "noRotate": false,
+    "noHTML": false,
+    "isEditable": false,
+    "structParent": 5723,
+    "annotationType": 2,
+    "url": "https://www.heritage.org/sites/default/files/2018-07/BG3328.pdf",
+    "unsafeUrl": "https://www.heritage.org/sites/default/files/2018-07/BG3328.pdf"
+  },
+  {
+    "annotationFlags": 0,
+    "borderStyle": {
+      "width": 0,
+      "rawWidth": 1,
+      "style": 1,
+      "dashArray": [
+        3
+      ],
+      "horizontalCornerRadius": 0,
+      "verticalCornerRadius": 0
+    },
+    "color": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "backgroundColor": null,
+    "borderColor": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "rotation": 0,
+    "contentsObj": {
+      "str": "",
+      "dir": "ltr"
+    },
+    "hasAppearance": false,
+    "id": "5759R",
+    "modificationDate": null,
+    "rect": [
+      222.02,
+      138.182,
+      414.995,
+      148.451
+    ],
+    "subtype": "Link",
+    "hasOwnCanvas": false,
+    "noRotate": false,
+    "noHTML": false,
+    "isEditable": false,
+    "structParent": 5724,
+    "annotationType": 2,
+    "url": "https://www.mercatus.org/bridge/commentary/make-it-easy-startups-sell-stock",
+    "unsafeUrl": "https://www.mercatus.org/bridge/commentary/make-it-easy-startups-sell-stock"
+  },
+  {
+    "annotationFlags": 0,
+    "borderStyle": {
+      "width": 0,
+      "rawWidth": 1,
+      "style": 1,
+      "dashArray": [
+        3
+      ],
+      "horizontalCornerRadius": 0,
+      "verticalCornerRadius": 0
+    },
+    "color": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "backgroundColor": null,
+    "borderColor": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "rotation": 0,
+    "contentsObj": {
+      "str": "",
+      "dir": "ltr"
+    },
+    "hasAppearance": false,
+    "id": "5747R",
+    "modificationDate": null,
+    "rect": [
+      90.4176,
+      127.182,
+      147.845,
+      137.451
+    ],
+    "subtype": "Link",
+    "hasOwnCanvas": false,
+    "noRotate": false,
+    "noHTML": false,
+    "isEditable": false,
+    "structParent": 5726,
+    "annotationType": 2,
+    "url": "https://www.mercatus.org/bridge/commentary/make-it-easy-startups-sell-stock",
+    "unsafeUrl": "https://www.mercatus.org/bridge/commentary/make-it-easy-startups-sell-stock"
+  },
+  {
+    "annotationFlags": 0,
+    "borderStyle": {
+      "width": 0,
+      "rawWidth": 1,
+      "style": 1,
+      "dashArray": [
+        3
+      ],
+      "horizontalCornerRadius": 0,
+      "verticalCornerRadius": 0
+    },
+    "color": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "backgroundColor": null,
+    "borderColor": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "rotation": 0,
+    "contentsObj": {
+      "str": "",
+      "dir": "ltr"
+    },
+    "hasAppearance": false,
+    "id": "5752R",
+    "modificationDate": null,
+    "rect": [
+      71.7768,
+      116.182,
+      79.8767,
+      126.451
+    ],
+    "subtype": "Link",
+    "hasOwnCanvas": false,
+    "noRotate": false,
+    "noHTML": false,
+    "isEditable": false,
+    "structParent": 5725,
+    "annotationType": 2,
+    "dest": "2025_MandateForLeadership_TEXT.indd:91557"
+  },
+  {
+    "annotationFlags": 0,
+    "borderStyle": {
+      "width": 0,
+      "rawWidth": 1,
+      "style": 1,
+      "dashArray": [
+        3
+      ],
+      "horizontalCornerRadius": 0,
+      "verticalCornerRadius": 0
+    },
+    "color": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "backgroundColor": null,
+    "borderColor": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "rotation": 0,
+    "contentsObj": {
+      "str": "",
+      "dir": "ltr"
+    },
+    "hasAppearance": false,
+    "id": "5749R",
+    "modificationDate": null,
+    "rect": [
+      381.541,
+      116.182,
+      421.86,
+      126.451
+    ],
+    "subtype": "Link",
+    "hasOwnCanvas": false,
+    "noRotate": false,
+    "noHTML": false,
+    "isEditable": false,
+    "structParent": 5727,
+    "annotationType": 2,
+    "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr531ih/pdf/BILLS-115hr531ih.pdf",
+    "unsafeUrl": "https://www.govinfo.gov/content/pkg/BILLS-115hr531ih/pdf/BILLS-115hr531ih.pdf"
+  },
+  {
+    "annotationFlags": 0,
+    "borderStyle": {
+      "width": 0,
+      "rawWidth": 1,
+      "style": 1,
+      "dashArray": [
+        3
+      ],
+      "horizontalCornerRadius": 0,
+      "verticalCornerRadius": 0
+    },
+    "color": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "backgroundColor": null,
+    "borderColor": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "rotation": 0,
+    "contentsObj": {
+      "str": "",
+      "dir": "ltr"
+    },
+    "hasAppearance": false,
+    "id": "5743R",
+    "modificationDate": null,
+    "rect": [
+      90.2724,
+      105.182,
+      298.996,
+      115.451
+    ],
+    "subtype": "Link",
+    "hasOwnCanvas": false,
+    "noRotate": false,
+    "noHTML": false,
+    "isEditable": false,
+    "structParent": 5728,
+    "annotationType": 2,
+    "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr531ih/pdf/BILLS-115hr531ih.pdf",
+    "unsafeUrl": "https://www.govinfo.gov/content/pkg/BILLS-115hr531ih/pdf/BILLS-115hr531ih.pdf"
+  },
+  {
+    "annotationFlags": 0,
+    "borderStyle": {
+      "width": 0,
+      "rawWidth": 1,
+      "style": 1,
+      "dashArray": [
+        3
+      ],
+      "horizontalCornerRadius": 0,
+      "verticalCornerRadius": 0
+    },
+    "color": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "backgroundColor": null,
+    "borderColor": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "rotation": 0,
+    "contentsObj": {
+      "str": "",
+      "dir": "ltr"
+    },
+    "hasAppearance": false,
+    "id": "5745R",
+    "modificationDate": null,
+    "rect": [
+      157.024,
+      83.182,
+      427.001,
+      93.451
+    ],
+    "subtype": "Link",
+    "hasOwnCanvas": false,
+    "noRotate": false,
+    "noHTML": false,
+    "isEditable": false,
+    "structParent": 5729,
+    "annotationType": 2,
+    "url": "https://www.dailysignal.com/2016/04/19/the-tax-law-makes-it-almost-impossible-for-s-corporations-to-use-equity-crowdfunding/",
+    "unsafeUrl": "https://www.dailysignal.com/2016/04/19/the-tax-law-makes-it-almost-impossible-for-s-corporations-to-use-equity-crowdfunding/"
+  },
+  {
+    "annotationFlags": 0,
+    "borderStyle": {
+      "width": 0,
+      "rawWidth": 1,
+      "style": 1,
+      "dashArray": [
+        3
+      ],
+      "horizontalCornerRadius": 0,
+      "verticalCornerRadius": 0
+    },
+    "color": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "backgroundColor": null,
+    "borderColor": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "rotation": 0,
+    "contentsObj": {
+      "str": "",
+      "dir": "ltr"
+    },
+    "hasAppearance": false,
+    "id": "5729R",
+    "modificationDate": null,
+    "rect": [
+      90.4176,
+      72.182,
+      229.726,
+      82.451
+    ],
+    "subtype": "Link",
+    "hasOwnCanvas": false,
+    "noRotate": false,
+    "noHTML": false,
+    "isEditable": false,
+    "structParent": 5733,
+    "annotationType": 2,
+    "url": "https://www.dailysignal.com/2016/04/19/the-tax-law-makes-it-almost-impossible-for-s-corporations-to-use-equity-crowdfunding/",
+    "unsafeUrl": "https://www.dailysignal.com/2016/04/19/the-tax-law-makes-it-almost-impossible-for-s-corporations-to-use-equity-crowdfunding/"
+  }
+]

@@ -1,0 +1,3749 @@
+{
+  "items": [
+    {
+      "str": "— 249 —",
+      "dir": "ltr",
+      "width": 43.18000000000001,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        230.0624,
+        32.0001
+      ],
+      "fontName": "g_d0_f3",
+      "hasEOL": false
+    },
+    {
+      "str": "Media Agencies",
+      "dir": "ltr",
+      "width": 71.4411,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        216.2699,
+        664.4
+      ],
+      "fontName": "g_d0_f30",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        8,
+        0,
+        0,
+        8,
+        72.5256,
+        640.6001
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": true
+    },
+    {
+      "str": "ENDNOTES",
+      "dir": "ltr",
+      "width": 46.480000000000004,
+      "height": 8,
+      "transform": [
+        8,
+        0,
+        0,
+        8,
+        72.5256,
+        640.6001
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        624
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "1.",
+      "dir": "ltr",
+      "width": 6.075,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        624
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 1.349999999999999,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        77.8518,
+        624
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "U.S. Agency for Global Media,",
+      "dir": "ltr",
+      "width": 91.6191,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.00179999999999,
+        624
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19972222222221425,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        181.62090000000006,
+        624
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.usagm.gov/",
+      "dir": "ltr",
+      "width": 77.301,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        183.4184,
+        624
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19985555555554887,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        260.71940000000006,
+        624
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed March 20, 2023).",
+      "dir": "ltr",
+      "width": 84.3471000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        262.5181,
+        624
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.9844,
+        613
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "2.",
+      "dir": "ltr",
+      "width": 6.075,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.9844,
+        613
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 1.3269999999999997,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        78.0594,
+        613
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Ben Weingarten, “Security Failures USG Media Agency Prove Need to Hire Americans First,”",
+      "dir": "ltr",
+      "width": 283.85550000000035,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0024,
+        613
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19959999999994377,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        373.8579000000005,
+        613
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Newsweek",
+      "dir": "ltr",
+      "width": 33.372000000000014,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        375.6543,
+        613
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": ",",
+      "dir": "ltr",
+      "width": 1.6019999999999999,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        409.0256,
+        613
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.7588,
+        602
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "August 10, 2020,",
+      "dir": "ltr",
+      "width": 51.893099999999976,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.7588,
+        602
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.2000111111111159,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        141.65189999999996,
+        602
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.newsweek.com/security-failures-usg-media-Agency-prove-need-hire-",
+      "dir": "ltr",
+      "width": 258.64740000000006,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        143.452,
+        602
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.3348,
+        591
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "americans-first-opinion-1523895",
+      "dir": "ltr",
+      "width": 100.60020000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.3348,
+        591
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19996666666666052,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        190.93500000000006,
+        591
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed March 20, 2023).",
+      "dir": "ltr",
+      "width": 84.3471000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        192.7347,
+        591
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.8728,
+        580
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "3.",
+      "dir": "ltr",
+      "width": 6.075,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.8728,
+        580
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 1.3389999999999986,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        77.9478,
+        580
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "U.S. Agency for Global Media, “Who We Are,”",
+      "dir": "ltr",
+      "width": 140.47920000000005,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.99879999999999,
+        580
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.20007777777776267,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        230.47800000000012,
+        580
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.usagm.gov/who-we-are/history/",
+      "dir": "ltr",
+      "width": 142.28820000000007,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        232.2787,
+        580
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1999222222221988,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        374.5669000000002,
+        580
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed",
+      "dir": "ltr",
+      "width": 30.537000000000038,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        376.3662,
+        580
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        569
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "March 20, 2023).",
+      "dir": "ltr",
+      "width": 52.01009999999999,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        569
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.6064,
+        558
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "4.",
+      "dir": "ltr",
+      "width": 6.075,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.6064,
+        558
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 1.3689999999999998,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        77.6814,
+        558
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "U.S. Agency for Global Media, “Voice of America,”",
+      "dir": "ltr",
+      "width": 153.35730000000004,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0024,
+        558
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1997222222222048,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        243.35970000000015,
+        558
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.usagm.gov/networks/voa/",
+      "dir": "ltr",
+      "width": 122.74019999999997,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        245.1572,
+        558
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19997777777776568,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        367.8974000000001,
+        558
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed",
+      "dir": "ltr",
+      "width": 30.537000000000038,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        369.6972,
+        558
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        547
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "March 20, 2023).",
+      "dir": "ltr",
+      "width": 52.01009999999999,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        547
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.2364,
+        536
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "5.",
+      "dir": "ltr",
+      "width": 6.075,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.2364,
+        536
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 1.2989999999999986,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        78.3114,
+        536
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Daniel Lippman, “Deleted Biden Video Sets Off a Crisis at Voice of America,”",
+      "dir": "ltr",
+      "width": 235.8675000000003,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0024,
+        536
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1996777777777336,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        325.86990000000037,
+        536
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Politico",
+      "dir": "ltr",
+      "width": 22.80690000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        327.667,
+        536
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19984444444445318,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        350.47389999999996,
+        536
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": "July 30, 2020,",
+      "dir": "ltr",
+      "width": 43.46100000000009,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        352.27250000000004,
+        536
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1999111111110968,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        395.7335000000001,
+        536
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://",
+      "dir": "ltr",
+      "width": 22.85999999999998,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        397.5327,
+        536
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.3168,
+        525
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "www.politico.com/news/2020/07/30/deleted-biden-video-sets-off-a-crisis-at-voice-of-america-388571",
+      "dir": "ltr",
+      "width": 320.7006,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.3168,
+        525
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0756,
+        514
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "(accessed March 20, 2023).",
+      "dir": "ltr",
+      "width": 84.34710000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0756,
+        514
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.1644,
+        503
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "6.",
+      "dir": "ltr",
+      "width": 6.075,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.1644,
+        503
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 1.306999999999999,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        78.2394,
+        503
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "U.S. Agency for Global Media, “Office of Cuba Broadcasting,”",
+      "dir": "ltr",
+      "width": 187.45740000000006,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0024,
+        503
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19977777777775904,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        277.45980000000014,
+        503
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.usagm.gov/networks/ocb/",
+      "dir": "ltr",
+      "width": 122.76809999999999,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        279.2578,
+        503
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0756,
+        492
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "(accessed March 20, 2023).",
+      "dir": "ltr",
+      "width": 84.34710000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0756,
+        492
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.5692,
+        481
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "7.",
+      "dir": "ltr",
+      "width": 6.075,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.5692,
+        481
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 1.373,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        77.6442,
+        481
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Rafael Bernal, “Bipartisan Group Asks Office of Cuba Broadcasting to Rescind Layoffs,” September 13, 2022,",
+      "dir": "ltr",
+      "width": 332.7984000000003,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0012,
+        481
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.5536,
+        470
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": true
+    },
+    {
+      "str": "The Hill",
+      "dir": "ltr",
+      "width": 22.967999999999996,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.5536,
+        470
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": ",",
+      "dir": "ltr",
+      "width": 1.6019999999999999,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        112.5209,
+        470
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19999999999999968,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        114.1229,
+        470
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://thehill.com/latino/3641445-bipartisan-group-asks-office-of-cuba-broadcasting-to-rescind-",
+      "dir": "ltr",
+      "width": 305.63640000000004,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        115.9229,
+        470
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.6804,
+        459
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "layoffs/",
+      "dir": "ltr",
+      "width": 23.562000000000005,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.6804,
+        459
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19996666666666366,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        114.24240000000002,
+        459
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed March 20, 2023).",
+      "dir": "ltr",
+      "width": 84.34710000000007,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        116.04209999999999,
+        459
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.2268,
+        448
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "8.",
+      "dir": "ltr",
+      "width": 6.075,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.2268,
+        448
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 1.3000000000000003,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        78.3018,
+        448
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "U.S. Agency for Global Media, “Middle East Broadcasting Networks,”",
+      "dir": "ltr",
+      "width": 210.57030000000006,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0018,
+        448
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1996999999999692,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        300.57210000000026,
+        448
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.usagm.gov/networks/mbn/",
+      "dir": "ltr",
+      "width": 125.88209999999998,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        302.3694,
+        448
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0756,
+        437
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "(accessed March 20, 2023).",
+      "dir": "ltr",
+      "width": 84.34710000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0756,
+        437
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.102,
+        426
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "9.",
+      "dir": "ltr",
+      "width": 6.075,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.102,
+        426
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 1.3139999999999992,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        78.177,
+        426
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "U.S. Agency for Global Media,",
+      "dir": "ltr",
+      "width": 91.6191,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.003,
+        426
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19958888888888282,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        181.62210000000005,
+        426
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Consolidation Report",
+      "dir": "ltr",
+      "width": 65.23110000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        183.4184,
+        426
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": ", p. 13,",
+      "dir": "ltr",
+      "width": 18.43200000000005,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        248.6492,
+        426
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19995555555555533,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        267.0812,
+        426
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://docs.house.gov/meetings/FA/",
+      "dir": "ltr",
+      "width": 116.35020000000004,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        268.8808,
+        426
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        415
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "FA00/20210930/114085/HMKP-117-FA00-20210930-SD002.pdf",
+      "dir": "ltr",
+      "width": 196.43130000000005,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        415
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19998888888888663,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        286.97130000000004,
+        415
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed March 22, 2023).",
+      "dir": "ltr",
+      "width": 83.84400000000007,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        288.7712,
+        415
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        404
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "10.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        404
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8999888888888895,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.9018,
+        404
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "U.S. Agency for Global Media, “Radio Free Asia,”",
+      "dir": "ltr",
+      "width": 149.14620000000005,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0017,
+        404
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19972222222220162,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        239.1479000000002,
+        404
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.usagm.gov/networks/rfa/",
+      "dir": "ltr",
+      "width": 119.99519999999995,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        240.9454,
+        404
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19999999999999496,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        360.9406000000001,
+        404
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed",
+      "dir": "ltr",
+      "width": 30.537000000000038,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        362.74060000000003,
+        404
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        393
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "March 20, 2023).",
+      "dir": "ltr",
+      "width": 52.01009999999999,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        393
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        382
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "11.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        382
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8999888888888895,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.9018,
+        382
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "U.S. Department of State and the Broadcasting Board of Governors, Office of the Inspector General,",
+      "dir": "ltr",
+      "width": 307.9665000000004,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0017,
+        382
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19963333333327504,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        397.96820000000054,
+        382
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Audit of",
+      "dir": "ltr",
+      "width": 25.00200000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        399.7649,
+        382
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2088,
+        371
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": true
+    },
+    {
+      "str": "Radio Free Asia Expenditures",
+      "dir": "ltr",
+      "width": 90.9342,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2088,
+        371
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": ", June 2015,",
+      "dir": "ltr",
+      "width": 35.792100000000026,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        181.1428,
+        371
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.20001111111110959,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        216.93490000000003,
+        371
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.stateoig.gov/uploads/report/report_pdf_file/aud-fm-",
+      "dir": "ltr",
+      "width": 207.45810000000006,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        218.735,
+        371
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.5856,
+        360
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "ib-15-24_1.pdf",
+      "dir": "ltr",
+      "width": 43.72200000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.5856,
+        360
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19991111111111573,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        134.30759999999998,
+        360
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed March 22, 2023).",
+      "dir": "ltr",
+      "width": 83.84310000000008,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        136.10680000000002,
+        360
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        349
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "12.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        349
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8999888888888895,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.9018,
+        349
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Ibid.",
+      "dir": "ltr",
+      "width": 13.374,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0017,
+        349
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        338
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "13.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        338
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8999888888888895,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.9018,
+        338
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Ibid., p. 16.",
+      "dir": "ltr",
+      "width": 32.20109999999999,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0017,
+        338
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        327
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "14.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        327
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8999888888888895,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.9018,
+        327
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Susan Crabtree, “‘Lax’ Internet Freedom Group Balks at New Pack Oversight,”",
+      "dir": "ltr",
+      "width": 239.54850000000022,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0017,
+        327
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1997888888888484,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        329.55020000000036,
+        327
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.realclearpolitics.",
+      "dir": "ltr",
+      "width": 90.30599999999995,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        331.3483,
+        327
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2904,
+        316
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "com/articles/2020/08/24/lax_internet_freedom_group_balks_at_new_pack_oversight_144043.html",
+      "dir": "ltr",
+      "width": 319.24350000000004,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2904,
+        316
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0756,
+        305
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "(accessed March 22, 2023).",
+      "dir": "ltr",
+      "width": 83.84310000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0756,
+        305
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        294
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "15.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        294
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8999888888888895,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.9018,
+        294
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Ibid.",
+      "dir": "ltr",
+      "width": 13.374,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0017,
+        294
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        283
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "16.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        283
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8999888888888895,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.9018,
+        283
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Ibid.",
+      "dir": "ltr",
+      "width": 13.374,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0017,
+        283
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        272
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "17.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        272
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8999888888888895,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.9018,
+        272
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Nomination of Michael Pack to the Broadcasting Board of Governors, 116th Cong., 2nd Sess. (2020),",
+      "dir": "ltr",
+      "width": 307.4103000000004,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0017,
+        272
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19944444444440831,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        397.4120000000003,
+        272
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://",
+      "dir": "ltr",
+      "width": 22.85999999999998,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        399.207,
+        272
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.3168,
+        261
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "www.congress.gov/nomination/116th-congress/1590",
+      "dir": "ltr",
+      "width": 162.69930000000005,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.3168,
+        261
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19996666666665736,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        253.0161000000001,
+        261
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed March 20, 2023).",
+      "dir": "ltr",
+      "width": 84.3471000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        254.81580000000002,
+        261
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        250
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "18.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        250
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8999888888888895,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.9018,
+        250
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "James Robbins, “More Rot at America’s Public Diplomacy Mouthpiece,” The Hill, November 7, 2020,",
+      "dir": "ltr",
+      "width": 306.7623000000004,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0017,
+        250
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19944444444438936,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        396.7640000000005,
+        250
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://",
+      "dir": "ltr",
+      "width": 22.85999999999998,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        398.559,
+        250
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.5472,
+        239
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "thehill.com/opinion/national-security/524924-more-rot-at-americas-public-diplomacy-mouthpiece/",
+      "dir": "ltr",
+      "width": 310.96350000000007,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.5472,
+        239
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0756,
+        228
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "(accessed March 20, 2023).",
+      "dir": "ltr",
+      "width": 84.34710000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0756,
+        228
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        217
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "19.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        217
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8999888888888895,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.9018,
+        217
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "U.S. Office of Personnel Management, Suitability Agency Executive Programs,",
+      "dir": "ltr",
+      "width": 240.5835000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0017,
+        217
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19973333333330048,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        330.58520000000027,
+        217
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Follow Up Review of U.S.",
+      "dir": "ltr",
+      "width": 77.04,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        332.3828,
+        217
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.6748,
+        206
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": true
+    },
+    {
+      "str": "Agency for Global Media",
+      "dir": "ltr",
+      "width": 76.131,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.6748,
+        206
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": ", July 2020,",
+      "dir": "ltr",
+      "width": 35.477100000000014,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        165.8043,
+        206
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.2000222222222179,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        201.28140000000005,
+        206
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://bbgwatch.com/wp-content/uploads/2020/08/OPM-SuitEA-",
+      "dir": "ltr",
+      "width": 210.0402000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        203.0816,
+        206
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.4468,
+        195
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "July-2020.pdf",
+      "dir": "ltr",
+      "width": 43.43399999999998,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.4468,
+        195
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19991111111111573,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        132.88079999999997,
+        195
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed March 20, 203).",
+      "dir": "ltr",
+      "width": 80.5401000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        134.68,
+        195
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.9844,
+        184
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "20.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.9844,
+        184
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8769888888888902,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        82.1094,
+        184
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "If the agency were not an extension of U.S. foreign policy and national security goals, then its staffing",
+      "dir": "ltr",
+      "width": 314.0424000000004,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0023,
+        184
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4788,
+        173
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "positions would not be classified in their entirety as Tier 3 and Tier 5 national-security sensitive positions,",
+      "dir": "ltr",
+      "width": 325.2627000000003,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4788,
+        173
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.3168,
+        162
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "which they are. See U.S. Agency for Global Media,",
+      "dir": "ltr",
+      "width": 153.89730000000012,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.3168,
+        162
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1999333333333103,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        244.2141000000002,
+        162
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Consolidation Report",
+      "dir": "ltr",
+      "width": 65.23110000000004,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        246.0135,
+        162
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": ", p. 13.",
+      "dir": "ltr",
+      "width": 18.43200000000005,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        311.2443,
+        162
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.9844,
+        151
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "21.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.9844,
+        151
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.876733333333334,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        82.1094,
+        151
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Federal Register",
+      "dir": "ltr",
+      "width": 50.55299999999998,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90,
+        151
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": ", Vol. 85, No. 115 (June 15, 2020), pp. 36150–36153.",
+      "dir": "ltr",
+      "width": 153.5742000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        140.5518,
+        151
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.9844,
+        140
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "22.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.9844,
+        140
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8769888888888902,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        82.1094,
+        140
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "U.S. Information and Educational Exchange Act of 1948 (“Smith–Mundt Act”), Public Law 80–402.",
+      "dir": "ltr",
+      "width": 303.3765000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0023,
+        140
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.9844,
+        129
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "23.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.9844,
+        129
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8769888888888902,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        82.1094,
+        129
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Jessica Jerreat, “USAGM CEO Criticized Over Move to Rescind Firewall Regulation,” October 28, 2020,",
+      "dir": "ltr",
+      "width": 312.8814000000003,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0023,
+        129
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19955555555552312,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        402.8837000000003,
+        129
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://",
+      "dir": "ltr",
+      "width": 22.85999999999998,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        404.6797,
+        129
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.3168,
+        118
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "www.voanews.com/a/usa_usagm-ceo-criticized-over-move-rescind-firewall-regulation/6197671.html",
+      "dir": "ltr",
+      "width": 313.27649999999994,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.3168,
+        118
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0756,
+        107
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "(accessed March 20, 2023).",
+      "dir": "ltr",
+      "width": 84.34710000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0756,
+        107
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.9844,
+        96
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "24.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.9844,
+        96
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8769888888888902,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        82.1094,
+        96
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Byron York, “America’s Lost Voice,”",
+      "dir": "ltr",
+      "width": 107.83620000000005,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0023,
+        96
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19976666666665702,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        197.8385000000001,
+        96
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Washington Examiner",
+      "dir": "ltr",
+      "width": 68.54310000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        199.6364,
+        96
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": ", February 4, 2021,",
+      "dir": "ltr",
+      "width": 56.53710000000007,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        268.1793,
+        96
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.199988888888874,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        324.71640000000014,
+        96
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.washingtonexaminer.",
+      "dir": "ltr",
+      "width": 106.31610000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        326.5163,
+        96
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2904,
+        85
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "com/politics/americas-lost-voice",
+      "dir": "ltr",
+      "width": 101.57220000000007,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2904,
+        85
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1999666666666542,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        191.86260000000013,
+        85
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed March 20, 2023).",
+      "dir": "ltr",
+      "width": 84.3471000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        193.66230000000002,
+        85
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    }
+  ],
+  "styles": {
+    "g_d0_f3": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f30": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f8": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.017,
+      "descent": -0.297,
+      "vertical": false
+    },
+    "g_d0_f17": {
+      "fontFamily": "sans-serif",
+      "ascent": 0.939,
+      "descent": -0.202,
+      "vertical": false
+    },
+    "g_d0_f18": {
+      "fontFamily": "sans-serif",
+      "ascent": 0.939,
+      "descent": -0.202,
+      "vertical": false
+    }
+  },
+  "lang": "en-US"
+}

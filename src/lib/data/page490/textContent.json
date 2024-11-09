@@ -1,0 +1,1733 @@
+{
+  "items": [
+    {
+      "str": "— 457 —",
+      "dir": "ltr",
+      "width": 42.79999999999998,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        230.2524,
+        32.0001
+      ],
+      "fontName": "g_d0_f3",
+      "hasEOL": false
+    },
+    {
+      "str": "Department of Health and Human Services",
+      "dir": "ltr",
+      "width": 193.19129999999998,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        155.3948,
+        664.4
+      ],
+      "fontName": "g_d0_f61",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5706,
+        0,
+        0,
+        10.5,
+        85.2636,
+        632
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "The “laboratory-developed tests” category currently encompasses a range of",
+      "dir": "ltr",
+      "width": 346.3784778599995,
+      "height": 10.5,
+      "transform": [
+        10.5706,
+        0,
+        0,
+        10.5,
+        85.2636,
+        632
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.3984,
+        618
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "possible tests, many of which would be characterized more appropriately as “lab",
+      "dir": "ltr",
+      "width": 358.31145000000004,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.3984,
+        618
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.843,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        430.7421,
+        618
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4734,
+        0,
+        0,
+        10.5,
+        72.36,
+        604
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "oratory-modified tests” because they are not truly novel tests but rather modified",
+      "dir": "ltr",
+      "width": 359.2543774399995,
+      "height": 10.5,
+      "transform": [
+        10.4734,
+        0,
+        0,
+        10.5,
+        72.36,
+        604
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5212,
+        0,
+        0,
+        10.5,
+        72.1284,
+        590
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "versions of existing tests. To avoid stifling innovation and access to medical care,",
+      "dir": "ltr",
+      "width": 361.4589823599997,
+      "height": 10.5,
+      "transform": [
+        10.5212,
+        0,
+        0,
+        10.5,
+        72.1284,
+        590
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3051,
+        0,
+        0,
+        10.5,
+        72.2868,
+        576
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "the applicable statutes and regulations should be revised to facilitate greater access",
+      "dir": "ltr",
+      "width": 359.37593536000026,
+      "height": 10.5,
+      "transform": [
+        10.3051,
+        0,
+        0,
+        10.5,
+        72.2868,
+        576
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2868,
+        562
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "to such modified tests.",
+      "dir": "ltr",
+      "width": 99.92849999999996,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2868,
+        562
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "12",
+      "dir": "ltr",
+      "width": 5.8215465,
+      "height": 6.1215,
+      "transform": [
+        6.1215,
+        0,
+        0,
+        6.1215,
+        172.2135,
+        565.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5188,
+        0,
+        0,
+        10.5,
+        85.4316,
+        548
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Finally, the FDA has long held that it has regulatory authority over such tests,",
+      "dir": "ltr",
+      "width": 348.19436948000015,
+      "height": 10.5,
+      "transform": [
+        10.5188,
+        0,
+        0,
+        10.5,
+        85.4316,
+        548
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3486,
+        0,
+        0,
+        10.5,
+        72.096,
+        534
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "while others have argued that they should be considered clinical services regulated",
+      "dir": "ltr",
+      "width": 359.30235714000025,
+      "height": 10.5,
+      "transform": [
+        10.3486,
+        0,
+        0,
+        10.5,
+        72.096,
+        534
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6858,
+        0,
+        0,
+        10.5,
+        72.4548,
+        520
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "by the Centers for Medicare and Medicaid Services (CMS). The FDA currently",
+      "dir": "ltr",
+      "width": 359.2747618600003,
+      "height": 10.5,
+      "transform": [
+        10.6858,
+        0,
+        0,
+        10.5,
+        72.4548,
+        520
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.2556,
+        506
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "has regulatory authority over in vitro diagnostics, and under the Clinical Lab",
+      "dir": "ltr",
+      "width": 358.4197890000006,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.2556,
+        506
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.9198600000000003,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        430.7119,
+        506
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.36,
+        492
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "oratory Improvement Amendments (CLIA),",
+      "dir": "ltr",
+      "width": 204.30610200000044,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.36,
+        492
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "13",
+      "dir": "ltr",
+      "width": 5.887997700000005,
+      "height": 6.1215,
+      "transform": [
+        6.2439,
+        0,
+        0,
+        6.1215,
+        276.7426,
+        495.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.36272078348468273,
+      "height": 0,
+      "transform": [
+        6.2439,
+        0,
+        0,
+        6.1215,
+        282.63059769999995,
+        495.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "the CMS ensures that labs meet",
+      "dir": "ltr",
+      "width": 146.8351710000002,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        284.89538999999996,
+        492
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6067,
+        0,
+        0,
+        10.5,
+        72.318,
+        478
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "analytical validity standards for test methods. Congress, the FDA, and the CMS",
+      "dir": "ltr",
+      "width": 359.3899981100008,
+      "height": 10.5,
+      "transform": [
+        10.6067,
+        0,
+        0,
+        10.5,
+        72.318,
+        478
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.2304,
+        464
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "need to clarify and disentangle overlapping authorities over tests to eliminate",
+      "dir": "ltr",
+      "width": 358.99705800000066,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.2304,
+        464
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        450
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "regulatory confusion.",
+      "dir": "ltr",
+      "width": 96.50550000000001,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        450
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "14",
+      "dir": "ltr",
+      "width": 5.729723999999992,
+      "height": 6.1215,
+      "transform": [
+        6.1215,
+        0,
+        0,
+        6.1215,
+        168.7338,
+        453.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        85.8456,
+        436
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": true
+    },
+    {
+      "str": "Drug Shortages.",
+      "dir": "ltr",
+      "width": 81.638046,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        85.8456,
+        436
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.22896022408963682,
+      "height": 0,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        167.483646,
+        436
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": "The very thin profit margins and the regulatory burdens",
+      "dir": "ltr",
+      "width": 261.4975019999999,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        169.93581,
+        436
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6202,
+        0,
+        0,
+        10.5,
+        72.318,
+        422
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "associated with generic drug manufacturing discourage inventory and capacity",
+      "dir": "ltr",
+      "width": 359.495894040001,
+      "height": 10.5,
+      "transform": [
+        10.6202,
+        0,
+        0,
+        10.5,
+        72.318,
+        422
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.328,
+        0,
+        0,
+        10.5,
+        72.2304,
+        408
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "investments by manufacturers and contribute to drug shortages. HHS and the FDA",
+      "dir": "ltr",
+      "width": 360.0516376000004,
+      "height": 10.5,
+      "transform": [
+        10.328,
+        0,
+        0,
+        10.5,
+        72.2304,
+        408
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.3936,
+        394
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "should encourage more dependable generic drug manufacturing.",
+      "dir": "ltr",
+      "width": 289.85250000000013,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.3936,
+        394
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5455,
+        0,
+        0,
+        10.5,
+        85.2636,
+        380
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "The FDA should expand its current pass/fail approach to drug facility inspec",
+      "dir": "ltr",
+      "width": 345.5950168999994,
+      "height": 10.5,
+      "transform": [
+        10.5455,
+        0,
+        0,
+        10.5,
+        85.2636,
+        380
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.8596530000000002,
+      "height": 10.5,
+      "transform": [
+        10.5455,
+        0,
+        0,
+        10.5,
+        430.7377,
+        380
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5139,
+        0,
+        0,
+        10.5,
+        72.2868,
+        366
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "tions into a graded system that recognizes manufacturers that exceed minimum",
+      "dir": "ltr",
+      "width": 359.27678524000004,
+      "height": 10.5,
+      "transform": [
+        10.5139,
+        0,
+        0,
+        10.5,
+        72.2868,
+        366
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5184,
+        0,
+        0,
+        10.5,
+        72.3936,
+        352
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "standards by investing in improving production reliability. The FDA should also",
+      "dir": "ltr",
+      "width": 358.95512576000004,
+      "height": 10.5,
+      "transform": [
+        10.5184,
+        0,
+        0,
+        10.5,
+        72.3936,
+        352
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.318,
+        338
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "add facility codes to drug packaging and construct a searchable database that",
+      "dir": "ltr",
+      "width": 359.2798020000007,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.318,
+        338
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.462,
+        0,
+        0,
+        10.5,
+        72.36,
+        324
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "cross-references product codes and facility codes. That would enable wholesalers",
+      "dir": "ltr",
+      "width": 358.98992939999954,
+      "height": 10.5,
+      "transform": [
+        10.462,
+        0,
+        0,
+        10.5,
+        72.36,
+        324
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3995,
+        0,
+        0,
+        10.5,
+        72.318,
+        310
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "and pharmacy benefit managers to identify and preference drugs manufactured at",
+      "dir": "ltr",
+      "width": 359.3391232499991,
+      "height": 10.5,
+      "transform": [
+        10.3995,
+        0,
+        0,
+        10.5,
+        72.318,
+        310
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4691,
+        0,
+        0,
+        10.5,
+        72.2304,
+        296
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "more reliable facilities, thus encouraging generic drug manufacturers to compete",
+      "dir": "ltr",
+      "width": 359.25030722999924,
+      "height": 10.5,
+      "transform": [
+        10.4691,
+        0,
+        0,
+        10.5,
+        72.2304,
+        296
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.36,
+        282
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "on reliability as well as on price.",
+      "dir": "ltr",
+      "width": 142.42199999999997,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.36,
+        282
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.336,
+        0,
+        0,
+        10.5,
+        85.4316,
+        268
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "For its part, HHS should exempt multi-source generic drugs from requirements",
+      "dir": "ltr",
+      "width": 346.0513471999999,
+      "height": 10.5,
+      "transform": [
+        10.336,
+        0,
+        0,
+        10.5,
+        85.4316,
+        268
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5287,
+        0,
+        0,
+        10.5,
+        72.2868,
+        254
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "to pay rebates to Medicaid and other federally funded health programs, as those",
+      "dir": "ltr",
+      "width": 359.20871077000015,
+      "height": 10.5,
+      "transform": [
+        10.5287,
+        0,
+        0,
+        10.5,
+        72.2868,
+        254
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4894,
+        0,
+        0,
+        10.5,
+        72.3984,
+        240
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "provisions penalize new investments in expanding manufacturing capacity when",
+      "dir": "ltr",
+      "width": 359.38992067999993,
+      "height": 10.5,
+      "transform": [
+        10.4894,
+        0,
+        0,
+        10.5,
+        72.3984,
+        240
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5905,
+        0,
+        0,
+        10.5,
+        72.3936,
+        226
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "supply is unable to meet demand.",
+      "dir": "ltr",
+      "width": 152.23949655000007,
+      "height": 10.5,
+      "transform": [
+        10.5905,
+        0,
+        0,
+        10.5,
+        72.3936,
+        226
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "15",
+      "dir": "ltr",
+      "width": 5.779144799999996,
+      "height": 6.1215,
+      "transform": [
+        6.1743,
+        0,
+        0,
+        6.1215,
+        224.5715,
+        229.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.35102233451565124,
+      "height": 0,
+      "transform": [
+        6.1743,
+        0,
+        0,
+        6.1215,
+        230.3506448,
+        229.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "Additionally, FDA and NIH should promote",
+      "dir": "ltr",
+      "width": 199.04738845000028,
+      "height": 10.5,
+      "transform": [
+        10.5905,
+        0,
+        0,
+        10.5,
+        232.51796199999998,
+        226
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3531,
+        0,
+        0,
+        10.5,
+        72.36,
+        212
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "efficacy trials of new applications for generic drugs, which might include NIH fund",
+      "dir": "ltr",
+      "width": 358.20897752000093,
+      "height": 10.5,
+      "transform": [
+        10.3531,
+        0,
+        0,
+        10.5,
+        72.36,
+        212
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.7892346,
+      "height": 10.5,
+      "transform": [
+        10.3531,
+        0,
+        0,
+        10.5,
+        430.7648,
+        212
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        198
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "ing such trials or conducting its own.",
+      "dir": "ltr",
+      "width": 164.11499999999998,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        198
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6275,
+        0,
+        0,
+        10.5,
+        85.0884,
+        184
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": true
+    },
+    {
+      "str": "Abortion Pills.",
+      "dir": "ltr",
+      "width": 72.9737287499999,
+      "height": 10.5,
+      "transform": [
+        10.6275,
+        0,
+        0,
+        10.5,
+        85.0884,
+        184
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.20694248412139243,
+      "height": 0,
+      "transform": [
+        10.6275,
+        0,
+        0,
+        10.5,
+        158.0621287499999,
+        184
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": "Abortion pills pose the single greatest threat to unborn chil",
+      "dir": "ltr",
+      "width": 270.3040859999996,
+      "height": 10.5,
+      "transform": [
+        10.6275,
+        0,
+        0,
+        10.5,
+        160.26141,
+        184
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.889665,
+      "height": 10.5,
+      "transform": [
+        10.6275,
+        0,
+        0,
+        10.5,
+        430.7319,
+        184
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5053,
+        0,
+        0,
+        10.5,
+        72.36,
+        170
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "dren in a post-",
+      "dir": "ltr",
+      "width": 65.16017378,
+      "height": 10.5,
+      "transform": [
+        10.5053,
+        0,
+        0,
+        10.5,
+        72.36,
+        170
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "Roe",
+      "dir": "ltr",
+      "width": 16.766458800000002,
+      "height": 10.5,
+      "transform": [
+        10.5053,
+        0,
+        0,
+        10.5,
+        137.5288,
+        170
+      ],
+      "fontName": "g_d0_f10",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.20275141595194698,
+      "height": 0,
+      "transform": [
+        10.5053,
+        0,
+        0,
+        10.5,
+        154.2952588,
+        170
+      ],
+      "fontName": "g_d0_f10",
+      "hasEOL": false
+    },
+    {
+      "str": "world. The rate of chemical abortion in the U.S. has increased",
+      "dir": "ltr",
+      "width": 275.0907352700001,
+      "height": 10.5,
+      "transform": [
+        10.5053,
+        0,
+        0,
+        10.5,
+        156.42522325,
+        170
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.4548,
+        156
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "by more than 150 percent in the past decade; more than half of annual abortions",
+      "dir": "ltr",
+      "width": 359.1000000000001,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.4548,
+        156
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        142
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "in the U.S. are chemical rather than surgical.",
+      "dir": "ltr",
+      "width": 197.127,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        142
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4098,
+        0,
+        0,
+        10.5,
+        85.2636,
+        128
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "The abortion pill regimen is typically a two-part process. The first pill, mifepris",
+      "dir": "ltr",
+      "width": 345.2493448400008,
+      "height": 10.5,
+      "transform": [
+        10.4098,
+        0,
+        0,
+        10.5,
+        85.2636,
+        128
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.8099868000000003,
+      "height": 10.5,
+      "transform": [
+        10.4098,
+        0,
+        0,
+        10.5,
+        430.7509,
+        128
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3371,
+        0,
+        0,
+        10.5,
+        72.2868,
+        114
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "tone, causes the death of the unborn child by cutting off the hormone progesterone,",
+      "dir": "ltr",
+      "width": 361.35813954000037,
+      "height": 10.5,
+      "transform": [
+        10.3371,
+        0,
+        0,
+        10.5,
+        72.2868,
+        114
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4524,
+        0,
+        0,
+        10.5,
+        72.096,
+        100
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "which is required to sustain a pregnancy. The second pill, misoprostol, causes con",
+      "dir": "ltr",
+      "width": 358.5967582399999,
+      "height": 10.5,
+      "transform": [
+        10.4524,
+        0,
+        0,
+        10.5,
+        72.096,
+        100
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.8255784000000004,
+      "height": 10.5,
+      "transform": [
+        10.4524,
+        0,
+        0,
+        10.5,
+        430.7483,
+        100
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.425,
+        0,
+        0,
+        10.5,
+        72.2868,
+        86
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "tractions to induce a delivery of the dead child and uterine contents, usually into a",
+      "dir": "ltr",
+      "width": 359.43731999999994,
+      "height": 10.5,
+      "transform": [
+        10.425,
+        0,
+        0,
+        10.5,
+        72.2868,
+        86
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2868,
+        72
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "toilet at home. The abortion-pill regimen is currently approved for up to 70 days",
+      "dir": "ltr",
+      "width": 359.31,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2868,
+        72
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    }
+  ],
+  "styles": {
+    "g_d0_f3": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f61": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f4": {
+      "fontFamily": "serif",
+      "ascent": 1.089,
+      "descent": -0.312,
+      "vertical": false
+    },
+    "g_d0_f11": {
+      "fontFamily": "serif",
+      "ascent": 1.143,
+      "descent": -0.351,
+      "vertical": false
+    },
+    "g_d0_f10": {
+      "fontFamily": "serif",
+      "ascent": 1.103,
+      "descent": -0.315,
+      "vertical": false
+    }
+  },
+  "lang": "en-US"
+}

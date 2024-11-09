@@ -1,0 +1,1375 @@
+{
+  "items": [
+    {
+      "str": "— 579 —",
+      "dir": "ltr",
+      "width": 42.38999999999998,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        230.4574,
+        32.0001
+      ],
+      "fontName": "g_d0_f3",
+      "hasEOL": false
+    },
+    {
+      "str": "Department of Justice",
+      "dir": "ltr",
+      "width": 100.91610000000003,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        201.5258,
+        664.4
+      ],
+      "fontName": "g_d0_f64",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.102,
+        635
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "93.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.102,
+        635
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8639888888888881,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        82.227,
+        635
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "H.R. 5005, Homeland Security Act of 2002, Public Law No. 107-296, 107th Congress, November 25, 2002, 116",
+      "dir": "ltr",
+      "width": 334.89540000000017,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0029,
+        635
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.282,
+        624
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "Stat. 2135,",
+      "dir": "ltr",
+      "width": 31.067999999999987,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.282,
+        624
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19994444444444703,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        121.34999999999998,
+        624
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.congress.gov/107/plaws/publ296/PLAW-107publ296.pdf",
+      "dir": "ltr",
+      "width": 215.11529999999993,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        123.1495,
+        624
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1999333333333008,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        338.2648000000003,
+        624
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed February 3, 2023).",
+      "dir": "ltr",
+      "width": 89.27010000000011,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        340.0642,
+        624
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.102,
+        613
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "94.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.102,
+        613
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8639888888888881,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        82.227,
+        613
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "See, for example, 8 U.S. Code §§ 1103(a)(1) and 1103(g),",
+      "dir": "ltr",
+      "width": 170.6463000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0029,
+        613
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19963333333333189,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        260.6492,
+        613
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.law.cornell.edu/uscode/text/8/1103",
+      "dir": "ltr",
+      "width": 148.82219999999992,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        262.4459,
+        613
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0756,
+        602
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "(accessed February 3, 2023).",
+      "dir": "ltr",
+      "width": 89.27010000000003,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0756,
+        602
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.102,
+        591
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "95.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.102,
+        591
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8639888888888881,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        82.227,
+        591
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "See, for example, 8 U.S. Code §§ 1324–1326,",
+      "dir": "ltr",
+      "width": 134.9352000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0029,
+        591
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19962222222221726,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        224.93810000000005,
+        591
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.law.cornell.edu/uscode/text/8/chapter-12/",
+      "dir": "ltr",
+      "width": 171.08820000000003,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        226.7347,
+        591
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4176,
+        580
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "subchapter-II/part-VIII",
+      "dir": "ltr",
+      "width": 69.6951,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4176,
+        580
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1999555555555522,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        160.11270000000005,
+        580
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed February 3, 2023).",
+      "dir": "ltr",
+      "width": 89.2701000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        161.91230000000002,
+        580
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.102,
+        569
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "96.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.102,
+        569
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8639888888888881,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        82.227,
+        569
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Press release, “Justice, Labor Departments Reach Settlements with Facebook Resolving Claims of",
+      "dir": "ltr",
+      "width": 301.42440000000016,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0029,
+        569
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        558
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "Discrimination Against U.S. Workers and Potential Regulatory Recruitment Violations,” U.S. Department",
+      "dir": "ltr",
+      "width": 321.1425000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        558
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2904,
+        547
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "of Justice, October 19, 2021,",
+      "dir": "ltr",
+      "width": 84.8952,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2904,
+        547
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.20001111111111275,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        175.1856,
+        547
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.justice.gov/opa/pr/justice-labor-departments-reach-settlements-",
+      "dir": "ltr",
+      "width": 243.05850000000007,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        176.9857,
+        547
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.5388,
+        536
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "facebook-resolving-claims-discrimination-against",
+      "dir": "ltr",
+      "width": 154.31940000000003,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.5388,
+        536
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.2000111111110938,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        244.85820000000018,
+        536
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed February 3, 2023).",
+      "dir": "ltr",
+      "width": 89.27010000000011,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        246.65830000000003,
+        536
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.102,
+        525
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "97.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.102,
+        525
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8639888888888881,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        82.227,
+        525
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "“Every four years, just after the Presidential election, the ‘United States Government Policy and Supporting",
+      "dir": "ltr",
+      "width": 330.74460000000016,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0029,
+        525
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        514
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "Positions,’ commonly known as the",
+      "dir": "ltr",
+      "width": 109.15020000000004,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        514
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19992222222221143,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        199.6902000000001,
+        514
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Plum Book",
+      "dir": "ltr",
+      "width": 33.79500000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        201.4895,
+        514
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": ", is published, alternately, by the Senate Committee on",
+      "dir": "ltr",
+      "width": 169.14420000000018,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        235.284,
+        514
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        503
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "Homeland Security and Governmental Affairs and the House Committee on Oversight and Government",
+      "dir": "ltr",
+      "width": 320.2686000000004,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        503
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        492
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "Reform.” Senate Committee Print No. 114-26,",
+      "dir": "ltr",
+      "width": 138.56130000000007,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        492
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1999999999999823,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        229.10130000000015,
+        492
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "United States Government Policy and Supporting Positions",
+      "dir": "ltr",
+      "width": 182.3742000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        230.9013,
+        492
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": ",",
+      "dir": "ltr",
+      "width": 1.6019999999999999,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        413.274,
+        492
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2004,
+        481
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "Committee on Homeland Security and Governmental Affairs, U.S. Senate, 114th Cong., 2nd Sess., December",
+      "dir": "ltr",
+      "width": 331.82550000000026,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2004,
+        481
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.282,
+        470
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "1, 2016, p. iii,",
+      "dir": "ltr",
+      "width": 37.62809999999999,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.282,
+        470
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19998888888888822,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        127.91010000000001,
+        470
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.govinfo.gov/content/pkg/GPO-PLUMBOOK-2016/pdf/GPO-PLUMBOOK-2016.pdf",
+      "dir": "ltr",
+      "width": 289.6713,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        129.71,
+        470
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0756,
+        459
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "(accessed February 5, 2023).",
+      "dir": "ltr",
+      "width": 89.36910000000005,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0756,
+        459
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.102,
+        448
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "98.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.102,
+        448
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8639888888888881,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        82.227,
+        448
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Allen J. Beck, “Race and Ethnicity of Violent Crime Offenders and Arrestees, 2018,” U.S. Department of Justice,",
+      "dir": "ltr",
+      "width": 340.7544000000004,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0029,
+        448
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2004,
+        437
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "Office of Justice Programs, Bureau of Justice Statistics,",
+      "dir": "ltr",
+      "width": 169.1514000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2004,
+        437
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19999999999996967,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        259.35180000000025,
+        437
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Statistical Brief",
+      "dir": "ltr",
+      "width": 46.404000000000046,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        261.1518,
+        437
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19989999999998848,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        307.5558000000001,
+        437
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": "No. NCJ 255969, January 2021,",
+      "dir": "ltr",
+      "width": 95.45310000000009,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        309.3549,
+        437
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1999444444444407,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        404.80800000000005,
+        437
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://",
+      "dir": "ltr",
+      "width": 22.85999999999998,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        406.6075,
+        437
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.612,
+        426
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "bjs.ojp.gov/content/pub/pdf/revcoa18.pdf",
+      "dir": "ltr",
+      "width": 128.7882,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.612,
+        426
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19996666666665736,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        219.4002000000001,
+        426
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed February 3, 2023).",
+      "dir": "ltr",
+      "width": 89.27010000000011,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        221.1999,
+        426
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    }
+  ],
+  "styles": {
+    "g_d0_f3": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f64": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f17": {
+      "fontFamily": "sans-serif",
+      "ascent": 0.939,
+      "descent": -0.202,
+      "vertical": false
+    },
+    "g_d0_f18": {
+      "fontFamily": "sans-serif",
+      "ascent": 0.939,
+      "descent": -0.202,
+      "vertical": false
+    }
+  },
+  "lang": "en-US"
+}

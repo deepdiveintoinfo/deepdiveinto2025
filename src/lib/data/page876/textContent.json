@@ -1,0 +1,3679 @@
+{
+  "items": [
+    {
+      "str": "— 843 —",
+      "dir": "ltr",
+      "width": 43.26,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        230.0224,
+        32.0001
+      ],
+      "fontName": "g_d0_f3",
+      "hasEOL": false
+    },
+    {
+      "str": "Financial Regulatory Agencies",
+      "dir": "ltr",
+      "width": 137.3300999999999,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        183.3257,
+        664.4
+      ],
+      "fontName": "g_d0_f101",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.8728,
+        635
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "37.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.8728,
+        635
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.888988888888889,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.9978,
+        635
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Table 7, “Civil Penalty Fund Significant Activity,” in Consumer Financial Protection Bureau,",
+      "dir": "ltr",
+      "width": 277.08660000000015,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.9987,
+        635
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19999999999995705,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        367.08530000000036,
+        635
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Financial Report",
+      "dir": "ltr",
+      "width": 50.553000000000026,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        368.8853,
+        635
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2196,
+        624
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": true
+    },
+    {
+      "str": "of the Consumer Financial Protection Bureau, Fiscal Year 2022",
+      "dir": "ltr",
+      "width": 192.1203000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2196,
+        624
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": ", November 15, 2022, p. 21,",
+      "dir": "ltr",
+      "width": 81.46710000000014,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        282.3396,
+        624
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19994444444443438,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        363.8067000000001,
+        624
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://files.",
+      "dir": "ltr",
+      "width": 36.828,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        365.6062,
+        624
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2904,
+        613
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "consumerfinance.gov/f/documents/cfpb_financial-report_fy2022.pdf",
+      "dir": "ltr",
+      "width": 216.0954000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2904,
+        613
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19993333333331342,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        306.3858000000002,
+        613
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed March 23, 2023).",
+      "dir": "ltr",
+      "width": 83.76300000000009,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        308.1852,
+        613
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.8728,
+        602
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "38.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.8728,
+        602
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.888988888888889,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.9978,
+        602
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Ibid.",
+      "dir": "ltr",
+      "width": 13.374,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.9987,
+        602
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.8728,
+        591
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "39.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.8728,
+        591
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.888988888888889,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.9978,
+        591
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Consumer Financial Protection Bureau,",
+      "dir": "ltr",
+      "width": 120.49920000000003,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.9987,
+        591
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.20003333333331674,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        210.49790000000016,
+        591
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Financial Report of the Consumer Financial Protection Bureau, Fiscal",
+      "dir": "ltr",
+      "width": 211.61520000000004,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        212.2982,
+        591
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.7144,
+        580
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": true
+    },
+    {
+      "str": "Year 2022",
+      "dir": "ltr",
+      "width": 31.05899999999999,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.7144,
+        580
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": ", p. 20.",
+      "dir": "ltr",
+      "width": 20.537999999999997,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        120.7733,
+        580
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.6064,
+        569
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "40.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.6064,
+        569
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.9189888888888902,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.7314,
+        569
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "12 U.S. Code § 5491,",
+      "dir": "ltr",
+      "width": 61.019099999999995,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0023,
+        569
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1997222222222269,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        151.02139999999997,
+        569
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.law.cornell.edu/uscode/text/12/5491",
+      "dir": "ltr",
+      "width": 152.61030000000008,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        152.8189,
+        569
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.20001111111108433,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        305.42920000000026,
+        569
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed March 23, 2023).",
+      "dir": "ltr",
+      "width": 83.76300000000009,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        307.2293,
+        569
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.6064,
+        558
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "41.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.6064,
+        558
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.9189888888888902,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.7314,
+        558
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Consumer Financial Protection Bureau, “Bureau Structure,” last updated March 15, 2023,",
+      "dir": "ltr",
+      "width": 271.8036000000003,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0023,
+        558
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1997222222221732,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        361.80590000000046,
+        558
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.",
+      "dir": "ltr",
+      "width": 40.31999999999997,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        363.6034,
+        558
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2904,
+        547
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "consumerfinance.gov/about-us/the-bureau/bureau-structure/",
+      "dir": "ltr",
+      "width": 193.48740000000004,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2904,
+        547
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1999333333333008,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        283.7778000000003,
+        547
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed March 23, 2023).",
+      "dir": "ltr",
+      "width": 83.76300000000009,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        285.5772,
+        547
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.6064,
+        536
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "42.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.6064,
+        536
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.9189888888888902,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.7314,
+        536
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "See Consumer Financial Protection Bureau, “Consumer Financial Civil Penalty Fund Rule,”",
+      "dir": "ltr",
+      "width": 277.0425000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0023,
+        536
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1995111111110709,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        367.04480000000035,
+        536
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.",
+      "dir": "ltr",
+      "width": 40.31999999999997,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        368.8404,
+        536
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2904,
+        525
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "consumerfinance.gov/rules-policy/final-rules/consumer-financial-civil-penalty-fund-rule/",
+      "dir": "ltr",
+      "width": 277.01460000000014,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2904,
+        525
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19985555555551096,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        367.3050000000004,
+        525
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed",
+      "dir": "ltr",
+      "width": 30.537000000000038,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        369.1037,
+        525
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        514
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "March 23, 2023).",
+      "dir": "ltr",
+      "width": 51.42599999999999,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        514
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.6064,
+        503
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "43.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.6064,
+        503
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.9189888888888902,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.7314,
+        503
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Consumer Financial Protection Bureau, “Civil Penalty Fund: Consumer Education and Financial Literacy,”",
+      "dir": "ltr",
+      "width": 322.1046000000004,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0023,
+        503
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.612,
+        492
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "https://www.consumerfinance.gov/enforcement/payments-harmed-consumers/civil-penalty-fund/consumer-",
+      "dir": "ltr",
+      "width": 339.93450000000007,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.612,
+        492
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2904,
+        481
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "education-financial-literacy/",
+      "dir": "ltr",
+      "width": 87.78420000000006,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2904,
+        481
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1999555555555427,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        178.07460000000012,
+        481
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed March 23, 2023).",
+      "dir": "ltr",
+      "width": 83.76210000000009,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        179.8742,
+        481
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.6064,
+        470
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "44.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.6064,
+        470
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.9189888888888902,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.7314,
+        470
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "U.S. Government Accountability Office,",
+      "dir": "ltr",
+      "width": 120.36420000000005,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0023,
+        470
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1996888888888735,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        210.36650000000014,
+        470
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Consumer Financial Protection Bureau: Opportunity Exists to Improve",
+      "dir": "ltr",
+      "width": 215.03520000000012,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        212.1637,
+        470
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.5536,
+        459
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": true
+    },
+    {
+      "str": "Transparency of Civil Penalty Fund Activities",
+      "dir": "ltr",
+      "width": 136.7532000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.5536,
+        459
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": ", GAO-14-551, June 2014,",
+      "dir": "ltr",
+      "width": 75.31920000000008,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        226.3061,
+        459
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.2000333333333199,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        301.6253000000001,
+        459
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.gao.gov/assets/gao-14-551.",
+      "dir": "ltr",
+      "width": 124.1982000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        303.4256,
+        459
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4788,
+        448
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "pdf",
+      "dir": "ltr",
+      "width": 10.557,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4788,
+        448
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19997777777777673,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        101.03580000000001,
+        448
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed March 23, 2023).",
+      "dir": "ltr",
+      "width": 83.76210000000003,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        102.8356,
+        448
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.6064,
+        437
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "45.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.6064,
+        437
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.9187333333333341,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.7314,
+        437
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Seila Law LLC v. Consumer Financial Protection Bureau",
+      "dir": "ltr",
+      "width": 168.88230000000004,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90,
+        437
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": ", 591 U.S. ___ (2020),",
+      "dir": "ltr",
+      "width": 67.76010000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        258.8821,
+        437
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.2000000000000139,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        326.6421999999999,
+        437
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.supremecourt.gov/",
+      "dir": "ltr",
+      "width": 99.64710000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        328.4422,
+        437
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2904,
+        426
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "opinions/19pdf/19-7_n6io.pdf",
+      "dir": "ltr",
+      "width": 92.32020000000003,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2904,
+        426
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19996666666666366,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        182.61060000000003,
+        426
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed March 23, 2023).",
+      "dir": "ltr",
+      "width": 83.7621000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        184.4103,
+        426
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.6064,
+        415
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "46.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.6064,
+        415
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.9189888888888902,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.7314,
+        415
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Ibid., p. 37.",
+      "dir": "ltr",
+      "width": 32.39909999999999,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0023,
+        415
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.6064,
+        404
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "47.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.6064,
+        404
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.9189888888888902,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.7314,
+        404
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "See 12 U.S. Code § 5497(a)(1),",
+      "dir": "ltr",
+      "width": 92.33010000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0023,
+        404
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19964444444444338,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        182.3324,
+        404
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.law.cornell.edu/uscode/text/12/5497",
+      "dir": "ltr",
+      "width": 153.80730000000003,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        184.1292,
+        404
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.20002222222219895,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        337.9365000000002,
+        404
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed March 23, 2023).",
+      "dir": "ltr",
+      "width": 83.76300000000009,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        339.7367,
+        404
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2004,
+        393
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "Congress specified that the amount transferred to the CFPB “shall not exceed” 12 percent “of the total",
+      "dir": "ltr",
+      "width": 314.9577000000005,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2004,
+        393
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2904,
+        382
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "operating expenses of the Federal Reserve System…in fiscal year 2013, and in each year thereafter.” Ibid., §",
+      "dir": "ltr",
+      "width": 329.91750000000036,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2904,
+        382
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2988,
+        371
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "5497(2)(A)(iii).",
+      "dir": "ltr",
+      "width": 46.8,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2988,
+        371
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.6064,
+        360
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "48.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.6064,
+        360
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.9187333333333341,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.7314,
+        360
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Community Financial Services Association of America v.",
+      "dir": "ltr",
+      "width": 172.4013000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90,
+        360
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19996666666665736,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        262.4013000000001,
+        360
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": "Consumer Financial Protection Bureau",
+      "dir": "ltr",
+      "width": 118.62900000000008,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        264.201,
+        360
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19977777777777167,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        382.83000000000004,
+        360
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": "(5th Cir. 2022),",
+      "dir": "ltr",
+      "width": 46.22400000000004,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        384.628,
+        360
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4789,
+        349
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "pp. 31–32,",
+      "dir": "ltr",
+      "width": 30.393,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4789,
+        349
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19994444444444545,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        120.8719,
+        349
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.ca5.uscourts.gov/opinions/pub/21/21-50826-CV0.pdf",
+      "dir": "ltr",
+      "width": 204.9543000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        122.6714,
+        349
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1999333333333008,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        327.6257000000003,
+        349
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed March 23, 2023).",
+      "dir": "ltr",
+      "width": 83.76300000000009,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        329.4251,
+        349
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.6065,
+        338
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "49.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.6065,
+        338
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.9189777777777787,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.7315,
+        338
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Ibid., p. 32.",
+      "dir": "ltr",
+      "width": 33.29909999999999,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0023,
+        338
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.2365,
+        327
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "50.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.2365,
+        327
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8489777777777776,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        82.3615,
+        327
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Ibid. (quoting",
+      "dir": "ltr",
+      "width": 42.092999999999996,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0023,
+        327
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19963333333333189,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        132.0953,
+        327
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Seila Law LLC v. CFPB",
+      "dir": "ltr",
+      "width": 67.01310000000007,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        133.892,
+        327
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": ", 140 S. Ct. 2183, 2202 n. 8 (2020)).",
+      "dir": "ltr",
+      "width": 107.10720000000016,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        200.9048,
+        327
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.2365,
+        316
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "51.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.2365,
+        316
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8489777777777776,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        82.3615,
+        316
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "U.S. Supreme Court, “Order List: 598 U.S.,” February 27, 2023, Docket No. 22–448,",
+      "dir": "ltr",
+      "width": 252.20340000000027,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0023,
+        316
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1996888888888735,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        342.20570000000015,
+        316
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "CFPB et al. v. Com. Fin.",
+      "dir": "ltr",
+      "width": 70.73010000000004,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        344.0029,
+        316
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.9305,
+        305
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": true
+    },
+    {
+      "str": "Services Assn.",
+      "dir": "ltr",
+      "width": 43.658099999999976,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.9305,
+        305
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": ", et al.,",
+      "dir": "ltr",
+      "width": 19.97100000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        133.5888,
+        305
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19992222222221775,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        153.55980000000005,
+        305
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.supremecourt.gov/orders/courtorders/022723zor_6537.pdf",
+      "dir": "ltr",
+      "width": 223.97130000000013,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        155.3591,
+        305
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19998888888885505,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        379.33040000000034,
+        305
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed",
+      "dir": "ltr",
+      "width": 30.537000000000038,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        381.13030000000003,
+        305
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.5401,
+        294
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "March 23, 2023).",
+      "dir": "ltr",
+      "width": 51.42599999999999,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.5401,
+        294
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.2365,
+        283
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "52.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.2365,
+        283
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8489777777777776,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        82.3615,
+        283
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Devin Watkins, Competitive Enterprise Institute, “Consumer Financial Protection Bureau: Ripe for Reform,”",
+      "dir": "ltr",
+      "width": 329.2056000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0023,
+        283
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.5473,
+        272
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "testimony before the Subcommittee on Financial Institutions and Monetary Policy, Committee on",
+      "dir": "ltr",
+      "width": 300.79980000000023,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.5473,
+        272
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.5401,
+        261
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "Financial Services, U.S. House of Representatives, March 9, 2023,",
+      "dir": "ltr",
+      "width": 200.00340000000023,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.5401,
+        261
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19992222222219247,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        290.5435000000003,
+        261
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://docs.house.gov/meetings/BA/",
+      "dir": "ltr",
+      "width": 117.25920000000004,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        292.3428,
+        261
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.5401,
+        250
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "BA20/20230309/115384/HHRG-118-BA20-Wstate-WatkinsD-20230309.pdf",
+      "dir": "ltr",
+      "width": 232.75620000000006,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.5401,
+        250
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19992222222220513,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        323.29630000000014,
+        250
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed March 23, 2023);",
+      "dir": "ltr",
+      "width": 83.85300000000008,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        325.0956,
+        250
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.5401,
+        239
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "Norbert J. Michel, “7 Steps Next Director Can Take to Make the Consumer Financial Protection Bureau Less",
+      "dir": "ltr",
+      "width": 328.0554000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.5401,
+        239
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.7589,
+        228
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "Awful,” Heritage Foundation",
+      "dir": "ltr",
+      "width": 88.47720000000004,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.7589,
+        228
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1999888888888803,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        178.23610000000008,
+        228
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Commentary",
+      "dir": "ltr",
+      "width": 40.5261,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        180.036,
+        228
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": ", July 28, 2018,",
+      "dir": "ltr",
+      "width": 44.68410000000003,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        220.5622,
+        228
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1999888888888803,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        265.2463000000001,
+        228
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.heritage.org/markets-and-finance/",
+      "dir": "ltr",
+      "width": 149.15519999999998,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        267.0462,
+        228
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2905,
+        217
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "commentary/7-steps-next-director-can-take-make-the-consumer-financial",
+      "dir": "ltr",
+      "width": 233.1315000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2905,
+        217
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": ".",
+      "dir": "ltr",
+      "width": 1.6019999999999999,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        323.4213,
+        217
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.2365,
+        206
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "53.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.2365,
+        206
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8489777777777776,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        82.3615,
+        206
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "The Office of the Comptroller of the Currency (OCC), Federal Deposit Insurance Corporation, Federal Reserve,",
+      "dir": "ltr",
+      "width": 337.71150000000017,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0023,
+        206
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.3349,
+        195
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "and National Credit Union Administration. Those functions performed by the Office of Thrift Supervision (OTS)",
+      "dir": "ltr",
+      "width": 341.38529999999975,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.3349,
+        195
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4789,
+        184
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "prior to Dodd–Frank should be transferred to the OCC since OTS has merged with OCC.",
+      "dir": "ltr",
+      "width": 269.5905000000003,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4789,
+        184
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.2365,
+        173
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "54.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.2365,
+        173
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8489777777777776,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        82.3615,
+        173
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "See “Section 1071 of the Dodd–Frank Act” in David R. Burton, “Improving Small Business Access to Capital,”",
+      "dir": "ltr",
+      "width": 331.83630000000034,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0023,
+        173
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2005,
+        162
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "Consumer Financial Protection Bureau Symposium on Section 1071 of the Dodd–Frank Act, Small Business",
+      "dir": "ltr",
+      "width": 328.3317000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2005,
+        162
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.5401,
+        151
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "Lending Panel, November 6, 2019,",
+      "dir": "ltr",
+      "width": 105.52230000000003,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.5401,
+        151
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.2000444444444377,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        196.06240000000005,
+        151
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://files.consumerfinance.gov/f/documents/cfpb_burton-written-",
+      "dir": "ltr",
+      "width": 215.42940000000016,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        197.8628,
+        151
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4177,
+        140
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "statement_symposium-section-1071.pdf",
+      "dir": "ltr",
+      "width": 124.3053,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4177,
+        140
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19996666666666682,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        214.723,
+        140
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed March 23, 2023).",
+      "dir": "ltr",
+      "width": 83.76210000000007,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        216.52270000000001,
+        140
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.2365,
+        129
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "55.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.2365,
+        129
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8489777777777776,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        82.3615,
+        129
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "5 U.S. Code Chapter 5,",
+      "dir": "ltr",
+      "width": 69.05700000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0023,
+        129
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19963333333332875,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        159.05930000000004,
+        129
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.law.cornell.edu/uscode/text/5/part-I/chapter-5",
+      "dir": "ltr",
+      "width": 186.1983000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        160.856,
+        129
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1999666666666321,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        347.0543000000003,
+        129
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed March 23, 2023).",
+      "dir": "ltr",
+      "width": 83.76300000000009,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        348.854,
+        129
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.2365,
+        118
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "56.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.2365,
+        118
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8489777777777776,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        82.3615,
+        118
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Consumer Financial Protection Bureau, “Administrative Adjudication Proceedings,”",
+      "dir": "ltr",
+      "width": 255.49740000000003,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0023,
+        118
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19953333333328122,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        345.4997000000005,
+        118
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.",
+      "dir": "ltr",
+      "width": 40.31999999999997,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        347.2955,
+        118
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2905,
+        107
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "consumerfinance.gov/administrative-adjudication-proceedings/",
+      "dir": "ltr",
+      "width": 198.2844,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2905,
+        107
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19992222222219247,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        288.5749000000003,
+        107
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed March 23, 2023), and 12 Code of",
+      "dir": "ltr",
+      "width": 131.13000000000014,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        290.37420000000003,
+        107
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.5401,
+        96
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "Federal Regulations Part 1081—Rules of Practice for Adjudication Proceedings,",
+      "dir": "ltr",
+      "width": 242.1045000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.5401,
+        96
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19993333333330712,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        332.64460000000025,
+        96
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.law.cornell.edu/",
+      "dir": "ltr",
+      "width": 89.52299999999998,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        334.444,
+        96
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2905,
+        85
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "cfr/text/12/part-1081",
+      "dir": "ltr",
+      "width": 62.693099999999994,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2905,
+        85
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1999777777777783,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        152.9836,
+        85
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed March 23, 2023).",
+      "dir": "ltr",
+      "width": 83.76210000000009,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        154.7834,
+        85
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    }
+  ],
+  "styles": {
+    "g_d0_f3": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f101": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f17": {
+      "fontFamily": "sans-serif",
+      "ascent": 0.939,
+      "descent": -0.202,
+      "vertical": false
+    },
+    "g_d0_f18": {
+      "fontFamily": "sans-serif",
+      "ascent": 0.939,
+      "descent": -0.202,
+      "vertical": false
+    }
+  },
+  "lang": "en-US"
+}

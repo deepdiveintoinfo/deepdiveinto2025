@@ -1,0 +1,997 @@
+{
+  "items": [
+    {
+      "str": "— 517 —",
+      "dir": "ltr",
+      "width": 40.24,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        231.5324,
+        32.0001
+      ],
+      "fontName": "g_d0_f3",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        30,
+        0,
+        0,
+        30,
+        402.0303,
+        610
+      ],
+      "fontName": "g_d0_f2",
+      "hasEOL": true
+    },
+    {
+      "str": "16",
+      "dir": "ltr",
+      "width": 30.6,
+      "height": 30,
+      "transform": [
+        30,
+        0,
+        0,
+        30,
+        402.0303,
+        610
+      ],
+      "fontName": "g_d0_f2",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        16,
+        0,
+        0,
+        16,
+        289.0682,
+        472.2
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": true
+    },
+    {
+      "str": "DEPARTMENT OF",
+      "dir": "ltr",
+      "width": 143.888,
+      "height": 16,
+      "transform": [
+        16,
+        0,
+        0,
+        16,
+        289.0682,
+        472.2
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        16,
+        0,
+        0,
+        16,
+        312.8875,
+        454.2
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": true
+    },
+    {
+      "str": "THE INTERIOR",
+      "dir": "ltr",
+      "width": 119.264,
+      "height": 16,
+      "transform": [
+        16,
+        0,
+        0,
+        16,
+        312.8875,
+        454.2
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        13,
+        0,
+        0,
+        13,
+        286.2083,
+        436.2
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": true
+    },
+    {
+      "str": "William Perry Pendley",
+      "dir": "ltr",
+      "width": 146.02769999999995,
+      "height": 13,
+      "transform": [
+        13,
+        0,
+        0,
+        13,
+        286.2083,
+        436.2
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        50.6722,
+        0,
+        0,
+        50.6722,
+        70.0206,
+        352
+      ],
+      "fontName": "g_d0_f9",
+      "hasEOL": true
+    },
+    {
+      "str": "T",
+      "dir": "ltr",
+      "width": 35.47054,
+      "height": 50.6722,
+      "transform": [
+        50.6722,
+        0,
+        0,
+        50.6722,
+        70.0206,
+        352
+      ],
+      "fontName": "g_d0_f9",
+      "hasEOL": false
+    },
+    {
+      "str": "he U.S. Department of the Interior (DOI) oversees, manages, and protects",
+      "dir": "ltr",
+      "width": 324.6722355700002,
+      "height": 10.5,
+      "transform": [
+        10.4759,
+        0,
+        0,
+        10.5,
+        107.0134,
+        380
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6634,
+        0,
+        0,
+        10.5,
+        107.0446,
+        366
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "the nation’s natural resources and cultural heritage; provides scientific",
+      "dir": "ltr",
+      "width": 324.5245838999999,
+      "height": 10.5,
+      "transform": [
+        10.6634,
+        0,
+        0,
+        10.5,
+        107.0446,
+        366
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3257,
+        0,
+        0,
+        10.5,
+        107.0758,
+        352
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "and other information about those resources; and honors the nation’s trust",
+      "dir": "ltr",
+      "width": 324.74016729000124,
+      "height": 10.5,
+      "transform": [
+        10.3257,
+        0,
+        0,
+        10.5,
+        107.0758,
+        352
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4051,
+        0,
+        0,
+        10.5,
+        72.2304,
+        338
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "responsibilities or special commitments to American Indians, Alaska Natives, and",
+      "dir": "ltr",
+      "width": 359.14139108999916,
+      "height": 10.5,
+      "transform": [
+        10.4051,
+        0,
+        0,
+        10.5,
+        72.2304,
+        338
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.318,
+        324
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "affiliated island communities.",
+      "dir": "ltr",
+      "width": 132.9405,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.318,
+        324
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        71.3604,
+        296
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": true
+    },
+    {
+      "str": "AGENCY OVERVIEW",
+      "dir": "ltr",
+      "width": 105.38900000000001,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        71.3604,
+        296
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        85.4316,
+        282
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "DOI’s purview encompasses more than 500 million acres of federal lands,",
+      "dir": "ltr",
+      "width": 348.356673000001,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        85.4316,
+        282
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6263,
+        0,
+        0,
+        10.5,
+        72.2304,
+        268
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "including national parks and national wildlife refuges; 700 million acres of sub",
+      "dir": "ltr",
+      "width": 358.2997086600009,
+      "height": 10.5,
+      "transform": [
+        10.6263,
+        0,
+        0,
+        10.5,
+        72.2304,
+        268
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.8892258,
+      "height": 10.5,
+      "transform": [
+        10.6263,
+        0,
+        0,
+        10.5,
+        430.7242,
+        268
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3621,
+        0,
+        0,
+        10.5,
+        72.3936,
+        254
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "surface minerals; 1.7 billion acres of the Outer Continental Shelf (OCS); 23 percent",
+      "dir": "ltr",
+      "width": 359.4975163500003,
+      "height": 10.5,
+      "transform": [
+        10.3621,
+        0,
+        0,
+        10.5,
+        72.3936,
+        254
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4039,
+        0,
+        0,
+        10.5,
+        72.36,
+        240
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "of the nation’s energy; water in 17 western states; and trust responsibilities for 566",
+      "dir": "ltr",
+      "width": 359.35590795000047,
+      "height": 10.5,
+      "transform": [
+        10.4039,
+        0,
+        0,
+        10.5,
+        72.36,
+        240
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3635,
+        0,
+        0,
+        10.5,
+        71.8272,
+        226
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Indian tribes and Alaska Natives. DOI’s 2024 budget request totals $18.9 billion, an",
+      "dir": "ltr",
+      "width": 360.03109905000014,
+      "height": 10.5,
+      "transform": [
+        10.3635,
+        0,
+        0,
+        10.5,
+        71.8272,
+        226
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4367,
+        0,
+        0,
+        10.5,
+        72.2304,
+        212
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "increase of $2 billion, or 12 percent, more than the 2023 enacted level. The budget",
+      "dir": "ltr",
+      "width": 359.56101371999915,
+      "height": 10.5,
+      "transform": [
+        10.4367,
+        0,
+        0,
+        10.5,
+        72.2304,
+        212
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5895,
+        0,
+        0,
+        10.5,
+        72.318,
+        198
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "also provides an estimated $12.6 billion in permanent funding in 2024. In 2024,",
+      "dir": "ltr",
+      "width": 361.62824815000033,
+      "height": 10.5,
+      "transform": [
+        10.5895,
+        0,
+        0,
+        10.5,
+        72.318,
+        198
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        71.9316,
+        184
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "DOI will generate receipts of $19.6 billion.",
+      "dir": "ltr",
+      "width": 187.33889999999997,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        71.9316,
+        184
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.576,
+        0,
+        0,
+        10.5,
+        84.9264,
+        170
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "A “Home Department” had been considered in 1789 and urged by Presidents",
+      "dir": "ltr",
+      "width": 346.47293280000054,
+      "height": 10.5,
+      "transform": [
+        10.576,
+        0,
+        0,
+        10.5,
+        84.9264,
+        170
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5036,
+        0,
+        0,
+        10.5,
+        72.36,
+        156
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "over the decades until DOI’s creation in 1849. The variety of its early responsibil",
+      "dir": "ltr",
+      "width": 358.34501903999995,
+      "height": 10.5,
+      "transform": [
+        10.5036,
+        0,
+        0,
+        10.5,
+        72.36,
+        156
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.8443176,
+      "height": 10.5,
+      "transform": [
+        10.5036,
+        0,
+        0,
+        10.5,
+        430.7416,
+        156
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6696,
+        0,
+        0,
+        10.5,
+        72.2304,
+        142
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "ities—the Indian Bureau, the General Land Office, the Bureau of Pensions, and",
+      "dir": "ltr",
+      "width": 359.3724002400011,
+      "height": 10.5,
+      "transform": [
+        10.6696,
+        0,
+        0,
+        10.5,
+        72.2304,
+        142
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.568,
+        0,
+        0,
+        10.5,
+        72.2868,
+        128
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "the Patent Office, among others—earned it various nicknames, including “Great",
+      "dir": "ltr",
+      "width": 359.35110159999965,
+      "height": 10.5,
+      "transform": [
+        10.568,
+        0,
+        0,
+        10.5,
+        72.2868,
+        128
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4614,
+        0,
+        0,
+        10.5,
+        71.9316,
+        114
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Miscellany,” “hydra-headed monster,” and “Mother of Departments.”",
+      "dir": "ltr",
+      "width": 305.8704132000001,
+      "height": 10.5,
+      "transform": [
+        10.4614,
+        0,
+        0,
+        10.5,
+        71.9316,
+        114
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "1",
+      "dir": "ltr",
+      "width": 2.488392,
+      "height": 6.1215,
+      "transform": [
+        6.099,
+        0,
+        0,
+        6.1215,
+        377.9325,
+        117.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.2823313657976751,
+      "height": 0,
+      "transform": [
+        6.099,
+        0,
+        0,
+        6.1215,
+        380.420892,
+        117.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "Its mission",
+      "dir": "ltr",
+      "width": 49.52426760000002,
+      "height": 10.5,
+      "transform": [
+        10.4614,
+        0,
+        0,
+        10.5,
+        382.142831,
+        114
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4144,
+        0,
+        0,
+        10.5,
+        72.4548,
+        100
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "became more focused on natural resources with the rise of the conservation move",
+      "dir": "ltr",
+      "width": 358.3282608000008,
+      "height": 10.5,
+      "transform": [
+        10.4144,
+        0,
+        0,
+        10.5,
+        72.4548,
+        100
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.8116704,
+      "height": 10.5,
+      "transform": [
+        10.4144,
+        0,
+        0,
+        10.5,
+        430.7561,
+        100
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        86
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "ment in the early 20th century; however, it kept its historic (since the days of the",
+      "dir": "ltr",
+      "width": 359.31,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        86
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5231,
+        0,
+        0,
+        10.5,
+        71.9316,
+        72
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Founding Fathers) role as overseer of vast working landscapes involving grazing,",
+      "dir": "ltr",
+      "width": 361.6242268800003,
+      "height": 10.5,
+      "transform": [
+        10.5231,
+        0,
+        0,
+        10.5,
+        71.9316,
+        72
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    }
+  ],
+  "styles": {
+    "g_d0_f3": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f2": {
+      "fontFamily": "serif",
+      "ascent": 1.158,
+      "descent": -0.32,
+      "vertical": false
+    },
+    "g_d0_f8": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.017,
+      "descent": -0.297,
+      "vertical": false
+    },
+    "g_d0_f9": {
+      "fontFamily": "serif",
+      "ascent": 1.133,
+      "descent": -0.292,
+      "vertical": false
+    },
+    "g_d0_f4": {
+      "fontFamily": "serif",
+      "ascent": 1.089,
+      "descent": -0.312,
+      "vertical": false
+    }
+  },
+  "lang": "en-US"
+}

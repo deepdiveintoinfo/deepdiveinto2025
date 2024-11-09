@@ -1,0 +1,1595 @@
+{
+  "items": [
+    {
+      "str": "— 589 —",
+      "dir": "ltr",
+      "width": 42.999999999999986,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        230.1524,
+        32.0001
+      ],
+      "fontName": "g_d0_f3",
+      "hasEOL": false
+    },
+    {
+      "str": "Department of Labor and Related Agencies",
+      "dir": "ltr",
+      "width": 196.98029999999991,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        153.5002,
+        664.4
+      ],
+      "fontName": "g_d0_f65",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4639,
+        0,
+        0,
+        10.5,
+        84.4164,
+        632
+      ],
+      "fontName": "g_d0_f10",
+      "hasEOL": true
+    },
+    {
+      "str": "Alternative View.",
+      "dir": "ltr",
+      "width": 75.40390978999997,
+      "height": 10.5,
+      "transform": [
+        10.4639,
+        0,
+        0,
+        10.5,
+        84.4164,
+        632
+      ],
+      "fontName": "g_d0_f10",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.16856370091457024,
+      "height": 0,
+      "transform": [
+        10.4639,
+        0,
+        0,
+        10.5,
+        159.82030979,
+        632
+      ],
+      "fontName": "g_d0_f10",
+      "hasEOL": false
+    },
+    {
+      "str": "While metrics on the state of American families and civil soci",
+      "dir": "ltr",
+      "width": 268.9933845200007,
+      "height": 10.5,
+      "transform": [
+        10.4639,
+        0,
+        0,
+        10.5,
+        161.58414349999998,
+        632
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.8297874000000003,
+      "height": 10.5,
+      "transform": [
+        10.4639,
+        0,
+        0,
+        10.5,
+        430.7428,
+        632
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.456,
+        0,
+        0,
+        10.5,
+        72.36,
+        618
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "ety are important and useful, monthly statistics would be of little additional value",
+      "dir": "ltr",
+      "width": 359.0057144000006,
+      "height": 10.5,
+      "transform": [
+        10.456,
+        0,
+        0,
+        10.5,
+        72.36,
+        618
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4698,
+        0,
+        0,
+        10.5,
+        72.318,
+        604
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "and could end up causing unnecessary confusion and concern. Funding should be",
+      "dir": "ltr",
+      "width": 359.16544201999994,
+      "height": 10.5,
+      "transform": [
+        10.4698,
+        0,
+        0,
+        10.5,
+        72.318,
+        604
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.36,
+        590
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "oriented towards improving the timeliness of annual family statistics.",
+      "dir": "ltr",
+      "width": 310.7800500000001,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.36,
+        590
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.2964,
+        0,
+        0,
+        10.5,
+        85.914,
+        576
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": true
+    },
+    {
+      "str": "Sabbath Rest.",
+      "dir": "ltr",
+      "width": 65.45215551999995,
+      "height": 10.5,
+      "transform": [
+        10.2964,
+        0,
+        0,
+        10.5,
+        85.914,
+        576
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.15671120780079015,
+      "height": 0,
+      "transform": [
+        10.2964,
+        0,
+        0,
+        10.5,
+        151.36615551999995,
+        576
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": "God ordained the Sabbath as a day of rest, and until very recently",
+      "dir": "ltr",
+      "width": 278.78635603999953,
+      "height": 10.5,
+      "transform": [
+        10.2964,
+        0,
+        0,
+        10.5,
+        152.9797168,
+        576
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6049,
+        0,
+        0,
+        10.5,
+        72.2868,
+        562
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "the Judeo-Christian tradition sought to honor that mandate by moral and legal",
+      "dir": "ltr",
+      "width": 359.45838795000066,
+      "height": 10.5,
+      "transform": [
+        10.6049,
+        0,
+        0,
+        10.5,
+        72.2868,
+        562
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6466,
+        0,
+        0,
+        10.5,
+        72.2304,
+        548
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "regulation of work on that day. Moreover, a shared day off makes it possible for",
+      "dir": "ltr",
+      "width": 359.71454487999927,
+      "height": 10.5,
+      "transform": [
+        10.6466,
+        0,
+        0,
+        10.5,
+        72.2304,
+        548
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.4296,
+        534
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "families and communities to enjoy time off together, rather than as atomized",
+      "dir": "ltr",
+      "width": 359.1480690000006,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.4296,
+        534
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5282,
+        0,
+        0,
+        10.5,
+        72.2304,
+        520
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "individuals, and provides a healthier cadence of life for everyone. Unfortunately,",
+      "dir": "ltr",
+      "width": 361.56997259999974,
+      "height": 10.5,
+      "transform": [
+        10.5282,
+        0,
+        0,
+        10.5,
+        72.2304,
+        520
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5902,
+        0,
+        0,
+        10.5,
+        72.2868,
+        506
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "that communal day of rest has eroded under the pressures of consumerism and",
+      "dir": "ltr",
+      "width": 359.4377421199993,
+      "height": 10.5,
+      "transform": [
+        10.5902,
+        0,
+        0,
+        10.5,
+        72.2868,
+        506
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.3936,
+        492
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "secularism, especially for low-income workers.",
+      "dir": "ltr",
+      "width": 209.30699999999996,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.3936,
+        492
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        5,
+        0,
+        0,
+        5,
+        72.4752,
+        465.5
+      ],
+      "fontName": "g_d0_f13",
+      "hasEOL": true
+    },
+    {
+      "str": "l",
+      "dir": "ltr",
+      "width": 3.955,
+      "height": 5,
+      "transform": [
+        5,
+        0,
+        0,
+        5,
+        72.4752,
+        465.5
+      ],
+      "fontName": "g_d0_f13",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 2.7420400000000003,
+      "height": 0,
+      "transform": [
+        5,
+        0,
+        0,
+        5,
+        76.4302,
+        465.5
+      ],
+      "fontName": "g_d0_f13",
+      "hasEOL": false
+    },
+    {
+      "str": "Congress should encourage communal rest by amending the Fair",
+      "dir": "ltr",
+      "width": 312.49049999999914,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.1404,
+        464
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.3456,
+        450
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": true
+    },
+    {
+      "str": "Labor Standards Act (FLSA)",
+      "dir": "ltr",
+      "width": 137.46599999999992,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.3456,
+        450
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": "9",
+      "dir": "ltr",
+      "width": 3.3178530000000004,
+      "height": 6.1215,
+      "transform": [
+        6.1215,
+        0,
+        0,
+        6.1215,
+        227.7567,
+        453.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.3466220697541456,
+      "height": 0,
+      "transform": [
+        6.1215,
+        0,
+        0,
+        6.1215,
+        231.074553,
+        453.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "to require that workers be paid time and",
+      "dir": "ltr",
+      "width": 196.2239999999996,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        233.1964,
+        450
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.4332,
+        436
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": true
+    },
+    {
+      "str": "a half for hours worked on the Sabbath.",
+      "dir": "ltr",
+      "width": 191.00549999999973,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.4332,
+        436
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1737142857143031,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        281.4386999999998,
+        436
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": "That day would default to Sunday,",
+      "dir": "ltr",
+      "width": 150.07649999999978,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        283.2627,
+        436
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.36,
+        422
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "except for employers with a sincere religious observance of a Sabbath at a",
+      "dir": "ltr",
+      "width": 323.0639999999993,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.36,
+        422
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.36,
+        408
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "different time (e.g., Friday sundown to Saturday sundown); the obligation",
+      "dir": "ltr",
+      "width": 324.26099999999917,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.36,
+        408
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.096,
+        394
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "would transfer to that period instead. Houses of worship (to the limited",
+      "dir": "ltr",
+      "width": 314.8949999999993,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.096,
+        394
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.36,
+        380
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "extent they may have FLSA-covered employees) and employers legally",
+      "dir": "ltr",
+      "width": 311.4614999999993,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.36,
+        380
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.2304,
+        366
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "required to operate around the clock (such as hospitals and first responders)",
+      "dir": "ltr",
+      "width": 336.8399999999993,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.2304,
+        366
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.096,
+        352
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "would be exempt, as would workers otherwise exempt from overtime.",
+      "dir": "ltr",
+      "width": 306.8194499999994,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.096,
+        352
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3599,
+        0,
+        0,
+        10.5,
+        84.4164,
+        324
+      ],
+      "fontName": "g_d0_f10",
+      "hasEOL": true
+    },
+    {
+      "str": "Alternative View.",
+      "dir": "ltr",
+      "width": 74.38926195000005,
+      "height": 10.5,
+      "transform": [
+        10.3599,
+        0,
+        0,
+        10.5,
+        84.4164,
+        324
+      ],
+      "fontName": "g_d0_f10",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.16044573306691956,
+      "height": 0,
+      "transform": [
+        10.3599,
+        0,
+        0,
+        10.5,
+        158.80566195000003,
+        324
+      ],
+      "fontName": "g_d0_f10",
+      "hasEOL": false
+    },
+    {
+      "str": "While some conservatives believe that the government should",
+      "dir": "ltr",
+      "width": 271.09786319999955,
+      "height": 10.5,
+      "transform": [
+        10.3599,
+        0,
+        0,
+        10.5,
+        160.4678637,
+        324
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3257,
+        0,
+        0,
+        10.5,
+        72.36,
+        310
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "encourage certain religious observance by making it more expensive for employers",
+      "dir": "ltr",
+      "width": 359.27860122000095,
+      "height": 10.5,
+      "transform": [
+        10.3257,
+        0,
+        0,
+        10.5,
+        72.36,
+        310
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5443,
+        0,
+        0,
+        10.5,
+        72.318,
+        296
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "and consumers to not partake in those observances, other conservatives believe",
+      "dir": "ltr",
+      "width": 359.3044035099993,
+      "height": 10.5,
+      "transform": [
+        10.5443,
+        0,
+        0,
+        10.5,
+        72.318,
+        296
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4504,
+        0,
+        0,
+        10.5,
+        72.2868,
+        282
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "that the government’s role is to protect the free exercise of religion by eliminating",
+      "dir": "ltr",
+      "width": 359.32550855999943,
+      "height": 10.5,
+      "transform": [
+        10.4504,
+        0,
+        0,
+        10.5,
+        72.2868,
+        282
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3547,
+        0,
+        0,
+        10.5,
+        72.4548,
+        268
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "barriers as opposed to erecting them. Whereas imposing overtime rules on the Sab",
+      "dir": "ltr",
+      "width": 358.0945191600009,
+      "height": 10.5,
+      "transform": [
+        10.3547,
+        0,
+        0,
+        10.5,
+        72.4548,
+        268
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.7898202,
+      "height": 10.5,
+      "transform": [
+        10.3547,
+        0,
+        0,
+        10.5,
+        430.7659,
+        268
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3234,
+        0,
+        0,
+        10.5,
+        72.4548,
+        254
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "bath would lead to higher costs and limited access to goods and services and reduce",
+      "dir": "ltr",
+      "width": 359.1273421799996,
+      "height": 10.5,
+      "transform": [
+        10.3234,
+        0,
+        0,
+        10.5,
+        72.4548,
+        254
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.695,
+        0,
+        0,
+        10.5,
+        72.096,
+        240
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "work available on the Sabbath (while also incentivizing some people—through",
+      "dir": "ltr",
+      "width": 359.3124285,
+      "height": 10.5,
+      "transform": [
+        10.695,
+        0,
+        0,
+        10.5,
+        72.096,
+        240
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5529,
+        0,
+        0,
+        10.5,
+        72.2556,
+        226
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "higher wages—to desire to work on the Sabbath), the proper role of government",
+      "dir": "ltr",
+      "width": 359.52252893999935,
+      "height": 10.5,
+      "transform": [
+        10.5529,
+        0,
+        0,
+        10.5,
+        72.2556,
+        226
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5422,
+        0,
+        0,
+        10.5,
+        72.2304,
+        212
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "in helping to enable individuals to practice their religion is to reduce barriers to",
+      "dir": "ltr",
+      "width": 359.47847779999927,
+      "height": 10.5,
+      "transform": [
+        10.5422,
+        0,
+        0,
+        10.5,
+        72.2304,
+        212
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.096,
+        198
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "work options and to fruitful employer and employee relations. The result: ample",
+      "dir": "ltr",
+      "width": 359.394,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.096,
+        198
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6217,
+        0,
+        0,
+        10.5,
+        72.168,
+        184
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "job options that do not require work on the Sabbath so that individuals in roles",
+      "dir": "ltr",
+      "width": 359.2811268400002,
+      "height": 10.5,
+      "transform": [
+        10.6217,
+        0,
+        0,
+        10.5,
+        72.168,
+        184
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3607,
+        0,
+        0,
+        10.5,
+        72.2868,
+        170
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "that sometimes do require Sabbath work are empowered to negotiate directly with",
+      "dir": "ltr",
+      "width": 359.4707029199996,
+      "height": 10.5,
+      "transform": [
+        10.3607,
+        0,
+        0,
+        10.5,
+        72.2868,
+        170
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2868,
+        156
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "their employer to achieve their desired schedule.",
+      "dir": "ltr",
+      "width": 218.24249999999995,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2868,
+        156
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        85.4316,
+        142
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": true
+    },
+    {
+      "str": "Teleworking.",
+      "dir": "ltr",
+      "width": 64.28100000000002,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        85.4316,
+        142
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1969619047619035,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        149.7126,
+        142
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": "COVID made telework ubiquitous, but the law and regulations",
+      "dir": "ltr",
+      "width": 279.8134499999999,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        151.7807,
+        142
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.318,
+        128
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "are still stuck in an era when telework was unique.",
+      "dir": "ltr",
+      "width": 224.01644999999996,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.318,
+        128
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        5,
+        0,
+        0,
+        5,
+        72.4752,
+        101.5
+      ],
+      "fontName": "g_d0_f13",
+      "hasEOL": true
+    },
+    {
+      "str": "l",
+      "dir": "ltr",
+      "width": 3.955,
+      "height": 5,
+      "transform": [
+        5,
+        0,
+        0,
+        5,
+        72.4752,
+        101.5
+      ],
+      "fontName": "g_d0_f13",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 2.7420400000000003,
+      "height": 0,
+      "transform": [
+        5,
+        0,
+        0,
+        5,
+        76.4302,
+        101.5
+      ],
+      "fontName": "g_d0_f13",
+      "hasEOL": false
+    },
+    {
+      "str": "Congress should clarify that overtime for telework applies only if the",
+      "dir": "ltr",
+      "width": 337.95194999999995,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.1404,
+        100
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.486,
+        86
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": true
+    },
+    {
+      "str": "employee exceeds 10 hours of work in a specific day (and the total",
+      "dir": "ltr",
+      "width": 319.41944999999987,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.486,
+        86
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.5028,
+        72
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": true
+    },
+    {
+      "str": "hours for the week exceed 40).",
+      "dir": "ltr",
+      "width": 149.48850000000002,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.5028,
+        72
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    }
+  ],
+  "styles": {
+    "g_d0_f3": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f65": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f10": {
+      "fontFamily": "serif",
+      "ascent": 1.103,
+      "descent": -0.315,
+      "vertical": false
+    },
+    "g_d0_f4": {
+      "fontFamily": "serif",
+      "ascent": 1.089,
+      "descent": -0.312,
+      "vertical": false
+    },
+    "g_d0_f11": {
+      "fontFamily": "serif",
+      "ascent": 1.143,
+      "descent": -0.351,
+      "vertical": false
+    },
+    "g_d0_f13": {
+      "fontFamily": "monospace",
+      "ascent": 0.851,
+      "descent": -0.148,
+      "vertical": false
+    }
+  },
+  "lang": "en-US"
+}

@@ -1,0 +1,927 @@
+{
+  "items": [
+    {
+      "str": "— 641 —",
+      "dir": "ltr",
+      "width": 41.10000000000001,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        231.1023,
+        32.0001
+      ],
+      "fontName": "g_d0_f3",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        30,
+        0,
+        0,
+        30,
+        395.4122,
+        610
+      ],
+      "fontName": "g_d0_f2",
+      "hasEOL": true
+    },
+    {
+      "str": "20",
+      "dir": "ltr",
+      "width": 36.24000000000001,
+      "height": 30,
+      "transform": [
+        30,
+        0,
+        0,
+        30,
+        395.4122,
+        610
+      ],
+      "fontName": "g_d0_f2",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        16,
+        0,
+        0,
+        16,
+        289.0682,
+        472.2
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": true
+    },
+    {
+      "str": "DEPARTMENT OF",
+      "dir": "ltr",
+      "width": 143.888,
+      "height": 16,
+      "transform": [
+        16,
+        0,
+        0,
+        16,
+        289.0682,
+        472.2
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        16,
+        0,
+        0,
+        16,
+        264.3964,
+        454.2
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": true
+    },
+    {
+      "str": "VETERANS AFFAIRS",
+      "dir": "ltr",
+      "width": 167.87040000000002,
+      "height": 16,
+      "transform": [
+        16,
+        0,
+        0,
+        16,
+        264.3964,
+        454.2
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        13,
+        0,
+        0,
+        13,
+        320.82,
+        436.2
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": true
+    },
+    {
+      "str": "Brooks D. Tucker",
+      "dir": "ltr",
+      "width": 111.34369999999997,
+      "height": 13,
+      "transform": [
+        13,
+        0,
+        0,
+        13,
+        320.82,
+        436.2
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        72.3576,
+        380
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": true
+    },
+    {
+      "str": "MISSION STATEMENT",
+      "dir": "ltr",
+      "width": 109.26999999999995,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        72.3576,
+        380
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4212,
+        0,
+        0,
+        10.5,
+        85.2636,
+        366
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "The Department of Veterans Affairs (VA) is the primary provider of health care,",
+      "dir": "ltr",
+      "width": 348.74545800000004,
+      "height": 10.5,
+      "transform": [
+        10.4212,
+        0,
+        0,
+        10.5,
+        85.2636,
+        366
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5845,
+        0,
+        0,
+        10.5,
+        72.4548,
+        352
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "benefits, and memorial affairs for America’s veterans and their families. The VA",
+      "dir": "ltr",
+      "width": 359.8348958,
+      "height": 10.5,
+      "transform": [
+        10.5845,
+        0,
+        0,
+        10.5,
+        72.4548,
+        352
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3977,
+        0,
+        0,
+        10.5,
+        72.2556,
+        338
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "has the noble responsibility to render exceptional and timely support and services",
+      "dir": "ltr",
+      "width": 359.22909753000044,
+      "height": 10.5,
+      "transform": [
+        10.3977,
+        0,
+        0,
+        10.5,
+        72.2556,
+        338
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3771,
+        0,
+        0,
+        10.5,
+        72.096,
+        324
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "with respect, compassion, and competence. The veteran is at the forefront of every",
+      "dir": "ltr",
+      "width": 359.9006576200004,
+      "height": 10.5,
+      "transform": [
+        10.3771,
+        0,
+        0,
+        10.5,
+        72.096,
+        324
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        71.5464,
+        310
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "VA process and interaction. The VA must continually strive to be recognized as a",
+      "dir": "ltr",
+      "width": 359.93999999999977,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        71.5464,
+        310
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6813,
+        0,
+        0,
+        10.5,
+        68.862,
+        296
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "“best in class,” “Veteran-centric”",
+      "dir": "ltr",
+      "width": 151.31022766999976,
+      "height": 10.5,
+      "transform": [
+        10.6813,
+        0,
+        0,
+        10.5,
+        68.862,
+        296
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "1",
+      "dir": "ltr",
+      "width": 2.5406976,
+      "height": 6.1215,
+      "transform": [
+        6.2272,
+        0,
+        0,
+        6.1215,
+        220.2403,
+        299.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.35474513424974397,
+      "height": 0,
+      "transform": [
+        6.2272,
+        0,
+        0,
+        6.1215,
+        222.78099759999998,
+        299.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "system with an organizational ethos inspired",
+      "dir": "ltr",
+      "width": 206.55818379000047,
+      "height": 10.5,
+      "transform": [
+        10.6813,
+        0,
+        0,
+        10.5,
+        224.99006649999998,
+        296
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.4548,
+        282
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "by and accountable to the needs and problems of veterans, not subservient to the",
+      "dir": "ltr",
+      "width": 359.03700000000003,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.4548,
+        282
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.3984,
+        268
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "parochial preferences of a bureaucracy.",
+      "dir": "ltr",
+      "width": 175.7805,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.3984,
+        268
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        71.832,
+        240
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": true
+    },
+    {
+      "str": "OVERVIEW",
+      "dir": "ltr",
+      "width": 58.05999999999999,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        71.832,
+        240
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5623,
+        0,
+        0,
+        10.5,
+        84.9264,
+        226
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "At the end of the Obama Administration, the VA was held in low esteem both",
+      "dir": "ltr",
+      "width": 346.6736981400006,
+      "height": 10.5,
+      "transform": [
+        10.5623,
+        0,
+        0,
+        10.5,
+        84.9264,
+        226
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.4548,
+        212
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "by the veterans it served and by the employees who served these former warriors.",
+      "dir": "ltr",
+      "width": 361.0908000000003,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.4548,
+        212
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6747,
+        0,
+        0,
+        10.5,
+        71.9316,
+        198
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Eroding morale caused by the downstream effects of a health care access crisis",
+      "dir": "ltr",
+      "width": 359.6092936000001,
+      "height": 10.5,
+      "transform": [
+        10.6747,
+        0,
+        0,
+        10.5,
+        71.9316,
+        198
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5431,
+        0,
+        0,
+        10.5,
+        72.2304,
+        184
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "in 2014 led to the resignation of Secretary Eric Shinseki and extensive oversight",
+      "dir": "ltr",
+      "width": 359.67891081000056,
+      "height": 10.5,
+      "transform": [
+        10.5431,
+        0,
+        0,
+        10.5,
+        72.2304,
+        184
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        170
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "investigations by Congress from 2015–2016.",
+      "dir": "ltr",
+      "width": 196.89495,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        170
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6173,
+        0,
+        0,
+        10.5,
+        85.4316,
+        156
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "By 2020, however, the VA had become one of the most respected U.S. agencies.",
+      "dir": "ltr",
+      "width": 348.0616372500006,
+      "height": 10.5,
+      "transform": [
+        10.6173,
+        0,
+        0,
+        10.5,
+        85.4316,
+        156
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3537,
+        0,
+        0,
+        10.5,
+        71.7636,
+        142
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "This significant progress was due in part to the leadership of Secretary Robert Wilkie",
+      "dir": "ltr",
+      "width": 359.4783932599996,
+      "height": 10.5,
+      "transform": [
+        10.3537,
+        0,
+        0,
+        10.5,
+        71.7636,
+        142
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4099,
+        0,
+        0,
+        10.5,
+        71.5848,
+        128
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "(2018–2021) and his team of political appointees and career senior executives, many",
+      "dir": "ltr",
+      "width": 360.0482522900002,
+      "height": 10.5,
+      "transform": [
+        10.4099,
+        0,
+        0,
+        10.5,
+        71.5848,
+        128
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4843,
+        0,
+        0,
+        10.5,
+        72.36,
+        114
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "of them veterans, who led the effort to ensure that the VA became “Veteran-centric”",
+      "dir": "ltr",
+      "width": 362.45168686999983,
+      "height": 10.5,
+      "transform": [
+        10.4843,
+        0,
+        0,
+        10.5,
+        72.36,
+        114
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        100
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "in its governance decisions and fostered a more positive work environment.",
+      "dir": "ltr",
+      "width": 329.95199999999977,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        100
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.2976,
+        0,
+        0,
+        10.5,
+        85.2636,
+        86
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "This mindset translated into a department that was better attuned to employees’",
+      "dir": "ltr",
+      "width": 348.2885164799996,
+      "height": 10.5,
+      "transform": [
+        10.2976,
+        0,
+        0,
+        10.5,
+        85.2636,
+        86
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3533,
+        0,
+        0,
+        10.5,
+        72.318,
+        72
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "and veterans’ needs and experiences in the daily operations of health care, benefits,",
+      "dir": "ltr",
+      "width": 361.2080010599998,
+      "height": 10.5,
+      "transform": [
+        10.3533,
+        0,
+        0,
+        10.5,
+        72.318,
+        72
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    }
+  ],
+  "styles": {
+    "g_d0_f3": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f2": {
+      "fontFamily": "serif",
+      "ascent": 1.158,
+      "descent": -0.32,
+      "vertical": false
+    },
+    "g_d0_f8": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.017,
+      "descent": -0.297,
+      "vertical": false
+    },
+    "g_d0_f4": {
+      "fontFamily": "serif",
+      "ascent": 1.089,
+      "descent": -0.312,
+      "vertical": false
+    }
+  },
+  "lang": "en-US"
+}

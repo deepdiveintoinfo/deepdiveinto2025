@@ -1,0 +1,997 @@
+{
+  "items": [
+    {
+      "str": "— 363 —",
+      "dir": "ltr",
+      "width": 42.78,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        230.2623,
+        32.0001
+      ],
+      "fontName": "g_d0_f3",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        30,
+        0,
+        0,
+        30,
+        400.9291,
+        610
+      ],
+      "fontName": "g_d0_f2",
+      "hasEOL": true
+    },
+    {
+      "str": "12",
+      "dir": "ltr",
+      "width": 30.240000000000002,
+      "height": 30,
+      "transform": [
+        30,
+        0,
+        0,
+        30,
+        400.9291,
+        610
+      ],
+      "fontName": "g_d0_f2",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        71.3604,
+        380
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": true
+    },
+    {
+      "str": "AMERICAN ENERGY AND SCIENCE DOMINANCE",
+      "dir": "ltr",
+      "width": 247.859,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        71.3604,
+        380
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.7087,
+        0,
+        0,
+        10.5,
+        85.2636,
+        366
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "The next conservative Administration should prioritize energy and science",
+      "dir": "ltr",
+      "width": 346.4457206599998,
+      "height": 10.5,
+      "transform": [
+        10.7087,
+        0,
+        0,
+        10.5,
+        85.2636,
+        366
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.36,
+        352
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "dominance to ensure that Americans have abundant, affordable, and reliable",
+      "dir": "ltr",
+      "width": 358.8353370000007,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.36,
+        352
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4137,
+        0,
+        0,
+        10.5,
+        72.36,
+        338
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "energy; create good-paying jobs; support domestic manufacturing and technology",
+      "dir": "ltr",
+      "width": 359.5496544200004,
+      "height": 10.5,
+      "transform": [
+        10.4137,
+        0,
+        0,
+        10.5,
+        72.36,
+        338
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6002,
+        0,
+        0,
+        10.5,
+        72.2028,
+        324
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "leadership; and strengthen national security. Achieving these goals will require",
+      "dir": "ltr",
+      "width": 359.46126216,
+      "height": 10.5,
+      "transform": [
+        10.6002,
+        0,
+        0,
+        10.5,
+        72.2028,
+        324
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4474,
+        0,
+        0,
+        10.5,
+        72.4548,
+        310
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "bold policy action and reforms that involve the U.S. Department of Energy (DOE);",
+      "dir": "ltr",
+      "width": 359.5984632600005,
+      "height": 10.5,
+      "transform": [
+        10.4474,
+        0,
+        0,
+        10.5,
+        72.4548,
+        310
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.497,
+        0,
+        0,
+        10.5,
+        72.2868,
+        296
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "the Federal Energy Regulatory Commission (FERC); and the Nuclear Regulatory",
+      "dir": "ltr",
+      "width": 359.66290980000025,
+      "height": 10.5,
+      "transform": [
+        10.497,
+        0,
+        0,
+        10.5,
+        72.2868,
+        296
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.0348,
+        282
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Commission (NRC).",
+      "dir": "ltr",
+      "width": 91.098,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.0348,
+        282
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5331,
+        0,
+        0,
+        10.5,
+        85.0884,
+        268
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": true
+    },
+    {
+      "str": "American Energy Dominance.",
+      "dir": "ltr",
+      "width": 148.00058809999996,
+      "height": 10.5,
+      "transform": [
+        10.5331,
+        0,
+        0,
+        10.5,
+        85.0884,
+        268
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19477942865822734,
+      "height": 0,
+      "transform": [
+        10.5331,
+        0,
+        0,
+        10.5,
+        233.08898810000002,
+        268
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": "Access to affordable, reliable, and abundant",
+      "dir": "ltr",
+      "width": 196.71722890999933,
+      "height": 10.5,
+      "transform": [
+        10.5331,
+        0,
+        0,
+        10.5,
+        235.1406193,
+        268
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.36,
+        254
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "energy is vital to America’s economy, national security, and quality of life. Yet",
+      "dir": "ltr",
+      "width": 359.3087189999998,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.36,
+        254
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4725,
+        0,
+        0,
+        10.5,
+        72.2304,
+        240
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "ideologically driven government policies have thrust the United States into a new",
+      "dir": "ltr",
+      "width": 359.6623037500002,
+      "height": 10.5,
+      "transform": [
+        10.4725,
+        0,
+        0,
+        10.5,
+        72.2304,
+        240
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3141,
+        0,
+        0,
+        10.5,
+        72.36,
+        226
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "energy crisis just a few short years after America’s energy renaissance, which began",
+      "dir": "ltr",
+      "width": 359.5804682999999,
+      "height": 10.5,
+      "transform": [
+        10.3141,
+        0,
+        0,
+        10.5,
+        72.36,
+        226
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        212
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "in the first decade of the 2000s, transformed the United States from a net energy",
+      "dir": "ltr",
+      "width": 359.6040000000003,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        212
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3412,
+        0,
+        0,
+        10.5,
+        72.2304,
+        198
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "importer (oil and natural gas) to energy independence and then energy dominance.",
+      "dir": "ltr",
+      "width": 361.1488299599992,
+      "height": 10.5,
+      "transform": [
+        10.3412,
+        0,
+        0,
+        10.5,
+        72.2304,
+        198
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5315,
+        0,
+        0,
+        10.5,
+        71.4264,
+        184
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Americans now face energy scarcity, an electric grid that is less reliable, and arti",
+      "dir": "ltr",
+      "width": 359.4148194000001,
+      "height": 10.5,
+      "transform": [
+        10.5315,
+        0,
+        0,
+        10.5,
+        71.4264,
+        184
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.854529,
+      "height": 10.5,
+      "transform": [
+        10.5315,
+        0,
+        0,
+        10.5,
+        430.7401,
+        184
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5106,
+        0,
+        0,
+        10.5,
+        72.1416,
+        170
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "ficial shortages of natural gas and oil despite massive reserves within the United",
+      "dir": "ltr",
+      "width": 359.33218855999996,
+      "height": 10.5,
+      "transform": [
+        10.5106,
+        0,
+        0,
+        10.5,
+        72.1416,
+        170
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4172,
+        0,
+        0,
+        10.5,
+        72.2976,
+        156
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "States—all of which has led to higher prices that burden both the American people",
+      "dir": "ltr",
+      "width": 359.28506111999974,
+      "height": 10.5,
+      "transform": [
+        10.4172,
+        0,
+        0,
+        10.5,
+        72.2976,
+        156
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.318,
+        142
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "and the economy.",
+      "dir": "ltr",
+      "width": 78.50745000000002,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.318,
+        142
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3128,
+        0,
+        0,
+        10.5,
+        85.2636,
+        128
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "The new energy crisis is caused not by a lack of resources, but by extreme “green”",
+      "dir": "ltr",
+      "width": 349.58638823999894,
+      "height": 10.5,
+      "transform": [
+        10.3128,
+        0,
+        0,
+        10.5,
+        85.2636,
+        128
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3211,
+        0,
+        0,
+        10.5,
+        72.3984,
+        114
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "policies. Under the rubrics of “combating climate change” and “ESG” (environmen",
+      "dir": "ltr",
+      "width": 358.52508281000024,
+      "height": 10.5,
+      "transform": [
+        10.3211,
+        0,
+        0,
+        10.5,
+        72.3984,
+        114
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.7775225999999997,
+      "height": 10.5,
+      "transform": [
+        10.3211,
+        0,
+        0,
+        10.5,
+        430.7704,
+        114
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.2917,
+        0,
+        0,
+        10.5,
+        72.2868,
+        100
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "tal, social, and governance), the Biden Administration, Congress, and various states,",
+      "dir": "ltr",
+      "width": 361.28395348000066,
+      "height": 10.5,
+      "transform": [
+        10.2917,
+        0,
+        0,
+        10.5,
+        72.2868,
+        100
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5606,
+        0,
+        0,
+        10.5,
+        72.318,
+        86
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "as well as Wall Street investors, international corporations, and progressive spe",
+      "dir": "ltr",
+      "width": 358.3369989000005,
+      "height": 10.5,
+      "transform": [
+        10.5606,
+        0,
+        0,
+        10.5,
+        72.318,
+        86
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.8651796000000003,
+      "height": 10.5,
+      "transform": [
+        10.5606,
+        0,
+        0,
+        10.5,
+        430.733,
+        86
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3934,
+        0,
+        0,
+        10.5,
+        72.36,
+        72
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "cial-interest groups, are changing America’s energy landscape. These ideologically",
+      "dir": "ltr",
+      "width": 359.4692504200003,
+      "height": 10.5,
+      "transform": [
+        10.3934,
+        0,
+        0,
+        10.5,
+        72.36,
+        72
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        16,
+        0,
+        0,
+        16,
+        216.8481,
+        472.2
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": true
+    },
+    {
+      "str": "DEPARTMENT OF ENERGY",
+      "dir": "ltr",
+      "width": 217.8544,
+      "height": 16,
+      "transform": [
+        16,
+        0,
+        0,
+        16,
+        216.8481,
+        472.2
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        16,
+        0,
+        0,
+        16,
+        187.4689,
+        454.2
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": true
+    },
+    {
+      "str": "AND RELATED COMMISSIONS",
+      "dir": "ltr",
+      "width": 244.79840000000002,
+      "height": 16,
+      "transform": [
+        16,
+        0,
+        0,
+        16,
+        187.4689,
+        454.2
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        13,
+        0,
+        0,
+        13,
+        294.5475,
+        436.2
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": true
+    },
+    {
+      "str": "Bernard L. McNamee",
+      "dir": "ltr",
+      "width": 137.18899999999994,
+      "height": 13,
+      "transform": [
+        13,
+        0,
+        0,
+        13,
+        294.5475,
+        436.2
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": false
+    }
+  ],
+  "styles": {
+    "g_d0_f3": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f2": {
+      "fontFamily": "serif",
+      "ascent": 1.158,
+      "descent": -0.32,
+      "vertical": false
+    },
+    "g_d0_f8": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.017,
+      "descent": -0.297,
+      "vertical": false
+    },
+    "g_d0_f4": {
+      "fontFamily": "serif",
+      "ascent": 1.089,
+      "descent": -0.312,
+      "vertical": false
+    },
+    "g_d0_f11": {
+      "fontFamily": "serif",
+      "ascent": 1.143,
+      "descent": -0.351,
+      "vertical": false
+    }
+  },
+  "lang": "en-US"
+}

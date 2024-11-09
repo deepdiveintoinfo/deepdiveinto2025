@@ -1,0 +1,1567 @@
+{
+  "items": [
+    {
+      "str": "— 477 —",
+      "dir": "ltr",
+      "width": 42.62999999999998,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        230.3373,
+        32.0001
+      ],
+      "fontName": "g_d0_f3",
+      "hasEOL": false
+    },
+    {
+      "str": "Department of Health and Human Services",
+      "dir": "ltr",
+      "width": 193.19129999999998,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        155.3948,
+        664.4
+      ],
+      "fontName": "g_d0_f61",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5812,
+        0,
+        0,
+        10.5,
+        85.4316,
+        632
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": true
+    },
+    {
+      "str": "Teen Pregnancy Prevention (TPP) and Personal Responsibility Educa",
+      "dir": "ltr",
+      "width": 345.55236463999984,
+      "height": 10.5,
+      "transform": [
+        10.5812,
+        0,
+        0,
+        10.5,
+        85.4316,
+        632
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.8727558,
+      "height": 10.5,
+      "transform": [
+        10.5813,
+        0,
+        0,
+        10.5,
+        430.7859,
+        632
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.4128,
+        618
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": true
+    },
+    {
+      "str": "tion Program (PREP).",
+      "dir": "ltr",
+      "width": 107.20499999999998,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.4128,
+        618
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.16803809523810015,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        179.61779999999996,
+        618
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": "TPP is operated by the Office of Population Affairs in the",
+      "dir": "ltr",
+      "width": 250.0680000000001,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        181.3822,
+        618
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5609,
+        0,
+        0,
+        10.5,
+        72.1668,
+        604
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Office of the Assistant Secretary for Health; PREP is operated by the ACF Office",
+      "dir": "ltr",
+      "width": 359.23218176999944,
+      "height": 10.5,
+      "transform": [
+        10.5609,
+        0,
+        0,
+        10.5,
+        72.1668,
+        604
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5663,
+        0,
+        0,
+        10.5,
+        72.36,
+        590
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "of Planning, Research, and Evaluation. Both programs should ensure that there",
+      "dir": "ltr",
+      "width": 358.97207978999927,
+      "height": 10.5,
+      "transform": [
+        10.5663,
+        0,
+        0,
+        10.5,
+        72.36,
+        590
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6167,
+        0,
+        0,
+        10.5,
+        72.2304,
+        576
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "is better reporting of subgrantees and referral lists so that they do not promote",
+      "dir": "ltr",
+      "width": 359.20648947000075,
+      "height": 10.5,
+      "transform": [
+        10.6167,
+        0,
+        0,
+        10.5,
+        72.2304,
+        576
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4009,
+        0,
+        0,
+        10.5,
+        72.318,
+        562
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "abortion or high-risk sexual behavior among adolescents. CMS should ensure that",
+      "dir": "ltr",
+      "width": 359.31573193999964,
+      "height": 10.5,
+      "transform": [
+        10.4009,
+        0,
+        0,
+        10.5,
+        72.318,
+        562
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4628,
+        0,
+        0,
+        10.5,
+        72.2976,
+        548
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Sexual Risk Avoidance (SRA) proponents receive these grants and are given every",
+      "dir": "ltr",
+      "width": 359.3940411599996,
+      "height": 10.5,
+      "transform": [
+        10.4628,
+        0,
+        0,
+        10.5,
+        72.2976,
+        548
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4409,
+        0,
+        0,
+        10.5,
+        72.36,
+        534
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "opportunity to prove their effectiveness. SRA programs, both at ACF and at OASH",
+      "dir": "ltr",
+      "width": 359.67334365000073,
+      "height": 10.5,
+      "transform": [
+        10.4409,
+        0,
+        0,
+        10.5,
+        72.36,
+        534
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.318,
+        520
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "and both discretionary and mandatory, should be equal in funding and emphasis.",
+      "dir": "ltr",
+      "width": 361.1790000000002,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.318,
+        520
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6749,
+        0,
+        0,
+        10.5,
+        72.1668,
+        506
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Qualitative research should be conducted on both types of programs to ensure",
+      "dir": "ltr",
+      "width": 359.2851093000009,
+      "height": 10.5,
+      "transform": [
+        10.6749,
+        0,
+        0,
+        10.5,
+        72.1668,
+        506
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.36,
+        492
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "continuous improvement.",
+      "dir": "ltr",
+      "width": 117.25350000000002,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.36,
+        492
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        85.3272,
+        478
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "In addition, certain provisions should be employed so that these programs do",
+      "dir": "ltr",
+      "width": 346.2165000000002,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        85.3272,
+        478
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.2304,
+        464
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "not serve as advocacy tools to promote sex, promote prostitution, or provide a",
+      "dir": "ltr",
+      "width": 359.4158190000006,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.2304,
+        464
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5524,
+        0,
+        0,
+        10.5,
+        72.4296,
+        450
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "funnel effect for abortion facilities and school field trips to clinics, or for similar",
+      "dir": "ltr",
+      "width": 359.46645075999993,
+      "height": 10.5,
+      "transform": [
+        10.5524,
+        0,
+        0,
+        10.5,
+        72.4296,
+        450
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3712,
+        0,
+        0,
+        10.5,
+        72.3984,
+        436
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "purposes. Parent involvement and parent–child communication should be encour",
+      "dir": "ltr",
+      "width": 358.67446943999954,
+      "height": 10.5,
+      "transform": [
+        10.3712,
+        0,
+        0,
+        10.5,
+        72.3984,
+        436
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.7958591999999998,
+      "height": 10.5,
+      "transform": [
+        10.3712,
+        0,
+        0,
+        10.5,
+        430.7625,
+        436
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4118,
+        0,
+        0,
+        10.5,
+        72.318,
+        422
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "aged and be a part of any funded project. Risk avoidance should be prioritized, and",
+      "dir": "ltr",
+      "width": 358.9769992199991,
+      "height": 10.5,
+      "transform": [
+        10.4118,
+        0,
+        0,
+        10.5,
+        72.318,
+        422
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4131,
+        0,
+        0,
+        10.5,
+        72.318,
+        408
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "any program that submits a proposal that promotes risk rather than health should",
+      "dir": "ltr",
+      "width": 359.2602804799994,
+      "height": 10.5,
+      "transform": [
+        10.4131,
+        0,
+        0,
+        10.5,
+        72.318,
+        408
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        394
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "not be eligible for funding.",
+      "dir": "ltr",
+      "width": 117.91499999999999,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        394
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3624,
+        0,
+        0,
+        10.5,
+        85.7976,
+        380
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Site visits should be revamped to ensure adherence to these optimal health met",
+      "dir": "ltr",
+      "width": 345.11973199999994,
+      "height": 10.5,
+      "transform": [
+        10.3624,
+        0,
+        0,
+        10.5,
+        85.7976,
+        380
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.7926383999999995,
+      "height": 10.5,
+      "transform": [
+        10.3624,
+        0,
+        0,
+        10.5,
+        430.7625,
+        380
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4154,
+        0,
+        0,
+        10.5,
+        72.2304,
+        366
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "rics, and a cost analysis of programming as compared to students served should be",
+      "dir": "ltr",
+      "width": 359.27922299999915,
+      "height": 10.5,
+      "transform": [
+        10.4154,
+        0,
+        0,
+        10.5,
+        72.2304,
+        366
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.318,
+        352
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "a metric in funding (taking into account that in certain cases, intensive programs",
+      "dir": "ltr",
+      "width": 359.2785,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.318,
+        352
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.096,
+        338
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "will serve fewer students and can have more positive results). These same param",
+      "dir": "ltr",
+      "width": 358.69155000000006,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.096,
+        338
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.843,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        430.7422,
+        338
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6914,
+        0,
+        0,
+        10.5,
+        72.36,
+        324
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "eters should apply to sex education programs at ACF. Any lists with “approved",
+      "dir": "ltr",
+      "width": 358.9626858600003,
+      "height": 10.5,
+      "transform": [
+        10.6914,
+        0,
+        0,
+        10.5,
+        72.36,
+        324
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6171,
+        0,
+        0,
+        10.5,
+        72.36,
+        310
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "curriculum” or so-called evidence-based lists should be abolished; HHS should",
+      "dir": "ltr",
+      "width": 359.15525879999984,
+      "height": 10.5,
+      "transform": [
+        10.6171,
+        0,
+        0,
+        10.5,
+        72.36,
+        310
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6632,
+        0,
+        0,
+        10.5,
+        72.2304,
+        296
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "not create a monopoly of curriculum, adding to the profit of certain publishers.",
+      "dir": "ltr",
+      "width": 361.4462251199989,
+      "height": 10.5,
+      "transform": [
+        10.6632,
+        0,
+        0,
+        10.5,
+        72.2304,
+        296
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5743,
+        0,
+        0,
+        10.5,
+        71.9316,
+        282
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Furthermore, lists created in the past have given priority to sex-promotion text",
+      "dir": "ltr",
+      "width": 358.6358439399993,
+      "height": 10.5,
+      "transform": [
+        10.5743,
+        0,
+        0,
+        10.5,
+        71.9316,
+        282
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.8701937999999996,
+      "height": 10.5,
+      "transform": [
+        10.5743,
+        0,
+        0,
+        10.5,
+        430.7337,
+        282
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6414,
+        0,
+        0,
+        10.5,
+        72.4548,
+        268
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "books. HHS should create a list of criteria for evaluating the sort of curriculum",
+      "dir": "ltr",
+      "width": 358.9652820599998,
+      "height": 10.5,
+      "transform": [
+        10.6414,
+        0,
+        0,
+        10.5,
+        72.4548,
+        268
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5185,
+        0,
+        0,
+        10.5,
+        72.2868,
+        254
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "that should be selected for any sex education grant programs, both at OASH and",
+      "dir": "ltr",
+      "width": 359.1152640500003,
+      "height": 10.5,
+      "transform": [
+        10.5185,
+        0,
+        0,
+        10.5,
+        72.2868,
+        254
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5144,
+        0,
+        0,
+        10.5,
+        72.318,
+        240
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "at ACF, with the aim of promoting optimal health and adhering to the legislative",
+      "dir": "ltr",
+      "width": 359.05519416000016,
+      "height": 10.5,
+      "transform": [
+        10.5144,
+        0,
+        0,
+        10.5,
+        72.318,
+        240
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2028,
+        226
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "language of each program.",
+      "dir": "ltr",
+      "width": 117.35745,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2028,
+        226
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.29,
+        0,
+        0,
+        10.5,
+        85.0884,
+        212
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": true
+    },
+    {
+      "str": "Adoption Reform.",
+      "dir": "ltr",
+      "width": 85.40082600000005,
+      "height": 10.5,
+      "transform": [
+        10.29,
+        0,
+        0,
+        10.5,
+        85.0884,
+        212
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.15925451895043574,
+      "height": 0,
+      "transform": [
+        10.29,
+        0,
+        0,
+        10.5,
+        170.48922600000003,
+        212
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": "There are roughly 400,000 children across the nation on the",
+      "dir": "ltr",
+      "width": 259.3985520000006,
+      "height": 10.5,
+      "transform": [
+        10.29,
+        0,
+        0,
+        10.5,
+        172.12795500000001,
+        212
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4812,
+        0,
+        0,
+        10.5,
+        72.096,
+        198
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "waiting list for foster care and 100,000 awaiting adoptive families, and the opioid/",
+      "dir": "ltr",
+      "width": 360.71993108000004,
+      "height": 10.5,
+      "transform": [
+        10.4812,
+        0,
+        0,
+        10.5,
+        72.096,
+        198
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.4296,
+        184
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "fentanyl crisis is putting more at risk every day. Unfortunately, many of the faith-",
+      "dir": "ltr",
+      "width": 362.20799999999986,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.4296,
+        184
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.4548,
+        170
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "based adoption agencies that serve these children are under threat from lawsuits,",
+      "dir": "ltr",
+      "width": 361.2840000000001,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.4548,
+        170
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.36,
+        156
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "or else their licenses and contracts have been halted because they cannot in good",
+      "dir": "ltr",
+      "width": 359.21550000000036,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.36,
+        156
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5872,
+        0,
+        0,
+        10.5,
+        72.36,
+        142
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "conscience place children in every household due to their religious belief that a",
+      "dir": "ltr",
+      "width": 359.2025215999999,
+      "height": 10.5,
+      "transform": [
+        10.5872,
+        0,
+        0,
+        10.5,
+        72.36,
+        142
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.36,
+        128
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "child should have a married mother and father.",
+      "dir": "ltr",
+      "width": 209.54849999999993,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.36,
+        128
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3815,
+        0,
+        0,
+        10.5,
+        85.4316,
+        114
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "HHS, through ACF and the Assistant Secretary for Financial Resources (ASFR),",
+      "dir": "ltr",
+      "width": 348.3688810500009,
+      "height": 10.5,
+      "transform": [
+        10.3815,
+        0,
+        0,
+        10.5,
+        85.4316,
+        114
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4011,
+        0,
+        0,
+        10.5,
+        72.3936,
+        100
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "should repeal the unnecessary 2016 regulation",
+      "dir": "ltr",
+      "width": 204.46898424000028,
+      "height": 10.5,
+      "transform": [
+        10.4011,
+        0,
+        0,
+        10.5,
+        72.3936,
+        100
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "61",
+      "dir": "ltr",
+      "width": 5.7484824000000145,
+      "height": 6.1215,
+      "transform": [
+        6.0638,
+        0,
+        0,
+        6.1215,
+        276.921,
+        103.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.2797912200270449,
+      "height": 0,
+      "transform": [
+        6.0638,
+        0,
+        0,
+        6.1215,
+        282.6694824,
+        103.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "that imposes nonstatutory sexual",
+      "dir": "ltr",
+      "width": 147.2192496200002,
+      "height": 10.5,
+      "transform": [
+        10.4011,
+        0,
+        0,
+        10.5,
+        284.3660804,
+        100
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5362,
+        0,
+        0,
+        10.5,
+        72.36,
+        86
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "orientation and gender identity nondiscrimination conditions on agency grants",
+      "dir": "ltr",
+      "width": 359.4614281599992,
+      "height": 10.5,
+      "transform": [
+        10.5362,
+        0,
+        0,
+        10.5,
+        72.36,
+        86
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4296,
+        0,
+        0,
+        10.5,
+        72.318,
+        72
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "and return to the policy of maximizing the options for placing vulnerable children",
+      "dir": "ltr",
+      "width": 359.52082751999967,
+      "height": 10.5,
+      "transform": [
+        10.4296,
+        0,
+        0,
+        10.5,
+        72.318,
+        72
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    }
+  ],
+  "styles": {
+    "g_d0_f3": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f61": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f11": {
+      "fontFamily": "serif",
+      "ascent": 1.143,
+      "descent": -0.351,
+      "vertical": false
+    },
+    "g_d0_f4": {
+      "fontFamily": "serif",
+      "ascent": 1.089,
+      "descent": -0.312,
+      "vertical": false
+    }
+  },
+  "lang": "en-US"
+}

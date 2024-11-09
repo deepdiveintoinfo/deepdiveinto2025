@@ -1,0 +1,67 @@
+{
+  "items": [
+    {
+      "str": "Project 2025",
+      "dir": "ltr",
+      "width": 192.95100000000005,
+      "height": 33,
+      "transform": [
+        33,
+        0,
+        0,
+        33,
+        154.6558,
+        89.6
+      ],
+      "fontName": "g_d0_f2",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        8,
+        0,
+        0,
+        8,
+        162.1061,
+        72
+      ],
+      "fontName": "g_d0_f3",
+      "hasEOL": true
+    },
+    {
+      "str": "PRESIDENTIAL TRANSITION PROJECT",
+      "dir": "ltr",
+      "width": 180.49520000000027,
+      "height": 8,
+      "transform": [
+        8,
+        0,
+        0,
+        8,
+        162.1061,
+        72
+      ],
+      "fontName": "g_d0_f3",
+      "hasEOL": false
+    }
+  ],
+  "styles": {
+    "g_d0_f2": {
+      "fontFamily": "serif",
+      "ascent": 1.158,
+      "descent": -0.32,
+      "vertical": false
+    },
+    "g_d0_f3": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    }
+  },
+  "lang": "en-US"
+}

@@ -1,0 +1,3375 @@
+{
+  "items": [
+    {
+      "str": "— 541 —",
+      "dir": "ltr",
+      "width": 40.77000000000001,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        231.2673,
+        32.0001
+      ],
+      "fontName": "g_d0_f3",
+      "hasEOL": false
+    },
+    {
+      "str": "Department of the Interior",
+      "dir": "ltr",
+      "width": 119.93219999999997,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        192.2313,
+        664.4
+      ],
+      "fontName": "g_d0_f63",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.8728,
+        634.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "39.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.8728,
+        634.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.888988888888889,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.9978,
+        634.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Katie Tubb, “No More Standoffs: Protecting Federal Employees and Ending the Culture of Anti-Government",
+      "dir": "ltr",
+      "width": 322.9569000000004,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.9987,
+        634.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.7588,
+        623.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "Attacks and Abuse,” testimony before the Subcommittee on National Parks, Forests, and Public Lands,",
+      "dir": "ltr",
+      "width": 308.2923000000003,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.7588,
+        623.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2004,
+        612.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "Committee on Natural Resources, U.S. House of Representatives, pp. 2–4, October 22, 2019,",
+      "dir": "ltr",
+      "width": 274.7430000000003,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2004,
+        612.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1794333333332866,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        364.9434000000004,
+        612.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://congress.",
+      "dir": "ltr",
+      "width": 50.049000000000255,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        366.5583,
+        612.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2724,
+        601.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "gov/116/meeting/house/110104/witnesses/HHRG-116-II10-Wstate-TubbK-20191022.pdf",
+      "dir": "ltr",
+      "width": 259.0641000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2724,
+        601.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.17954444444438244,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        349.3365000000005,
+        601.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed March 16, 2023).",
+      "dir": "ltr",
+      "width": 80.38800000000032,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        350.95239999999995,
+        601.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.6064,
+        590.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "40.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.6064,
+        590.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.9189888888888902,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.7314,
+        590.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "News release, “Secretary Haaland Announces Steps to Establish Protections for Culturally Significant Chaco",
+      "dir": "ltr",
+      "width": 331.9686000000004,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0023,
+        590.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2004,
+        579.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "Canyon Landscape,” U.S. Department of the Interior, November 15, 2021,",
+      "dir": "ltr",
+      "width": 223.00650000000024,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2004,
+        579.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.2000111111110717,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        313.20690000000036,
+        579.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.doi.gov/pressreleases/",
+      "dir": "ltr",
+      "width": 110.18610000000004,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        315.007,
+        579.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4176,
+        568.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "secretary-haaland-announces-steps-establish-protections-culturally-significant-chaco",
+      "dir": "ltr",
+      "width": 266.7717,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4176,
+        568.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19999999999996967,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        357.1893000000003,
+        568.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed March",
+      "dir": "ltr",
+      "width": 51.174000000000035,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        358.9893,
+        568.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.282,
+        557.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "16, 2023); News release, “Biden–Harris Administration Proposes Protections for Thompson Divide,” U.S.",
+      "dir": "ltr",
+      "width": 319.0716000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.282,
+        557.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        546.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "Department of the Interior, October 12, 2022,",
+      "dir": "ltr",
+      "width": 138.87630000000007,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        546.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19997777777776252,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        229.41630000000015,
+        546.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.doi.gov/pressreleases/biden-harris-administration-",
+      "dir": "ltr",
+      "width": 198.8001000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        231.2161,
+        546.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4788,
+        535.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "proposes-protections-thompson-divide",
+      "dir": "ltr",
+      "width": 122.85810000000004,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4788,
+        535.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19979999999999146,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        213.3369000000001,
+        535.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed March 16, 2023); News release, “Biden Administration Takes",
+      "dir": "ltr",
+      "width": 216.43830000000017,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        215.13510000000002,
+        535.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.7588,
+        524.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "Action to Complete Study of Boundary Waters Area Watershed,” U.S. Department of the Interior, October",
+      "dir": "ltr",
+      "width": 326.67750000000035,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.7588,
+        524.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.9172,
+        513.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "20, 2021,",
+      "dir": "ltr",
+      "width": 27.20699999999999,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.9172,
+        513.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1999666666666684,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        117.12419999999999,
+        513.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.doi.gov/pressreleases/biden-administration-takes-action-complete-study-boundary-",
+      "dir": "ltr",
+      "width": 304.36470000000014,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        118.9239,
+        513.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.3168,
+        502.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "waters-area-watershed",
+      "dir": "ltr",
+      "width": 72.54000000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.3168,
+        502.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1999222222222209,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        162.85680000000002,
+        502.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed March 16, 2023); and News release, “Interior Department Takes Action on",
+      "dir": "ltr",
+      "width": 258.1452000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        164.6561,
+        502.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        491.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "Mineral Leases Improperly Renewed in the Watershed of the Boundary Waters Wilderness,” U.S. Department",
+      "dir": "ltr",
+      "width": 337.58550000000037,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        491.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2904,
+        480.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "of the Interior, January 26, 2022,",
+      "dir": "ltr",
+      "width": 100.77120000000005,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2904,
+        480.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19997777777776882,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        191.06160000000008,
+        480.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.doi.gov/pressreleases/interior-department-takes-action-",
+      "dir": "ltr",
+      "width": 216.30240000000003,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        192.8614,
+        480.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4788,
+        469.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "mineral-leases-improperly-renewed-watershed-boundary",
+      "dir": "ltr",
+      "width": 180.33030000000014,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4788,
+        469.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1998555555555236,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        270.8091000000003,
+        469.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed March 16, 2023).",
+      "dir": "ltr",
+      "width": 82.63710000000009,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        272.6078,
+        469.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.6064,
+        458.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "41.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.6064,
+        458.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.9189888888888902,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.7314,
+        458.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Endangered Species Act, Public Law 91–135, § 4(b)(2), and",
+      "dir": "ltr",
+      "width": 181.3104000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0023,
+        458.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19972222222221742,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        271.31270000000006,
+        458.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Federal Register",
+      "dir": "ltr",
+      "width": 50.552100000000095,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        273.1102,
+        458.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": ", Vol. 85, No. 244 (December 18,",
+      "dir": "ltr",
+      "width": 98.01900000000008,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        323.662,
+        458.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.9172,
+        447.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "2020), pp. 82376–82389.",
+      "dir": "ltr",
+      "width": 77.6421,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.9172,
+        447.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.6064,
+        436.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "42.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.6064,
+        436.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.9189888888888902,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.7314,
+        436.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "U.S. Fish and Wildlife Service, “Governing the Take of Migratory Birds Under the Migratory Bird Treaty Act.”",
+      "dir": "ltr",
+      "width": 329.9886000000003,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0023,
+        436.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.612,
+        425.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "https://www.fws.gov/regulations/mbta",
+      "dir": "ltr",
+      "width": 120.7962,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.612,
+        425.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19995555555554587,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        211.4082000000001,
+        425.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed March 16, 2023).",
+      "dir": "ltr",
+      "width": 82.63710000000009,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        213.20780000000002,
+        425.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.6064,
+        414.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "43.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.6064,
+        414.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.9189888888888902,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.7314,
+        414.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Dino Grandoni and Anna Phillips, “Biden Restores Climate Safeguards in Key Environmental Law,",
+      "dir": "ltr",
+      "width": 299.4966000000003,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0023,
+        414.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        403.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "Reversing Trump,”",
+      "dir": "ltr",
+      "width": 56.7621,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        403.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19998888888888663,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        147.30210000000002,
+        403.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Washington Post",
+      "dir": "ltr",
+      "width": 52.964099999999995,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        149.102,
+        403.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": ", April 19, 2022,",
+      "dir": "ltr",
+      "width": 47.02410000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        202.0663,
+        403.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.20001111111110642,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        249.09040000000005,
+        403.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.washingtonpost.com/climate-",
+      "dir": "ltr",
+      "width": 132.9642,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        250.8905,
+        403.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2904,
+        392.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "environment/2022/04/19/biden-nepa-climate-trump/",
+      "dir": "ltr",
+      "width": 169.18830000000003,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2904,
+        392.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19989999999998215,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        259.4787000000002,
+        392.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed March 16, 2023).",
+      "dir": "ltr",
+      "width": 82.63710000000009,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        261.2778,
+        392.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.6064,
+        381.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "44.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.6064,
+        381.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.9189888888888902,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.7314,
+        381.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Donald Trump, “Executive Order on Creating Schedule F in the Accepted Service,” Executive Order 13957,",
+      "dir": "ltr",
+      "width": 323.9856000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0023,
+        381.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2004,
+        370.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "October 21, 2020,",
+      "dir": "ltr",
+      "width": 54.08009999999998,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2004,
+        370.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.2000111111111159,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        144.28049999999996,
+        370.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://trumpwhitehouse.archives.gov/presidential-actions/executive-order-creating-",
+      "dir": "ltr",
+      "width": 264.34349999999995,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        146.0806,
+        370.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4176,
+        359.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "schedule-f-excepted-service/",
+      "dir": "ltr",
+      "width": 91.41120000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4176,
+        359.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19995555555554903,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        181.82880000000006,
+        359.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed March 16, 2023).",
+      "dir": "ltr",
+      "width": 82.6371000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        183.6284,
+        359.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.6064,
+        348.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "45.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.6064,
+        348.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.9189888888888902,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.7314,
+        348.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Kathleen Masterson, “Nevada Wild Horse Population Skyrockets To New High,” KUNR Public Radio, July 22,",
+      "dir": "ltr",
+      "width": 331.2414000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0023,
+        348.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.9172,
+        337.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "2019,",
+      "dir": "ltr",
+      "width": 15.983999999999993,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.9172,
+        337.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1999666666666684,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        105.90119999999999,
+        337.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.kunr.org/energy-and-environment/2019-07-22/nevada-wild-horse-population-skyrockets-",
+      "dir": "ltr",
+      "width": 321.2964000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        107.7009,
+        337.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.5472,
+        326.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "to-new-high",
+      "dir": "ltr",
+      "width": 38.925000000000004,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.5472,
+        326.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19988888888889278,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        129.4722,
+        326.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed March 20, 2023).",
+      "dir": "ltr",
+      "width": 84.34710000000008,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        131.27120000000002,
+        326.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.6064,
+        315.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "46.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.6064,
+        315.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.9189888888888902,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.7314,
+        315.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "U.S. Department of the Interior, Bureau of Land Management, “Report to Congress: An Analysis of Achieving",
+      "dir": "ltr",
+      "width": 336.0915000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0023,
+        315.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.3348,
+        304.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "a Sustainable Horse and Burro Program,” Fact sheet, May 8, 2020,",
+      "dir": "ltr",
+      "width": 203.95440000000025,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.3348,
+        304.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19998888888885505,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        294.2892000000003,
+        304.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.blm.gov/sites/blm.gov/files/",
+      "dir": "ltr",
+      "width": 128.29320000000013,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        296.0891,
+        304.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        293.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "Final%20Fact%20Sheet%20WHB%20Report%20To%20Congress.pdf",
+      "dir": "ltr",
+      "width": 213.53939999999994,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        293.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19997777777776568,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        304.07940000000013,
+        293.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed March 17, 2023).",
+      "dir": "ltr",
+      "width": 81.53100000000009,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        305.8792,
+        293.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.6064,
+        282.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "47.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.6064,
+        282.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.9189888888888902,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.7314,
+        282.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Pendley,",
+      "dir": "ltr",
+      "width": 26.1261,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0023,
+        282.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19976666666666493,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        116.12840000000001,
+        282.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Sagebrush Rebel",
+      "dir": "ltr",
+      "width": 52.613100000000024,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        117.9263,
+        282.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": ", pp. 45–47.",
+      "dir": "ltr",
+      "width": 35.378100000000046,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        170.5391,
+        282.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.6064,
+        271.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "48.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.6064,
+        271.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.9189888888888902,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.7314,
+        271.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "James D. Linxwiler,",
+      "dir": "ltr",
+      "width": 57.13109999999993,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0023,
+        271.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.17971111111111465,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        147.13339999999997,
+        271.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "The Alaska Native Claims Settlement Act At 35: Delivering on the Promise",
+      "dir": "ltr",
+      "width": 221.48100000000036,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        148.7508,
+        271.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": ", Rocky Mountain",
+      "dir": "ltr",
+      "width": 51.939000000000235,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        370.1375,
+        271.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        260.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "Mineral Law Institute, Vol. 53, Chap. 12 (2007), § 12.03(1)(a)(iv),",
+      "dir": "ltr",
+      "width": 188.9082000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        260.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.17979999999999385,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        279.44820000000004,
+        260.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.guessrudd.com/wp-content/",
+      "dir": "ltr",
+      "width": 126.85320000000056,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        281.0664,
+        260.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.5328,
+        249.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "uploads/sites/1600422/2020/05/The-Alaska-Native-Claims-Settlement-Act-at-35.pdf",
+      "dir": "ltr",
+      "width": 259.72110000000015,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.5328,
+        249.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.17958888888885996,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        350.2539000000002,
+        249.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed March 16, 2023).",
+      "dir": "ltr",
+      "width": 80.38710000000033,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        351.87019999999995,
+        249.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.6064,
+        238.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "49.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.6064,
+        238.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.9189888888888902,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.7314,
+        238.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Ibid., § 12.03(1)(a)(vii). See generally Richard S. Jones,",
+      "dir": "ltr",
+      "width": 166.9293000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0023,
+        238.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1996222222221983,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        256.93160000000023,
+        238.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Alaska Native Claims Settlement Act of 1971 (Public",
+      "dir": "ltr",
+      "width": 158.1822000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        258.7282,
+        238.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2088,
+        227.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": true
+    },
+    {
+      "str": "Law 92–203): History And Analysis Together With Subsequent Amendments",
+      "dir": "ltr",
+      "width": 237.10139999999996,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2088,
+        227.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": ", Report No. 81–127 GOV, June",
+      "dir": "ltr",
+      "width": 91.76400000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        327.31,
+        227.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.282,
+        216.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "1, 1981,",
+      "dir": "ltr",
+      "width": 19.781999999999996,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.282,
+        216.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19993333333333238,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        110.06400000000001,
+        216.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "http://www.alaskool.org/PROJECTS/ANCSA/reports/rsjones1981/ANCSA_History71.htm",
+      "dir": "ltr",
+      "width": 269.8533000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        111.8634,
+        216.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1998777777777655,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        381.7167000000001,
+        216.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed",
+      "dir": "ltr",
+      "width": 30.537000000000038,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        383.5156,
+        216.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        205.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "March 16, 2023).",
+      "dir": "ltr",
+      "width": 50.300099999999986,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        205.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.2364,
+        194.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "50.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.2364,
+        194.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8489888888888891,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        82.3614,
+        194.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "43 U.S. Code, Ch. 33. ANCSA also created 12 Native-owned regional corporations and authorized $962 million",
+      "dir": "ltr",
+      "width": 337.99320000000023,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0023,
+        194.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.5856,
+        183.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "in “seed money.” Linxwiler,",
+      "dir": "ltr",
+      "width": 82.88820000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.5856,
+        183.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19997777777777198,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        173.47380000000004,
+        183.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "The Alaska Native Claims Settlement Act At 35",
+      "dir": "ltr",
+      "width": 144.1863000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        175.2736,
+        183.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": ", § 12.03(2)(e).",
+      "dir": "ltr",
+      "width": 44.55000000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        319.4602,
+        183.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.2364,
+        172.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "51.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.2364,
+        172.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8489888888888891,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        82.3614,
+        172.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "ANCSA provided that the withdrawal of the lands would expire in 1978 if Congress had not designated the",
+      "dir": "ltr",
+      "width": 328.7574000000003,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0023,
+        172.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.6804,
+        161.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "lands as federal enclaves. John K. Norman Cole and Steven W. Silver,",
+      "dir": "ltr",
+      "width": 212.27850000000024,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.6804,
+        161.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19999999999996337,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        302.9589000000003,
+        161.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Alaska’s D-2 Lands",
+      "dir": "ltr",
+      "width": 57.92400000000008,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        304.7589,
+        161.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": ", Rocky Mountain",
+      "dir": "ltr",
+      "width": 53.28900000000003,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        362.6824,
+        161.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        150.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "Mineral Law Institute, Vol. 6B, Ch. 5, September 1978, and Raymond A. Peck, Jr.,",
+      "dir": "ltr",
+      "width": 245.8125000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        150.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19996666666662577,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        336.35250000000036,
+        150.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "And Then There Were None:",
+      "dir": "ltr",
+      "width": 87.7680000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        338.1522,
+        150.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2088,
+        139.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": true
+    },
+    {
+      "str": "Evolving Federal Restraints on the Availability of Public Lands for Mineral Development",
+      "dir": "ltr",
+      "width": 268.68150000000026,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2088,
+        139.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": ", Rocky Mountain",
+      "dir": "ltr",
+      "width": 53.28900000000003,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        358.8893,
+        139.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        128.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "Mineral Law Institute, Vol. 25, Ch. 3, 1979.",
+      "dir": "ltr",
+      "width": 126.33030000000011,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        128.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.2364,
+        117.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "52.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.2364,
+        117.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8489888888888891,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        82.3614,
+        117.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Andrus used purported authority under the FLPMA to withdraw 40 million acres, and Carter used purported",
+      "dir": "ltr",
+      "width": 335.6244000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0023,
+        117.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.3348,
+        106.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "authority under the Antiquities Act of to withdraw 56 million acres. James D. Linxwiler,",
+      "dir": "ltr",
+      "width": 268.5447000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.3348,
+        106.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19998888888888663,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        358.8795,
+        106.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "The Alaska Native",
+      "dir": "ltr",
+      "width": 55.30410000000009,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        360.6794,
+        106.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.9676,
+        95.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": true
+    },
+    {
+      "str": "Claims Settlement Act: The First Twenty Years",
+      "dir": "ltr",
+      "width": 141.8463000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.9676,
+        95.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": ", Rocky Mountain Mineral Law Institute, Vol. 38 Ch. 2, 1992 at",
+      "dir": "ltr",
+      "width": 186.63930000000022,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        231.8139,
+        95.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.9172,
+        84.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "2.04(8)(c),",
+      "dir": "ltr",
+      "width": 33.28199999999999,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.9172,
+        84.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19993333333333238,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        123.1992,
+        84.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://ancsa.lbblawyers.com/wp-content/uploads/ANCSA-Paper-with-Table-of-Contents-1992.pdf",
+      "dir": "ltr",
+      "width": 306.49050000000005,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        124.9986,
+        84.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0756,
+        73.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "(accessed March 16, 2023).",
+      "dir": "ltr",
+      "width": 82.63710000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0756,
+        73.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    }
+  ],
+  "styles": {
+    "g_d0_f3": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f63": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f17": {
+      "fontFamily": "sans-serif",
+      "ascent": 0.939,
+      "descent": -0.202,
+      "vertical": false
+    },
+    "g_d0_f18": {
+      "fontFamily": "sans-serif",
+      "ascent": 0.939,
+      "descent": -0.202,
+      "vertical": false
+    }
+  },
+  "lang": "en-US"
+}

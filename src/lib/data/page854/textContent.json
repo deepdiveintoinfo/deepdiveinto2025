@@ -1,0 +1,3775 @@
+{
+  "items": [
+    {
+      "str": "— 821 —",
+      "dir": "ltr",
+      "width": 40.349999999999994,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        231.4774,
+        32.0001
+      ],
+      "fontName": "g_d0_f3",
+      "hasEOL": false
+    },
+    {
+      "str": "Trade",
+      "dir": "ltr",
+      "width": 25.42500000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        238.8627,
+        664.4
+      ],
+      "fontName": "g_d0_f74",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.6064,
+        635
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "43.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.6064,
+        635
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.9189888888888902,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.7314,
+        635
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Randy E. Barnett and Andrew Koppelman, “The Commerce Clause: Common Interpretation,” National",
+      "dir": "ltr",
+      "width": 314.52840000000026,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0023,
+        635
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2004,
+        624
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "Constitution Center,",
+      "dir": "ltr",
+      "width": 61.3782,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2004,
+        624
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.2000333333333294,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        151.57860000000002,
+        624
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://constitutioncenter.org/the-constitution/articles/article-i/clauses/752",
+      "dir": "ltr",
+      "width": 233.95050000000006,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        153.3789,
+        624
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19988888888886752,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        387.3294000000002,
+        624
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed",
+      "dir": "ltr",
+      "width": 30.537000000000038,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        389.1284,
+        624
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        613
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "February 21, 2023); Randy E. Barnett, “The Original Meaning of the Commerce Clause,”",
+      "dir": "ltr",
+      "width": 268.22160000000025,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        613
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1999666666666005,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        358.7616000000006,
+        613
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "University of Chicago",
+      "dir": "ltr",
+      "width": 65.745,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        360.5613,
+        613
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2088,
+        602
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": true
+    },
+    {
+      "str": "Law Review",
+      "dir": "ltr",
+      "width": 36.81,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2088,
+        602
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": ", Vol. 68, No. 1 (2001), pp. 101–147,",
+      "dir": "ltr",
+      "width": 102.89520000000009,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        127.0184,
+        602
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19997777777777515,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        229.91360000000003,
+        602
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://chicagounbound.uchicago.edu/cgi/viewcontent.",
+      "dir": "ltr",
+      "width": 171.5193,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        231.7134,
+        602
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2904,
+        591
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "cgi?article=5074&context=uclrev",
+      "dir": "ltr",
+      "width": 100.78920000000005,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2904,
+        591
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19994444444443754,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        191.07960000000008,
+        591
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed February 21, 2023).",
+      "dir": "ltr",
+      "width": 91.61010000000012,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        192.87910000000002,
+        591
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.6064,
+        580
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "44.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.6064,
+        580
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.9189888888888902,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.7314,
+        580
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Wells King, “Rediscovering a Genuine American System,” American Compass,",
+      "dir": "ltr",
+      "width": 233.73810000000014,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0023,
+        580
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1793222222221781,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        323.7404000000004,
+        580
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Rebooting the American System",
+      "dir": "ltr",
+      "width": 98.02710000000042,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        325.3543,
+        580
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": ",",
+      "dir": "ltr",
+      "width": 1.6019999999999999,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        423.2906,
+        580
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        569
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "May 4, 2020,",
+      "dir": "ltr",
+      "width": 38.870999999999974,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        569
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.17995555555555776,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        129.41099999999997,
+        569
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://americancompass.org/rediscovering-a-genuine-american-system/",
+      "dir": "ltr",
+      "width": 223.1991000000005,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        131.0306,
+        569
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1795666666665675,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        354.2297000000009,
+        569
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed February 21,",
+      "dir": "ltr",
+      "width": 68.01300000000026,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        355.8458,
+        569
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.9172,
+        558
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "2023). See also Phillip W. Magness and James R. Harrigan, “Henry Clay’s ‘American System’ Is Bad News for the",
+      "dir": "ltr",
+      "width": 335.4660000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.9172,
+        558
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.7588,
+        547
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "American Economy,” American Institute for Economic Research, December 8, 2022,",
+      "dir": "ltr",
+      "width": 251.47710000000023,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.7588,
+        547
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.17956666666660542,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        341.2359000000005,
+        547
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.aier.org/article/",
+      "dir": "ltr",
+      "width": 85.94100000000054,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        342.852,
+        547
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.612,
+        536
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "henry-clays-american-system-is-bad-news-for-the-american-economy/",
+      "dir": "ltr",
+      "width": 218.50020000000015,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.612,
+        536
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.17966666666660558,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        309.11220000000054,
+        536
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed February 21, 2023), and Iain",
+      "dir": "ltr",
+      "width": 114.88410000000042,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        310.7292,
+        536
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        525
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "Murray, “The Founding Fathers and Free Trade,” Competitive Enterprise Institute, Open Market Blog, September",
+      "dir": "ltr",
+      "width": 335.80710000000045,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        525
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.9172,
+        514
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "20, 2022,",
+      "dir": "ltr",
+      "width": 28.007999999999974,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.9172,
+        514
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.17996666666666922,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        117.92519999999998,
+        514
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://cei.org/blog/the-founding-fathers-and-free-trade/",
+      "dir": "ltr",
+      "width": 175.51710000000023,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        119.5449,
+        514
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.17965555555550358,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        295.06200000000047,
+        514
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed February 21, 2023).",
+      "dir": "ltr",
+      "width": 89.09010000000035,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        296.6789,
+        514
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.6064,
+        503
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "45.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.6064,
+        503
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.9189888888888902,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.7314,
+        503
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Douglas A. Irwin,",
+      "dir": "ltr",
+      "width": 52.713,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0023,
+        503
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19883333333333061,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        142.7153,
+        503
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Clashing over Commerce: A History of U.S. Trade Policy",
+      "dir": "ltr",
+      "width": 170.01,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        144.5048,
+        503
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19921111111110829,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        314.51480000000004,
+        503
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": "(Chicago: University of Chicago Press,",
+      "dir": "ltr",
+      "width": 116.79210000000003,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        316.3077,
+        503
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.9172,
+        492
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "2018), pp. 147–154.",
+      "dir": "ltr",
+      "width": 56.82509999999999,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.9172,
+        492
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.6064,
+        481
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "46.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.6064,
+        481
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.9189888888888902,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.7314,
+        481
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Ibid., p. 125.",
+      "dir": "ltr",
+      "width": 35.68409999999999,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0023,
+        481
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.6064,
+        470
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "47.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.6064,
+        470
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.9189888888888902,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.7314,
+        470
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Michael Urquhart, “The Employment Shift to Services: Where Did it Come From?” U.S. Department of Labor,",
+      "dir": "ltr",
+      "width": 333.8865000000003,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0023,
+        470
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        459
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "Bureau of Labor Statistics,",
+      "dir": "ltr",
+      "width": 81.24120000000005,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        459
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.20001111111110326,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        171.78120000000007,
+        459
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Monthly Labor Review",
+      "dir": "ltr",
+      "width": 69.0021,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        173.5813,
+        459
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": ", Vol. 107, No. 4 (April 1984), p. 16,",
+      "dir": "ltr",
+      "width": 102.90420000000009,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        242.5831,
+        459
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1999888888888803,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        345.48730000000006,
+        459
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://stats.bls.gov/opub/",
+      "dir": "ltr",
+      "width": 82.39500000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        347.2872,
+        459
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4788,
+        448
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "mlr/1984/04/art2full.pdf",
+      "dir": "ltr",
+      "width": 75.94109999999998,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4788,
+        448
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19992222222221775,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        166.41990000000004,
+        448
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed February 21, 2023).",
+      "dir": "ltr",
+      "width": 91.6101000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        168.2192,
+        448
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.6064,
+        437
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "48.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.6064,
+        437
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.9189888888888902,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.7314,
+        437
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "H.R. 10378, Merchant Marine Act of 1920, Public Law 66-261, 66th Congress, June 5, 1920,",
+      "dir": "ltr",
+      "width": 274.8834000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0023,
+        437
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19958888888884807,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        364.8857000000004,
+        437
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://govtrackus.",
+      "dir": "ltr",
+      "width": 58.05000000000003,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        366.682,
+        437
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4176,
+        426
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "s3.amazonaws.com/legislink/pdf/stat/41/STATUTE-41-Pg988.pdf",
+      "dir": "ltr",
+      "width": 199.77929999999992,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4176,
+        426
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19994444444442808,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        290.19690000000014,
+        426
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed February 22, 2023.",
+      "dir": "ltr",
+      "width": 90.40410000000011,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        291.9964,
+        426
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.6064,
+        415
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "49.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.6064,
+        415
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.9189888888888902,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.7314,
+        415
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Tori K. Smith, “The Proof Is In: Tariffs Are Hurting the U.S.,” Heritage Foundation",
+      "dir": "ltr",
+      "width": 246.48660000000018,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0023,
+        415
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19972222222219216,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        336.4889000000003,
+        415
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Commentary",
+      "dir": "ltr",
+      "width": 40.52609999999998,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        338.2864,
+        415
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": ", August 27, 2019,",
+      "dir": "ltr",
+      "width": 53.6949000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        378.8127,
+        415
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.612,
+        404
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "https://www.heritage.org/trade/commentary/the-proof-tariffs-are-hurting-the-us",
+      "dir": "ltr",
+      "width": 254.4084000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.612,
+        404
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": ".",
+      "dir": "ltr",
+      "width": 1.6019999999999999,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        345.0187,
+        404
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.2364,
+        393
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "50.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.2364,
+        393
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8489888888888891,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        82.3614,
+        393
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Congressional Budget Office,",
+      "dir": "ltr",
+      "width": 89.78310000000005,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0023,
+        393
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19965555555554224,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        179.78540000000012,
+        393
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "The Budget and Economic Outlook: 2020 to 2030",
+      "dir": "ltr",
+      "width": 153.7632000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        181.5823,
+        393
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": ", January 2020, p. 33,",
+      "dir": "ltr",
+      "width": 65.98800000000011,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        335.345,
+        393
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1998777777777592,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        401.33300000000014,
+        393
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://",
+      "dir": "ltr",
+      "width": 22.85999999999998,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        403.1319,
+        393
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.3168,
+        382
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "www.cbo.gov/publication/56073",
+      "dir": "ltr",
+      "width": 101.73420000000004,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.3168,
+        382
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.20003333333332624,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        192.05100000000007,
+        382
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed February 21, 2023).",
+      "dir": "ltr",
+      "width": 91.6101000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        193.8513,
+        382
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.2364,
+        371
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "51.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.2364,
+        371
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8489888888888891,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        82.3614,
+        371
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "H.R. 11970, Trade Expansion Act of 1962, Public Law No. 87-794, 87th Congress, October 11, 1962,",
+      "dir": "ltr",
+      "width": 295.49250000000023,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0023,
+        371
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1996333333332877,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        385.4948000000004,
+        371
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.",
+      "dir": "ltr",
+      "width": 40.31999999999997,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        387.2915,
+        371
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2724,
+        360
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "govinfo.gov/content/pkg/STATUTE-76/pdf/STATUTE-76-Pg872.pdf",
+      "dir": "ltr",
+      "width": 205.65629999999993,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2724,
+        360
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.20001111111109063,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        295.9287000000002,
+        360
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed February 22, 2023).",
+      "dir": "ltr",
+      "width": 93.13110000000012,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        297.72880000000004,
+        360
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.2364,
+        349
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "52.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.2364,
+        349
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8489888888888891,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        82.3614,
+        349
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "H.R. 10710, Trade Act of 1974, Public Law No. 93-618, 93rd Congress, January 3, 1975,",
+      "dir": "ltr",
+      "width": 258.7914000000003,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0023,
+        349
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19965555555551695,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        348.79370000000034,
+        349
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.congress.",
+      "dir": "ltr",
+      "width": 69.33599999999996,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        350.5906,
+        349
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2724,
+        338
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "gov/93/statute/STATUTE-88/STATUTE-88-Pg1978-2.pdf",
+      "dir": "ltr",
+      "width": 172.4112,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2724,
+        338
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1999555555555427,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        262.6836000000001,
+        338
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed February 22, 2023).",
+      "dir": "ltr",
+      "width": 93.13110000000012,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        264.4832,
+        338
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.2364,
+        327
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "53.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.2364,
+        327
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8489888888888891,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        82.3614,
+        327
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "U.S. Constitution, Article I, Section 8,",
+      "dir": "ltr",
+      "width": 112.70520000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0023,
+        327
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1996111111110963,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        202.70750000000012,
+        327
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://constitution.congress.gov/constitution/article-1/",
+      "dir": "ltr",
+      "width": 170.4042000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        204.504,
+        327
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1997777777777527,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        374.90820000000025,
+        327
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed",
+      "dir": "ltr",
+      "width": 30.537000000000038,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        376.7062,
+        327
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        316
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "February 22, 2023).",
+      "dir": "ltr",
+      "width": 60.79409999999999,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        316
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.2364,
+        305
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "54.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.2364,
+        305
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8489888888888891,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        82.3614,
+        305
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Gary Clyde Hufbauer and Eujin Jung, “Steel Profits Gain, but Steel Users Pay, Under Trump’s Protectionism,”",
+      "dir": "ltr",
+      "width": 333.4104000000005,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0023,
+        305
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        294
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "Peterson Institute for International Economics,",
+      "dir": "ltr",
+      "width": 143.64630000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        294
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19995555555553324,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        234.1863000000002,
+        294
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Trade and Investment Policy Watch",
+      "dir": "ltr",
+      "width": 109.33920000000015,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        235.9859,
+        294
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": ", December 20, 2018,",
+      "dir": "ltr",
+      "width": 64.66500000000008,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        345.3253,
+        294
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.612,
+        283
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "https://www.piie.com/blogs/trade-and-investment-policy-watch/steel-profits-gain-steel-users-pay-under-",
+      "dir": "ltr",
+      "width": 331.73550000000006,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.612,
+        283
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.5472,
+        272
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "trumps",
+      "dir": "ltr",
+      "width": 22.428000000000004,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.5472,
+        272
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19994444444444545,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        112.97519999999999,
+        272
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed February 21, 2023).",
+      "dir": "ltr",
+      "width": 91.61010000000007,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        114.7747,
+        272
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.2364,
+        261
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "55.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.2364,
+        261
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8489888888888891,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        82.3614,
+        261
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Mary Amiti, Stephen J. Redding, and David E. Weinstein, “New China Tariffs Increase Costs to U.S. Households,”",
+      "dir": "ltr",
+      "width": 334.1430000000004,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0023,
+        261
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        250
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "Federal Reserve Bank of New York, Liberty Street Economics Blog, May 23, 2019,",
+      "dir": "ltr",
+      "width": 241.79310000000035,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        250
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.17957777777772638,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        332.33310000000046,
+        250
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://libertystreeteconomics.",
+      "dir": "ltr",
+      "width": 92.4381000000005,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        333.9493,
+        250
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4788,
+        239
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "newyorkfed.org/2019/05/new-china-tariffs-increase-costs-to-us-households/",
+      "dir": "ltr",
+      "width": 234.72630000000015,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4788,
+        239
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1797777777777267,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        325.2051000000004,
+        239
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed February 21, 2023).",
+      "dir": "ltr",
+      "width": 89.09010000000035,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        326.82309999999995,
+        239
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.2364,
+        228
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "56.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.2364,
+        228
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8489888888888891,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        82.3614,
+        228
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Federal Reserve Bank of St. Louis, Federal Reserve Economic Database (FRED), Series CLF16OV, “Civilian",
+      "dir": "ltr",
+      "width": 323.1675000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0023,
+        228
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        217
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "Labor Force Level,”",
+      "dir": "ltr",
+      "width": 58.823100000000004,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        217
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1999999999999981,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        149.3631,
+        217
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://fred.stlouisfed.org/series/CLF16OV",
+      "dir": "ltr",
+      "width": 129.68730000000005,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        151.1631,
+        217
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.199999999999976,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        280.8504000000002,
+        217
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed February 21, 2023).",
+      "dir": "ltr",
+      "width": 91.61010000000012,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        282.6504,
+        217
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.2364,
+        206
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "57.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.2364,
+        206
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8489888888888891,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        82.3614,
+        206
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Stephen Morgan, “Retaliatory Tariffs Reduced U.S. States’ Exports of Agricultural Commodities,” U.S.",
+      "dir": "ltr",
+      "width": 310.53150000000016,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0023,
+        206
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        195
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "Department of Agriculture, Economic Research Service,",
+      "dir": "ltr",
+      "width": 171.82440000000017,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        195
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19999999999996967,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        262.3644000000003,
+        195
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Amber Waves",
+      "dir": "ltr",
+      "width": 43.748100000000036,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        264.1644,
+        195
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": ", March 7, 2022,",
+      "dir": "ltr",
+      "width": 47.69010000000003,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        307.9128,
+        195
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.2000222222222242,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        355.6029,
+        195
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.ers.usda.",
+      "dir": "ltr",
+      "width": 67.58099999999996,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        357.4031,
+        195
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2724,
+        184
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "gov/amber-waves/2022/march/retaliatory-tariffs-reduced-u-s-states-exports-of-agricultural-commodities/",
+      "dir": "ltr",
+      "width": 334.3455000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2724,
+        184
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0756,
+        173
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "(accessed February 21, 2023).",
+      "dir": "ltr",
+      "width": 91.61010000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0756,
+        173
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.2364,
+        162
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "58.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.2364,
+        162
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8489888888888891,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        82.3614,
+        162
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Aaron Flaaen and Justin Pierce, “Disentangling the Effects of the 2018–2019 Tariffs on a Globally Connected",
+      "dir": "ltr",
+      "width": 332.45640000000043,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0023,
+        162
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4608,
+        151
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "U.S. Manufacturing Sector,” Board of Governors of the Federal Reserve System,",
+      "dir": "ltr",
+      "width": 244.19250000000022,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4608,
+        151
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19998888888884872,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        334.65330000000034,
+        151
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Finance and Economics",
+      "dir": "ltr",
+      "width": 72.64800000000008,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        336.4532,
+        151
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2088,
+        140
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": true
+    },
+    {
+      "str": "Discussion Series",
+      "dir": "ltr",
+      "width": 52.82009999999999,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2088,
+        140
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.20000000000000126,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        143.0289,
+        140
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": "No. 2019-086, December 23, 2019,",
+      "dir": "ltr",
+      "width": 106.16220000000008,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        144.8289,
+        140
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19997777777776568,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        250.9911000000001,
+        140
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.federalreserve.gov/econres/feds/",
+      "dir": "ltr",
+      "width": 143.18820000000005,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        252.7909,
+        140
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2556,
+        129
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "files/2019086pap.pdf",
+      "dir": "ltr",
+      "width": 66.4551,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2556,
+        129
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1999555555555522,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        156.71070000000003,
+        129
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed February 21, 2023); U.S. Department of Labor, Bureau of Labor Statistics,",
+      "dir": "ltr",
+      "width": 256.9923000000003,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        158.5103,
+        129
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        87.192,
+        118
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "“Data Tools: Industries at a Glance: Primary Metal Manufacturing: NAICS 331,” data extracted February 17, 2023,",
+      "dir": "ltr",
+      "width": 342.7866000000004,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        87.192,
+        118
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.612,
+        107
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "https://www.bls.gov/iag/tgs/iag331.htm",
+      "dir": "ltr",
+      "width": 123.73020000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.612,
+        107
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19994444444443124,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        214.34220000000013,
+        107
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed February 21, 2023).",
+      "dir": "ltr",
+      "width": 91.61010000000012,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        216.14170000000001,
+        107
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.2364,
+        96
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "59.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.2364,
+        96
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8489888888888891,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        82.3614,
+        96
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Ryan Young, “Lessons from the GM layoffs: End the Tariffs and the Subsidies,” Fox Business, November 28,",
+      "dir": "ltr",
+      "width": 329.33250000000027,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0023,
+        96
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.9172,
+        85
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "2018,",
+      "dir": "ltr",
+      "width": 15.884999999999994,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.9172,
+        85
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19996666666666682,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        105.8022,
+        85
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.foxbusiness.com/markets/lessons-from-the-gm-layoffs-end-the-tariffs-and-the-subsidies",
+      "dir": "ltr",
+      "width": 319.95540000000005,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        107.6019,
+        85
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0756,
+        74
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "(accessed February 21, 2023).",
+      "dir": "ltr",
+      "width": 91.61010000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0756,
+        74
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    }
+  ],
+  "styles": {
+    "g_d0_f3": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f74": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f17": {
+      "fontFamily": "sans-serif",
+      "ascent": 0.939,
+      "descent": -0.202,
+      "vertical": false
+    },
+    "g_d0_f18": {
+      "fontFamily": "sans-serif",
+      "ascent": 0.939,
+      "descent": -0.202,
+      "vertical": false
+    }
+  },
+  "lang": "en-US"
+}

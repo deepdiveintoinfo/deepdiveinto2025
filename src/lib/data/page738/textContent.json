@@ -1,0 +1,1573 @@
+{
+  "items": [
+    {
+      "str": "— 705 —",
+      "dir": "ltr",
+      "width": 43.32000000000001,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        229.9923,
+        32.0001
+      ],
+      "fontName": "g_d0_f3",
+      "hasEOL": false
+    },
+    {
+      "str": "Department of the Treasury",
+      "dir": "ltr",
+      "width": 125.19809999999998,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        189.5331,
+        664.4
+      ],
+      "fontName": "g_d0_f70",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        85.2636,
+        632
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Treasury must also seriously evaluate U.S. foreign direct investment in China.",
+      "dir": "ltr",
+      "width": 348.2199000000001,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        85.2636,
+        632
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.466,
+        0,
+        0,
+        10.5,
+        71.9316,
+        618
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Particular focus should be paid to investments in CCP or other state-owned enter",
+      "dir": "ltr",
+      "width": 358.68865879999987,
+      "height": 10.5,
+      "transform": [
+        10.466,
+        0,
+        0,
+        10.5,
+        71.9316,
+        618
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.8305559999999996,
+      "height": 10.5,
+      "transform": [
+        10.466,
+        0,
+        0,
+        10.5,
+        430.746,
+        618
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.3984,
+        604
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "prises, investments that result in technology transfers from the U.S. to China,",
+      "dir": "ltr",
+      "width": 361.32969600000064,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.3984,
+        604
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6417,
+        0,
+        0,
+        10.5,
+        72.2304,
+        590
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "investments that enhance China’s military capacity, and investments that pose",
+      "dir": "ltr",
+      "width": 359.00307035000066,
+      "height": 10.5,
+      "transform": [
+        10.6417,
+        0,
+        0,
+        10.5,
+        72.2304,
+        590
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.519,
+        0,
+        0,
+        10.5,
+        72.2304,
+        576
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "risks to critical U.S. supply chains by sourcing critical components or feedstocks",
+      "dir": "ltr",
+      "width": 359.1428537000002,
+      "height": 10.5,
+      "transform": [
+        10.519,
+        0,
+        0,
+        10.5,
+        72.2304,
+        576
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        562
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "in China. An enhanced reporting system is warranted, and greater legal authority",
+      "dir": "ltr",
+      "width": 359.6985000000002,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        562
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.318,
+        548
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "and restrictions are appropriate.",
+      "dir": "ltr",
+      "width": 145.70744999999997,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.318,
+        548
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        72.2772,
+        520
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": true
+    },
+    {
+      "str": "IMPROVED FINANCIAL REGULATION",
+      "dir": "ltr",
+      "width": 189.229,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        72.2772,
+        520
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        85.6668,
+        506
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "One of the priorities of the incoming Administration should be to restructure",
+      "dir": "ltr",
+      "width": 345.83850000000007,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        85.6668,
+        506
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6357,
+        0,
+        0,
+        10.5,
+        72.2868,
+        492
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "the outdated and cumbersome financial regulatory system in order to promote",
+      "dir": "ltr",
+      "width": 358.9708285499997,
+      "height": 10.5,
+      "transform": [
+        10.6357,
+        0,
+        0,
+        10.5,
+        72.2868,
+        492
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5139,
+        0,
+        0,
+        10.5,
+        72.1416,
+        478
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "financial innovation, improve regulator efficiency, reduce regulatory costs, close",
+      "dir": "ltr",
+      "width": 359.2147532300001,
+      "height": 10.5,
+      "transform": [
+        10.5139,
+        0,
+        0,
+        10.5,
+        72.1416,
+        478
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        464
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "regulatory gaps, eliminate regulatory arbitrage, provide clear statutory authority,",
+      "dir": "ltr",
+      "width": 361.5465,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        464
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6178,
+        0,
+        0,
+        10.5,
+        72.36,
+        450
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "consolidate regulatory agencies or reduce the size of government, and increase",
+      "dir": "ltr",
+      "width": 359.064266160001,
+      "height": 10.5,
+      "transform": [
+        10.6178,
+        0,
+        0,
+        10.5,
+        72.36,
+        450
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2868,
+        436
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "transparency.",
+      "dir": "ltr",
+      "width": 61.88700000000001,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2868,
+        436
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4498,
+        0,
+        0,
+        10.5,
+        85.65,
+        422
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": true
+    },
+    {
+      "str": "Merging Functions.",
+      "dir": "ltr",
+      "width": 94.81103539999995,
+      "height": 10.5,
+      "transform": [
+        10.4498,
+        0,
+        0,
+        10.5,
+        85.65,
+        422
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.16361859557120842,
+      "height": 0,
+      "transform": [
+        10.4498,
+        0,
+        0,
+        10.5,
+        180.4610354,
+        422
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": "The new Administration should establish a more stream",
+      "dir": "ltr",
+      "width": 248.57670745999985,
+      "height": 10.5,
+      "transform": [
+        10.4498,
+        0,
+        0,
+        10.5,
+        182.170817,
+        422
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.8246268,
+      "height": 10.5,
+      "transform": [
+        10.4498,
+        0,
+        0,
+        10.5,
+        430.7489,
+        422
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6721,
+        0,
+        0,
+        10.5,
+        72.2028,
+        408
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "lined bank and supervision by supporting legislation to merge the Office of the",
+      "dir": "ltr",
+      "width": 359.2869186,
+      "height": 10.5,
+      "transform": [
+        10.6721,
+        0,
+        0,
+        10.5,
+        72.2028,
+        408
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.0348,
+        394
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Comptroller of the Currency, the Federal Deposit Insurance Corporation, the",
+      "dir": "ltr",
+      "width": 359.39975399999975,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.0348,
+        394
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        71.9316,
+        380
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "National Credit Union Administration, and the Federal Reserve’s non-monetary",
+      "dir": "ltr",
+      "width": 359.9515500000001,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        71.9316,
+        380
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.3936,
+        366
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "supervisory and regulatory functions.",
+      "dir": "ltr",
+      "width": 168.44099999999997,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.3936,
+        366
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5837,
+        0,
+        0,
+        10.5,
+        85.494,
+        352
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "U.S. banking law remains stuck in the 1930s regarding which functions finan",
+      "dir": "ltr",
+      "width": 345.25934466000024,
+      "height": 10.5,
+      "transform": [
+        10.5837,
+        0,
+        0,
+        10.5,
+        85.494,
+        352
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.8736342,
+      "height": 10.5,
+      "transform": [
+        10.5837,
+        0,
+        0,
+        10.5,
+        430.7321,
+        352
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5596,
+        0,
+        0,
+        10.5,
+        72.36,
+        338
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "cial companies should perform. It was never a good idea either to restrict banks",
+      "dir": "ltr",
+      "width": 359.1330519600007,
+      "height": 10.5,
+      "transform": [
+        10.5596,
+        0,
+        0,
+        10.5,
+        72.36,
+        338
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5056,
+        0,
+        0,
+        10.5,
+        72.2868,
+        324
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "to taking deposits and making loans or to prevent investment banks from taking",
+      "dir": "ltr",
+      "width": 359.2936211200003,
+      "height": 10.5,
+      "transform": [
+        10.5056,
+        0,
+        0,
+        10.5,
+        72.2868,
+        324
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3884,
+        0,
+        0,
+        10.5,
+        72.36,
+        310
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "deposits. Doing so makes markets less stable. All financial intermediaries function",
+      "dir": "ltr",
+      "width": 359.28489167999953,
+      "height": 10.5,
+      "transform": [
+        10.3884,
+        0,
+        0,
+        10.5,
+        72.36,
+        310
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5026,
+        0,
+        0,
+        10.5,
+        72.4548,
+        296
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "by pooling the financial resources of those who want to save and funneling them",
+      "dir": "ltr",
+      "width": 359.1385075200002,
+      "height": 10.5,
+      "transform": [
+        10.5026,
+        0,
+        0,
+        10.5,
+        72.4548,
+        296
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.2868,
+        282
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "to others that are willing and able to pay for additional funds. This underlying",
+      "dir": "ltr",
+      "width": 359.08916400000084,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.2868,
+        282
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.3984,
+        268
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "principle should guide U.S. financial laws.",
+      "dir": "ltr",
+      "width": 184.60050000000004,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.3984,
+        268
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3321,
+        0,
+        0,
+        10.5,
+        85.4316,
+        254
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Policymakers should create new charters for financial firms that eliminate activ",
+      "dir": "ltr",
+      "width": 345.4341325099991,
+      "height": 10.5,
+      "transform": [
+        10.3321,
+        0,
+        0,
+        10.5,
+        85.4316,
+        254
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.7815486000000003,
+      "height": 10.5,
+      "transform": [
+        10.3321,
+        0,
+        0,
+        10.5,
+        430.7611,
+        254
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4469,
+        0,
+        0,
+        10.5,
+        72.2304,
+        240
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "ity restrictions and reduce regulations in return for straightforward higher equity",
+      "dir": "ltr",
+      "width": 359.6543816100006,
+      "height": 10.5,
+      "transform": [
+        10.4469,
+        0,
+        0,
+        10.5,
+        72.2304,
+        240
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4306,
+        0,
+        0,
+        10.5,
+        72.36,
+        226
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "or risk-retention standards. Ultimately, these charters would replace government",
+      "dir": "ltr",
+      "width": 359.53339445999944,
+      "height": 10.5,
+      "transform": [
+        10.4306,
+        0,
+        0,
+        10.5,
+        72.36,
+        226
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5752,
+        0,
+        0,
+        10.5,
+        72.2304,
+        212
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "regulation with competition and market discipline, thereby lowering the risk of",
+      "dir": "ltr",
+      "width": 359.3611588000008,
+      "height": 10.5,
+      "transform": [
+        10.5752,
+        0,
+        0,
+        10.5,
+        72.2304,
+        212
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.4296,
+        198
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "future financial crises and improving the ability of individuals to create wealth.",
+      "dir": "ltr",
+      "width": 352.04400000000004,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.4296,
+        198
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3895,
+        0,
+        0,
+        10.5,
+        85.8456,
+        184
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": true
+    },
+    {
+      "str": "Dodd–Frank Revisions.",
+      "dir": "ltr",
+      "width": 112.26789804999994,
+      "height": 10.5,
+      "transform": [
+        10.3895,
+        0,
+        0,
+        10.5,
+        85.8456,
+        184
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.15729787285240354,
+      "height": 0,
+      "transform": [
+        10.3895,
+        0,
+        0,
+        10.5,
+        198.11349804999995,
+        184
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": "Congress should repeal Title I, Title II, and Title VIII",
+      "dir": "ltr",
+      "width": 232.35285589999978,
+      "height": 10.5,
+      "transform": [
+        10.3895,
+        0,
+        0,
+        10.5,
+        199.7477443,
+        184
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6785,
+        0,
+        0,
+        10.5,
+        72.36,
+        170
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "of the Dodd–Frank Act.",
+      "dir": "ltr",
+      "width": 107.93934585000008,
+      "height": 10.5,
+      "transform": [
+        10.6785,
+        0,
+        0,
+        10.5,
+        72.36,
+        170
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "52",
+      "dir": "ltr",
+      "width": 6.673843200000008,
+      "height": 6.1215,
+      "transform": [
+        6.2256,
+        0,
+        0,
+        6.1215,
+        180.3495,
+        173.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.3547528430994582,
+      "height": 0,
+      "transform": [
+        6.2256,
+        0,
+        0,
+        6.1215,
+        187.0233432,
+        173.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "Title I of Dodd–Frank created the Financial Stability",
+      "dir": "ltr",
+      "width": 242.6059093500002,
+      "height": 10.5,
+      "transform": [
+        10.6785,
+        0,
+        0,
+        10.5,
+        189.2318925,
+        170
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.1668,
+        156
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Oversight Council, a kind of super-regulator tasked with identifying so-called",
+      "dir": "ltr",
+      "width": 359.0902349999996,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.1668,
+        156
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4994,
+        0,
+        0,
+        10.5,
+        72.3936,
+        142
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "systemically important financial institutions and singling them out for especially",
+      "dir": "ltr",
+      "width": 359.551953,
+      "height": 10.5,
+      "transform": [
+        10.4994,
+        0,
+        0,
+        10.5,
+        72.3936,
+        142
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.3936,
+        128
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "stringent regulation. The problem, of course, is that this process effectively iden",
+      "dir": "ltr",
+      "width": 358.39545000000015,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.3936,
+        128
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.843,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        430.7421,
+        128
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2868,
+        114
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "tifies those firms regulators believe are “too big to fail.”",
+      "dir": "ltr",
+      "width": 244.39800000000002,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2868,
+        114
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "53",
+      "dir": "ltr",
+      "width": 6.4704255,
+      "height": 6.1215,
+      "transform": [
+        6.1215,
+        0,
+        0,
+        6.1215,
+        316.6797,
+        117.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5132,
+        0,
+        0,
+        10.5,
+        85.2636,
+        100
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Title VIII of Dodd–Frank gives the FSOC similarly broad special-designation",
+      "dir": "ltr",
+      "width": 346.32162912000007,
+      "height": 10.5,
+      "transform": [
+        10.5132,
+        0,
+        0,
+        10.5,
+        85.2636,
+        100
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3757,
+        0,
+        0,
+        10.5,
+        72.318,
+        86
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "authority for specialized financial companies known as financial market utilities.",
+      "dir": "ltr",
+      "width": 352.9937648400006,
+      "height": 10.5,
+      "transform": [
+        10.3757,
+        0,
+        0,
+        10.5,
+        72.318,
+        86
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "54",
+      "dir": "ltr",
+      "width": 6.48452800000002,
+      "height": 6.1215,
+      "transform": [
+        6.049,
+        0,
+        0,
+        6.1215,
+        425.1589,
+        89.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        71.7636,
+        72
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Title II of Dodd–Frank established the controversial provision known as orderly",
+      "dir": "ltr",
+      "width": 360.13949999999994,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        71.7636,
+        72
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    }
+  ],
+  "styles": {
+    "g_d0_f3": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f70": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f4": {
+      "fontFamily": "serif",
+      "ascent": 1.089,
+      "descent": -0.312,
+      "vertical": false
+    },
+    "g_d0_f8": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.017,
+      "descent": -0.297,
+      "vertical": false
+    },
+    "g_d0_f11": {
+      "fontFamily": "serif",
+      "ascent": 1.143,
+      "descent": -0.351,
+      "vertical": false
+    }
+  },
+  "lang": "en-US"
+}

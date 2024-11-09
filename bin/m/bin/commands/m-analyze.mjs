@@ -14,24 +14,21 @@ const program = new Command();
 const alanyzeCommand = async (source) => {
   const pdfPath = join(__projectroot, 'src', 'assets', source)
   // const pageNumber = 34
-  const pageNumbers = [6, 7, 8]
   const loadingTask = getDocument(pdfPath);
   const pdf = await loadingTask.promise;
 
   console.log('PDF loaded');
-  for (const pageNumber of pageNumbers) {
+  for (let pageNumber = 1; pageNumber <= pdf.numPages; pageNumber++) {
 
     const page = await pdf.getPage(pageNumber);
     const tree = await page.getStructTree()
     const textContent = await page.getTextContent()
     const annotations = await page.getAnnotations()
-    const fontData = await page.getOperatorList()
     const pagePath = join(__projectroot, 'src', 'lib', 'data', `page${pageNumber}`)
     ;[
       [`annotations.json`, JSON.stringify(annotations, null, 2)],
       [`struct.json`, JSON.stringify(tree, null, 2)], 
-      [`textContent.json`, JSON.stringify(textContent, null, 2)]
-      [`font.json`, JSON.stringify(textContent.styles, null, 2)]
+      [`textContent.json`, JSON.stringify(textContent, null, 2)],
     ].forEach(async ([fileName, content]) => {
       await fs.ensureFile(join(pagePath, fileName))
       fs.writeFileSync(join(pagePath, fileName), content)

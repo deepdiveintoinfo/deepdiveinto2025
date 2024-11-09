@@ -1,0 +1,1599 @@
+{
+  "items": [
+    {
+      "str": "— 565 —",
+      "dir": "ltr",
+      "width": 42.97999999999999,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        230.1625,
+        32.0001
+      ],
+      "fontName": "g_d0_f3",
+      "hasEOL": false
+    },
+    {
+      "str": "Department of Justice",
+      "dir": "ltr",
+      "width": 100.91610000000003,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        201.5258,
+        664.4
+      ],
+      "fontName": "g_d0_f64",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        632
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "memorandum was prompted by a September 29, 2021, letter sent by the National",
+      "dir": "ltr",
+      "width": 359.41395000000017,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        632
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6134,
+        0,
+        0,
+        10.5,
+        72.2976,
+        618
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "School Boards Association (NSBA) to President Biden demanding a federal law",
+      "dir": "ltr",
+      "width": 359.59260540000037,
+      "height": 10.5,
+      "transform": [
+        10.6134,
+        0,
+        0,
+        10.5,
+        72.2976,
+        618
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.36,
+        604
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "enforcement response to perceived threats to school board members and pub",
+      "dir": "ltr",
+      "width": 358.15525200000076,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.36,
+        604
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.9198600000000003,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        430.7098,
+        604
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2028,
+        590
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "lic-school employees.",
+      "dir": "ltr",
+      "width": 96.28605000000003,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2028,
+        590
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5321,
+        0,
+        0,
+        10.5,
+        85.2636,
+        576
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "The NSBA letter made outlandish demands in response to protests that were",
+      "dir": "ltr",
+      "width": 346.32388466999964,
+      "height": 10.5,
+      "transform": [
+        10.5321,
+        0,
+        0,
+        10.5,
+        85.2636,
+        576
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4022,
+        0,
+        0,
+        10.5,
+        72.2868,
+        562
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "then occurring at school board meetings in response to COVID policies and revela",
+      "dir": "ltr",
+      "width": 358.3537095600006,
+      "height": 10.5,
+      "transform": [
+        10.4022,
+        0,
+        0,
+        10.5,
+        72.2868,
+        562
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.8072052000000003,
+      "height": 10.5,
+      "transform": [
+        10.4022,
+        0,
+        0,
+        10.5,
+        430.7566,
+        562
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4265,
+        0,
+        0,
+        10.5,
+        72.2868,
+        548
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "tions about the use of critical race theory–infused curricula in classrooms. Among",
+      "dir": "ltr",
+      "width": 359.5515966000011,
+      "height": 10.5,
+      "transform": [
+        10.4265,
+        0,
+        0,
+        10.5,
+        72.2868,
+        548
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3262,
+        0,
+        0,
+        10.5,
+        72.2868,
+        534
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "the letter’s demands was a call for a federal investigation into parents’ actions (“hei",
+      "dir": "ltr",
+      "width": 358.55767521999894,
+      "height": 10.5,
+      "transform": [
+        10.3262,
+        0,
+        0,
+        10.5,
+        72.2868,
+        534
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.7793892,
+      "height": 10.5,
+      "transform": [
+        10.3262,
+        0,
+        0,
+        10.5,
+        430.7677,
+        534
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5728,
+        0,
+        0,
+        10.5,
+        72.2304,
+        520
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "nous actions” that “could be the equivalent to a form of domestic terrorism and",
+      "dir": "ltr",
+      "width": 359.17704703999976,
+      "height": 10.5,
+      "transform": [
+        10.5728,
+        0,
+        0,
+        10.5,
+        72.2304,
+        520
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5358,
+        0,
+        0,
+        10.5,
+        72.2556,
+        506
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "hate crimes”) under a variety of federal laws including the “Gun-Free Zones Act,",
+      "dir": "ltr",
+      "width": 361.784621880001,
+      "height": 10.5,
+      "transform": [
+        10.5358,
+        0,
+        0,
+        10.5,
+        72.2556,
+        506
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.2868,
+        492
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "the PATRIOT Act in regards to domestic terrorism, the Matthew Shepard and",
+      "dir": "ltr",
+      "width": 359.21018700000076,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.2868,
+        492
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.672,
+        0,
+        0,
+        10.5,
+        71.4,
+        478
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "James Byrd Jr. Hate Crimes and Prevention Act, the Violent Interference with",
+      "dir": "ltr",
+      "width": 360.31660160000024,
+      "height": 10.5,
+      "transform": [
+        10.672,
+        0,
+        0,
+        10.5,
+        71.4,
+        478
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        71.9316,
+        464
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Federally Protected Rights statute, and the Conspiracy Against Rights statute”",
+      "dir": "ltr",
+      "width": 362.63631600000065,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        71.9316,
+        464
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5203,
+        0,
+        0,
+        10.5,
+        72.318,
+        450
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "and “an Executive Order to enforce all applicable federal laws for the protection",
+      "dir": "ltr",
+      "width": 359.18197854000016,
+      "height": 10.5,
+      "transform": [
+        10.5203,
+        0,
+        0,
+        10.5,
+        72.318,
+        450
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.36,
+        436
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "of students and public school district personnel, and any related measure.”",
+      "dir": "ltr",
+      "width": 333.01695000000007,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.36,
+        436
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "88",
+      "dir": "ltr",
+      "width": 6.476547,
+      "height": 6.1215,
+      "transform": [
+        6.1215,
+        0,
+        0,
+        6.1215,
+        405.3712,
+        439.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        85.4316,
+        422
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Both the Attorney General’s memorandum and the NSBA letter drew swift",
+      "dir": "ltr",
+      "width": 346.2607259999999,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        85.4316,
+        422
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5372,
+        0,
+        0,
+        10.5,
+        72.3984,
+        408
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "public condemnation, including from 14 sitting state Attorneys General.",
+      "dir": "ltr",
+      "width": 324.7280535599994,
+      "height": 10.5,
+      "transform": [
+        10.5372,
+        0,
+        0,
+        10.5,
+        72.3984,
+        408
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "89",
+      "dir": "ltr",
+      "width": 6.585510399999998,
+      "height": 6.1215,
+      "transform": [
+        6.1432,
+        0,
+        0,
+        6.1215,
+        396.9154,
+        411.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.3484895819768217,
+      "height": 0,
+      "transform": [
+        6.1432,
+        0,
+        0,
+        6.1215,
+        403.5009104,
+        411.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "A sub",
+      "dir": "ltr",
+      "width": 25.09961039999998,
+      "height": 10.5,
+      "transform": [
+        10.5372,
+        0,
+        0,
+        10.5,
+        405.6417516,
+        408
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.8566152000000002,
+      "height": 10.5,
+      "transform": [
+        10.5372,
+        0,
+        0,
+        10.5,
+        430.7363,
+        408
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.3936,
+        394
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "sequent internal investigation commissioned by the NSBA revealed that officials",
+      "dir": "ltr",
+      "width": 359.15040000000005,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.3936,
+        394
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3617,
+        0,
+        0,
+        10.5,
+        72.318,
+        380
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "at the White House had been in discussions with NSBA officials about the contents",
+      "dir": "ltr",
+      "width": 359.36966024999964,
+      "height": 10.5,
+      "transform": [
+        10.3617,
+        0,
+        0,
+        10.5,
+        72.318,
+        380
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.429,
+        0,
+        0,
+        10.5,
+        72.36,
+        366
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "of the letter weeks before it was issued. The investigation also revealed that White",
+      "dir": "ltr",
+      "width": 359.2717497000009,
+      "height": 10.5,
+      "transform": [
+        10.429,
+        0,
+        0,
+        10.5,
+        72.36,
+        366
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4346,
+        0,
+        0,
+        10.5,
+        71.9316,
+        352
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "House officials indicated they planned to raise the contents of the draft letter with",
+      "dir": "ltr",
+      "width": 359.8330071599997,
+      "height": 10.5,
+      "transform": [
+        10.4346,
+        0,
+        0,
+        10.5,
+        71.9316,
+        352
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        71.9316,
+        338
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "DOJ officials a full week before the NSBA’s letter was issued.",
+      "dir": "ltr",
+      "width": 267.8644500000001,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        71.9316,
+        338
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "90",
+      "dir": "ltr",
+      "width": 6.843837000000001,
+      "height": 6.1215,
+      "transform": [
+        6.1215,
+        0,
+        0,
+        6.1215,
+        339.7918,
+        341.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4246,
+        0,
+        0,
+        10.5,
+        85.2636,
+        324
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "This cooperation by a third-party group, the White House, and the DOJ to craft",
+      "dir": "ltr",
+      "width": 346.68779481999974,
+      "height": 10.5,
+      "transform": [
+        10.4246,
+        0,
+        0,
+        10.5,
+        85.2636,
+        324
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4955,
+        0,
+        0,
+        10.5,
+        72.318,
+        310
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "and coordinate a response to an ill-advised and politically motivated letter under",
+      "dir": "ltr",
+      "width": 358.6018476,
+      "height": 10.5,
+      "transform": [
+        10.4955,
+        0,
+        0,
+        10.5,
+        72.318,
+        310
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.841353,
+      "height": 10.5,
+      "transform": [
+        10.4955,
+        0,
+        0,
+        10.5,
+        430.7428,
+        310
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4177,
+        0,
+        0,
+        10.5,
+        72.2304,
+        296
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "mines the department’s credibility as an impartial law enforcement agency. In the",
+      "dir": "ltr",
+      "width": 359.38148044000053,
+      "height": 10.5,
+      "transform": [
+        10.4177,
+        0,
+        0,
+        10.5,
+        72.2304,
+        296
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6766,
+        0,
+        0,
+        10.5,
+        72.096,
+        282
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "words of the 14 state Attorneys General who wrote to oppose the department’s",
+      "dir": "ltr",
+      "width": 359.4191977199992,
+      "height": 10.5,
+      "transform": [
+        10.6766,
+        0,
+        0,
+        10.5,
+        72.096,
+        282
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6047,
+        0,
+        0,
+        10.5,
+        72.2304,
+        268
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "memorandum, “potential collusion between the White House, the Department,",
+      "dir": "ltr",
+      "width": 361.68920054999967,
+      "height": 10.5,
+      "transform": [
+        10.6047,
+        0,
+        0,
+        10.5,
+        72.2304,
+        268
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5697,
+        0,
+        0,
+        10.5,
+        72.318,
+        254
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "and the NSBA in the actual creation of the September 29 letter—as a pretext for",
+      "dir": "ltr",
+      "width": 359.4141927400006,
+      "height": 10.5,
+      "transform": [
+        10.5697,
+        0,
+        0,
+        10.5,
+        72.318,
+        254
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2868,
+        240
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "threats against parents—raises serious concerns.”",
+      "dir": "ltr",
+      "width": 221.697,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2868,
+        240
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "91",
+      "dir": "ltr",
+      "width": 5.815425,
+      "height": 6.1215,
+      "transform": [
+        6.1215,
+        0,
+        0,
+        6.1215,
+        293.9799,
+        243.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        85.2636,
+        226
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "The DOJ should carefully scrutinize all requests for law enforcement assis",
+      "dir": "ltr",
+      "width": 345.4157070000002,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        85.2636,
+        226
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.9198600000000003,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        430.7217,
+        226
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4243,
+        0,
+        0,
+        10.5,
+        72.2868,
+        212
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "tance and reject requests by third parties to engage in political grandstanding that",
+      "dir": "ltr",
+      "width": 359.6977685099994,
+      "height": 10.5,
+      "transform": [
+        10.4243,
+        0,
+        0,
+        10.5,
+        72.2868,
+        212
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        198
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "ignores the department’s traditional jurisdictional limits and that would trample",
+      "dir": "ltr",
+      "width": 359.25749999999994,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        198
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.3984,
+        184
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "politically controversial but constitutionally protected activity.",
+      "dir": "ltr",
+      "width": 281.9554499999999,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.3984,
+        184
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        85.8456,
+        170
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": true
+    },
+    {
+      "str": "Ensuring Proper Distribution of DOJ Grant Funds.",
+      "dir": "ltr",
+      "width": 259.50544199999985,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        85.8456,
+        170
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.22370102707751602,
+      "height": 0,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        345.35104199999984,
+        170
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": "DOJ grants are an",
+      "dir": "ltr",
+      "width": 83.973897,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        347.74688000000003,
+        170
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6099,
+        0,
+        0,
+        10.5,
+        72.2664,
+        156
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "underutilized asset in most conservative Administrations. When used properly,",
+      "dir": "ltr",
+      "width": 361.5896359599996,
+      "height": 10.5,
+      "transform": [
+        10.6099,
+        0,
+        0,
+        10.5,
+        72.2664,
+        156
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4949,
+        0,
+        0,
+        10.5,
+        72.2868,
+        142
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "they can be highly effective in implementing the President’s priorities. The Office",
+      "dir": "ltr",
+      "width": 359.26351578,
+      "height": 10.5,
+      "transform": [
+        10.4949,
+        0,
+        0,
+        10.5,
+        72.2868,
+        142
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.36,
+        128
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "of Justice Programs (OJP) is comprised of six components and is responsible for",
+      "dir": "ltr",
+      "width": 359.4780000000001,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.36,
+        128
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5174,
+        0,
+        0,
+        10.5,
+        72.2304,
+        114
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "most DOJ grants to local law enforcement, juvenile justice, and victims of crime",
+      "dir": "ltr",
+      "width": 359.10084690000014,
+      "height": 10.5,
+      "transform": [
+        10.5174,
+        0,
+        0,
+        10.5,
+        72.2304,
+        114
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.318,
+        100
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "as well as for criminal justice research and statistics. The opportunity to support",
+      "dir": "ltr",
+      "width": 359.4402,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.318,
+        100
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.318,
+        86
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "a President’s agenda may be greater through OJP grant funding than it is through",
+      "dir": "ltr",
+      "width": 359.4150000000002,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.318,
+        86
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.318,
+        72
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "any of the federal government’s other grant-making components.",
+      "dir": "ltr",
+      "width": 291.1440000000001,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.318,
+        72
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    }
+  ],
+  "styles": {
+    "g_d0_f3": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f64": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f4": {
+      "fontFamily": "serif",
+      "ascent": 1.089,
+      "descent": -0.312,
+      "vertical": false
+    },
+    "g_d0_f11": {
+      "fontFamily": "serif",
+      "ascent": 1.143,
+      "descent": -0.351,
+      "vertical": false
+    }
+  },
+  "lang": "en-US"
+}

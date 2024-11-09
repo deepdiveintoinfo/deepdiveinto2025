@@ -1,0 +1,3535 @@
+{
+  "items": [
+    {
+      "str": "— 415 —",
+      "dir": "ltr",
+      "width": 40.77000000000001,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        231.2673,
+        32.0001
+      ],
+      "fontName": "g_d0_f3",
+      "hasEOL": false
+    },
+    {
+      "str": "Department of Energy and Related Commissions",
+      "dir": "ltr",
+      "width": 220.54230000000004,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        141.7193,
+        664.4
+      ],
+      "fontName": "g_d0_f58",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        634.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "102.",
+      "dir": "ltr",
+      "width": 14.175,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        634.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.4499777777777783,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        85.95179999999999,
+        634.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "S. 1059, National Defense Authorization Act for Fiscal Year 2000, Public Law 106-65, 106th Congress, October",
+      "dir": "ltr",
+      "width": 338.5034999999999,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0016,
+        634.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2988,
+        623.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "5, 1999, §§ 3201–3299,",
+      "dir": "ltr",
+      "width": 70.03710000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2988,
+        623.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1999555555555522,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        160.33590000000004,
+        623.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.congress.gov/106/plaws/publ65/PLAW-106publ65.pdf",
+      "dir": "ltr",
+      "width": 208.95029999999994,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        162.1355,
+        623.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1999333333333008,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        371.0858000000003,
+        623.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed",
+      "dir": "ltr",
+      "width": 30.537000000000038,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        372.8852,
+        623.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        612.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "February 14, 2023).",
+      "dir": "ltr",
+      "width": 59.56109999999999,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        612.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        601.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "103.",
+      "dir": "ltr",
+      "width": 14.175,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        601.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.4499777777777783,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        85.95179999999999,
+        601.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "See Geller, “U.S. Nuclear Weapons.”",
+      "dir": "ltr",
+      "width": 110.11230000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0016,
+        601.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        590.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "104.",
+      "dir": "ltr",
+      "width": 14.175,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        590.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.4499777777777783,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        85.95179999999999,
+        590.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "U.S. Department of Defense,",
+      "dir": "ltr",
+      "width": 88.18920000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0016,
+        590.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19980000000000095,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        178.1908,
+        590.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "2022 National Defense Strategy of the United States of America, Including the",
+      "dir": "ltr",
+      "width": 241.76430000000025,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        179.989,
+        590.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.6388,
+        579.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": true
+    },
+    {
+      "str": "2022 Nuclear Posture Review and the 2022 Missile Defense Review",
+      "dir": "ltr",
+      "width": 207.15930000000017,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.6388,
+        579.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": ", pp. 3 and 20,",
+      "dir": "ltr",
+      "width": 43.7571000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        296.7978,
+        579.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.20002222222221158,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        340.5549000000001,
+        579.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://media.defense.",
+      "dir": "ltr",
+      "width": 69.69600000000005,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        342.3551,
+        579.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2724,
+        568.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "gov/2022/Oct/27/2003103845/-1/-1/1/2022-NATIONAL-DEFENSE-STRATEGY-NPR-MDR.PDF",
+      "dir": "ltr",
+      "width": 286.29720000000015,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2724,
+        568.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1999111111111031,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        376.5696000000001,
+        568.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed",
+      "dir": "ltr",
+      "width": 30.537000000000038,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        378.3688,
+        568.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        557.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "March 2, 2023).",
+      "dir": "ltr",
+      "width": 47.726099999999995,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        557.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        546.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "105.",
+      "dir": "ltr",
+      "width": 14.175,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        546.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.4499777777777783,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        85.95179999999999,
+        546.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "U.S. Department of Energy, National Nuclear Security Administration, “Plutonium Pit Production,”",
+      "dir": "ltr",
+      "width": 301.6836000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0016,
+        546.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19965555555552328,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        391.6852000000003,
+        546.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://",
+      "dir": "ltr",
+      "width": 22.85999999999998,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        393.4821,
+        546.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.3168,
+        535.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "www.energy.gov/nnsa/plutonium-pit-production",
+      "dir": "ltr",
+      "width": 151.8453,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.3168,
+        535.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1999444444444249,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        242.16210000000018,
+        535.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed March 13, 2023).",
+      "dir": "ltr",
+      "width": 82.2411000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        243.9616,
+        535.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        524.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "106.",
+      "dir": "ltr",
+      "width": 14.175,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        524.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.4499777777777783,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        85.95179999999999,
+        524.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "U.S. Department of Energy, Office of Chief Financial Officer,",
+      "dir": "ltr",
+      "width": 183.52440000000007,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0016,
+        524.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19977777777776534,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        273.5260000000001,
+        524.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Department of Energy FY 2023 Congressional",
+      "dir": "ltr",
+      "width": 141.6501000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        275.324,
+        524.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2088,
+        513.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": true
+    },
+    {
+      "str": "Budget Request, Budget in Brief",
+      "dir": "ltr",
+      "width": 100.24920000000003,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2088,
+        513.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": ", p. 27.",
+      "dir": "ltr",
+      "width": 19.197000000000035,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        190.4575,
+        513.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        502.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "107.",
+      "dir": "ltr",
+      "width": 14.175,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        502.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.4499777777777783,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        85.95179999999999,
+        502.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "16 U.S. Code § 824o,",
+      "dir": "ltr",
+      "width": 62.622000000000014,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0016,
+        502.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19972222222222058,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        152.6236,
+        502.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.law.cornell.edu/uscode/text/16/824o",
+      "dir": "ltr",
+      "width": 154.27530000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        154.4211,
+        502.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.20002222222219895,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        308.6964000000002,
+        502.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed March 2, 2023).",
+      "dir": "ltr",
+      "width": 80.06400000000009,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        310.4966,
+        502.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        491.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "108.",
+      "dir": "ltr",
+      "width": 14.175,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        491.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.4499777777777783,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        85.95179999999999,
+        491.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "16 U.S. Code § 824o-1,",
+      "dir": "ltr",
+      "width": 67.455,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0016,
+        491.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19968888888889247,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        157.45659999999998,
+        491.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.law.cornell.edu/uscode/text/16/824o-1",
+      "dir": "ltr",
+      "width": 159.0273,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        159.2538,
+        491.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.20001111111108433,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        318.28110000000027,
+        491.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed March 2, 2023).",
+      "dir": "ltr",
+      "width": 80.06400000000009,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        320.0812,
+        491.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        480.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "109.",
+      "dir": "ltr",
+      "width": 14.175,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        480.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.4499777777777783,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        85.95179999999999,
+        480.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "For example, the California blackouts in August 2020 and the Texas blackouts and deaths in February 2021.",
+      "dir": "ltr",
+      "width": 331.7004000000003,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0016,
+        480.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        469.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "110.",
+      "dir": "ltr",
+      "width": 14.175,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        469.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.4499777777777783,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        85.95179999999999,
+        469.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "North American Electric Reliability Corporation, “Announcement: Extreme Weather Heightens Reliability Risks",
+      "dir": "ltr",
+      "width": 340.68150000000026,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0016,
+        469.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.8392,
+        458.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "This Summer,” May 18, 2022,",
+      "dir": "ltr",
+      "width": 87.9282,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.8392,
+        458.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.2000222222222179,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        177.76740000000004,
+        458.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.nerc.com/news/Headlines%20DL/May%2018%202022%20SRA%20",
+      "dir": "ltr",
+      "width": 249.02730000000014,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        179.5676,
+        458.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.7588,
+        447.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "Announcement.pdf",
+      "dir": "ltr",
+      "width": 60.272099999999995,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.7588,
+        447.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1999333333333387,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        150.03089999999997,
+        447.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed February 14, 2023).",
+      "dir": "ltr",
+      "width": 91.89810000000011,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        151.83030000000002,
+        447.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        436.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "111.",
+      "dir": "ltr",
+      "width": 14.175,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        436.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.4499777777777783,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        85.95179999999999,
+        436.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Ethan Howland, “ISO-NE, ERCOT, MISO Face Possible Capacity Shortfalls in Extreme Winter Weather: FERC,”",
+      "dir": "ltr",
+      "width": 335.0745000000004,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0016,
+        436.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.1644,
+        425.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": true
+    },
+    {
+      "str": "Utility Dive",
+      "dir": "ltr",
+      "width": 33.803099999999986,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.1644,
+        425.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": ", October 21, 2022,",
+      "dir": "ltr",
+      "width": 56.97810000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        123.9677,
+        425.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1999999999999981,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        180.94580000000002,
+        425.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.utilitydive.com/news/FERC-iso-ne-ercot-miso-extreme-winter-",
+      "dir": "ltr",
+      "width": 236.53440000000003,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        182.7458,
+        425.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.3168,
+        414.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "weather-report/634682/",
+      "dir": "ltr",
+      "width": 77.27310000000003,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.3168,
+        414.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19994444444444387,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        167.58990000000003,
+        414.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed February 14, 2023), and North American Energy Reliability Corporation,",
+      "dir": "ltr",
+      "width": 253.47510000000023,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        169.38940000000002,
+        414.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        87.192,
+        403.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "“Announcement: NERC Warns Generation Resources Tight in Large Portion of North America This Winter,”",
+      "dir": "ltr",
+      "width": 328.8834000000003,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        87.192,
+        403.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        392.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "November 17, 2022,",
+      "dir": "ltr",
+      "width": 60.34410000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        392.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19998888888888663,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        150.88410000000002,
+        392.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.nerc.com/news/Headlines%20DL/2022%20WRA%20Release%20final.pdf",
+      "dir": "ltr",
+      "width": 269.1333000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        152.684,
+        392.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0756,
+        381.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "(accessed February 14, 2023).",
+      "dir": "ltr",
+      "width": 91.89810000000006,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0756,
+        381.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        370.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "112.",
+      "dir": "ltr",
+      "width": 14.175,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        370.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.4499777777777783,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        85.95179999999999,
+        370.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Note that the challenges to the grid are coming mainly from",
+      "dir": "ltr",
+      "width": 186.71130000000016,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0016,
+        370.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19963333333330033,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        276.7129000000003,
+        370.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "subsidized",
+      "dir": "ltr",
+      "width": 32.588100000000004,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        278.5096,
+        370.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.2000111111111159,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        311.0977,
+        370.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": "renewable resources. Renewable",
+      "dir": "ltr",
+      "width": 101.51999999999995,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        312.8978,
+        370.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4788,
+        359.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "resources have beneficial attributes, and the electric grid can benefit from embracing an all-of-the-above",
+      "dir": "ltr",
+      "width": 325.8207000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4788,
+        359.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.3348,
+        348.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "approach to power generation.",
+      "dir": "ltr",
+      "width": 95.99310000000004,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.3348,
+        348.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        337.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "113.",
+      "dir": "ltr",
+      "width": 14.175,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        337.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.4499777777777783,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        85.95179999999999,
+        337.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "See U.S. Department of Energy, U.S. Energy Information Administration, “Glossary: Reserve Margin,”",
+      "dir": "ltr",
+      "width": 309.77730000000025,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0016,
+        337.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.199444444444402,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        399.77890000000036,
+        337.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://",
+      "dir": "ltr",
+      "width": 22.85999999999998,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        401.5739,
+        337.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.3168,
+        326.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "www.eia.gov/tools/glossary/index.php?id=reserve_margin",
+      "dir": "ltr",
+      "width": 182.03130000000013,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.3168,
+        326.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19993333333331342,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        272.3481000000002,
+        326.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed February 14, 2023).",
+      "dir": "ltr",
+      "width": 91.89810000000013,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        274.14750000000004,
+        326.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        315.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "114.",
+      "dir": "ltr",
+      "width": 14.175,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        315.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.4499777777777783,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        85.95179999999999,
+        315.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Dan Frosch and Ginger Adams Otis, “North Carolina Power Outage Leaves 33,000 Without Electricity",
+      "dir": "ltr",
+      "width": 313.12530000000027,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0016,
+        315.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.7588,
+        304.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "After Substation Attack,”",
+      "dir": "ltr",
+      "width": 77.16419999999997,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.7588,
+        304.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.2000333333333294,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        166.92300000000003,
+        304.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "The Wall Street Journal",
+      "dir": "ltr",
+      "width": 72.10710000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        168.7233,
+        304.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": ", December 5, 2022,",
+      "dir": "ltr",
+      "width": 61.77510000000008,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        240.83,
+        304.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.199988888888874,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        302.6051000000001,
+        304.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.wsj.com/articles/",
+      "dir": "ltr",
+      "width": 93.17609999999999,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        304.405,
+        304.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.3348,
+        293.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "attack-on-north-carolina-power-substations-leaves-45-000-without-electricity-11670200585",
+      "dir": "ltr",
+      "width": 289.18170000000003,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.3348,
+        293.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19995555555550482,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        379.51650000000046,
+        293.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed",
+      "dir": "ltr",
+      "width": 30.537000000000038,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        381.3161,
+        293.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        282.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "February 14, 2023).",
+      "dir": "ltr",
+      "width": 59.56109999999999,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        282.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        271.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "115.",
+      "dir": "ltr",
+      "width": 14.175,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        271.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.4499777777777783,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        85.95179999999999,
+        271.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "U.S. Department of Energy, Federal Energy Regulatory Commission, “Power Sales and Markets: RTOs and",
+      "dir": "ltr",
+      "width": 325.97460000000024,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0016,
+        271.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.468,
+        260.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "ISOs,” last updated May 3, 2022,",
+      "dir": "ltr",
+      "width": 99.53010000000005,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.468,
+        260.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19993333333332608,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        189.99810000000008,
+        260.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.ferc.gov/power-sales-and-markets/rtos-and-isos",
+      "dir": "ltr",
+      "width": 191.5893,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        191.7975,
+        260.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19993333333331342,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        383.38680000000016,
+        260.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed",
+      "dir": "ltr",
+      "width": 30.537000000000038,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        385.1862,
+        260.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        249.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "February 14, 2023).",
+      "dir": "ltr",
+      "width": 59.56109999999999,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        249.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        238.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "116.",
+      "dir": "ltr",
+      "width": 14.175,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        238.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.4499777777777783,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        85.95179999999999,
+        238.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Such as the blackouts and shortages in California (August 2020, summer 2022) and Texas (February 2021,",
+      "dir": "ltr",
+      "width": 328.7052000000005,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0016,
+        238.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4176,
+        227.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "summer 2022).",
+      "dir": "ltr",
+      "width": 47.5821,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4176,
+        227.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        216.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "117.",
+      "dir": "ltr",
+      "width": 14.175,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        216.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.4499777777777783,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        85.95179999999999,
+        216.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "See notes 110 and 111,",
+      "dir": "ltr",
+      "width": 64.92600000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0016,
+        216.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19964444444444654,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        154.92759999999998,
+        216.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "supra",
+      "dir": "ltr",
+      "width": 17.19900000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        156.7244,
+        216.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": "; North American Electric Reliability Corporation, “2022 Summer Reliability",
+      "dir": "ltr",
+      "width": 231.57720000000023,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        173.923,
+        216.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.7588,
+        205.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "Assessment,” May 2022,",
+      "dir": "ltr",
+      "width": 75.1941,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.7588,
+        205.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19998888888888663,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        164.95290000000003,
+        205.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.nerc.com/pa/RAPA/ra/Reliability%20Assessments%20DL/NERC_",
+      "dir": "ltr",
+      "width": 244.18529999999993,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        166.7528,
+        205.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.282,
+        194.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "SRA_2022.pdf",
+      "dir": "ltr",
+      "width": 45.62999999999999,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.282,
+        194.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19994444444444703,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        135.91199999999998,
+        194.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed March 13, 2023); and North American Electric Reliability Corporation, “2022–2023",
+      "dir": "ltr",
+      "width": 284.3514000000003,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        137.7115,
+        194.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.174,
+        183.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "Winter Reliability Assessment,” November 2022,",
+      "dir": "ltr",
+      "width": 150.4233000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.174,
+        183.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19997777777775935,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        240.59730000000016,
+        183.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.nerc.com/pa/RAPA/ra/Reliability%20",
+      "dir": "ltr",
+      "width": 156.3632999999999,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        242.3971,
+        183.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.7588,
+        172.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "Assessments%20DL/NERC_WRA_2022.pdf",
+      "dir": "ltr",
+      "width": 136.53810000000004,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.7588,
+        172.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19993333333333554,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        226.2969,
+        172.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed March 13, 2023).",
+      "dir": "ltr",
+      "width": 82.2411000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        228.0963,
+        172.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        161.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "118.",
+      "dir": "ltr",
+      "width": 14.175,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        161.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.4499777777777783,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        85.95179999999999,
+        161.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "U.S. Department of Energy, Federal Energy Regulatory Commission, “Building for the Future Through Electric",
+      "dir": "ltr",
+      "width": 338.0553000000004,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0016,
+        161.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        150.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "Regional Transmission Planning and Cost Allocation and Generator Interconnection,” Notice of Proposed",
+      "dir": "ltr",
+      "width": 322.9236000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        150.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        139.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "Rulemaking,",
+      "dir": "ltr",
+      "width": 38.745,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        139.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1999000000000011,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        129.285,
+        139.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Federal Register",
+      "dir": "ltr",
+      "width": 50.55210000000003,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        131.0841,
+        139.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": ", Vol. 87, No. 86 (May 4, 2022), pp. 26504–26611,",
+      "dir": "ltr",
+      "width": 149.07420000000022,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        181.6359,
+        139.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19996666666664473,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        330.7101000000002,
+        139.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.govinfo.gov/",
+      "dir": "ltr",
+      "width": 79.56900000000006,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        332.5098,
+        139.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2904,
+        128.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "content/pkg/FR-2022-05-04/pdf/2022-08973.pdf",
+      "dir": "ltr",
+      "width": 156.39120000000005,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2904,
+        128.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19998888888888347,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        246.68160000000006,
+        128.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed February 14, 2023), and U.S. Department of",
+      "dir": "ltr",
+      "width": 166.85910000000018,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        248.4815,
+        128.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        117.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "Energy, Federal Energy Regulatory Commission, “Improvements to Generator Interconnection Procedures",
+      "dir": "ltr",
+      "width": 327.06450000000007,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        117.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.3348,
+        106.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "and Agreements,” Notice of Proposed Rulemaking,",
+      "dir": "ltr",
+      "width": 157.84920000000005,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.3348,
+        106.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1998333333333259,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        248.18400000000005,
+        106.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Federal Register",
+      "dir": "ltr",
+      "width": 50.552100000000095,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        249.9825,
+        106.9999
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": ", Vol. 87, No. 127 (July 5, 2022), pp.",
+      "dir": "ltr",
+      "width": 106.19910000000019,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        300.5343,
+        106.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.8392,
+        95.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "39934–40032,",
+      "dir": "ltr",
+      "width": 45.3951,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.8392,
+        95.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.2000333333333357,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        135.2343,
+        95.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.govinfo.gov/content/pkg/FR-2022-07-05/pdf/2022-13470.pdf",
+      "dir": "ltr",
+      "width": 232.25130000000004,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        137.0346,
+        95.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1999555555555427,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        369.28590000000014,
+        95.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed",
+      "dir": "ltr",
+      "width": 30.537000000000038,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        371.0855,
+        95.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        84.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "February 14, 2023).",
+      "dir": "ltr",
+      "width": 59.56109999999999,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        84.9999
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    }
+  ],
+  "styles": {
+    "g_d0_f3": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f58": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f17": {
+      "fontFamily": "sans-serif",
+      "ascent": 0.939,
+      "descent": -0.202,
+      "vertical": false
+    },
+    "g_d0_f18": {
+      "fontFamily": "sans-serif",
+      "ascent": 0.939,
+      "descent": -0.202,
+      "vertical": false
+    }
+  },
+  "lang": "en-US"
+}

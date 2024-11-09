@@ -1,0 +1,1023 @@
+{
+  "items": [
+    {
+      "str": "— 619 —",
+      "dir": "ltr",
+      "width": 40.910000000000004,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        231.1973,
+        32.0001
+      ],
+      "fontName": "g_d0_f3",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        30,
+        0,
+        0,
+        30,
+        401.3433,
+        610
+      ],
+      "fontName": "g_d0_f2",
+      "hasEOL": true
+    },
+    {
+      "str": "19",
+      "dir": "ltr",
+      "width": 30.6,
+      "height": 30,
+      "transform": [
+        30,
+        0,
+        0,
+        30,
+        401.3433,
+        610
+      ],
+      "fontName": "g_d0_f2",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        16,
+        0,
+        0,
+        16,
+        289.0682,
+        472.2
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": true
+    },
+    {
+      "str": "DEPARTMENT OF",
+      "dir": "ltr",
+      "width": 143.888,
+      "height": 16,
+      "transform": [
+        16,
+        0,
+        0,
+        16,
+        289.0682,
+        472.2
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        16,
+        0,
+        0,
+        16,
+        276.5148,
+        454.2
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": true
+    },
+    {
+      "str": "TRANSPORTATION",
+      "dir": "ltr",
+      "width": 155.42399999999998,
+      "height": 16,
+      "transform": [
+        16,
+        0,
+        0,
+        16,
+        276.5148,
+        454.2
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        13,
+        0,
+        0,
+        13,
+        282.5921,
+        436.2
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": true
+    },
+    {
+      "str": "Diana Furchtgott-Roth",
+      "dir": "ltr",
+      "width": 148.96569999999997,
+      "height": 13,
+      "transform": [
+        13,
+        0,
+        0,
+        13,
+        282.5921,
+        436.2
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        72.2772,
+        380
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": true
+    },
+    {
+      "str": "INTRODUCTION",
+      "dir": "ltr",
+      "width": 82.47,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        72.2772,
+        380
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        84.9264,
+        366
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "America needs transportation that is more abundant and affordable as well as",
+      "dir": "ltr",
+      "width": 346.61550000000017,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        84.9264,
+        366
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5447,
+        0,
+        0,
+        10.5,
+        72.36,
+        352
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "dignified, accessible, and family friendly. Transportation plays a vital role in the",
+      "dir": "ltr",
+      "width": 359.27480052000044,
+      "height": 10.5,
+      "transform": [
+        10.5447,
+        0,
+        0,
+        10.5,
+        72.36,
+        352
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.3984,
+        338
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "prosperity and flourishing of the United States. Americans use trucks, tankers,",
+      "dir": "ltr",
+      "width": 361.71418500000084,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.3984,
+        338
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.629,
+        0,
+        0,
+        10.5,
+        72.318,
+        324
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "and trains to keep our supply chains running and cars, transit, and planes to go",
+      "dir": "ltr",
+      "width": 358.97959439999977,
+      "height": 10.5,
+      "transform": [
+        10.629,
+        0,
+        0,
+        10.5,
+        72.318,
+        324
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.096,
+        310
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "where we want to go.",
+      "dir": "ltr",
+      "width": 93.11295000000001,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.096,
+        310
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6751,
+        0,
+        0,
+        10.5,
+        85.2636,
+        296
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Two hundred and forty years ago, Adam Smith recognized that connections",
+      "dir": "ltr",
+      "width": 346.2788937999998,
+      "height": 10.5,
+      "transform": [
+        10.6751,
+        0,
+        0,
+        10.5,
+        85.2636,
+        296
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5167,
+        0,
+        0,
+        10.5,
+        72.096,
+        282
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "were a bedrock of society because they stimulate specialization, innovation, and",
+      "dir": "ltr",
+      "width": 359.30200383000005,
+      "height": 10.5,
+      "transform": [
+        10.5167,
+        0,
+        0,
+        10.5,
+        72.096,
+        282
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4341,
+        0,
+        0,
+        10.5,
+        72.36,
+        268
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "capital investment. In the following decades, America’s growth was made possible",
+      "dir": "ltr",
+      "width": 359.2022397800001,
+      "height": 10.5,
+      "transform": [
+        10.4341,
+        0,
+        0,
+        10.5,
+        72.36,
+        268
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.4548,
+        254
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "by transportation—first ports and transatlantic shipping, then roads, canals, and",
+      "dir": "ltr",
+      "width": 359.07900000000006,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.4548,
+        254
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.36,
+        240
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "eventually railroads pushing westward to create the nation we call home. Access",
+      "dir": "ltr",
+      "width": 359.1735,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.36,
+        240
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2868,
+        226
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "to transportation is part of what made our country great.",
+      "dir": "ltr",
+      "width": 253.13400000000001,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2868,
+        226
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3337,
+        0,
+        0,
+        10.5,
+        85.2636,
+        212
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "The U.S. Department of Transportation (DOT), with a requested fiscal year (FY)",
+      "dir": "ltr",
+      "width": 346.87440800999894,
+      "height": 10.5,
+      "transform": [
+        10.3337,
+        0,
+        0,
+        10.5,
+        85.2636,
+        212
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6591,
+        0,
+        0,
+        10.5,
+        71.8884,
+        198
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "2023 budget of $142 billion,",
+      "dir": "ltr",
+      "width": 127.5062860199999,
+      "height": 10.5,
+      "transform": [
+        10.6591,
+        0,
+        0,
+        10.5,
+        71.8884,
+        198
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "1",
+      "dir": "ltr",
+      "width": 2.5353936000000004,
+      "height": 6.1215,
+      "transform": [
+        6.2142,
+        0,
+        0,
+        6.1215,
+        199.3614,
+        201.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.354369331531011,
+      "height": 0,
+      "transform": [
+        6.2142,
+        0,
+        0,
+        6.1215,
+        201.8967936,
+        201.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "was originally intended simply to provide a policy",
+      "dir": "ltr",
+      "width": 227.9150080199998,
+      "height": 10.5,
+      "transform": [
+        10.6591,
+        0,
+        0,
+        10.5,
+        204.0989155,
+        198
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4883,
+        0,
+        0,
+        10.5,
+        72.4296,
+        184
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "framework for transportation safety, rulemaking, and regulation. However, it has",
+      "dir": "ltr",
+      "width": 359.2410562800002,
+      "height": 10.5,
+      "transform": [
+        10.4883,
+        0,
+        0,
+        10.5,
+        72.4296,
+        184
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.36,
+        170
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "evolved to believe that its role is “to deliver the world’s leading transportation",
+      "dir": "ltr",
+      "width": 359.38154700000086,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.36,
+        170
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5076,
+        0,
+        0,
+        10.5,
+        72.3936,
+        156
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "system”",
+      "dir": "ltr",
+      "width": 36.04422028,
+      "height": 10.5,
+      "transform": [
+        10.5076,
+        0,
+        0,
+        10.5,
+        72.3936,
+        156
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "2",
+      "dir": "ltr",
+      "width": 3.3263637,
+      "height": 6.1215,
+      "transform": [
+        6.1259,
+        0,
+        0,
+        6.1215,
+        108.444,
+        159.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "—that is, to select individual projects and allocate taxpayer funds in the",
+      "dir": "ltr",
+      "width": 319.6338366800002,
+      "height": 10.5,
+      "transform": [
+        10.5076,
+        0,
+        0,
+        10.5,
+        111.7711,
+        156
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5318,
+        0,
+        0,
+        10.5,
+        72.318,
+        142
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "actual planning, developing, and building of transportation assets. Such a role is",
+      "dir": "ltr",
+      "width": 359.36292006000014,
+      "height": 10.5,
+      "transform": [
+        10.5318,
+        0,
+        0,
+        10.5,
+        72.318,
+        142
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2556,
+        128
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "held more appropriately by transportation asset owners: primarily states, munic",
+      "dir": "ltr",
+      "width": 358.4710500000001,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2556,
+        128
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.843,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        430.7421,
+        128
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        114
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "ipalities, and the private sector.",
+      "dir": "ltr",
+      "width": 140.12144999999995,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        114
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5077,
+        0,
+        0,
+        10.5,
+        85.3272,
+        100
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "In addition to providing a safety and regulatory framework through its 11 sub",
+      "dir": "ltr",
+      "width": 345.34501743000004,
+      "height": 10.5,
+      "transform": [
+        10.5077,
+        0,
+        0,
+        10.5,
+        85.3272,
+        100
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.8458181999999996,
+      "height": 10.5,
+      "transform": [
+        10.5077,
+        0,
+        0,
+        10.5,
+        430.7413,
+        100
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.377,
+        0,
+        0,
+        10.5,
+        72.36,
+        86
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "components, known as modes, the department has become a de facto grantmaking",
+      "dir": "ltr",
+      "width": 359.38041479999924,
+      "height": 10.5,
+      "transform": [
+        10.377,
+        0,
+        0,
+        10.5,
+        72.36,
+        86
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3013,
+        0,
+        0,
+        10.5,
+        72.318,
+        72
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "and lending organization. DOT provides approximately $50 billion in discretionary",
+      "dir": "ltr",
+      "width": 359.6163227399996,
+      "height": 10.5,
+      "transform": [
+        10.3013,
+        0,
+        0,
+        10.5,
+        72.318,
+        72
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    }
+  ],
+  "styles": {
+    "g_d0_f3": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f2": {
+      "fontFamily": "serif",
+      "ascent": 1.158,
+      "descent": -0.32,
+      "vertical": false
+    },
+    "g_d0_f8": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.017,
+      "descent": -0.297,
+      "vertical": false
+    },
+    "g_d0_f4": {
+      "fontFamily": "serif",
+      "ascent": 1.089,
+      "descent": -0.312,
+      "vertical": false
+    }
+  },
+  "lang": "en-US"
+}

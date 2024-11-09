@@ -1,0 +1,3541 @@
+{
+  "items": [
+    {
+      "str": "— 311 —",
+      "dir": "ltr",
+      "width": 38.059999999999995,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        232.6223,
+        32.0001
+      ],
+      "fontName": "g_d0_f3",
+      "hasEOL": false
+    },
+    {
+      "str": "Department of Agriculture",
+      "dir": "ltr",
+      "width": 119.93309999999995,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        192.0173,
+        664.4
+      ],
+      "fontName": "g_d0_f33",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        8,
+        0,
+        0,
+        8,
+        72.5256,
+        640.6001
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": true
+    },
+    {
+      "str": "ENDNOTES",
+      "dir": "ltr",
+      "width": 46.480000000000004,
+      "height": 8,
+      "transform": [
+        8,
+        0,
+        0,
+        8,
+        72.5256,
+        640.6001
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        624
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "1.",
+      "dir": "ltr",
+      "width": 6.075,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        624
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 1.349999999999999,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        77.8518,
+        624
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "U.S. Department of Agriculture,",
+      "dir": "ltr",
+      "width": 97.40520000000004,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.00179999999999,
+        624
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19976666666666018,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        187.40700000000007,
+        624
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Fiscal Year 2023 Budget Summary",
+      "dir": "ltr",
+      "width": 106.72110000000009,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        189.2049,
+        624
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": ", p.1,",
+      "dir": "ltr",
+      "width": 12.600000000000007,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        295.9251,
+        624
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1999777777777846,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        308.52509999999995,
+        624
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.usda.gov/sites/default/",
+      "dir": "ltr",
+      "width": 112.34700000000005,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        310.3249,
+        624
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2556,
+        613
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "files/documents/2023-usda-budget-summary.pdf",
+      "dir": "ltr",
+      "width": 155.67929999999998,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2556,
+        613
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19993333333331342,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        245.9349000000002,
+        613
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed December 14, 2022).",
+      "dir": "ltr",
+      "width": 95.96610000000015,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        247.73430000000002,
+        613
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.9844,
+        602
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "2.",
+      "dir": "ltr",
+      "width": 6.075,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.9844,
+        602
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 1.3269999999999997,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        78.0594,
+        602
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "See, for example, U.S. Department of Agriculture, “Transforming the U.S. Food System,”",
+      "dir": "ltr",
+      "width": 270.5274000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0024,
+        602
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19952222222218552,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        360.5298000000003,
+        602
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.usda.",
+      "dir": "ltr",
+      "width": 56.76299999999996,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        362.3255,
+        602
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2724,
+        591
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "gov/fst",
+      "dir": "ltr",
+      "width": 22.059000000000005,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2724,
+        591
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19995555555555533,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        112.3314,
+        591
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed December 14, 2022).",
+      "dir": "ltr",
+      "width": 95.9661000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        114.131,
+        591
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.8728,
+        580
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "3.",
+      "dir": "ltr",
+      "width": 6.075,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.8728,
+        580
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 1.3389999999999986,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        77.9478,
+        580
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "U.S. Department of Agriculture,",
+      "dir": "ltr",
+      "width": 97.40520000000004,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.99879999999999,
+        580
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.20009999999999195,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        187.40400000000008,
+        580
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Fiscal Year 2023 Budget Summary",
+      "dir": "ltr",
+      "width": 106.72110000000009,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        189.2049,
+        580
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": ", p.1.",
+      "dir": "ltr",
+      "width": 12.600000000000007,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        295.9251,
+        580
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.6064,
+        569
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "4.",
+      "dir": "ltr",
+      "width": 6.075,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.6064,
+        569
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 1.3689999999999998,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        77.6814,
+        569
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "U.S. Department of Agriculture, “USDA Celebrates 150 Years,”",
+      "dir": "ltr",
+      "width": 189.77940000000012,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0024,
+        569
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19975555555553606,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        279.7818000000002,
+        569
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.usda.gov/our-agency/about-usda/",
+      "dir": "ltr",
+      "width": 147.67110000000005,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        281.5796,
+        569
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.612,
+        558
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "history",
+      "dir": "ltr",
+      "width": 21.33,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.612,
+        558
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19994444444444703,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        111.94199999999998,
+        558
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed December 16, 2022).",
+      "dir": "ltr",
+      "width": 95.99310000000008,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        113.7415,
+        558
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.2364,
+        547
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "5.",
+      "dir": "ltr",
+      "width": 6.075,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.2364,
+        547
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 1.2989999999999986,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        78.3114,
+        547
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "The law stated, “[T]here is hereby established at the seat of government of the United States a Department",
+      "dir": "ltr",
+      "width": 333.38160000000045,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0024,
+        547
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2904,
+        536
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "of Agriculture, the general designs and duties of which shall be to acquire and to diffuse among the people",
+      "dir": "ltr",
+      "width": 331.90470000000033,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2904,
+        536
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2904,
+        525
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "of the United States useful information on subjects connected with agriculture in the most general and",
+      "dir": "ltr",
+      "width": 318.36060000000015,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2904,
+        525
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2904,
+        514
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "comprehensive sense of that word, and to procure, propagate, and distribute among the people new and",
+      "dir": "ltr",
+      "width": 325.71450000000027,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2904,
+        514
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.228,
+        503
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "valuable seeds and plants.” Gladys L. Baker et al.,",
+      "dir": "ltr",
+      "width": 152.1423000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.228,
+        503
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1999222222221988,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        242.3703000000002,
+        503
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Century of Service: The First 100 Years of the United States",
+      "dir": "ltr",
+      "width": 181.74420000000018,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        244.1696,
+        503
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2088,
+        492
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": true
+    },
+    {
+      "str": "Department of Agriculture",
+      "dir": "ltr",
+      "width": 82.0332,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2088,
+        492
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": ", (Washington, DC: U.S. Government Printing Office, 1963) p. 13,",
+      "dir": "ltr",
+      "width": 195.59340000000023,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        172.2422,
+        492
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19995555555551114,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        367.8356000000004,
+        492
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://babel.",
+      "dir": "ltr",
+      "width": 41.822999999999986,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        369.6352,
+        492
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.612,
+        481
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "hathitrust.org/cgi/pt?id=uc1.b4254098&view=1up&seq=33",
+      "dir": "ltr",
+      "width": 180.12330000000006,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.612,
+        481
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19986666666666983,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        270.7353,
+        481
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed December 16, 2022).",
+      "dir": "ltr",
+      "width": 95.99310000000014,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        272.5341,
+        481
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.1644,
+        470
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "6.",
+      "dir": "ltr",
+      "width": 6.075,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.1644,
+        470
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 1.306999999999999,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        78.2394,
+        470
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "U.S. Department of Agriculture,",
+      "dir": "ltr",
+      "width": 97.40520000000004,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0024,
+        470
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1996999999999913,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        187.4076000000001,
+        470
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Fiscal Year 2023 Budget Summary",
+      "dir": "ltr",
+      "width": 106.72110000000009,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        189.2049,
+        470
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": ", p. 2.",
+      "dir": "ltr",
+      "width": 16.254000000000048,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        295.9251,
+        470
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.5692,
+        459
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "7.",
+      "dir": "ltr",
+      "width": 6.075,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.5692,
+        459
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 1.373,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        77.6442,
+        459
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Ibid., p. 2.",
+      "dir": "ltr",
+      "width": 29.627099999999988,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0012,
+        459
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.2268,
+        448
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "8.",
+      "dir": "ltr",
+      "width": 6.075,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.2268,
+        448
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 1.3000000000000003,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        78.3018,
+        448
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "U.S. Department of Agriculture,",
+      "dir": "ltr",
+      "width": 97.40520000000004,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0018,
+        448
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19976666666666018,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        187.40700000000007,
+        448
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Strategic Plan: Fiscal Years 2022–2026",
+      "dir": "ltr",
+      "width": 119.13210000000008,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        189.2049,
+        448
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": ", p. 3,",
+      "dir": "ltr",
+      "width": 16.173000000000048,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        308.3366,
+        448
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19996666666666998,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        324.5096,
+        448
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.usda.gov/sites/",
+      "dir": "ltr",
+      "width": 87.71400000000004,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        326.3093,
+        448
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4212,
+        437
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "default/files/documents/usda-fy-2022-2026-strategic-plan.pdf",
+      "dir": "ltr",
+      "width": 196.03440000000006,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4212,
+        437
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19996666666665103,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        286.4556000000002,
+        437
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed December 14, 2022).",
+      "dir": "ltr",
+      "width": 95.96610000000015,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        288.25530000000003,
+        437
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.102,
+        426
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "9.",
+      "dir": "ltr",
+      "width": 6.075,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.102,
+        426
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 1.3139999999999992,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        78.177,
+        426
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "News release, “USDA Announces Framework for Shoring Up the Food Supply Chain and Transforming the",
+      "dir": "ltr",
+      "width": 327.2094000000003,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.003,
+        426
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        415
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "Food System to Be Fairer, More Competitive, More Resilient,” U.S. Department of Agriculture, June 1, 2022,",
+      "dir": "ltr",
+      "width": 328.16250000000025,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        415
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.612,
+        404
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "https://www.usda.gov/media/press-releases/2022/06/01/usda-announces-framework-shoring-food-supply-",
+      "dir": "ltr",
+      "width": 336.97349999999994,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.612,
+        404
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2904,
+        393
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "chain-and-transforming",
+      "dir": "ltr",
+      "width": 74.38409999999999,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2904,
+        393
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19989999999999794,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        164.67450000000002,
+        393
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed December 14, 2022).",
+      "dir": "ltr",
+      "width": 95.96610000000013,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        166.4736,
+        393
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        382
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "10.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        382
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.899977777777778,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.9018,
+        382
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "U.S. Department of Agriculture, “Transforming the U.S. Food System.”",
+      "dir": "ltr",
+      "width": 215.39250000000024,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0016,
+        382
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        371
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "11.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        371
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.899977777777778,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.9018,
+        371
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "U.S. Department of Agriculture,",
+      "dir": "ltr",
+      "width": 97.40520000000005,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0016,
+        371
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19978888888888313,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        187.40680000000006,
+        371
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Strategic Plan: Fiscal Years 2022–2026",
+      "dir": "ltr",
+      "width": 119.13210000000008,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        189.2049,
+        371
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": ", pp. 1–2.",
+      "dir": "ltr",
+      "width": 26.514000000000024,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        308.3366,
+        371
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        360
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "12.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        360
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.899977777777778,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.9018,
+        360
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "U.S. Department of Agriculture, “Background on the U.S. Approach to the 2021 UN Food Systems Summit,”",
+      "dir": "ltr",
+      "width": 330.6825000000004,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0016,
+        360
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.7588,
+        349
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "August 4, 2021,",
+      "dir": "ltr",
+      "width": 47.39309999999999,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.7588,
+        349
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.2000111111111159,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        137.15189999999996,
+        349
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.usda.gov/sites/default/files/documents/Background-on-US-approach-2021-UN-",
+      "dir": "ltr",
+      "width": 289.49940000000004,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        138.952,
+        349
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        338
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "Food-Systems-Summit.pdf",
+      "dir": "ltr",
+      "width": 83.90610000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        338
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19993333333332922,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        174.44610000000006,
+        338
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed December 14, 2022).",
+      "dir": "ltr",
+      "width": 95.96610000000015,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        176.24550000000002,
+        338
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        327
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "13.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        327
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.899977777777778,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.9018,
+        327
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "U.S. Department of Agriculture, “UN Food Systems Summit,”",
+      "dir": "ltr",
+      "width": 187.71840000000017,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0016,
+        327
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19981111111109662,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        277.72000000000014,
+        327
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.usda.gov/oce/sustainability/un-",
+      "dir": "ltr",
+      "width": 138.32820000000007,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        279.5183,
+        327
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4176,
+        316
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "summit",
+      "dir": "ltr",
+      "width": 23.669999999999998,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4176,
+        316
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19992222222222406,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        114.08759999999998,
+        316
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed December 14, 2022).",
+      "dir": "ltr",
+      "width": 95.96610000000011,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        115.8869,
+        316
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        305
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "14.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        305
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.899977777777778,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.9018,
+        305
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Mark Bittman et al., “How a National Food Policy Could Save Millions of American Lives,”",
+      "dir": "ltr",
+      "width": 273.7944000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0016,
+        305
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1995888888888544,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        363.79600000000033,
+        305
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "The Washington",
+      "dir": "ltr",
+      "width": 50.66100000000007,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        365.5923,
+        305
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2088,
+        294
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": true
+    },
+    {
+      "str": "Post",
+      "dir": "ltr",
+      "width": 13.634999999999998,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2088,
+        294
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": ", November 7, 2014,",
+      "dir": "ltr",
+      "width": 60.27210000000005,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        103.8437,
+        294
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19997777777777198,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        164.11580000000006,
+        294
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.washingtonpost.com/opinions/how-a-national-food-policy-could-",
+      "dir": "ltr",
+      "width": 245.82330000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        165.9156,
+        294
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4176,
+        283
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "save-millions-of-american-lives/2014/11/07/89c55e16-637f-11e4-836c-83bc4f26eb67_story.html",
+      "dir": "ltr",
+      "width": 297.0126000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4176,
+        283
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19989999999994426,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        387.4302000000005,
+        283
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed",
+      "dir": "ltr",
+      "width": 30.537000000000038,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        389.2293,
+        283
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        272
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "December 14, 2022); Daren Bakst and Gabriella Beaumont-Smith, “No, We Don’t Need to Transform the",
+      "dir": "ltr",
+      "width": 320.7915000000003,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        272
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.7588,
+        261
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "American Food System,” The Daily Signal, February 26, 2021,",
+      "dir": "ltr",
+      "width": 188.30340000000018,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.7588,
+        261
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19998888888886135,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        278.06220000000025,
+        261
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.dailysignal.com/2021/02/26/",
+      "dir": "ltr",
+      "width": 130.48110000000005,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        279.8621,
+        261
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4788,
+        250
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "no-we-dont-need-to-transform-the-american-food-system/",
+      "dir": "ltr",
+      "width": 188.13150000000007,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4788,
+        250
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1999999999999823,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        278.61030000000017,
+        250
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed December 14, 2022); and Daren",
+      "dir": "ltr",
+      "width": 130.03110000000015,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        280.4103,
+        250
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        239
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "Bakst, “Biden’s Food Conference Should Put People First, Not Environmental Extremism,” The Daily Signal,",
+      "dir": "ltr",
+      "width": 329.47380000000027,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        239
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.282,
+        228
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "September 22, 2022,",
+      "dir": "ltr",
+      "width": 64.6101,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.282,
+        228
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19997777777778147,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        154.89209999999997,
+        228
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.dailysignal.com/2022/09/22/bidens-food-conference-should-put-people-",
+      "dir": "ltr",
+      "width": 270.94230000000016,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        156.6919,
+        228
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2556,
+        217
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "first-not-environmental-extremism/",
+      "dir": "ltr",
+      "width": 111.89430000000004,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2556,
+        217
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.20001111111110012,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        202.14990000000012,
+        217
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed December 14, 2022).",
+      "dir": "ltr",
+      "width": 95.96610000000015,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        203.95000000000002,
+        217
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        206
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "15.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        206
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8999888888888895,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.9018,
+        206
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "News release, “USDA to Invest Up to $300 Million in New Organic Transition Initiative,” U.S. Department of",
+      "dir": "ltr",
+      "width": 328.44240000000036,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0017,
+        206
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.7588,
+        195
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "Agriculture, August 22, 2022,",
+      "dir": "ltr",
+      "width": 90.2502,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.7588,
+        195
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.20003333333333254,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        180.00900000000001,
+        195
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.usda.gov/media/press-releases/2022/08/22/usda-invest-300-",
+      "dir": "ltr",
+      "width": 234.56340000000012,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        181.8093,
+        195
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4788,
+        184
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "million-new-organic-transition-initiative",
+      "dir": "ltr",
+      "width": 124.14240000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4788,
+        184
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19999999999997917,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        214.6212000000002,
+        184
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed December 14, 2022).",
+      "dir": "ltr",
+      "width": 95.96610000000015,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        216.4212,
+        184
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        173
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "16.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        173
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8999888888888895,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.9018,
+        173
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Gary Baise, “Sri Lanka’s Green New Deal Was a Disaster,” Farm Futures, November 14, 2022,",
+      "dir": "ltr",
+      "width": 283.64760000000035,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0017,
+        173
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19985555555549833,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        373.6493000000005,
+        173
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.",
+      "dir": "ltr",
+      "width": 40.31999999999997,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        375.448,
+        173
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.5388,
+        162
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "farmprogress.com/commentary/sri-lankas-green-new-deal-was-disaster",
+      "dir": "ltr",
+      "width": 225.78840000000017,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.5388,
+        162
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1999666666666321,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        316.32720000000035,
+        162
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed December 16, 2022).",
+      "dir": "ltr",
+      "width": 95.99400000000013,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        318.12690000000003,
+        162
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        151
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "17.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        151
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8998000000000006,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.9018,
+        151
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "See, for example, Catherine Greene et al., “Growing Organic Demand Provides High-Value Opportunities for Many",
+      "dir": "ltr",
+      "width": 338.6682090000008,
+      "height": 9,
+      "transform": [
+        8.91,
+        0,
+        0,
+        9,
+        90,
+        151
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        8.91,
+        0,
+        0,
+        9,
+        89.8408,
+        140
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "Types of Producers,” Economic Research Service, U.S. Department of Agriculture, February 6, 2017,",
+      "dir": "ltr",
+      "width": 293.0837580000006,
+      "height": 9,
+      "transform": [
+        8.91,
+        0,
+        0,
+        9,
+        89.8408,
+        140
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1794772166104256,
+      "height": 0,
+      "transform": [
+        8.91,
+        0,
+        0,
+        9,
+        382.9245580000011,
+        140
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.",
+      "dir": "ltr",
+      "width": 38.93670000000014,
+      "height": 9,
+      "transform": [
+        8.91,
+        0,
+        0,
+        9,
+        384.5237,
+        140
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        8.91,
+        0,
+        0,
+        9,
+        90.2875,
+        129
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "ers.usda.gov/amber-waves/2017/januaryfebruary/growing-organic-demand-provides-high-value-opportunities-",
+      "dir": "ltr",
+      "width": 335.69226900000064,
+      "height": 9,
+      "transform": [
+        8.91,
+        0,
+        0,
+        9,
+        90.2875,
+        129
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        8.91,
+        0,
+        0,
+        9,
+        90.5334,
+        118
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "for-many-types-of-producers/#:~:text=ERS%20research%20shows%20that%20many,flavor%20desired%20",
+      "dir": "ltr",
+      "width": 322.45022700000067,
+      "height": 9,
+      "transform": [
+        8.91,
+        0,
+        0,
+        9,
+        90.5334,
+        118
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        8.91,
+        0,
+        0,
+        9,
+        90.6059,
+        107
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "by%20the%20consumer",
+      "dir": "ltr",
+      "width": 73.67679000000001,
+      "height": 9,
+      "transform": [
+        8.91,
+        0,
+        0,
+        9,
+        90.6059,
+        107
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.17982154882155355,
+      "height": 0,
+      "transform": [
+        8.91,
+        0,
+        0,
+        9,
+        164.28268999999997,
+        107
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed December 14, 2022), and Andrea Carlson, “Investigating Retail Price Premiums",
+      "dir": "ltr",
+      "width": 265.32643500000114,
+      "height": 9,
+      "transform": [
+        8.91,
+        0,
+        0,
+        9,
+        165.88490000000002,
+        107
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        8.91,
+        0,
+        0,
+        9,
+        90.5334,
+        96
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "for Organic Foods,” Economic Research Service, U.S. Department of Agriculture, May 24, 2016,",
+      "dir": "ltr",
+      "width": 279.47907900000064,
+      "height": 9,
+      "transform": [
+        8.91,
+        0,
+        0,
+        9,
+        90.5334,
+        96
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.17946363636352716,
+      "height": 0,
+      "transform": [
+        8.91,
+        0,
+        0,
+        9,
+        370.01247900000095,
+        96
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.ers.",
+      "dir": "ltr",
+      "width": 49.29012000000017,
+      "height": 9,
+      "transform": [
+        8.91,
+        0,
+        0,
+        9,
+        371.6115,
+        96
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        8.91,
+        0,
+        0,
+        9,
+        90.5275,
+        85
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "usda.gov/amber-waves/2016/may/investigating-retail-price-premiums-for-organic-foods/",
+      "dir": "ltr",
+      "width": 270.3980070000004,
+      "height": 9,
+      "transform": [
+        8.91,
+        0,
+        0,
+        9,
+        90.5275,
+        85
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.17967373737363362,
+      "height": 0,
+      "transform": [
+        8.91,
+        0,
+        0,
+        9,
+        360.92550700000095,
+        85
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed December",
+      "dir": "ltr",
+      "width": 62.28891900000029,
+      "height": 9,
+      "transform": [
+        8.91,
+        0,
+        0,
+        9,
+        362.5264,
+        85
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        8.91,
+        0,
+        0,
+        9,
+        90.2792,
+        74
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "16, 2022). Further, there are many myths, such as those regarding the alleged health benefit of organic food. One",
+      "dir": "ltr",
+      "width": 337.0296600000009,
+      "height": 9,
+      "transform": [
+        8.91,
+        0,
+        0,
+        9,
+        90.2792,
+        74
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    }
+  ],
+  "styles": {
+    "g_d0_f3": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f33": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f8": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.017,
+      "descent": -0.297,
+      "vertical": false
+    },
+    "g_d0_f17": {
+      "fontFamily": "sans-serif",
+      "ascent": 0.939,
+      "descent": -0.202,
+      "vertical": false
+    },
+    "g_d0_f18": {
+      "fontFamily": "sans-serif",
+      "ascent": 0.939,
+      "descent": -0.202,
+      "vertical": false
+    }
+  },
+  "lang": "en-US"
+}

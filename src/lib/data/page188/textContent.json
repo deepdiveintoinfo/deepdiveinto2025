@@ -1,0 +1,1375 @@
+{
+  "items": [
+    {
+      "str": "— 155 —",
+      "dir": "ltr",
+      "width": 40.379999999999995,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        231.4624,
+        32.0001
+      ],
+      "fontName": "g_d0_f3",
+      "hasEOL": false
+    },
+    {
+      "str": "Department of Homeland Security",
+      "dir": "ltr",
+      "width": 155.32919999999996,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        174.4671,
+        664.4
+      ],
+      "fontName": "g_d0_f25",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4161,
+        0,
+        0,
+        10.5,
+        72.318,
+        632
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "and (2) national coordination of critical infrastructure security and resilience. Yet",
+      "dir": "ltr",
+      "width": 359.5116915000003,
+      "height": 10.5,
+      "transform": [
+        10.4161,
+        0,
+        0,
+        10.5,
+        72.318,
+        632
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4954,
+        0,
+        0,
+        10.5,
+        72.0348,
+        618
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "CISA has rapidly expanded its scope into lanes where it does not belong, the most",
+      "dir": "ltr",
+      "width": 359.78651016000015,
+      "height": 10.5,
+      "transform": [
+        10.4954,
+        0,
+        0,
+        10.5,
+        72.0348,
+        618
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6371,
+        0,
+        0,
+        10.5,
+        72.2304,
+        604
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "recent and most glaring example being censorship of so-called misinformation",
+      "dir": "ltr",
+      "width": 359.2084847399997,
+      "height": 10.5,
+      "transform": [
+        10.6371,
+        0,
+        0,
+        10.5,
+        72.2304,
+        604
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.318,
+        590
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "and disinformation.",
+      "dir": "ltr",
+      "width": 89.51250000000002,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.318,
+        590
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        85.5348,
+        576
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "CISA’s funding and resources should align narrowly with the foregoing two",
+      "dir": "ltr",
+      "width": 345.95549100000096,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        85.5348,
+        576
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        562
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "mission requirements. The component’s emergency communications and Chem",
+      "dir": "ltr",
+      "width": 358.52775000000014,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        562
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.843,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        430.7421,
+        562
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        548
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "ical Facility Anti-Terrorism Standards (CFATS) roles should be moved to FEMA;",
+      "dir": "ltr",
+      "width": 359.82345000000004,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        548
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.2304,
+        534
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "its school security functions should be transferred to state homeland security",
+      "dir": "ltr",
+      "width": 359.71569899999986,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.2304,
+        534
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6083,
+        0,
+        0,
+        10.5,
+        72.36,
+        520
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "offices; and CISA should refrain from duplicating cybersecurity functions done",
+      "dir": "ltr",
+      "width": 359.19597716999994,
+      "height": 10.5,
+      "transform": [
+        10.6083,
+        0,
+        0,
+        10.5,
+        72.36,
+        520
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.36,
+        506
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "elsewhere at the Department of Defense, FBI, National Security Agency, and U.S.",
+      "dir": "ltr",
+      "width": 361.16745000000026,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.36,
+        506
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2976,
+        492
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Secret Service.",
+      "dir": "ltr",
+      "width": 65.8875,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2976,
+        492
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        85.6668,
+        478
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Of the utmost urgency is immediately ending CISA’s counter-mis/disinforma",
+      "dir": "ltr",
+      "width": 345.09300000000013,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        85.6668,
+        478
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.843,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        430.7421,
+        478
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6078,
+        0,
+        0,
+        10.5,
+        72.2868,
+        464
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "tion efforts. The federal government cannot be the arbiter of truth. CISA began",
+      "dir": "ltr",
+      "width": 359.48030874,
+      "height": 10.5,
+      "transform": [
+        10.6078,
+        0,
+        0,
+        10.5,
+        72.2868,
+        464
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2868,
+        450
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "this work because of alleged Russian misinformation in the 2016 election, which",
+      "dir": "ltr",
+      "width": 359.415,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2868,
+        450
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4327,
+        0,
+        0,
+        10.5,
+        72.2304,
+        436
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "in fact turned out to be a Clinton campaign “dirty trick.” The Intelligence Commu",
+      "dir": "ltr",
+      "width": 358.6303221199998,
+      "height": 10.5,
+      "transform": [
+        10.4327,
+        0,
+        0,
+        10.5,
+        72.2304,
+        436
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.8183316,
+      "height": 10.5,
+      "transform": [
+        10.4326,
+        0,
+        0,
+        10.5,
+        430.7516,
+        436
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        422
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "nity, including the NSA or DOD, should counter foreign actors. At the time of this",
+      "dir": "ltr",
+      "width": 359.29950000000036,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        422
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4142,
+        0,
+        0,
+        10.5,
+        72.096,
+        408
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "writing, release of the Twitter Files has demonstrated that CISA has devolved into",
+      "dir": "ltr",
+      "width": 359.44090589999934,
+      "height": 10.5,
+      "transform": [
+        10.4142,
+        0,
+        0,
+        10.5,
+        72.096,
+        408
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.474,
+        0,
+        0,
+        10.5,
+        72.318,
+        394
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "an unconstitutional censoring and election engineering apparatus of the political",
+      "dir": "ltr",
+      "width": 359.4058833999996,
+      "height": 10.5,
+      "transform": [
+        10.474,
+        0,
+        0,
+        10.5,
+        72.318,
+        394
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6464,
+        0,
+        0,
+        10.5,
+        71.9316,
+        380
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Left. In any event, the entirety of the CISA Cybersecurity Advisory Committee",
+      "dir": "ltr",
+      "width": 359.62048703999926,
+      "height": 10.5,
+      "transform": [
+        10.6464,
+        0,
+        0,
+        10.5,
+        71.9316,
+        380
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.3936,
+        366
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "should be dismissed on Day One.",
+      "dir": "ltr",
+      "width": 146.622,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.3936,
+        366
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        85.4316,
+        352
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "For election security, CISA should help states and localities assess whether",
+      "dir": "ltr",
+      "width": 346.152555000001,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        85.4316,
+        352
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5736,
+        0,
+        0,
+        10.5,
+        72.2868,
+        338
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "they have good cyber hygiene in their hardware and software in preparation for",
+      "dir": "ltr",
+      "width": 359.41358175999943,
+      "height": 10.5,
+      "transform": [
+        10.5736,
+        0,
+        0,
+        10.5,
+        72.2868,
+        338
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3874,
+        0,
+        0,
+        10.5,
+        72.318,
+        324
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "an election—but nothing more. This is of value to smaller localities, particularly by",
+      "dir": "ltr",
+      "width": 359.52868879999903,
+      "height": 10.5,
+      "transform": [
+        10.3874,
+        0,
+        0,
+        10.5,
+        72.318,
+        324
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4669,
+        0,
+        0,
+        10.5,
+        72.1416,
+        310
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "flagging who is attacking their websites. CISA should not be significantly involved",
+      "dir": "ltr",
+      "width": 359.15492646000047,
+      "height": 10.5,
+      "transform": [
+        10.4669,
+        0,
+        0,
+        10.5,
+        72.1416,
+        310
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.36,
+        296
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "closer to an election. Nor should it participate in messaging or propaganda.",
+      "dir": "ltr",
+      "width": 334.4880000000001,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.36,
+        296
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        72.3348,
+        268
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": true
+    },
+    {
+      "str": "U.S. COAST GUARD (USCG)",
+      "dir": "ltr",
+      "width": 140.269,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        72.3348,
+        268
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9.5,
+        0,
+        0,
+        9.5,
+        72.3996,
+        240
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": true
+    },
+    {
+      "str": "Needed Reforms",
+      "dir": "ltr",
+      "width": 80.85355,
+      "height": 9.5,
+      "transform": [
+        9.5,
+        0,
+        0,
+        9.5,
+        72.3996,
+        240
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        85.2636,
+        226
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "The U.S. Coast Guard fleet should be sized to the needs of great-power compe",
+      "dir": "ltr",
+      "width": 345.5119499999999,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        85.2636,
+        226
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.843,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        430.7422,
+        226
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6023,
+        0,
+        0,
+        10.5,
+        72.2868,
+        212
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "tition, specifically focusing efforts and investment on protecting U.S. waters, all",
+      "dir": "ltr",
+      "width": 359.49324632999964,
+      "height": 10.5,
+      "transform": [
+        10.6023,
+        0,
+        0,
+        10.5,
+        72.2868,
+        212
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.642,
+        0,
+        0,
+        10.5,
+        72.096,
+        198
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "while seeking to find (where feasible) more economical ways to perform USCG",
+      "dir": "ltr",
+      "width": 359.28775459999997,
+      "height": 10.5,
+      "transform": [
+        10.642,
+        0,
+        0,
+        10.5,
+        72.096,
+        198
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3247,
+        0,
+        0,
+        10.5,
+        72.2304,
+        184
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "missions. The scope of the Coast Guard’s mission needs to be focused on protecting",
+      "dir": "ltr",
+      "width": 359.480242250001,
+      "height": 10.5,
+      "transform": [
+        10.3247,
+        0,
+        0,
+        10.5,
+        72.2304,
+        184
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3757,
+        0,
+        0,
+        10.5,
+        71.994,
+        170
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "U.S. resources and interests in its home waters, specifically its Exclusive Economic",
+      "dir": "ltr",
+      "width": 359.58544705000054,
+      "height": 10.5,
+      "transform": [
+        10.3757,
+        0,
+        0,
+        10.5,
+        71.994,
+        170
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4704,
+        0,
+        0,
+        10.5,
+        72.066,
+        156
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Zone (200 miles from shore). USCG’s budget should address the growing demand",
+      "dir": "ltr",
+      "width": 359.4917606399999,
+      "height": 10.5,
+      "transform": [
+        10.4704,
+        0,
+        0,
+        10.5,
+        72.066,
+        156
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3337,
+        0,
+        0,
+        10.5,
+        72.4296,
+        142
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "for it to address the increasing threat from the Chinese fishing fleet in home waters",
+      "dir": "ltr",
+      "width": 359.07540759999915,
+      "height": 10.5,
+      "transform": [
+        10.3337,
+        0,
+        0,
+        10.5,
+        72.4296,
+        142
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4507,
+        0,
+        0,
+        10.5,
+        72.318,
+        128
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "as well as narcotics and migrant flows in the Caribbean and Eastern Pacific. Doing",
+      "dir": "ltr",
+      "width": 359.29193079000066,
+      "height": 10.5,
+      "transform": [
+        10.4507,
+        0,
+        0,
+        10.5,
+        72.318,
+        128
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6089,
+        0,
+        0,
+        10.5,
+        72.2868,
+        114
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "this will require reversing years of shortfalls in shipbuilding, maintenance, and",
+      "dir": "ltr",
+      "width": 359.34253901999926,
+      "height": 10.5,
+      "transform": [
+        10.6089,
+        0,
+        0,
+        10.5,
+        72.2868,
+        114
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2664,
+        100
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "upgrades of shore facilities as well as seeking more cost-effective ship and facility",
+      "dir": "ltr",
+      "width": 359.6124000000001,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2664,
+        100
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4108,
+        0,
+        0,
+        10.5,
+        72.36,
+        86
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "designs. In wartime, the USCG supports the Navy, but it has limited capability and",
+      "dir": "ltr",
+      "width": 358.9539732000006,
+      "height": 10.5,
+      "transform": [
+        10.4108,
+        0,
+        0,
+        10.5,
+        72.36,
+        86
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.36,
+        72
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "capacity to support wartime missions outside home waters.",
+      "dir": "ltr",
+      "width": 265.38750000000005,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.36,
+        72
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    }
+  ],
+  "styles": {
+    "g_d0_f3": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f25": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f4": {
+      "fontFamily": "serif",
+      "ascent": 1.089,
+      "descent": -0.312,
+      "vertical": false
+    },
+    "g_d0_f8": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.017,
+      "descent": -0.297,
+      "vertical": false
+    }
+  },
+  "lang": "en-US"
+}

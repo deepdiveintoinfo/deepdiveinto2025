@@ -1,0 +1,1919 @@
+{
+  "items": [
+    {
+      "str": "— 419 —",
+      "dir": "ltr",
+      "width": 41.10000000000001,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        231.1023,
+        32.0001
+      ],
+      "fontName": "g_d0_f3",
+      "hasEOL": false
+    },
+    {
+      "str": "Environmental Protection Agency",
+      "dir": "ltr",
+      "width": 152.70209999999986,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        175.7808,
+        664.4
+      ],
+      "fontName": "g_d0_f60",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5586,
+        0,
+        0,
+        10.5,
+        72.36,
+        632
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "disasters in decades, including the Flint, Michigan, water crisis in 2014",
+      "dir": "ltr",
+      "width": 319.4303816600004,
+      "height": 10.5,
+      "transform": [
+        10.5586,
+        0,
+        0,
+        10.5,
+        72.36,
+        632
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "4",
+      "dir": "ltr",
+      "width": 3.3733236000000004,
+      "height": 6.1215,
+      "transform": [
+        6.1557,
+        0,
+        0,
+        6.1215,
+        391.8412,
+        635.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.3492165310200298,
+      "height": 0,
+      "transform": [
+        6.1557,
+        0,
+        0,
+        6.1215,
+        395.2145236,
+        635.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "and the",
+      "dir": "ltr",
+      "width": 34.10427800000013,
+      "height": 10.5,
+      "transform": [
+        10.5586,
+        0,
+        0,
+        10.5,
+        397.3641958,
+        632
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.0348,
+        618
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Gold King Mine spill in 2015.",
+      "dir": "ltr",
+      "width": 129.28649999999996,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.0348,
+        618
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "5",
+      "dir": "ltr",
+      "width": 3.2199090000000004,
+      "height": 6.1215,
+      "transform": [
+        6.1215,
+        0,
+        0,
+        6.1215,
+        201.319,
+        621.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6141,
+        0,
+        0,
+        10.5,
+        85.4316,
+        604
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Beyond creating such immediate and tangible harm in various communities,",
+      "dir": "ltr",
+      "width": 348.37599019999965,
+      "height": 10.5,
+      "transform": [
+        10.6141,
+        0,
+        0,
+        10.5,
+        85.4316,
+        604
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5889,
+        0,
+        0,
+        10.5,
+        72.318,
+        590
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "an EPA led by activism and a disregard for the law has generated uncertainty in",
+      "dir": "ltr",
+      "width": 359.4899783300005,
+      "height": 10.5,
+      "transform": [
+        10.5889,
+        0,
+        0,
+        10.5,
+        72.318,
+        590
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.2868,
+        576
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "the regulated community, vendetta-driven",
+      "dir": "ltr",
+      "width": 199.5412230000004,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.2868,
+        576
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "6",
+      "dir": "ltr",
+      "width": 3.3841938000000003,
+      "height": 6.1215,
+      "transform": [
+        6.2439,
+        0,
+        0,
+        6.1215,
+        272.0595,
+        579.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.42281525969345934,
+      "height": 0,
+      "transform": [
+        6.2439,
+        0,
+        0,
+        6.1215,
+        275.4436938,
+        579.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "enforcement, weighted analytics,",
+      "dir": "ltr",
+      "width": 155.60987399999965,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        278.08371,
+        576
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6966,
+        0,
+        0,
+        10.5,
+        72.2304,
+        562
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "increased costs, and diminished trust in final agency actions. Although the U.S.",
+      "dir": "ltr",
+      "width": 361.02201626,
+      "height": 10.5,
+      "transform": [
+        10.6966,
+        0,
+        0,
+        10.5,
+        72.2304,
+        562
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3583,
+        0,
+        0,
+        10.5,
+        72.36,
+        548
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "environmental story is very positive, there has been a return to fear-based rhetoric",
+      "dir": "ltr",
+      "width": 359.1284759800001,
+      "height": 10.5,
+      "transform": [
+        10.3583,
+        0,
+        0,
+        10.5,
+        72.36,
+        548
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.2921,
+        0,
+        0,
+        10.5,
+        72.096,
+        534
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "within the agency, especially as it pertains to the perceived threat of climate change.",
+      "dir": "ltr",
+      "width": 361.20536633999967,
+      "height": 10.5,
+      "transform": [
+        10.2921,
+        0,
+        0,
+        10.5,
+        72.096,
+        534
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6113,
+        0,
+        0,
+        10.5,
+        71.9316,
+        520
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Mischaracterizing the state of our environment generally and the actual harms",
+      "dir": "ltr",
+      "width": 359.6668301099994,
+      "height": 10.5,
+      "transform": [
+        10.6113,
+        0,
+        0,
+        10.5,
+        71.9316,
+        520
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3633,
+        0,
+        0,
+        10.5,
+        72.2304,
+        506
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "reasonably attributable to climate change specifically is a favored tool that the Left",
+      "dir": "ltr",
+      "width": 359.71325199000074,
+      "height": 10.5,
+      "transform": [
+        10.3633,
+        0,
+        0,
+        10.5,
+        72.2304,
+        506
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3906,
+        0,
+        0,
+        10.5,
+        72.2664,
+        492
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "uses to scare the American public into accepting their ineffective, liberty-crushing",
+      "dir": "ltr",
+      "width": 359.336041680001,
+      "height": 10.5,
+      "transform": [
+        10.3906,
+        0,
+        0,
+        10.5,
+        72.2664,
+        492
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3837,
+        0,
+        0,
+        10.5,
+        72.2304,
+        478
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "regulations, diminished private property rights, and exorbitant costs. In effect, the",
+      "dir": "ltr",
+      "width": 359.2729048899992,
+      "height": 10.5,
+      "transform": [
+        10.3837,
+        0,
+        0,
+        10.5,
+        72.2304,
+        478
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5833,
+        0,
+        0,
+        10.5,
+        71.9316,
+        464
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Biden EPA has once again presented a false choice to the American people: that",
+      "dir": "ltr",
+      "width": 359.8639498999995,
+      "height": 10.5,
+      "transform": [
+        10.5833,
+        0,
+        0,
+        10.5,
+        71.9316,
+        464
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.29,
+        0,
+        0,
+        10.5,
+        72.2868,
+        450
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "they have to choose between a healthy environment and a strong, growing economy.",
+      "dir": "ltr",
+      "width": 361.11417300000096,
+      "height": 10.5,
+      "transform": [
+        10.29,
+        0,
+        0,
+        10.5,
+        72.2868,
+        450
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        85.8456,
+        436
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": true
+    },
+    {
+      "str": "Historical Role and Purpose.",
+      "dir": "ltr",
+      "width": 145.7523900000001,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        85.8456,
+        436
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.2145947712418235,
+      "height": 0,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        231.59799000000007,
+        436
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": "For many decades, rapid industrial activity",
+      "dir": "ltr",
+      "width": 197.83726200000044,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        233.8963,
+        436
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.429,
+        0,
+        0,
+        10.5,
+        72.096,
+        422
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "with an unorganized approach to environmental standards significantly degraded",
+      "dir": "ltr",
+      "width": 359.62842150000097,
+      "height": 10.5,
+      "transform": [
+        10.429,
+        0,
+        0,
+        10.5,
+        72.096,
+        422
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2868,
+        408
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "the country’s environment. Particle pollution in the form of a thick, fog-like haze",
+      "dir": "ltr",
+      "width": 359.22495,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2868,
+        408
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2868,
+        394
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "that at times was laced with harmful metals was a frequent occurrence across the",
+      "dir": "ltr",
+      "width": 359.1630000000001,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2868,
+        394
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4852,
+        0,
+        0,
+        10.5,
+        72.36,
+        380
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "country.",
+      "dir": "ltr",
+      "width": 37.408048040000004,
+      "height": 10.5,
+      "transform": [
+        10.4852,
+        0,
+        0,
+        10.5,
+        72.36,
+        380
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "7",
+      "dir": "ltr",
+      "width": 3.0930768,
+      "height": 6.1215,
+      "transform": [
+        6.1128,
+        0,
+        0,
+        6.1215,
+        109.7483,
+        383.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.28276423243030857,
+      "height": 0,
+      "transform": [
+        6.1128,
+        0,
+        0,
+        6.1215,
+        112.8413768,
+        383.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "More than 40 percent of communities failed to meet basic water quality",
+      "dir": "ltr",
+      "width": 317.44152704000004,
+      "height": 10.5,
+      "transform": [
+        10.4852,
+        0,
+        0,
+        10.5,
+        114.569858,
+        380
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6748,
+        0,
+        0,
+        10.5,
+        72.3936,
+        366
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "standards, and in 1969, the Cuyahoga River infamously caught fire after sparks",
+      "dir": "ltr",
+      "width": 359.14297120000055,
+      "height": 10.5,
+      "transform": [
+        10.6748,
+        0,
+        0,
+        10.5,
+        72.3936,
+        366
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4827,
+        0,
+        0,
+        10.5,
+        72.4296,
+        352
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "from a passing train ignited debris in the water, which was filled with heavy indus",
+      "dir": "ltr",
+      "width": 358.48527806000016,
+      "height": 10.5,
+      "transform": [
+        10.4827,
+        0,
+        0,
+        10.5,
+        72.4296,
+        352
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.8366681999999996,
+      "height": 10.5,
+      "transform": [
+        10.4827,
+        0,
+        0,
+        10.5,
+        430.745,
+        352
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2868,
+        338
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "trial waste.",
+      "dir": "ltr",
+      "width": 49.371,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2868,
+        338
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "8",
+      "dir": "ltr",
+      "width": 3.2382735,
+      "height": 6.1215,
+      "transform": [
+        6.1215,
+        0,
+        0,
+        6.1215,
+        121.657,
+        341.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5728,
+        0,
+        0,
+        10.5,
+        85.4316,
+        324
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "EPA was established on December 2, 1970, following a call by President Rich",
+      "dir": "ltr",
+      "width": 345.1501132799998,
+      "height": 10.5,
+      "transform": [
+        10.5728,
+        0,
+        0,
+        10.5,
+        85.4316,
+        324
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.8696448,
+      "height": 10.5,
+      "transform": [
+        10.5728,
+        0,
+        0,
+        10.5,
+        430.7339,
+        324
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5621,
+        0,
+        0,
+        10.5,
+        72.318,
+        310
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "ard Nixon to “rationally and systematically” organize existing piecemeal efforts",
+      "dir": "ltr",
+      "width": 359.1568170300004,
+      "height": 10.5,
+      "transform": [
+        10.5621,
+        0,
+        0,
+        10.5,
+        72.318,
+        310
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5378,
+        0,
+        0,
+        10.5,
+        72.2868,
+        296
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "to clean up and protect the environment.",
+      "dir": "ltr",
+      "width": 185.13123174000023,
+      "height": 10.5,
+      "transform": [
+        10.5378,
+        0,
+        0,
+        10.5,
+        72.2868,
+        296
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "9",
+      "dir": "ltr",
+      "width": 3.3298312,
+      "height": 6.1215,
+      "transform": [
+        6.1436,
+        0,
+        0,
+        6.1215,
+        257.3101,
+        299.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.34884142847841654,
+      "height": 0,
+      "transform": [
+        6.1436,
+        0,
+        0,
+        6.1215,
+        260.6399312,
+        299.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "Under Reorganization Plan No. 3, the",
+      "dir": "ltr",
+      "width": 168.7976417400003,
+      "height": 10.5,
+      "transform": [
+        10.5378,
+        0,
+        0,
+        10.5,
+        262.7830734,
+        296
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5487,
+        0,
+        0,
+        10.5,
+        71.9316,
+        282
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "EPA was to initiate a “coordinated attack on the pollutants which debase the air",
+      "dir": "ltr",
+      "width": 360.01130795000023,
+      "height": 10.5,
+      "transform": [
+        10.5487,
+        0,
+        0,
+        10.5,
+        71.9316,
+        282
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6616,
+        0,
+        0,
+        10.5,
+        72.096,
+        268
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "we breathe, the water we drink, and the land that grows our food.”",
+      "dir": "ltr",
+      "width": 302.2254413599997,
+      "height": 10.5,
+      "transform": [
+        10.6616,
+        0,
+        0,
+        10.5,
+        72.096,
+        268
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "10",
+      "dir": "ltr",
+      "width": 6.13489590000001,
+      "height": 6.1215,
+      "transform": [
+        6.2157,
+        0,
+        0,
+        6.1215,
+        374.2246,
+        271.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.3541889248194103,
+      "height": 0,
+      "transform": [
+        6.2157,
+        0,
+        0,
+        6.1215,
+        380.3594959,
+        271.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "Numerous",
+      "dir": "ltr",
+      "width": 49.01137519999981,
+      "height": 10.5,
+      "transform": [
+        10.6616,
+        0,
+        0,
+        10.5,
+        382.561028,
+        268
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5103,
+        0,
+        0,
+        10.5,
+        72.318,
+        254
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "authorities were consolidated and given to the EPA including research, monitor",
+      "dir": "ltr",
+      "width": 358.44747532000025,
+      "height": 10.5,
+      "transform": [
+        10.5103,
+        0,
+        0,
+        10.5,
+        72.318,
+        254
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.8467698,
+      "height": 10.5,
+      "transform": [
+        10.5103,
+        0,
+        0,
+        10.5,
+        430.7406,
+        254
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5721,
+        0,
+        0,
+        10.5,
+        72.2304,
+        240
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "ing, standard-setting, and enforcement activities. The mission to protect public",
+      "dir": "ltr",
+      "width": 359.0507174099991,
+      "height": 10.5,
+      "transform": [
+        10.5721,
+        0,
+        0,
+        10.5,
+        72.2304,
+        240
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5802,
+        0,
+        0,
+        10.5,
+        72.2556,
+        226
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "health and the environment was born, and the first Administrator was sworn in",
+      "dir": "ltr",
+      "width": 359.2485749599997,
+      "height": 10.5,
+      "transform": [
+        10.5802,
+        0,
+        0,
+        10.5,
+        72.2556,
+        226
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.36,
+        212
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "on December 4, 1970.",
+      "dir": "ltr",
+      "width": 95.48699999999998,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.36,
+        212
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6547,
+        0,
+        0,
+        10.5,
+        85.5348,
+        198
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Congress followed suit with the landmark Clean Air Act of 1970 (CAA)",
+      "dir": "ltr",
+      "width": 321.71866649999953,
+      "height": 10.5,
+      "transform": [
+        10.6547,
+        0,
+        0,
+        10.5,
+        85.5348,
+        198
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "11",
+      "dir": "ltr",
+      "width": 5.087382299999984,
+      "height": 6.1215,
+      "transform": [
+        6.2117,
+        0,
+        0,
+        6.1215,
+        407.0681,
+        201.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.35393389893266697,
+      "height": 0,
+      "transform": [
+        6.2117,
+        0,
+        0,
+        6.1215,
+        412.15548229999996,
+        201.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "and",
+      "dir": "ltr",
+      "width": 17.207340499999965,
+      "height": 10.5,
+      "transform": [
+        10.6547,
+        0,
+        0,
+        10.5,
+        414.3540135,
+        198
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2868,
+        184
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "the Federal Water Pollution Control Act of 1972.",
+      "dir": "ltr",
+      "width": 217.1295000000001,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2868,
+        184
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "12",
+      "dir": "ltr",
+      "width": 5.8215465,
+      "height": 6.1215,
+      "transform": [
+        6.1215,
+        0,
+        0,
+        6.1215,
+        289.4203,
+        187.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.34647610879686097,
+      "height": 0,
+      "transform": [
+        6.1215,
+        0,
+        0,
+        6.1215,
+        295.2418465,
+        187.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "The subsequent Clean Air Act",
+      "dir": "ltr",
+      "width": 134.3894999999999,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        297.3628,
+        184
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4469,
+        0,
+        0,
+        10.5,
+        71.4264,
+        170
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Amendments of 1990",
+      "dir": "ltr",
+      "width": 94.63846709999991,
+      "height": 10.5,
+      "transform": [
+        10.4469,
+        0,
+        0,
+        10.5,
+        71.4264,
+        170
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "13",
+      "dir": "ltr",
+      "width": 5.7128890000000006,
+      "height": 6.1215,
+      "transform": [
+        6.0905,
+        0,
+        0,
+        6.1215,
+        165.95,
+        173.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.28213603152450345,
+      "height": 0,
+      "transform": [
+        6.0905,
+        0,
+        0,
+        6.1215,
+        171.662889,
+        173.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "played a significant role in the expansion of EPA’s responsi",
+      "dir": "ltr",
+      "width": 257.3729624700009,
+      "height": 10.5,
+      "transform": [
+        10.4469,
+        0,
+        0,
+        10.5,
+        173.3812385,
+        170
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.8235653999999997,
+      "height": 10.5,
+      "transform": [
+        10.4469,
+        0,
+        0,
+        10.5,
+        430.7456,
+        170
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.2997,
+        0,
+        0,
+        10.5,
+        72.4548,
+        156
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "bilities and legal authority with the agency then being tasked with the development",
+      "dir": "ltr",
+      "width": 359.07432121999983,
+      "height": 10.5,
+      "transform": [
+        10.2997,
+        0,
+        0,
+        10.5,
+        72.4548,
+        156
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.36,
+        142
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "of new regulatory mechanisms that included, among other things, cap-and-trade",
+      "dir": "ltr",
+      "width": 359.1241500000001,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.36,
+        142
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3346,
+        0,
+        0,
+        10.5,
+        72.3984,
+        128
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "programs for the control of sulfur dioxide and technological standards for nitrogen",
+      "dir": "ltr",
+      "width": 359.2306960000002,
+      "height": 10.5,
+      "transform": [
+        10.3346,
+        0,
+        0,
+        10.5,
+        72.3984,
+        128
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.7089,
+        0,
+        0,
+        10.5,
+        72.36,
+        114
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "oxide emissions from coal-fired power plants, a vastly expanded hazardous air",
+      "dir": "ltr",
+      "width": 359.7365814699996,
+      "height": 10.5,
+      "transform": [
+        10.7089,
+        0,
+        0,
+        10.5,
+        72.36,
+        114
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.3984,
+        100
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "pollutant program, a federal operating permit program, and new regulations gov",
+      "dir": "ltr",
+      "width": 358.4521500000003,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.3984,
+        100
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.843,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        430.7422,
+        100
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.36,
+        86
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "erning phaseout of the production of ozone-depleting substances in conjunction",
+      "dir": "ltr",
+      "width": 359.3520000000001,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.36,
+        86
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.096,
+        72
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "with U.S. ratification of the Montreal Protocol in 1988.",
+      "dir": "ltr",
+      "width": 241.14090000000013,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.096,
+        72
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "14",
+      "dir": "ltr",
+      "width": 5.729723999999992,
+      "height": 6.1215,
+      "transform": [
+        6.1215,
+        0,
+        0,
+        6.1215,
+        313.234,
+        75.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    }
+  ],
+  "styles": {
+    "g_d0_f3": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f60": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f4": {
+      "fontFamily": "serif",
+      "ascent": 1.089,
+      "descent": -0.312,
+      "vertical": false
+    },
+    "g_d0_f11": {
+      "fontFamily": "serif",
+      "ascent": 1.143,
+      "descent": -0.351,
+      "vertical": false
+    }
+  },
+  "lang": "en-US"
+}

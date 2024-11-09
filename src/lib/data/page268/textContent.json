@@ -1,0 +1,923 @@
+{
+  "items": [
+    {
+      "str": "— 235 —",
+      "dir": "ltr",
+      "width": 42.44999999999998,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        230.4274,
+        32.0001
+      ],
+      "fontName": "g_d0_f3",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        30,
+        0,
+        0,
+        30,
+        414.36,
+        610
+      ],
+      "fontName": "g_d0_f2",
+      "hasEOL": true
+    },
+    {
+      "str": "8",
+      "dir": "ltr",
+      "width": 17.130000000000003,
+      "height": 30,
+      "transform": [
+        30,
+        0,
+        0,
+        30,
+        414.36,
+        610
+      ],
+      "fontName": "g_d0_f2",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        16,
+        0,
+        0,
+        16,
+        286.3641,
+        436.2
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": true
+    },
+    {
+      "str": "MEDIA AGENCIES",
+      "dir": "ltr",
+      "width": 145.904,
+      "height": 16,
+      "transform": [
+        16,
+        0,
+        0,
+        16,
+        286.3641,
+        436.2
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        12,
+        0,
+        0,
+        12,
+        72.1884,
+        380
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": true
+    },
+    {
+      "str": "U.S. AGENCY FOR GLOBAL MEDIA",
+      "dir": "ltr",
+      "width": 211.25879999999992,
+      "height": 12,
+      "transform": [
+        12,
+        0,
+        0,
+        12,
+        72.1884,
+        380
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9.5,
+        0,
+        0,
+        9.5,
+        72.3996,
+        366
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": true
+    },
+    {
+      "str": "Mora Namdar",
+      "dir": "ltr",
+      "width": 64.923,
+      "height": 9.5,
+      "transform": [
+        9.5,
+        0,
+        0,
+        9.5,
+        72.3996,
+        366
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        72.3576,
+        338
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": true
+    },
+    {
+      "str": "MISSION STATEMENT",
+      "dir": "ltr",
+      "width": 109.26999999999995,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        72.3576,
+        338
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5246,
+        0,
+        0,
+        10.5,
+        85.2636,
+        324
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "The mission of United States Agency for Global Media (USAGM) is to inform,",
+      "dir": "ltr",
+      "width": 348.2926927200001,
+      "height": 10.5,
+      "transform": [
+        10.5246,
+        0,
+        0,
+        10.5,
+        85.2636,
+        324
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5621,
+        0,
+        0,
+        10.5,
+        72.36,
+        310
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "engage, and connect people around the world in support of freedom and democ",
+      "dir": "ltr",
+      "width": 358.26643200000046,
+      "height": 10.5,
+      "transform": [
+        10.5621,
+        0,
+        0,
+        10.5,
+        72.36,
+        310
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.8657285999999997,
+      "height": 10.5,
+      "transform": [
+        10.5621,
+        0,
+        0,
+        10.5,
+        430.7325,
+        310
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.655,
+        0,
+        0,
+        10.5,
+        72.2304,
+        296
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "racy.",
+      "dir": "ltr",
+      "width": 21.687186999999998,
+      "height": 10.5,
+      "transform": [
+        10.655,
+        0,
+        0,
+        10.5,
+        72.2304,
+        296
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "1",
+      "dir": "ltr",
+      "width": 2.5344144,
+      "height": 6.1215,
+      "transform": [
+        6.2118,
+        0,
+        0,
+        6.1215,
+        93.9381,
+        299.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.3543031971409228,
+      "height": 0,
+      "transform": [
+        6.2118,
+        0,
+        0,
+        6.1215,
+        96.47251440000001,
+        299.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "However, this mission statement does not reflect the current work of the",
+      "dir": "ltr",
+      "width": 333.0113700000006,
+      "height": 10.5,
+      "transform": [
+        10.655,
+        0,
+        0,
+        10.5,
+        98.673375,
+        296
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6926,
+        0,
+        0,
+        10.5,
+        72.318,
+        282
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "agency. The mission is noble, but the execution is lacking. To fulfill its mission,",
+      "dir": "ltr",
+      "width": 361.2334521000011,
+      "height": 10.5,
+      "transform": [
+        10.6926,
+        0,
+        0,
+        10.5,
+        72.318,
+        282
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4087,
+        0,
+        0,
+        10.5,
+        71.994,
+        268
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "USAGM should also aim to present the truth about America and American policy—",
+      "dir": "ltr",
+      "width": 362.49130446000015,
+      "height": 10.5,
+      "transform": [
+        10.4087,
+        0,
+        0,
+        10.5,
+        71.994,
+        268
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        254
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "not parrot America’s adversaries’ propaganda and talking points.",
+      "dir": "ltr",
+      "width": 288.44445000000013,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        254
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "2",
+      "dir": "ltr",
+      "width": 3.3239745000000003,
+      "height": 6.1215,
+      "transform": [
+        6.1215,
+        0,
+        0,
+        6.1215,
+        360.6707,
+        257.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        71.832,
+        226
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": true
+    },
+    {
+      "str": "OVERVIEW",
+      "dir": "ltr",
+      "width": 58.05999999999999,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        71.832,
+        226
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.2288,
+        0,
+        0,
+        10.5,
+        85.6635,
+        212
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Originally formed as the Broadcasting Board of Governors (BBG) in 1994, the BBG",
+      "dir": "ltr",
+      "width": 345.9963201600006,
+      "height": 10.5,
+      "transform": [
+        10.2288,
+        0,
+        0,
+        10.5,
+        85.6635,
+        212
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.1184,
+        0,
+        0,
+        10.5,
+        72.3528,
+        198
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "changed its name in 2018 to the United States Agency for Global Media. The USAGM is",
+      "dir": "ltr",
+      "width": 359.28819455999934,
+      "height": 10.5,
+      "transform": [
+        10.1184,
+        0,
+        0,
+        10.5,
+        72.3528,
+        198
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.14,
+        0,
+        0,
+        10.5,
+        72.3116,
+        184
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "a sub-Cabinet agency of the U.S. government with a budget of just under $1 billion. The",
+      "dir": "ltr",
+      "width": 359.08984799999985,
+      "height": 10.5,
+      "transform": [
+        10.14,
+        0,
+        0,
+        10.5,
+        72.3116,
+        184
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.225,
+        0,
+        0,
+        10.5,
+        72.3116,
+        170
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "agency oversees two government broadcasting networks: the Voice of America (VOA)",
+      "dir": "ltr",
+      "width": 359.9578324999995,
+      "height": 10.5,
+      "transform": [
+        10.225,
+        0,
+        0,
+        10.5,
+        72.3116,
+        170
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.29,
+        0,
+        0,
+        10.5,
+        72.3116,
+        156
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "and the Office of Cuba Broadcasting (OCB). USAGM also oversees 100 percent of the",
+      "dir": "ltr",
+      "width": 359.18171100000063,
+      "height": 10.5,
+      "transform": [
+        10.29,
+        0,
+        0,
+        10.5,
+        72.3116,
+        156
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.2817,
+        0,
+        0,
+        10.5,
+        72.3493,
+        142
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "grant funding for several “independent” grantee organizations, including the Middle",
+      "dir": "ltr",
+      "width": 359.21895009,
+      "height": 10.5,
+      "transform": [
+        10.2817,
+        0,
+        0,
+        10.5,
+        72.3493,
+        142
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.231,
+        0,
+        0,
+        10.5,
+        71.933,
+        128
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "East Broadcasting Network (MBN), Radio Free Asia (RFA), Radio Free Europe/Radio",
+      "dir": "ltr",
+      "width": 359.5971417999995,
+      "height": 10.5,
+      "transform": [
+        10.231,
+        0,
+        0,
+        10.5,
+        71.933,
+        128
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.29,
+        0,
+        0,
+        10.5,
+        71.933,
+        114
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Liberty (RFE/RL), and the newly formed Open Technology Fund (OTF).",
+      "dir": "ltr",
+      "width": 309.78045000000037,
+      "height": 10.5,
+      "transform": [
+        10.29,
+        0,
+        0,
+        10.5,
+        71.933,
+        114
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "3",
+      "dir": "ltr",
+      "width": 3.1855221000000005,
+      "height": 6.1215,
+      "transform": [
+        5.9991,
+        0,
+        0,
+        6.1215,
+        381.6035,
+        117.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        5,
+        0,
+        0,
+        5,
+        72.4752,
+        87.5
+      ],
+      "fontName": "g_d0_f13",
+      "hasEOL": true
+    },
+    {
+      "str": "l",
+      "dir": "ltr",
+      "width": 3.955,
+      "height": 5,
+      "transform": [
+        5,
+        0,
+        0,
+        5,
+        72.4752,
+        87.5
+      ],
+      "fontName": "g_d0_f13",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 2.7002800000000007,
+      "height": 0,
+      "transform": [
+        5,
+        0,
+        0,
+        5,
+        76.4302,
+        87.5
+      ],
+      "fontName": "g_d0_f13",
+      "hasEOL": false
+    },
+    {
+      "str": "The Voice of America",
+      "dir": "ltr",
+      "width": 104.79000000000002,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        89.9316,
+        86
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.18385714285713967,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        194.72160000000002,
+        86
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": "provides news and information in 48 languages to",
+      "dir": "ltr",
+      "width": 222.20100000000014,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        196.6521,
+        86
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.318,
+        72
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "a weekly audience of more than 326 million people worldwide. For more",
+      "dir": "ltr",
+      "width": 322.6440000000001,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.318,
+        72
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    }
+  ],
+  "styles": {
+    "g_d0_f3": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f2": {
+      "fontFamily": "serif",
+      "ascent": 1.158,
+      "descent": -0.32,
+      "vertical": false
+    },
+    "g_d0_f8": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.017,
+      "descent": -0.297,
+      "vertical": false
+    },
+    "g_d0_f4": {
+      "fontFamily": "serif",
+      "ascent": 1.089,
+      "descent": -0.312,
+      "vertical": false
+    },
+    "g_d0_f13": {
+      "fontFamily": "monospace",
+      "ascent": 0.851,
+      "descent": -0.148,
+      "vertical": false
+    },
+    "g_d0_f11": {
+      "fontFamily": "serif",
+      "ascent": 1.143,
+      "descent": -0.351,
+      "vertical": false
+    }
+  },
+  "lang": "en-US"
+}

@@ -1,0 +1,253 @@
+{
+  "items": [
+    {
+      "str": "© 2023 by The Heritage Foundation",
+      "dir": "ltr",
+      "width": 123.52640000000001,
+      "height": 8,
+      "transform": [
+        8,
+        0,
+        0,
+        8,
+        190.0665,
+        399.965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        8,
+        0,
+        0,
+        8,
+        204.5721,
+        389.965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "214 Massachusetts Ave., NE",
+      "dir": "ltr",
+      "width": 94.60719999999995,
+      "height": 8,
+      "transform": [
+        8,
+        0,
+        0,
+        8,
+        204.5721,
+        389.965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        8,
+        0,
+        0,
+        8,
+        211.866,
+        379.965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Washington, DC 20002",
+      "dir": "ltr",
+      "width": 79.97599999999997,
+      "height": 8,
+      "transform": [
+        8,
+        0,
+        0,
+        8,
+        211.866,
+        379.965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        8,
+        0,
+        0,
+        8,
+        201.1122,
+        369.965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "(202) 546-4400 |",
+      "dir": "ltr",
+      "width": 58.16799999999999,
+      "height": 8,
+      "transform": [
+        8,
+        0,
+        0,
+        8,
+        201.1122,
+        369.965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.18384999999999252,
+      "height": 0,
+      "transform": [
+        8,
+        0,
+        0,
+        8,
+        259.28020000000004,
+        369.965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "heritage.org",
+      "dir": "ltr",
+      "width": 41.68720000000002,
+      "height": 8,
+      "transform": [
+        8,
+        0,
+        0,
+        8,
+        260.751,
+        369.965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        8,
+        0,
+        0,
+        8,
+        220.1374,
+        347.965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "All rights reserved.",
+      "dir": "ltr",
+      "width": 64.59120000000001,
+      "height": 8,
+      "transform": [
+        8,
+        0,
+        0,
+        8,
+        220.1374,
+        347.965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        8,
+        0,
+        0,
+        8,
+        184.6397,
+        337.965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Printed in the United States of America.",
+      "dir": "ltr",
+      "width": 136.2,
+      "height": 8,
+      "transform": [
+        8,
+        0,
+        0,
+        8,
+        184.6397,
+        337.965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        8,
+        0,
+        0,
+        8,
+        208.5985,
+        315.965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "ISBN: 978-0-89195-174-2",
+      "dir": "ltr",
+      "width": 86.6552,
+      "height": 8,
+      "transform": [
+        8,
+        0,
+        0,
+        8,
+        208.5985,
+        315.965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    }
+  ],
+  "styles": {
+    "g_d0_f4": {
+      "fontFamily": "serif",
+      "ascent": 1.089,
+      "descent": -0.312,
+      "vertical": false
+    }
+  },
+  "lang": "en-US"
+}

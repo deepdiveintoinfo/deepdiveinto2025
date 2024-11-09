@@ -1,0 +1,1721 @@
+{
+  "items": [
+    {
+      "str": "— 321 —",
+      "dir": "ltr",
+      "width": 40.23,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        231.5374,
+        32.0001
+      ],
+      "fontName": "g_d0_f3",
+      "hasEOL": false
+    },
+    {
+      "str": "Department of Education",
+      "dir": "ltr",
+      "width": 114.86609999999997,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        194.531,
+        664.4
+      ],
+      "fontName": "g_d0_f34",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.7036,
+        0,
+        0,
+        10.5,
+        72.2868,
+        632
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "through the pandemic’s Elementary and Secondary Schools Emergency Relief",
+      "dir": "ltr",
+      "width": 359.5007428400006,
+      "height": 10.5,
+      "transform": [
+        10.7036,
+        0,
+        0,
+        10.5,
+        72.2868,
+        632
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        71.5848,
+        618
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "(ESSER) Funds,",
+      "dir": "ltr",
+      "width": 71.83049999999999,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        71.5848,
+        618
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "4",
+      "dir": "ltr",
+      "width": 3.354582,
+      "height": 6.1215,
+      "transform": [
+        6.1215,
+        0,
+        0,
+        6.1215,
+        142.9419,
+        621.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.3190260557053028,
+      "height": 0,
+      "transform": [
+        6.1215,
+        0,
+        0,
+        6.1215,
+        146.296482,
+        621.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "which relied on ESEA formulas. The same year, the department",
+      "dir": "ltr",
+      "width": 283.5104999999999,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        148.2494,
+        618
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3293,
+        0,
+        0,
+        10.5,
+        72.3936,
+        604
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "spent more than $2 billion just to administer Title IV of the HEA, which authorizes",
+      "dir": "ltr",
+      "width": 359.1807488999997,
+      "height": 10.5,
+      "transform": [
+        10.3293,
+        0,
+        0,
+        10.5,
+        72.3936,
+        604
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.4296,
+        590
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "federal student loans and Pell grants. It provided $22.5 billion in Pell grants, and",
+      "dir": "ltr",
+      "width": 359.1336000000002,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.4296,
+        590
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        576
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "it oversaw outlays of close to $100 billion in direct student loans.",
+      "dir": "ltr",
+      "width": 287.48895000000005,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        576
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        85.7976,
+        562
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Since 1965, Congress has continued to layer on dozens of new laws and pro",
+      "dir": "ltr",
+      "width": 344.85236100000105,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        85.7976,
+        562
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.9198600000000003,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        430.711,
+        562
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.3564,
+        548
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "grams as federal “solutions” to myriad education problems. In 1973, it passed the",
+      "dir": "ltr",
+      "width": 359.11995,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.3564,
+        548
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5011,
+        0,
+        0,
+        10.5,
+        71.9316,
+        534
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Rehabilitation Act,",
+      "dir": "ltr",
+      "width": 85.42749861000003,
+      "height": 10.5,
+      "transform": [
+        10.5011,
+        0,
+        0,
+        10.5,
+        71.9316,
+        534
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "5",
+      "dir": "ltr",
+      "width": 3.2202246,
+      "height": 6.1215,
+      "transform": [
+        6.1221,
+        0,
+        0,
+        6.1215,
+        157.3638,
+        537.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.3464983584064324,
+      "height": 0,
+      "transform": [
+        6.1221,
+        0,
+        0,
+        6.1215,
+        160.5840246,
+        537.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "and, in 1975, the Individuals with Disabilities Education Act",
+      "dir": "ltr",
+      "width": 269.0077288099999,
+      "height": 10.5,
+      "transform": [
+        10.5011,
+        0,
+        0,
+        10.5,
+        162.7053222,
+        534
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3875,
+        0,
+        0,
+        10.5,
+        71.5848,
+        520
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "(IDEA)",
+      "dir": "ltr",
+      "width": 32.7102375,
+      "height": 10.5,
+      "transform": [
+        10.3875,
+        0,
+        0,
+        10.5,
+        71.5848,
+        520
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "6",
+      "dir": "ltr",
+      "width": 3.2822978000000003,
+      "height": 6.1215,
+      "transform": [
+        6.0559,
+        0,
+        0,
+        6.1215,
+        104.2745,
+        523.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.2775912250862807,
+      "height": 0,
+      "transform": [
+        6.0559,
+        0,
+        0,
+        6.1215,
+        107.5567978,
+        523.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "to address educational neglect of students with disabilities. In 2002, it cre",
+      "dir": "ltr",
+      "width": 321.4827374999999,
+      "height": 10.5,
+      "transform": [
+        10.3875,
+        0,
+        0,
+        10.5,
+        109.2378625,
+        520
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.8018249999999996,
+      "height": 10.5,
+      "transform": [
+        10.3875,
+        0,
+        0,
+        10.5,
+        430.7511,
+        520
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4483,
+        0,
+        0,
+        10.5,
+        72.318,
+        506
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "ated the Institute for Education Sciences to consolidate education data collection",
+      "dir": "ltr",
+      "width": 359.3546508799998,
+      "height": 10.5,
+      "transform": [
+        10.4483,
+        0,
+        0,
+        10.5,
+        72.318,
+        506
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3621,
+        0,
+        0,
+        10.5,
+        72.318,
+        492
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "and fund research. Congress has also enacted a series of Carl D. Perkins Career and",
+      "dir": "ltr",
+      "width": 359.3752435700003,
+      "height": 10.5,
+      "transform": [
+        10.3621,
+        0,
+        0,
+        10.5,
+        72.318,
+        492
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        71.7636,
+        478
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Technical Education Acts, including Perkins V in 2018.",
+      "dir": "ltr",
+      "width": 244.11345000000003,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        71.7636,
+        478
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "7",
+      "dir": "ltr",
+      "width": 3.0974790000000003,
+      "height": 6.1215,
+      "transform": [
+        6.1215,
+        0,
+        0,
+        6.1215,
+        315.8737,
+        481.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3573,
+        0,
+        0,
+        10.5,
+        85.5348,
+        464
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Congress could have, and once did, distribute management of federal education",
+      "dir": "ltr",
+      "width": 346.1823952000003,
+      "height": 10.5,
+      "transform": [
+        10.3573,
+        0,
+        0,
+        10.5,
+        85.5348,
+        464
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6027,
+        0,
+        0,
+        10.5,
+        72.3984,
+        450
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "programs outside of a single department. But for those interested in expanding",
+      "dir": "ltr",
+      "width": 359.3869986599997,
+      "height": 10.5,
+      "transform": [
+        10.6027,
+        0,
+        0,
+        10.5,
+        72.3984,
+        450
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4105,
+        0,
+        0,
+        10.5,
+        72.4296,
+        436
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "federal funding and influence in education, this unconsolidated approach was less",
+      "dir": "ltr",
+      "width": 358.86450969999885,
+      "height": 10.5,
+      "transform": [
+        10.4105,
+        0,
+        0,
+        10.5,
+        72.4296,
+        436
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6766,
+        0,
+        0,
+        10.5,
+        72.2868,
+        422
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "than ideal, because a single, captive agency would allow them to promote their",
+      "dir": "ltr",
+      "width": 359.5280990399991,
+      "height": 10.5,
+      "transform": [
+        10.6766,
+        0,
+        0,
+        10.5,
+        72.2868,
+        422
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5065,
+        0,
+        0,
+        10.5,
+        72.318,
+        408
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "agenda more effectively across Administrations. Eventually, the National Educa",
+      "dir": "ltr",
+      "width": 358.35465135,
+      "height": 10.5,
+      "transform": [
+        10.5065,
+        0,
+        0,
+        10.5,
+        72.318,
+        408
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.8453790000000003,
+      "height": 10.5,
+      "transform": [
+        10.5065,
+        0,
+        0,
+        10.5,
+        430.7412,
+        408
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4255,
+        0,
+        0,
+        10.5,
+        72.2868,
+        394
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "tion Association made a deal and backed the right presidential candidate— Jimmy",
+      "dir": "ltr",
+      "width": 359.80589855000017,
+      "height": 10.5,
+      "transform": [
+        10.4255,
+        0,
+        0,
+        10.5,
+        72.2868,
+        394
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.0348,
+        380
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Carter—who successfully lobbied for and delivered the Cabinet-level agency.",
+      "dir": "ltr",
+      "width": 341.5114500000001,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.0348,
+        380
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6114,
+        0,
+        0,
+        10.5,
+        85.1424,
+        366
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "When it was established in 1979—becoming operational in 1980—the agency",
+      "dir": "ltr",
+      "width": 346.78691883999977,
+      "height": 10.5,
+      "transform": [
+        10.6114,
+        0,
+        0,
+        10.5,
+        85.1424,
+        366
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5229,
+        0,
+        0,
+        10.5,
+        72.096,
+        352
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "was supposed to act as a “corralling” mechanism. Carter signed the Department",
+      "dir": "ltr",
+      "width": 359.4285907200001,
+      "height": 10.5,
+      "transform": [
+        10.5229,
+        0,
+        0,
+        10.5,
+        72.096,
+        352
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6863,
+        0,
+        0,
+        10.5,
+        72.36,
+        338
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "of Education Organization Act",
+      "dir": "ltr",
+      "width": 140.62315896000004,
+      "height": 10.5,
+      "transform": [
+        10.6863,
+        0,
+        0,
+        10.5,
+        72.36,
+        338
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "8",
+      "dir": "ltr",
+      "width": 3.2957229000000003,
+      "height": 6.1215,
+      "transform": [
+        6.2301,
+        0,
+        0,
+        6.1215,
+        213.0768,
+        341.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.35483677629572874,
+      "height": 0,
+      "transform": [
+        6.2301,
+        0,
+        0,
+        6.1215,
+        216.37252289999998,
+        341.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "into law in 1979, believing in part that it would",
+      "dir": "ltr",
+      "width": 212.85399791999944,
+      "height": 10.5,
+      "transform": [
+        10.6863,
+        0,
+        0,
+        10.5,
+        218.5831915,
+        338
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4465,
+        0,
+        0,
+        10.5,
+        72.2304,
+        324
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "reduce administrative costs and improve efficiency by housing most of the federal",
+      "dir": "ltr",
+      "width": 359.41287714999993,
+      "height": 10.5,
+      "transform": [
+        10.4465,
+        0,
+        0,
+        10.5,
+        72.2304,
+        324
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3766,
+        0,
+        0,
+        10.5,
+        72.36,
+        310
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "education programs that had proliferated in the wake of Johnson’s War on Poverty",
+      "dir": "ltr",
+      "width": 359.63635344,
+      "height": 10.5,
+      "transform": [
+        10.3766,
+        0,
+        0,
+        10.5,
+        72.36,
+        310
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2664,
+        296
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "under one roof.",
+      "dir": "ltr",
+      "width": 69.02699999999999,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2664,
+        296
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4668,
+        0,
+        0,
+        10.5,
+        85.3272,
+        282
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "It has had the opposite effect. Instead, special interest groups like the National",
+      "dir": "ltr",
+      "width": 346.0345013599995,
+      "height": 10.5,
+      "transform": [
+        10.4668,
+        0,
+        0,
+        10.5,
+        85.3272,
+        282
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5728,
+        0,
+        0,
+        10.5,
+        71.9316,
+        268
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Education Association (NEA), American Federation of Teachers (AFT), and the",
+      "dir": "ltr",
+      "width": 359.37370111999974,
+      "height": 10.5,
+      "transform": [
+        10.5728,
+        0,
+        0,
+        10.5,
+        71.9316,
+        268
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4629,
+        0,
+        0,
+        10.5,
+        72.2556,
+        254
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "higher education lobby have leveraged the agency to continuously expand federal",
+      "dir": "ltr",
+      "width": 359.17461636000087,
+      "height": 10.5,
+      "transform": [
+        10.4629,
+        0,
+        0,
+        10.5,
+        72.2556,
+        254
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3132,
+        0,
+        0,
+        10.5,
+        72.36,
+        240
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "expenditures—a desirable funding stream from their vantage point because federal",
+      "dir": "ltr",
+      "width": 359.5325904799996,
+      "height": 10.5,
+      "transform": [
+        10.3132,
+        0,
+        0,
+        10.5,
+        72.36,
+        240
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3248,
+        0,
+        0,
+        10.5,
+        72.4548,
+        226
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "budgets are not constrained like state and local budgets that must be balanced each",
+      "dir": "ltr",
+      "width": 359.3123323200004,
+      "height": 10.5,
+      "transform": [
+        10.3248,
+        0,
+        0,
+        10.5,
+        72.4548,
+        226
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.568,
+        0,
+        0,
+        10.5,
+        72.012,
+        212
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "year. By FY 2022, the department’s discretionary and mandatory appropriation",
+      "dir": "ltr",
+      "width": 359.5656319999997,
+      "height": 10.5,
+      "transform": [
+        10.568,
+        0,
+        0,
+        10.5,
+        72.012,
+        212
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5706,
+        0,
+        0,
+        10.5,
+        72.2868,
+        198
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "topped $80 billion, not including student loan outlays. Each of its programs has",
+      "dir": "ltr",
+      "width": 359.1223932199995,
+      "height": 10.5,
+      "transform": [
+        10.5706,
+        0,
+        0,
+        10.5,
+        72.2868,
+        198
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.318,
+        184
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "attendant federal strings and red tape.",
+      "dir": "ltr",
+      "width": 170.82449999999997,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.318,
+        184
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3348,
+        0,
+        0,
+        10.5,
+        85.6668,
+        170
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "One recent example is the Biden Administration’s requirement that state educa",
+      "dir": "ltr",
+      "width": 345.06036936000123,
+      "height": 10.5,
+      "transform": [
+        10.3348,
+        0,
+        0,
+        10.5,
+        85.6668,
+        170
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.7825368,
+      "height": 10.5,
+      "transform": [
+        10.3348,
+        0,
+        0,
+        10.5,
+        430.7645,
+        170
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3975,
+        0,
+        0,
+        10.5,
+        72.2868,
+        156
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "tion agencies and school districts submit “equity” plans as a condition of receiving",
+      "dir": "ltr",
+      "width": 359.2804137499994,
+      "height": 10.5,
+      "transform": [
+        10.3975,
+        0,
+        0,
+        10.5,
+        72.2868,
+        156
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4689,
+        0,
+        0,
+        10.5,
+        72.0348,
+        142
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "COVID recovery ESSER funds in the American Rescue Plan (ARP).",
+      "dir": "ltr",
+      "width": 295.5401876700005,
+      "height": 10.5,
+      "transform": [
+        10.4689,
+        0,
+        0,
+        10.5,
+        72.0348,
+        142
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "9",
+      "dir": "ltr",
+      "width": 3.3080428,
+      "height": 6.1215,
+      "transform": [
+        6.1034,
+        0,
+        0,
+        6.1215,
+        367.7935,
+        145.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.2824533374840245,
+      "height": 0,
+      "transform": [
+        6.1034,
+        0,
+        0,
+        6.1215,
+        371.1015428,
+        145.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "This exercise",
+      "dir": "ltr",
+      "width": 58.60908976000024,
+      "height": 10.5,
+      "transform": [
+        10.4689,
+        0,
+        0,
+        10.5,
+        372.8254685,
+        142
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5711,
+        0,
+        0,
+        10.5,
+        72.2028,
+        128
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "led to the hiring of numerous new government employees as the rules were pro",
+      "dir": "ltr",
+      "width": 358.3793179799997,
+      "height": 10.5,
+      "transform": [
+        10.5711,
+        0,
+        0,
+        10.5,
+        72.2028,
+        128
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.8690225999999996,
+      "height": 10.5,
+      "transform": [
+        10.5711,
+        0,
+        0,
+        10.5,
+        430.7323,
+        128
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.7087,
+        0,
+        0,
+        10.5,
+        72.2304,
+        114
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "mulgated, plans were created after collecting public feedback, and those plans",
+      "dir": "ltr",
+      "width": 359.5981459999997,
+      "height": 10.5,
+      "transform": [
+        10.7087,
+        0,
+        0,
+        10.5,
+        72.2304,
+        114
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.096,
+        100
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "were eventually deemed satisfactory.",
+      "dir": "ltr",
+      "width": 165.37500000000003,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.096,
+        100
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.575,
+        0,
+        0,
+        10.5,
+        85.2636,
+        86
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "The next Administration will need a plan to redistribute the various congres",
+      "dir": "ltr",
+      "width": 345.29701500000044,
+      "height": 10.5,
+      "transform": [
+        10.575,
+        0,
+        0,
+        10.5,
+        85.2636,
+        86
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.8704499999999995,
+      "height": 10.5,
+      "transform": [
+        10.575,
+        0,
+        0,
+        10.5,
+        430.7349,
+        86
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5035,
+        0,
+        0,
+        10.5,
+        72.3936,
+        72
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "sionally approved federal education programs across the government, eliminate",
+      "dir": "ltr",
+      "width": 359.0526943500002,
+      "height": 10.5,
+      "transform": [
+        10.5035,
+        0,
+        0,
+        10.5,
+        72.3936,
+        72
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    }
+  ],
+  "styles": {
+    "g_d0_f3": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f34": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f4": {
+      "fontFamily": "serif",
+      "ascent": 1.089,
+      "descent": -0.312,
+      "vertical": false
+    }
+  },
+  "lang": "en-US"
+}

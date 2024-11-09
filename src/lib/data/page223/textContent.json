@@ -1,0 +1,1407 @@
+{
+  "items": [
+    {
+      "str": "— 190 —",
+      "dir": "ltr",
+      "width": 41.72,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        230.7923,
+        32.0001
+      ],
+      "fontName": "g_d0_f3",
+      "hasEOL": false
+    },
+    {
+      "str": "Mandate for Leadership: The Conservative Promise",
+      "dir": "ltr",
+      "width": 230.1453,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        136.9111,
+        664.4
+      ],
+      "fontName": "g_d0_f12",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5441,
+        0,
+        0,
+        10.5,
+        72.2868,
+        632
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "the region and ensures that Russian use of Arctic waters and resources does not",
+      "dir": "ltr",
+      "width": 359.6118025500007,
+      "height": 10.5,
+      "transform": [
+        10.5441,
+        0,
+        0,
+        10.5,
+        72.2868,
+        632
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.36,
+        618
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "exceed a reasonable footprint.",
+      "dir": "ltr",
+      "width": 134.694,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.36,
+        618
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6516,
+        0,
+        0,
+        10.5,
+        85.2636,
+        604
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "The U.S. should unapologetically pursue American interests in the Arctic by",
+      "dir": "ltr",
+      "width": 346.89172236000024,
+      "height": 10.5,
+      "transform": [
+        10.6516,
+        0,
+        0,
+        10.5,
+        85.2636,
+        604
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.3984,
+        590
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "promoting economic freedom in the region. Economic freedom spurs prosperity,",
+      "dir": "ltr",
+      "width": 361.3869000000002,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.3984,
+        590
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6416,
+        0,
+        0,
+        10.5,
+        72.2304,
+        576
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "innovation, respect for the rule of law, jobs, and sustainability. Most important,",
+      "dir": "ltr",
+      "width": 361.33233552000104,
+      "height": 10.5,
+      "transform": [
+        10.6416,
+        0,
+        0,
+        10.5,
+        72.2304,
+        576
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.36,
+        562
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "economic freedom can help to keep the Arctic stable and secure.",
+      "dir": "ltr",
+      "width": 286.19745000000006,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.36,
+        562
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5472,
+        0,
+        0,
+        10.5,
+        85.2636,
+        548
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "The U.S. should work to ensure that shipping lanes in the Arctic remain avail",
+      "dir": "ltr",
+      "width": 345.5631872000007,
+      "height": 10.5,
+      "transform": [
+        10.5472,
+        0,
+        0,
+        10.5,
+        85.2636,
+        548
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.8602752,
+      "height": 10.5,
+      "transform": [
+        10.5472,
+        0,
+        0,
+        10.5,
+        430.7375,
+        548
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.318,
+        534
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "able to all global commercial traffic and free of onerous fees and burdensome",
+      "dir": "ltr",
+      "width": 359.2669500000008,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.318,
+        534
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.586,
+        0,
+        0,
+        10.5,
+        72.318,
+        520
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "administrative, regulatory, and military requirements. While this should be the",
+      "dir": "ltr",
+      "width": 359.18827300000027,
+      "height": 10.5,
+      "transform": [
+        10.586,
+        0,
+        0,
+        10.5,
+        72.318,
+        520
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4703,
+        0,
+        0,
+        10.5,
+        72.2304,
+        506
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "next Administration’s policy with respect to all countries that might seek to block",
+      "dir": "ltr",
+      "width": 359.6202530099999,
+      "height": 10.5,
+      "transform": [
+        10.4703,
+        0,
+        0,
+        10.5,
+        72.2304,
+        506
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4639,
+        0,
+        0,
+        10.5,
+        72.4296,
+        492
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "free-flowing commercial traffic, the next Administration will clearly have to exert",
+      "dir": "ltr",
+      "width": 359.10535215000067,
+      "height": 10.5,
+      "transform": [
+        10.4639,
+        0,
+        0,
+        10.5,
+        72.4296,
+        492
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.3936,
+        478
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "substantial attention toward Russia.",
+      "dir": "ltr",
+      "width": 162.3405,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.3936,
+        478
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        85.4316,
+        464
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Both the U.S. Coast Guard and the U.S. Navy are vital tools to ensure an unmo",
+      "dir": "ltr",
+      "width": 345.34394999999995,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        85.4316,
+        464
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.843,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        430.7422,
+        464
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.2304,
+        450
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "nopolized Arctic. It is imperative that the Navy and Coast Guard continue to",
+      "dir": "ltr",
+      "width": 359.3312099999998,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.2304,
+        450
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6584,
+        0,
+        0,
+        10.5,
+        72.36,
+        436
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "expand their fleets, including planned icebreaker acquisitions, to assure Arctic",
+      "dir": "ltr",
+      "width": 359.28187391999927,
+      "height": 10.5,
+      "transform": [
+        10.6584,
+        0,
+        0,
+        10.5,
+        72.36,
+        436
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.318,
+        422
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "access for the United States and other friendly actors. The remote and harsh con",
+      "dir": "ltr",
+      "width": 358.3755000000001,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.318,
+        422
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.843,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        430.7421,
+        422
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4425,
+        0,
+        0,
+        10.5,
+        72.36,
+        408
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "ditions of the Arctic also make unmanned system investment and use particularly",
+      "dir": "ltr",
+      "width": 359.54780599999975,
+      "height": 10.5,
+      "transform": [
+        10.4425,
+        0,
+        0,
+        10.5,
+        72.36,
+        408
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.326,
+        0,
+        0,
+        10.5,
+        72.318,
+        394
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "appealing for providing additional situational awareness, intelligence, surveillance,",
+      "dir": "ltr",
+      "width": 361.50706439999993,
+      "height": 10.5,
+      "transform": [
+        10.326,
+        0,
+        0,
+        10.5,
+        72.318,
+        394
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6377,
+        0,
+        0,
+        10.5,
+        72.318,
+        380
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "and reconnaissance. The Coast Guard should also consider upgrading facilities,",
+      "dir": "ltr",
+      "width": 361.23714413999977,
+      "height": 10.5,
+      "transform": [
+        10.6377,
+        0,
+        0,
+        10.5,
+        72.318,
+        380
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5572,
+        0,
+        0,
+        10.5,
+        72.3936,
+        366
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "such as its Barrow station, to reinforce its Arctic capabilities and demonstrate a",
+      "dir": "ltr",
+      "width": 359.071486399999,
+      "height": 10.5,
+      "transform": [
+        10.5572,
+        0,
+        0,
+        10.5,
+        72.3936,
+        366
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.3564,
+        352
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "greater commitment to the region.",
+      "dir": "ltr",
+      "width": 155.14799999999997,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.3564,
+        352
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        85.2636,
+        338
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "The People’s Republic of China has declared itself a “near-Arctic state,” which",
+      "dir": "ltr",
+      "width": 346.42650000000015,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        85.2636,
+        338
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5289,
+        0,
+        0,
+        10.5,
+        72.2304,
+        324
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "is an imaginary term non-existent in international discourse. The United States",
+      "dir": "ltr",
+      "width": 359.3481983300005,
+      "height": 10.5,
+      "transform": [
+        10.5289,
+        0,
+        0,
+        10.5,
+        72.2304,
+        324
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4239,
+        0,
+        0,
+        10.5,
+        72.3936,
+        310
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "should work with like-minded Arctic nations, including Russia, to raise legitimate",
+      "dir": "ltr",
+      "width": 359.33580797000064,
+      "height": 10.5,
+      "transform": [
+        10.4239,
+        0,
+        0,
+        10.5,
+        72.3936,
+        310
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.36,
+        296
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "concerns about the PRC’s so-called Polar Silk-Road ambitions.",
+      "dir": "ltr",
+      "width": 278.8369500000001,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.36,
+        296
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5044,
+        0,
+        0,
+        10.5,
+        85.5348,
+        282
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Concerning Greenland, the opening of a U.S. consulate in Nuuk is welcome. A",
+      "dir": "ltr",
+      "width": 346.6830158400002,
+      "height": 10.5,
+      "transform": [
+        10.5044,
+        0,
+        0,
+        10.5,
+        85.5348,
+        282
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6347,
+        0,
+        0,
+        10.5,
+        72.4296,
+        268
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "formal year-round diplomatic presence is an effective way for the U.S. to better",
+      "dir": "ltr",
+      "width": 359.2231504799998,
+      "height": 10.5,
+      "transform": [
+        10.6347,
+        0,
+        0,
+        10.5,
+        72.4296,
+        268
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.2664,
+        254
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "understand local political and economic dynamics. Furthermore, given Green",
+      "dir": "ltr",
+      "width": 358.33732200000094,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.2664,
+        254
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.9198600000000003,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        430.7117,
+        254
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.596,
+        0,
+        0,
+        10.5,
+        72.2028,
+        240
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "land’s geographic proximity and its rising potential as a commercial and tourist",
+      "dir": "ltr",
+      "width": 359.792478,
+      "height": 10.5,
+      "transform": [
+        10.596,
+        0,
+        0,
+        10.5,
+        72.2028,
+        240
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2028,
+        226
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "location, the next Administration should pursue policies that enhance economic",
+      "dir": "ltr",
+      "width": 359.26694999999995,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2028,
+        226
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2868,
+        212
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "ties between the U.S. and Greenland.",
+      "dir": "ltr",
+      "width": 163.35795000000002,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2868,
+        212
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        72.2772,
+        184
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": true
+    },
+    {
+      "str": "INTERNATIONAL ORGANIZATIONS",
+      "dir": "ltr",
+      "width": 179.349,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        72.2772,
+        184
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6979,
+        0,
+        0,
+        10.5,
+        85.4316,
+        170
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Defending and protecting the American people and advancing their interests",
+      "dir": "ltr",
+      "width": 345.86310699999956,
+      "height": 10.5,
+      "transform": [
+        10.6979,
+        0,
+        0,
+        10.5,
+        85.4316,
+        170
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3357,
+        0,
+        0,
+        10.5,
+        72.2304,
+        156
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "requires the United States to engage in a broad spectrum of bilateral and multilateral",
+      "dir": "ltr",
+      "width": 359.31130836999887,
+      "height": 10.5,
+      "transform": [
+        10.3357,
+        0,
+        0,
+        10.5,
+        72.2304,
+        156
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4934,
+        0,
+        0,
+        10.5,
+        72.2304,
+        142
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "relationships, including participating in international organizations. Working with",
+      "dir": "ltr",
+      "width": 359.55530166,
+      "height": 10.5,
+      "transform": [
+        10.4934,
+        0,
+        0,
+        10.5,
+        72.2304,
+        142
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6864,
+        0,
+        0,
+        10.5,
+        72.36,
+        128
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "other governments through international organizations like the United Nations",
+      "dir": "ltr",
+      "width": 359.03098080000063,
+      "height": 10.5,
+      "transform": [
+        10.6864,
+        0,
+        0,
+        10.5,
+        72.36,
+        128
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6119,
+        0,
+        0,
+        10.5,
+        71.5848,
+        114
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "(U.N.) can be tremendously useful—but membership in these organizations must",
+      "dir": "ltr",
+      "width": 360.2082112200001,
+      "height": 10.5,
+      "transform": [
+        10.6119,
+        0,
+        0,
+        10.5,
+        71.5848,
+        114
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.318,
+        100
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "always be understood as a means to attain defined goals rather than an end in itself.",
+      "dir": "ltr",
+      "width": 361.1464499999994,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.318,
+        100
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4312,
+        0,
+        0,
+        10.5,
+        85.4316,
+        86
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Engagement with international organizations is one relatively easy way for the",
+      "dir": "ltr",
+      "width": 346.16980319999965,
+      "height": 10.5,
+      "transform": [
+        10.4312,
+        0,
+        0,
+        10.5,
+        85.4316,
+        86
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        71.994,
+        72
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "U.S. to defend its interests and to seek to address problems in concert with other",
+      "dir": "ltr",
+      "width": 359.81399999999985,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        71.994,
+        72
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    }
+  ],
+  "styles": {
+    "g_d0_f3": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f12": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f4": {
+      "fontFamily": "serif",
+      "ascent": 1.089,
+      "descent": -0.312,
+      "vertical": false
+    },
+    "g_d0_f8": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.017,
+      "descent": -0.297,
+      "vertical": false
+    }
+  },
+  "lang": "en-US"
+}

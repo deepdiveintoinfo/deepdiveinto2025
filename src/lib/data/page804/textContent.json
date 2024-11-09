@@ -1,0 +1,1513 @@
+{
+  "items": [
+    {
+      "str": "— 771 —",
+      "dir": "ltr",
+      "width": 40.19999999999999,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        231.5524,
+        32.0001
+      ],
+      "fontName": "g_d0_f3",
+      "hasEOL": false
+    },
+    {
+      "str": "Trade",
+      "dir": "ltr",
+      "width": 25.42500000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        238.8627,
+        664.4
+      ],
+      "fontName": "g_d0_f74",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5186,
+        0,
+        0,
+        10.5,
+        72.36,
+        366
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "calculate the trade deficit reductions under Scenario One and Scenario Two, the",
+      "dir": "ltr",
+      "width": 358.94301756,
+      "height": 10.5,
+      "transform": [
+        10.5186,
+        0,
+        0,
+        10.5,
+        72.36,
+        366
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.318,
+        352
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "analysis relied on the World Bank’s SMART tariff simulator. Table 3 provides the",
+      "dir": "ltr",
+      "width": 359.1640499999999,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.318,
+        352
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.3936,
+        338
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "simulation results.",
+      "dir": "ltr",
+      "width": 84.042,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.3936,
+        338
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4578,
+        0,
+        0,
+        10.5,
+        85.3272,
+        324
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "In Scenario One, if all 132 countries were to lower their higher nonreciprocal",
+      "dir": "ltr",
+      "width": 346.16572936000006,
+      "height": 10.5,
+      "transform": [
+        10.4578,
+        0,
+        0,
+        10.5,
+        85.3272,
+        324
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5727,
+        0,
+        0,
+        10.5,
+        72.2868,
+        310
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "tariffs to U.S. levels, the overall U.S. trade deficit in goods would be reduced by",
+      "dir": "ltr",
+      "width": 359.48025816000114,
+      "height": 10.5,
+      "transform": [
+        10.5727,
+        0,
+        0,
+        10.5,
+        72.2868,
+        310
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        71.9508,
+        296
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "$58.3 billion, or about 9.4 percent of that deficit. In contrast, in Scenario Two, if",
+      "dir": "ltr",
+      "width": 359.8150500000006,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        71.9508,
+        296
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4619,
+        0,
+        0,
+        10.5,
+        72.2868,
+        282
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "these countries were to refuse to reciprocate and the U.S. were to raise its tariffs",
+      "dir": "ltr",
+      "width": 359.0796089400002,
+      "height": 10.5,
+      "transform": [
+        10.4619,
+        0,
+        0,
+        10.5,
+        72.2868,
+        282
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6496,
+        0,
+        0,
+        10.5,
+        72.2868,
+        268
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "to mirror those countries’ levels, the reduction in the U.S. trade deficit would",
+      "dir": "ltr",
+      "width": 359.4857676800005,
+      "height": 10.5,
+      "transform": [
+        10.6496,
+        0,
+        0,
+        10.5,
+        72.2868,
+        268
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.4548,
+        254
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "be slightly larger: an estimated $63.6 billion, or 10.2 percent of the deficit. This",
+      "dir": "ltr",
+      "width": 359.1525000000006,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.4548,
+        254
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5296,
+        0,
+        0,
+        10.5,
+        72.3936,
+        240
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "suggests that implementing the USRTA would help to create between 350,000",
+      "dir": "ltr",
+      "width": 359.2973289599994,
+      "height": 10.5,
+      "transform": [
+        10.5296,
+        0,
+        0,
+        10.5,
+        72.3936,
+        240
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.318,
+        226
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "and 380,000 jobs.",
+      "dir": "ltr",
+      "width": 80.05200000000002,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.318,
+        226
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        85.2636,
+        212
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "The slightly larger reduction in the trade deficit in Scenario Two as a result",
+      "dir": "ltr",
+      "width": 346.3292700000008,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        85.2636,
+        212
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.543,
+        0,
+        0,
+        10.5,
+        72.36,
+        198
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "of the U.S. raising its tariffs to mirror those of its partners, as opposed to foreign",
+      "dir": "ltr",
+      "width": 359.4962682999996,
+      "height": 10.5,
+      "transform": [
+        10.543,
+        0,
+        0,
+        10.5,
+        72.36,
+        198
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3721,
+        0,
+        0,
+        10.5,
+        72.36,
+        184
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "countries lowering their tariffs to U.S. levels, may seem surprising to those who are",
+      "dir": "ltr",
+      "width": 359.30406493999965,
+      "height": 10.5,
+      "transform": [
+        10.3721,
+        0,
+        0,
+        10.5,
+        72.36,
+        184
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.3936,
+        170
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "steeped in Ricardian dogma and the textbook lessons of free trade. However, this",
+      "dir": "ltr",
+      "width": 359.1420000000003,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.3936,
+        170
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5312,
+        0,
+        0,
+        10.5,
+        72.2304,
+        156
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "result speaks to the fact that so many of America’s trading partners are applying",
+      "dir": "ltr",
+      "width": 359.4983087999999,
+      "height": 10.5,
+      "transform": [
+        10.5312,
+        0,
+        0,
+        10.5,
+        72.2304,
+        156
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.3936,
+        142
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "significantly higher tariffs to thousands of American products.",
+      "dir": "ltr",
+      "width": 277.4310000000001,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.3936,
+        142
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.325,
+        0,
+        0,
+        10.5,
+        85.8456,
+        128
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": true
+    },
+    {
+      "str": "Estimated Impacts on Key U.S. Bilateral Trade Deficits.",
+      "dir": "ltr",
+      "width": 262.4532400000001,
+      "height": 10.5,
+      "transform": [
+        10.325,
+        0,
+        0,
+        10.5,
+        85.8456,
+        128
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.17575883777239074,
+      "height": 0,
+      "transform": [
+        10.325,
+        0,
+        0,
+        10.5,
+        348.29884000000004,
+        128
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": "If the USRTA were",
+      "dir": "ltr",
+      "width": 81.38990999999973,
+      "height": 10.5,
+      "transform": [
+        10.325,
+        0,
+        0,
+        10.5,
+        350.11355,
+        128
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.36,
+        114
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "enacted, a President would likely have to prioritize which countries he should",
+      "dir": "ltr",
+      "width": 359.0966610000008,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.36,
+        114
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4195,
+        0,
+        0,
+        10.5,
+        72.2304,
+        100
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "negotiate with first. One way to create such a priority list would be to choose those",
+      "dir": "ltr",
+      "width": 359.45295294999977,
+      "height": 10.5,
+      "transform": [
+        10.4195,
+        0,
+        0,
+        10.5,
+        72.2304,
+        100
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4462,
+        0,
+        0,
+        10.5,
+        72.36,
+        86
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "countries that have relatively large trade deficits with the U.S. and apply relatively",
+      "dir": "ltr",
+      "width": 359.51955306000093,
+      "height": 10.5,
+      "transform": [
+        10.4462,
+        0,
+        0,
+        10.5,
+        72.36,
+        86
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.2556,
+        72
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "high tariffs. This is illustrated in Figure 1, which maps bilateral trade deficits",
+      "dir": "ltr",
+      "width": 359.59574700000053,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.2556,
+        72
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        8,
+        0,
+        0,
+        8,
+        240.8811,
+        585.5739
+      ],
+      "fontName": "g_d0_f79",
+      "hasEOL": true
+    },
+    {
+      "str": "REDUCTION IN U\u001dS\u001d TRADE DEFICIT WITH WORLD",
+      "dir": "ltr",
+      "width": 174.03840000000017,
+      "height": 8,
+      "transform": [
+        8,
+        0,
+        0,
+        8,
+        240.8811,
+        585.5739
+      ],
+      "fontName": "g_d0_f79",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9.5,
+        0,
+        0,
+        9.5,
+        76,
+        545.974
+      ],
+      "fontName": "g_d0_f78",
+      "hasEOL": true
+    },
+    {
+      "str": "Metric",
+      "dir": "ltr",
+      "width": 26.295999999999992,
+      "height": 9.5,
+      "transform": [
+        9.5,
+        0,
+        0,
+        9.5,
+        76,
+        545.974
+      ],
+      "fontName": "g_d0_f78",
+      "hasEOL": true
+    },
+    {
+      "str": "Scenario One\u0016",
+      "dir": "ltr",
+      "width": 58.16850000000001,
+      "height": 9.5,
+      "transform": [
+        9.5,
+        0,
+        0,
+        9.5,
+        246.76250000000002,
+        567.976
+      ],
+      "fontName": "g_d0_f78",
+      "hasEOL": true
+    },
+    {
+      "str": "Partner Countries",
+      "dir": "ltr",
+      "width": 73.53,
+      "height": 9.5,
+      "transform": [
+        9.5,
+        0,
+        0,
+        9.5,
+        239.08650000000003,
+        556.975
+      ],
+      "fontName": "g_d0_f78",
+      "hasEOL": true
+    },
+    {
+      "str": "Match U\u001aS\u001a Tariff Rate",
+      "dir": "ltr",
+      "width": 88.89149999999997,
+      "height": 9.5,
+      "transform": [
+        9.5,
+        0,
+        0,
+        9.5,
+        231.40100000000004,
+        545.974
+      ],
+      "fontName": "g_d0_f78",
+      "hasEOL": true
+    },
+    {
+      "str": "Scenario Two\u0016",
+      "dir": "ltr",
+      "width": 58.37750000000001,
+      "height": 9.5,
+      "transform": [
+        9.5,
+        0,
+        0,
+        9.5,
+        350.759,
+        567.976
+      ],
+      "fontName": "g_d0_f78",
+      "hasEOL": true
+    },
+    {
+      "str": "U\u001aS\u001a Matches Partner",
+      "dir": "ltr",
+      "width": 86.07854999999996,
+      "height": 9.5,
+      "transform": [
+        9.5,
+        0,
+        0,
+        9.5,
+        336.908,
+        556.975
+      ],
+      "fontName": "g_d0_f78",
+      "hasEOL": true
+    },
+    {
+      "str": "Tariff Rates",
+      "dir": "ltr",
+      "width": 47.26154999999994,
+      "height": 9.5,
+      "transform": [
+        9.5,
+        0,
+        0,
+        9.5,
+        356.3165,
+        545.974
+      ],
+      "fontName": "g_d0_f78",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9.5,
+        0,
+        0,
+        9.5,
+        76,
+        528.3705
+      ],
+      "fontName": "g_d0_f79",
+      "hasEOL": true
+    },
+    {
+      "str": "In Billions of Dollars",
+      "dir": "ltr",
+      "width": 79.8095,
+      "height": 9.5,
+      "transform": [
+        9.5,
+        0,
+        0,
+        9.5,
+        76,
+        528.3705
+      ],
+      "fontName": "g_d0_f79",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 11.443000000000001,
+      "height": 0,
+      "transform": [
+        9.5,
+        0,
+        0,
+        9.5,
+        155.8095,
+        528.3705
+      ],
+      "fontName": "g_d0_f79",
+      "hasEOL": false
+    },
+    {
+      "str": "\u0011\u0015\u001e\u001d\u001f",
+      "dir": "ltr",
+      "width": 22.6575,
+      "height": 9.5,
+      "transform": [
+        9.5,
+        0,
+        0,
+        9.5,
+        264.51800000000003,
+        528.3705
+      ],
+      "fontName": "g_d0_f79",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 8.572999999999992,
+      "height": 0,
+      "transform": [
+        9.5,
+        0,
+        0,
+        9.5,
+        287.1755000000001,
+        528.3705
+      ],
+      "fontName": "g_d0_f79",
+      "hasEOL": false
+    },
+    {
+      "str": "\u0011\u0019\u001f\u001d\u0019",
+      "dir": "ltr",
+      "width": 22.6575,
+      "height": 9.5,
+      "transform": [
+        9.5,
+        0,
+        0,
+        9.5,
+        368.619,
+        528.3705
+      ],
+      "fontName": "g_d0_f79",
+      "hasEOL": true
+    },
+    {
+      "str": "As Percentage of \u001a\u0018\u001c\u001e Defi cit",
+      "dir": "ltr",
+      "width": 120.47900000000001,
+      "height": 9.5,
+      "transform": [
+        9.5,
+        0,
+        0,
+        9.5,
+        76.00000000000006,
+        512.7715
+      ],
+      "fontName": "g_d0_f79",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 7.426999999999997,
+      "height": 0,
+      "transform": [
+        9.5,
+        0,
+        0,
+        9.5,
+        196.4790000000001,
+        512.7715
+      ],
+      "fontName": "g_d0_f79",
+      "hasEOL": false
+    },
+    {
+      "str": "\u001b\u001d\u0016\u0013",
+      "dir": "ltr",
+      "width": 17.622500000000002,
+      "height": 9.5,
+      "transform": [
+        9.5,
+        0,
+        0,
+        9.5,
+        267.03550000000007,
+        512.7715
+      ],
+      "fontName": "g_d0_f79",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 8.837999999999996,
+      "height": 0,
+      "transform": [
+        9.5,
+        0,
+        0,
+        9.5,
+        284.65800000000013,
+        512.7715
+      ],
+      "fontName": "g_d0_f79",
+      "hasEOL": false
+    },
+    {
+      "str": "\u001c\u0018\u001d\u001a\u0013",
+      "dir": "ltr",
+      "width": 22.657500000000002,
+      "height": 9.5,
+      "transform": [
+        9.5,
+        0,
+        0,
+        9.5,
+        368.6190000000001,
+        512.7715
+      ],
+      "fontName": "g_d0_f79",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72,
+        479.5737
+      ],
+      "fontName": "g_d0_f75",
+      "hasEOL": true
+    },
+    {
+      "str": "NOTE:",
+      "dir": "ltr",
+      "width": 20.052000000000007,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72,
+        479.5737
+      ],
+      "fontName": "g_d0_f75",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.18899999999999928,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        92.052,
+        479.5737
+      ],
+      "fontName": "g_d0_f75",
+      "hasEOL": false
+    },
+    {
+      "str": "USRTA—U.S. Reciprocal Trade Act.",
+      "dir": "ltr",
+      "width": 106.13520000000005,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        93.753,
+        479.5737
+      ],
+      "fontName": "g_d0_f76",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72,
+        468.5757
+      ],
+      "fontName": "g_d0_f75",
+      "hasEOL": true
+    },
+    {
+      "str": "SOURCE:",
+      "dir": "ltr",
+      "width": 29.124,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72,
+        468.5757
+      ],
+      "fontName": "g_d0_f75",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19999999999999968,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        101.12399999999998,
+        468.5757
+      ],
+      "fontName": "g_d0_f75",
+      "hasEOL": false
+    },
+    {
+      "str": "White House Office of Trade and Manufacturing Policy,",
+      "dir": "ltr",
+      "width": 169.40430000000006,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        102.92399999999998,
+        468.5757
+      ],
+      "fontName": "g_d0_f76",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.20000000000000126,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        272.3283000000001,
+        468.5757
+      ],
+      "fontName": "g_d0_f76",
+      "hasEOL": false
+    },
+    {
+      "str": "The United States Reciprocal Trade Act: Estimated",
+      "dir": "ltr",
+      "width": 154.5651000000003,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        274.12830000000014,
+        468.5757
+      ],
+      "fontName": "g_d0_f80",
+      "hasEOL": true
+    },
+    {
+      "str": "Job & Trade Defi cit Effects",
+      "dir": "ltr",
+      "width": 80.97120000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72,
+        457.5777
+      ],
+      "fontName": "g_d0_f80",
+      "hasEOL": false
+    },
+    {
+      "str": ", May 2029, p. 18, https://www.wsj.com/public/resources/documents/RTAReport.",
+      "dir": "ltr",
+      "width": 249.48539999999994,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        152.9712,
+        457.5777
+      ],
+      "fontName": "g_d0_f76",
+      "hasEOL": true
+    },
+    {
+      "str": "pdf?mod=article_inline (accessed March 21, 2023).",
+      "dir": "ltr",
+      "width": 156.85830000000016,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72,
+        446.5797
+      ],
+      "fontName": "g_d0_f76",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        7,
+        0,
+        0,
+        7,
+        72,
+        638.8499
+      ],
+      "fontName": "g_d0_f77",
+      "hasEOL": true
+    },
+    {
+      "str": "TABLE 3",
+      "dir": "ltr",
+      "width": 29.435000000000038,
+      "height": 7,
+      "transform": [
+        7,
+        0,
+        0,
+        7,
+        72,
+        638.8499
+      ],
+      "fontName": "g_d0_f77",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        14,
+        0,
+        0,
+        14,
+        72,
+        616.8499
+      ],
+      "fontName": "g_d0_f78",
+      "hasEOL": true
+    },
+    {
+      "str": "Trade Deficit Reductions Under Alternative USRTA Scenarios",
+      "dir": "ltr",
+      "width": 356.2440000000001,
+      "height": 14,
+      "transform": [
+        14,
+        0,
+        0,
+        14,
+        72,
+        616.8499
+      ],
+      "fontName": "g_d0_f78",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        6.5,
+        0,
+        0,
+        6.5,
+        375.4428,
+        419.5737
+      ],
+      "fontName": "g_d0_f35",
+      "hasEOL": true
+    },
+    {
+      "str": "A",
+      "dir": "ltr",
+      "width": 6.5,
+      "height": 6.5,
+      "transform": [
+        6.5,
+        0,
+        0,
+        6.5,
+        375.4428,
+        419.5737
+      ],
+      "fontName": "g_d0_f35",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.6203076923076983,
+      "height": 0,
+      "transform": [
+        6.5,
+        0,
+        0,
+        6.5,
+        381.9428,
+        419.5737
+      ],
+      "fontName": "g_d0_f35",
+      "hasEOL": false
+    },
+    {
+      "str": "heritage.org",
+      "dir": "ltr",
+      "width": 46.02600000000015,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        385.9748,
+        419.5737
+      ],
+      "fontName": "g_d0_f79",
+      "hasEOL": false
+    }
+  ],
+  "styles": {
+    "g_d0_f3": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f74": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f4": {
+      "fontFamily": "serif",
+      "ascent": 1.089,
+      "descent": -0.312,
+      "vertical": false
+    },
+    "g_d0_f11": {
+      "fontFamily": "serif",
+      "ascent": 1.143,
+      "descent": -0.351,
+      "vertical": false
+    },
+    "g_d0_f79": {
+      "fontFamily": "sans-serif",
+      "ascent": 0.972,
+      "descent": -0.229,
+      "vertical": false
+    },
+    "g_d0_f78": {
+      "fontFamily": "sans-serif",
+      "ascent": 0.994,
+      "descent": -0.274,
+      "vertical": false
+    },
+    "g_d0_f75": {
+      "fontFamily": "sans-serif",
+      "ascent": 0.959,
+      "descent": -0.238,
+      "vertical": false
+    },
+    "g_d0_f76": {
+      "fontFamily": "sans-serif",
+      "ascent": 0.939,
+      "descent": -0.202,
+      "vertical": false
+    },
+    "g_d0_f80": {
+      "fontFamily": "sans-serif",
+      "ascent": 0.939,
+      "descent": -0.202,
+      "vertical": false
+    },
+    "g_d0_f77": {
+      "fontFamily": "sans-serif",
+      "ascent": 0.994,
+      "descent": -0.244,
+      "vertical": false
+    },
+    "g_d0_f35": {
+      "fontFamily": "monospace",
+      "ascent": 1,
+      "descent": 0,
+      "vertical": false
+    }
+  },
+  "lang": "en-US"
+}

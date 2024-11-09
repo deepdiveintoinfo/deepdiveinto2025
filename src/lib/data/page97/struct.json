@@ -1,0 +1,98 @@
+{
+  "children": [
+    {
+      "role": "Document",
+      "children": [
+        {
+          "role": "Art",
+          "children": [
+            {
+              "role": "Sect",
+              "children": [
+                {
+                  "role": "P",
+                  "children": [
+                    {
+                      "type": "content",
+                      "id": "p234R_mc4246"
+                    },
+                    {
+                      "role": "Span",
+                      "children": [
+                        {
+                          "type": "content",
+                          "id": "p234R_mc4247"
+                        }
+                      ],
+                      "alt": "­"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p234R_mc4248"
+                    }
+                  ]
+                },
+                {
+                  "role": "P",
+                  "children": [
+                    {
+                      "type": "content",
+                      "id": "p234R_mc4249"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p234R_mc4250"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p234R_mc4251"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p234R_mc4252"
+                    }
+                  ]
+                },
+                {
+                  "role": "P",
+                  "children": [
+                    {
+                      "role": "Span",
+                      "children": [
+                        {
+                          "type": "content",
+                          "id": "p234R_mc4253"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "content",
+                      "id": "p234R_mc4254"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p234R_mc4255"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p234R_mc4256"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p234R_mc4257"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p234R_mc4258"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "role": "Root"
+}

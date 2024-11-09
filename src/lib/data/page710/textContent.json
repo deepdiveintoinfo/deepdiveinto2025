@@ -1,0 +1,1535 @@
+{
+  "items": [
+    {
+      "str": "— 677 —",
+      "dir": "ltr",
+      "width": 42.51999999999999,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        230.3923,
+        32.0001
+      ],
+      "fontName": "g_d0_f3",
+      "hasEOL": false
+    },
+    {
+      "str": "Department of Commerce",
+      "dir": "ltr",
+      "width": 118.15110000000004,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        192.9083,
+        664.4
+      ],
+      "fontName": "g_d0_f69",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.682,
+        0,
+        0,
+        10.5,
+        85.8456,
+        632
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": true
+    },
+    {
+      "str": "Break Up the Office of Marine and Aviation Operations and Reassign",
+      "dir": "ltr",
+      "width": 345.7282710000007,
+      "height": 10.5,
+      "transform": [
+        10.682,
+        0,
+        0,
+        10.5,
+        85.8456,
+        632
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5254,
+        0,
+        0,
+        10.5,
+        72.1188,
+        618
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": true
+    },
+    {
+      "str": "Its Assets to Other Agencies During This Process.",
+      "dir": "ltr",
+      "width": 245.07130852000017,
+      "height": 10.5,
+      "transform": [
+        10.5254,
+        0,
+        0,
+        10.5,
+        72.1188,
+        618
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.20349323351129506,
+      "height": 0,
+      "transform": [
+        10.5254,
+        0,
+        0,
+        10.5,
+        317.1901085200002,
+        618
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": "The Office of Marine and",
+      "dir": "ltr",
+      "width": 112.15866240000004,
+      "height": 10.5,
+      "transform": [
+        10.5254,
+        0,
+        0,
+        10.5,
+        319.3319562,
+        618
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.476,
+        0,
+        0,
+        10.5,
+        71.4264,
+        604
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Aviation Operations, which provides the ships and planes used by NOAA agencies,",
+      "dir": "ltr",
+      "width": 362.4978851999999,
+      "height": 10.5,
+      "transform": [
+        10.476,
+        0,
+        0,
+        10.5,
+        71.4264,
+        604
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.494,
+        0,
+        0,
+        10.5,
+        72.3936,
+        590
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "should be broken up and its assets reassigned to the General Services Administra",
+      "dir": "ltr",
+      "width": 358.42571820000035,
+      "height": 10.5,
+      "transform": [
+        10.494,
+        0,
+        0,
+        10.5,
+        72.3936,
+        590
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.840804,
+      "height": 10.5,
+      "transform": [
+        10.494,
+        0,
+        0,
+        10.5,
+        430.7431,
+        590
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2868,
+        576
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "tion or to other agencies.",
+      "dir": "ltr",
+      "width": 110.93249999999996,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2868,
+        576
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4415,
+        0,
+        0,
+        10.5,
+        85.5576,
+        562
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": true
+    },
+    {
+      "str": "Use Small Innovation Prizes and Competitions to Encourage High-Qual",
+      "dir": "ltr",
+      "width": 345.3881135999993,
+      "height": 10.5,
+      "transform": [
+        10.4415,
+        0,
+        0,
+        10.5,
+        85.5576,
+        562
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.821589,
+      "height": 10.5,
+      "transform": [
+        10.4415,
+        0,
+        0,
+        10.5,
+        430.8017,
+        562
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3235,
+        0,
+        0,
+        10.5,
+        72.57,
+        548
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": true
+    },
+    {
+      "str": "ity Research.",
+      "dir": "ltr",
+      "width": 62.43033390000003,
+      "height": 10.5,
+      "transform": [
+        10.3235,
+        0,
+        0,
+        10.5,
+        72.57,
+        548
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.16253916791785208,
+      "height": 0,
+      "transform": [
+        10.3235,
+        0,
+        0,
+        10.5,
+        135.00033390000004,
+        548
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": "Lowering the barriers of entry for startups and small businesses will",
+      "dir": "ltr",
+      "width": 295.04253294999916,
+      "height": 10.5,
+      "transform": [
+        10.3235,
+        0,
+        0,
+        10.5,
+        136.678307,
+        548
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3813,
+        0,
+        0,
+        10.5,
+        72.318,
+        534
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "also provide greater innovation without excessive increases in spending. Reaching",
+      "dir": "ltr",
+      "width": 359.37361461999905,
+      "height": 10.5,
+      "transform": [
+        10.3813,
+        0,
+        0,
+        10.5,
+        72.318,
+        534
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.4548,
+        520
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "beyond traditional partnerships for innovative engagement tools that encourage",
+      "dir": "ltr",
+      "width": 359.04645000000005,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.4548,
+        520
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5467,
+        0,
+        0,
+        10.5,
+        72.36,
+        506
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "entrepreneurial innovation will allow NOAA’s research programs to adapt more",
+      "dir": "ltr",
+      "width": 359.2290393600007,
+      "height": 10.5,
+      "transform": [
+        10.5467,
+        0,
+        0,
+        10.5,
+        72.36,
+        506
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4734,
+        0,
+        0,
+        10.5,
+        72.36,
+        492
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "quickly to the world’s changing needs. Multiple competitions should take place in",
+      "dir": "ltr",
+      "width": 359.37167951999936,
+      "height": 10.5,
+      "transform": [
+        10.4734,
+        0,
+        0,
+        10.5,
+        72.36,
+        492
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4456,
+        0,
+        0,
+        10.5,
+        72.36,
+        478
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "cities to attract a variety of innovators and investors to propel innovation forward",
+      "dir": "ltr",
+      "width": 359.2189611999995,
+      "height": 10.5,
+      "transform": [
+        10.4456,
+        0,
+        0,
+        10.5,
+        72.36,
+        478
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        464
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "in a way that benefits the needs of NOAA.",
+      "dir": "ltr",
+      "width": 183.70695000000003,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        464
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5245,
+        0,
+        0,
+        10.5,
+        85.8456,
+        450
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": true
+    },
+    {
+      "str": "Ensure Appointees Agree with Administration Aims.",
+      "dir": "ltr",
+      "width": 260.24141639999993,
+      "height": 10.5,
+      "transform": [
+        10.5245,
+        0,
+        0,
+        10.5,
+        85.8456,
+        450
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.2062004940852497,
+      "height": 0,
+      "transform": [
+        10.5245,
+        0,
+        0,
+        10.5,
+        346.0870163999998,
+        450
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": "Scientific agencies",
+      "dir": "ltr",
+      "width": 83.2424803,
+      "height": 10.5,
+      "transform": [
+        10.5245,
+        0,
+        0,
+        10.5,
+        348.2571735,
+        450
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3399,
+        0,
+        0,
+        10.5,
+        72.2028,
+        436
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "like NOAA are vulnerable to obstructionism of an Administration’s aims if political",
+      "dir": "ltr",
+      "width": 359.3446126800001,
+      "height": 10.5,
+      "transform": [
+        10.3399,
+        0,
+        0,
+        10.5,
+        72.2028,
+        436
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.402,
+        0,
+        0,
+        10.5,
+        72.318,
+        422
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "appointees are not wholly in sync with Administration policy. Particular attention",
+      "dir": "ltr",
+      "width": 359.2455524000001,
+      "height": 10.5,
+      "transform": [
+        10.402,
+        0,
+        0,
+        10.5,
+        72.318,
+        422
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        408
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "must be paid to appointments in this area.",
+      "dir": "ltr",
+      "width": 188.09699999999998,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        408
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5087,
+        0,
+        0,
+        10.5,
+        85.8456,
+        394
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": true
+    },
+    {
+      "str": "Elevate the Office of Space Commerce.",
+      "dir": "ltr",
+      "width": 192.82518716999994,
+      "height": 10.5,
+      "transform": [
+        10.5087,
+        0,
+        0,
+        10.5,
+        85.8456,
+        394
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.22814540142929327,
+      "height": 0,
+      "transform": [
+        10.5087,
+        0,
+        0,
+        10.5,
+        278.67078717,
+        394
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": "The Office of Space Commerce is",
+      "dir": "ltr",
+      "width": 150.46882095000063,
+      "height": 10.5,
+      "transform": [
+        10.5087,
+        0,
+        0,
+        10.5,
+        281.06829875,
+        394
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.508,
+        0,
+        0,
+        10.5,
+        72.2868,
+        380
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "the executive branch advocate on behalf of the U.S. commercial space industry.",
+      "dir": "ltr",
+      "width": 361.15365519999926,
+      "height": 10.5,
+      "transform": [
+        10.508,
+        0,
+        0,
+        10.5,
+        72.2868,
+        380
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6744,
+        0,
+        0,
+        10.5,
+        71.7636,
+        366
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "This office should be the vehicle for a new Administration to set a robust and",
+      "dir": "ltr",
+      "width": 359.78065200000077,
+      "height": 10.5,
+      "transform": [
+        10.6744,
+        0,
+        0,
+        10.5,
+        71.7636,
+        366
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.585,
+        0,
+        0,
+        10.5,
+        72.2664,
+        352
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "unified whole-of-government commercial space policy that cements U.S. lead",
+      "dir": "ltr",
+      "width": 358.3699940000006,
+      "height": 10.5,
+      "transform": [
+        10.585,
+        0,
+        0,
+        10.5,
+        72.2664,
+        352
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.8741100000000004,
+      "height": 10.5,
+      "transform": [
+        10.585,
+        0,
+        0,
+        10.5,
+        430.7298,
+        352
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6403,
+        0,
+        0,
+        10.5,
+        72.36,
+        338
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "ership in one of the most crucial industries of the future. The Office’s current",
+      "dir": "ltr",
+      "width": 359.16651859000035,
+      "height": 10.5,
+      "transform": [
+        10.6403,
+        0,
+        0,
+        10.5,
+        72.36,
+        338
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5653,
+        0,
+        0,
+        10.5,
+        72.2304,
+        324
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "mission has been lost owing to its position within NESDIS, which sees no role",
+      "dir": "ltr",
+      "width": 359.10820782000116,
+      "height": 10.5,
+      "transform": [
+        10.5653,
+        0,
+        0,
+        10.5,
+        72.2304,
+        324
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5132,
+        0,
+        0,
+        10.5,
+        72.4296,
+        310
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "for itself in advancing the industry and the space economy, including ensuring",
+      "dir": "ltr",
+      "width": 359.1067316400007,
+      "height": 10.5,
+      "transform": [
+        10.5132,
+        0,
+        0,
+        10.5,
+        72.4296,
+        310
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5059,
+        0,
+        0,
+        10.5,
+        72.3564,
+        296
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "global competitiveness. OSC is, by law, the Department of Commerce’s lead on",
+      "dir": "ltr",
+      "width": 359.28286937999974,
+      "height": 10.5,
+      "transform": [
+        10.5059,
+        0,
+        0,
+        10.5,
+        72.3564,
+        296
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5325,
+        0,
+        0,
+        10.5,
+        72.3936,
+        282
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "space policy and must therefore link directly to all the bureaus and other orga",
+      "dir": "ltr",
+      "width": 358.38621775000075,
+      "height": 10.5,
+      "transform": [
+        10.5325,
+        0,
+        0,
+        10.5,
+        72.3936,
+        282
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.854895,
+      "height": 10.5,
+      "transform": [
+        10.5325,
+        0,
+        0,
+        10.5,
+        430.737,
+        282
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        268
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "nizations within the department. The Office needs to be returned to OS, within",
+      "dir": "ltr",
+      "width": 359.4990000000004,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        268
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6963,
+        0,
+        0,
+        10.5,
+        72.096,
+        254
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "which it existed for the first two decades of its existence. From OS, the Office",
+      "dir": "ltr",
+      "width": 359.0844176700008,
+      "height": 10.5,
+      "transform": [
+        10.6963,
+        0,
+        0,
+        10.5,
+        72.096,
+        254
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5647,
+        0,
+        0,
+        10.5,
+        72.36,
+        240
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "could serve as a coordinating entity for the whole-of-government commercial",
+      "dir": "ltr",
+      "width": 359.1522588500002,
+      "height": 10.5,
+      "transform": [
+        10.5647,
+        0,
+        0,
+        10.5,
+        72.36,
+        240
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5688,
+        0,
+        0,
+        10.5,
+        72.3936,
+        226
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "space policy desperately needed to secure America’s place as the global leader",
+      "dir": "ltr",
+      "width": 359.33391559999967,
+      "height": 10.5,
+      "transform": [
+        10.5688,
+        0,
+        0,
+        10.5,
+        72.3936,
+        226
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        212
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "in commercial space operations.",
+      "dir": "ltr",
+      "width": 147.79799999999994,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        212
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4872,
+        0,
+        0,
+        10.5,
+        85.2636,
+        198
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "There presently exists no unified U.S. government policy on commercial space",
+      "dir": "ltr",
+      "width": 346.3230004800001,
+      "height": 10.5,
+      "transform": [
+        10.4872,
+        0,
+        0,
+        10.5,
+        85.2636,
+        198
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6022,
+        0,
+        0,
+        10.5,
+        72.36,
+        184
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "operations, with the Federal Communications Commission largely responsible",
+      "dir": "ltr",
+      "width": 359.2693298599994,
+      "height": 10.5,
+      "transform": [
+        10.6022,
+        0,
+        0,
+        10.5,
+        72.36,
+        184
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5448,
+        0,
+        0,
+        10.5,
+        72.4296,
+        170
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "for establishing space policy by default through its regulation of radio spectrum",
+      "dir": "ltr",
+      "width": 359.39209151999944,
+      "height": 10.5,
+      "transform": [
+        10.5448,
+        0,
+        0,
+        10.5,
+        72.4296,
+        170
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2028,
+        156
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "licenses. Now that routine space operations are commercially viable, it is critical",
+      "dir": "ltr",
+      "width": 359.47799999999995,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2028,
+        156
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2868,
+        142
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "that a new Administration establish reasonable government policies that ensure",
+      "dir": "ltr",
+      "width": 359.163,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2868,
+        142
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2868,
+        128
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "the U.S. will continue to be the flag of choice for commercial space activities. The",
+      "dir": "ltr",
+      "width": 359.2260000000003,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2868,
+        128
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3049,
+        0,
+        0,
+        10.5,
+        71.9316,
+        114
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "President should, by executive order, direct the Office of Space Commerce, working",
+      "dir": "ltr",
+      "width": 359.76569928999936,
+      "height": 10.5,
+      "transform": [
+        10.3049,
+        0,
+        0,
+        10.5,
+        71.9316,
+        114
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6032,
+        0,
+        0,
+        10.5,
+        72.096,
+        100
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "with the National Space Council, to establish a whole-of-government policy for",
+      "dir": "ltr",
+      "width": 359.90441759999993,
+      "height": 10.5,
+      "transform": [
+        10.6032,
+        0,
+        0,
+        10.5,
+        72.096,
+        100
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2028,
+        86
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "licensing and oversight of commercial space operations.",
+      "dir": "ltr",
+      "width": 249.9,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2028,
+        86
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    }
+  ],
+  "styles": {
+    "g_d0_f3": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f69": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f11": {
+      "fontFamily": "serif",
+      "ascent": 1.143,
+      "descent": -0.351,
+      "vertical": false
+    },
+    "g_d0_f4": {
+      "fontFamily": "serif",
+      "ascent": 1.089,
+      "descent": -0.312,
+      "vertical": false
+    }
+  },
+  "lang": "en-US"
+}

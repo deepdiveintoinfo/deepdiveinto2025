@@ -1,0 +1,1599 @@
+{
+  "items": [
+    {
+      "str": "— 737 —",
+      "dir": "ltr",
+      "width": 41.91,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        230.6973,
+        32.0001
+      ],
+      "fontName": "g_d0_f3",
+      "hasEOL": false
+    },
+    {
+      "str": "Federal Reserve",
+      "dir": "ltr",
+      "width": 72.76410000000004,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        215.6017,
+        664.4
+      ],
+      "fontName": "g_d0_f72",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3922,
+        0,
+        0,
+        10.5,
+        72.4548,
+        632
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "by ensuring that cash earns a positive (inflation-adjusted) rate of return, it can pre",
+      "dir": "ltr",
+      "width": 358.26797733999956,
+      "height": 10.5,
+      "transform": [
+        10.3922,
+        0,
+        0,
+        10.5,
+        72.4548,
+        632
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.8035452000000003,
+      "height": 10.5,
+      "transform": [
+        10.3922,
+        0,
+        0,
+        10.5,
+        430.7597,
+        632
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.1284,
+        618
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "vent households and businesses from holding inefficiently small money balances.",
+      "dir": "ltr",
+      "width": 361.35750000000013,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.1284,
+        618
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3907,
+        0,
+        0,
+        10.5,
+        85.4316,
+        604
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Further benefits of free banking include dramatic reduction of economic cycles,",
+      "dir": "ltr",
+      "width": 348.2952249300004,
+      "height": 10.5,
+      "transform": [
+        10.3907,
+        0,
+        0,
+        10.5,
+        85.4316,
+        604
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.318,
+        590
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "an end to indirect financing of federal spending, removal of the “lender of last",
+      "dir": "ltr",
+      "width": 359.4768659999998,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.318,
+        590
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5053,
+        0,
+        0,
+        10.5,
+        72.2304,
+        576
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "resort” permanent bailout function of central banks, and promotion of currency",
+      "dir": "ltr",
+      "width": 359.6069243000001,
+      "height": 10.5,
+      "transform": [
+        10.5053,
+        0,
+        0,
+        10.5,
+        72.2304,
+        576
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6434,
+        0,
+        0,
+        10.5,
+        72.36,
+        562
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "competition.",
+      "dir": "ltr",
+      "width": 58.97614373999997,
+      "height": 10.5,
+      "transform": [
+        10.6434,
+        0,
+        0,
+        10.5,
+        72.36,
+        562
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "26",
+      "dir": "ltr",
+      "width": 6.748046249999999,
+      "height": 6.1215,
+      "transform": [
+        6.2051,
+        0,
+        0,
+        6.1215,
+        131.3629,
+        565.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.354071771607229,
+      "height": 0,
+      "transform": [
+        6.2051,
+        0,
+        0,
+        6.1215,
+        138.11094624999998,
+        565.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "This allows Americans many more ways to protect their savings.",
+      "dir": "ltr",
+      "width": 293.26079322,
+      "height": 10.5,
+      "transform": [
+        10.6434,
+        0,
+        0,
+        10.5,
+        140.307997,
+        562
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6915,
+        0,
+        0,
+        10.5,
+        71.9316,
+        548
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Because free banking implies that financial services and banking would be gov",
+      "dir": "ltr",
+      "width": 358.63139940000093,
+      "height": 10.5,
+      "transform": [
+        10.6915,
+        0,
+        0,
+        10.5,
+        71.9316,
+        548
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.913089,
+      "height": 10.5,
+      "transform": [
+        10.6915,
+        0,
+        0,
+        10.5,
+        430.7205,
+        548
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5153,
+        0,
+        0,
+        10.5,
+        72.36,
+        534
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "erned by general business laws against, for example, fraud or misrepresentation,",
+      "dir": "ltr",
+      "width": 361.2878319900002,
+      "height": 10.5,
+      "transform": [
+        10.5153,
+        0,
+        0,
+        10.5,
+        72.36,
+        534
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5342,
+        0,
+        0,
+        10.5,
+        72.36,
+        520
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "crony regulatory burdens that hurt customers would be dramatically eased, and",
+      "dir": "ltr",
+      "width": 359.4079424400004,
+      "height": 10.5,
+      "transform": [
+        10.5342,
+        0,
+        0,
+        10.5,
+        72.36,
+        520
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        506
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "innovation would be encouraged.",
+      "dir": "ltr",
+      "width": 148.94145,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        506
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        85.4316,
+        492
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Potential downsides of free banking stem from its greatest benefit: It has mas",
+      "dir": "ltr",
+      "width": 345.3240000000002,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        85.4316,
+        492
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.843,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        430.7421,
+        492
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.7066,
+        0,
+        0,
+        10.5,
+        72.3936,
+        478
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "sive political hurdles to clear. Economic theory predicts and economic history",
+      "dir": "ltr",
+      "width": 359.6475419200004,
+      "height": 10.5,
+      "transform": [
+        10.7066,
+        0,
+        0,
+        10.5,
+        72.3936,
+        478
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3319,
+        0,
+        0,
+        10.5,
+        72.36,
+        464
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "confirms that free banking is both stable and productive, but it is radically different",
+      "dir": "ltr",
+      "width": 359.3641457999998,
+      "height": 10.5,
+      "transform": [
+        10.3319,
+        0,
+        0,
+        10.5,
+        72.36,
+        464
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5091,
+        0,
+        0,
+        10.5,
+        72.4296,
+        450
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "from the system we have now. Transitioning to free banking would require polit",
+      "dir": "ltr",
+      "width": 358.2299971600001,
+      "height": 10.5,
+      "transform": [
+        10.5091,
+        0,
+        0,
+        10.5,
+        72.4296,
+        450
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.8463306,
+      "height": 10.5,
+      "transform": [
+        10.5091,
+        0,
+        0,
+        10.5,
+        430.7406,
+        450
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        436
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "ical authorities, including Congress and the President, to coordinate on multiple",
+      "dir": "ltr",
+      "width": 359.28375000000017,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        436
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3997,
+        0,
+        0,
+        10.5,
+        72.2304,
+        422
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "reforms simultaneously. Getting any of them wrong could imbalance an otherwise",
+      "dir": "ltr",
+      "width": 359.1557194400009,
+      "height": 10.5,
+      "transform": [
+        10.3997,
+        0,
+        0,
+        10.5,
+        72.2304,
+        422
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.4296,
+        408
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "functional system. Ironically, it is the very strength of a true free banking system",
+      "dir": "ltr",
+      "width": 359.23650000000015,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.4296,
+        408
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2868,
+        394
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "that makes transitioning to one so difficult.",
+      "dir": "ltr",
+      "width": 192.297,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2868,
+        394
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3778,
+        0,
+        0,
+        10.5,
+        85.6404,
+        380
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": true
+    },
+    {
+      "str": "Commodity-Backed Money.",
+      "dir": "ltr",
+      "width": 132.40723685999995,
+      "height": 10.5,
+      "transform": [
+        10.3778,
+        0,
+        0,
+        10.5,
+        85.6404,
+        380
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1600671182716935,
+      "height": 0,
+      "transform": [
+        10.3778,
+        0,
+        0,
+        10.5,
+        218.04763686,
+        380
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": "For most of U.S. history, the dollar was defined in",
+      "dir": "ltr",
+      "width": 212.02571846000097,
+      "height": 10.5,
+      "transform": [
+        10.3778,
+        0,
+        0,
+        10.5,
+        219.7087814,
+        380
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2868,
+        366
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "terms of both gold and silver. The problem was that when the legal price differed",
+      "dir": "ltr",
+      "width": 359.2774499999999,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2868,
+        366
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3702,
+        0,
+        0,
+        10.5,
+        72.4296,
+        352
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "from the market price, the artificially undervalued currency would disappear from",
+      "dir": "ltr",
+      "width": 359.4601685599997,
+      "height": 10.5,
+      "transform": [
+        10.3702,
+        0,
+        0,
+        10.5,
+        72.4296,
+        352
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.36,
+        338
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "circulation. There were times, for instance, when this mechanism put the U.S. on",
+      "dir": "ltr",
+      "width": 359.3205000000002,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.36,
+        338
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.318,
+        324
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "a de facto silver standard. However, as a result, inflation was limited.",
+      "dir": "ltr",
+      "width": 304.2574500000001,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.318,
+        324
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.519,
+        0,
+        0,
+        10.5,
+        85.5348,
+        310
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Given this track record, restoring a gold standard retains some appeal among",
+      "dir": "ltr",
+      "width": 345.93519730000014,
+      "height": 10.5,
+      "transform": [
+        10.519,
+        0,
+        0,
+        10.5,
+        85.5348,
+        310
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3789,
+        0,
+        0,
+        10.5,
+        72.2304,
+        296
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "monetary reformers who do not wish to go so far as abolishing the Federal Reserve.",
+      "dir": "ltr",
+      "width": 361.33413826999913,
+      "height": 10.5,
+      "transform": [
+        10.3789,
+        0,
+        0,
+        10.5,
+        72.2304,
+        296
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        71.9316,
+        282
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Both the 2012 and 2016 GOP platforms urged the establishment of a commis",
+      "dir": "ltr",
+      "width": 358.7764320000009,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        71.9316,
+        282
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.9198600000000003,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        430.7184,
+        282
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5761,
+        0,
+        0,
+        10.5,
+        72.3936,
+        268
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "sion to consider the feasibility of a return to the gold standard,",
+      "dir": "ltr",
+      "width": 282.93605763999994,
+      "height": 10.5,
+      "transform": [
+        10.5761,
+        0,
+        0,
+        10.5,
+        72.3936,
+        268
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "27",
+      "dir": "ltr",
+      "width": 6.474194999999985,
+      "height": 6.1215,
+      "transform": [
+        6.1659,
+        0,
+        0,
+        6.1215,
+        355.4698,
+        271.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.351551176632763,
+      "height": 0,
+      "transform": [
+        6.1659,
+        0,
+        0,
+        6.1215,
+        361.94399500000003,
+        271.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "and in October",
+      "dir": "ltr",
+      "width": 67.7187682999998,
+      "height": 10.5,
+      "transform": [
+        10.5761,
+        0,
+        0,
+        10.5,
+        364.1116244,
+        268
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        71.8884,
+        254
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "2022, Representative Alexander Mooney (R–WV) introduced a bill to restore the",
+      "dir": "ltr",
+      "width": 359.62395,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        71.8884,
+        254
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.3564,
+        240
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "gold standard.",
+      "dir": "ltr",
+      "width": 63.85049999999998,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.3564,
+        240
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "28",
+      "dir": "ltr",
+      "width": 6.562248,
+      "height": 6.1215,
+      "transform": [
+        6.1215,
+        0,
+        0,
+        6.1215,
+        136.2058,
+        243.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        85.3272,
+        226
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "In economic effect, commodity-backing the dollar differs from free banking in",
+      "dir": "ltr",
+      "width": 346.3950000000001,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        85.3272,
+        226
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3623,
+        0,
+        0,
+        10.5,
+        72.2868,
+        212
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "that the government (via the Fed) maintains both regulatory and bailout functions.",
+      "dir": "ltr",
+      "width": 361.3354734600006,
+      "height": 10.5,
+      "transform": [
+        10.3623,
+        0,
+        0,
+        10.5,
+        72.2868,
+        212
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4029,
+        0,
+        0,
+        10.5,
+        71.9316,
+        198
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "However, manipulation of money and credit is limited because new dollars are not",
+      "dir": "ltr",
+      "width": 359.6844286600003,
+      "height": 10.5,
+      "transform": [
+        10.4029,
+        0,
+        0,
+        10.5,
+        71.9316,
+        198
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.36,
+        184
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "costless to the federal government: They must be backed by some hard asset like",
+      "dir": "ltr",
+      "width": 359.121,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.36,
+        184
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5301,
+        0,
+        0,
+        10.5,
+        72.3564,
+        170
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "gold. Compared to free banking, then, the benefits of commodity-backed money",
+      "dir": "ltr",
+      "width": 359.5565825599998,
+      "height": 10.5,
+      "transform": [
+        10.5301,
+        0,
+        0,
+        10.5,
+        72.3564,
+        170
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.318,
+        156
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "are reduced, but transition disruptions are also smaller.",
+      "dir": "ltr",
+      "width": 248.0635500000001,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.318,
+        156
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        85.2636,
+        142
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "The process of commodity backing is very straightforward: Treasury could",
+      "dir": "ltr",
+      "width": 346.45136399999984,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        85.2636,
+        142
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5648,
+        0,
+        0,
+        10.5,
+        72.3936,
+        128
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "set the price of a dollar at today’s market price of $2,000 per ounce of gold. This",
+      "dir": "ltr",
+      "width": 359.0214854400001,
+      "height": 10.5,
+      "transform": [
+        10.5648,
+        0,
+        0,
+        10.5,
+        72.3936,
+        128
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        114
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "means that each Federal Reserve note could be redeemed at the Federal Reserve",
+      "dir": "ltr",
+      "width": 359.25749999999994,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        114
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.29,
+        0,
+        0,
+        10.5,
+        72.318,
+        100
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "and exchanged for 1/2000 ounce of gold—about $80, for example, for a gold coin the",
+      "dir": "ltr",
+      "width": 359.09218800000104,
+      "height": 10.5,
+      "transform": [
+        10.29,
+        0,
+        0,
+        10.5,
+        72.318,
+        100
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.096,
+        86
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "weight of a dime. Private bank liabilities would be redeemable upon their issuers.",
+      "dir": "ltr",
+      "width": 361.46355000000017,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.096,
+        86
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3449,
+        0,
+        0,
+        10.5,
+        71.9316,
+        72
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Banks could send those traded-in dollars to the Treasury for gold to replenish their",
+      "dir": "ltr",
+      "width": 359.7821736299991,
+      "height": 10.5,
+      "transform": [
+        10.3449,
+        0,
+        0,
+        10.5,
+        71.9316,
+        72
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    }
+  ],
+  "styles": {
+    "g_d0_f3": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f72": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f4": {
+      "fontFamily": "serif",
+      "ascent": 1.089,
+      "descent": -0.312,
+      "vertical": false
+    },
+    "g_d0_f11": {
+      "fontFamily": "serif",
+      "ascent": 1.143,
+      "descent": -0.351,
+      "vertical": false
+    }
+  },
+  "lang": "en-US"
+}

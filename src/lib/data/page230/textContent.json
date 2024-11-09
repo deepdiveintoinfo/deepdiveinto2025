@@ -1,0 +1,357 @@
+{
+  "items": [
+    {
+      "str": "— 197 —",
+      "dir": "ltr",
+      "width": 40.43000000000001,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        231.4373,
+        32.0001
+      ],
+      "fontName": "g_d0_f3",
+      "hasEOL": false
+    },
+    {
+      "str": "Department of State",
+      "dir": "ltr",
+      "width": 92.81609999999995,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        205.5757,
+        664.4
+      ],
+      "fontName": "g_d0_f26",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4594,
+        0,
+        0,
+        10.5,
+        71.7636,
+        632
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "The ideas and recommendations herein are premised on the belief that a rigorous",
+      "dir": "ltr",
+      "width": 359.63914742,
+      "height": 10.5,
+      "transform": [
+        10.4594,
+        0,
+        0,
+        10.5,
+        71.7636,
+        632
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.318,
+        618
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "adherence to the national interest is the most enduring foundation for U.S. grand",
+      "dir": "ltr",
+      "width": 359.2260000000001,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.318,
+        618
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.3936,
+        604
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "strategy in the 21st century.",
+      "dir": "ltr",
+      "width": 123.28994999999999,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.3936,
+        604
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        8,
+        0,
+        0,
+        8,
+        71.7204,
+        116
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": true
+    },
+    {
+      "str": "AUTHOR’S NOTE:",
+      "dir": "ltr",
+      "width": 71.61519999999999,
+      "height": 8,
+      "transform": [
+        8,
+        0,
+        0,
+        8,
+        71.7204,
+        116
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.2250249999999987,
+      "height": 0,
+      "transform": [
+        8,
+        0,
+        0,
+        8,
+        143.33560000000003,
+        116
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": false
+    },
+    {
+      "str": "Thanks to the entire State Department chapter team, the leaders and staff of the 2025",
+      "dir": "ltr",
+      "width": 267.6654000000005,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        145.13580000000002,
+        116
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.54,
+        105
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "Presidential Transition Project, and my colleagues at The Heritage Foundation’s Davis Center. In particular, I would",
+      "dir": "ltr",
+      "width": 352.1376000000004,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.54,
+        105
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.6804,
+        94
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "like to acknowledge the following colleagues: Russell Berman, Sarah Calvis, James Carafano, Spencer Chretien,",
+      "dir": "ltr",
+      "width": 342.9135000000003,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.6804,
+        94
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.174,
+        83
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "Wesley Coopersmith, Paul Dans, Steven Groves, Simon Hankinson, Joseph Humire, Michael Pillsbury, Max Primorac,",
+      "dir": "ltr",
+      "width": 356.4027000000004,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.174,
+        83
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.54,
+        72
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "Reed Rubenstein, Brett Schaefer, Jeff Smith, Hillary Tanoff, Erin Walsh, and John Zadrozny.",
+      "dir": "ltr",
+      "width": 280.1475000000004,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.54,
+        72
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    }
+  ],
+  "styles": {
+    "g_d0_f3": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f26": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f4": {
+      "fontFamily": "serif",
+      "ascent": 1.089,
+      "descent": -0.312,
+      "vertical": false
+    },
+    "g_d0_f8": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.017,
+      "descent": -0.297,
+      "vertical": false
+    },
+    "g_d0_f17": {
+      "fontFamily": "sans-serif",
+      "ascent": 0.939,
+      "descent": -0.202,
+      "vertical": false
+    }
+  },
+  "lang": "en-US"
+}

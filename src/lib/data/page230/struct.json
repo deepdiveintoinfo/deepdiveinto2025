@@ -1,0 +1,71 @@
+{
+  "children": [
+    {
+      "role": "Document",
+      "children": [
+        {
+          "role": "Art",
+          "children": [
+            {
+              "role": "Sect",
+              "children": [
+                {
+                  "role": "P",
+                  "children": [
+                    {
+                      "type": "content",
+                      "id": "p578R_mc10726"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p578R_mc10727"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p578R_mc10728"
+                    }
+                  ]
+                },
+                {
+                  "role": "P",
+                  "children": [
+                    {
+                      "role": "Span",
+                      "children": [
+                        {
+                          "type": "content",
+                          "id": "p578R_mc10729"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "content",
+                      "id": "p578R_mc10730"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p578R_mc10731"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p578R_mc10732"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p578R_mc10733"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p578R_mc10734"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "role": "Root"
+}

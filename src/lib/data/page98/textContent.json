@@ -1,0 +1,3749 @@
+{
+  "items": [
+    {
+      "str": "— 65 —",
+      "dir": "ltr",
+      "width": 36.75,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        233.2774,
+        32.0001
+      ],
+      "fontName": "g_d0_f3",
+      "hasEOL": false
+    },
+    {
+      "str": "Executive Office of the President of the United States",
+      "dir": "ltr",
+      "width": 241.93529999999987,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        131.023,
+        664.4
+      ],
+      "fontName": "g_d0_f21",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        8,
+        0,
+        0,
+        8,
+        72.5256,
+        640.6001
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": true
+    },
+    {
+      "str": "ENDNOTES",
+      "dir": "ltr",
+      "width": 46.480000000000004,
+      "height": 8,
+      "transform": [
+        8,
+        0,
+        0,
+        8,
+        72.5256,
+        640.6001
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        624
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "1.",
+      "dir": "ltr",
+      "width": 6.075,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        624
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 1.349999999999999,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        77.8518,
+        624
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "U.S. Constitution, Article II, Section 1,",
+      "dir": "ltr",
+      "width": 112.91220000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.00179999999999,
+        624
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19966666666665686,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        202.9140000000001,
+        624
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.law.cornell.edu/constitution/articleii#section1",
+      "dir": "ltr",
+      "width": 180.1143,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        204.711,
+        624
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19984444444443422,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        384.8253000000001,
+        624
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed",
+      "dir": "ltr",
+      "width": 30.537000000000038,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        386.6239,
+        624
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.4468,
+        613
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "January 30, 2023).",
+      "dir": "ltr",
+      "width": 57.84209999999998,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.4468,
+        613
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.9844,
+        602
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "2.",
+      "dir": "ltr",
+      "width": 6.075,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.9844,
+        602
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 1.3269999999999997,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        78.0594,
+        602
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "James Madison,",
+      "dir": "ltr",
+      "width": 49.329,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0024,
+        602
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19962222222222042,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        139.3314,
+        602
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "The Federalist Papers",
+      "dir": "ltr",
+      "width": 66.52710000000003,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        141.128,
+        602
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19993333333333238,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        207.65510000000003,
+        602
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": "No. 47, January 30, 1788,",
+      "dir": "ltr",
+      "width": 75.71610000000011,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        209.45450000000002,
+        602
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19995555555553007,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        285.1706000000002,
+        602
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://founders.archives.gov/documents/",
+      "dir": "ltr",
+      "width": 130.70610000000013,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        286.9702,
+        602
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        591
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "Madison/01-10-02-0266",
+      "dir": "ltr",
+      "width": 74.79809999999999,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        591
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19996666666666682,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        165.3381,
+        591
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed January 30, 2023).",
+      "dir": "ltr",
+      "width": 90.17910000000008,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        167.1378,
+        591
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.8728,
+        580
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "3.",
+      "dir": "ltr",
+      "width": 6.075,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.8728,
+        580
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 1.3389999999999986,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        77.9478,
+        580
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "31 U.S.C. §§ 1341(a)(1)(A) and 1341(a)(1)(B),",
+      "dir": "ltr",
+      "width": 132.26220000000006,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.99879999999999,
+        580
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.20009999999999512,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        222.26100000000005,
+        580
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.law.cornell.edu/uscode/text/31/1341",
+      "dir": "ltr",
+      "width": 150.59430000000003,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        224.0619,
+        580
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.20001111111108433,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        374.65620000000024,
+        580
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed",
+      "dir": "ltr",
+      "width": 30.537000000000038,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        376.4563,
+        580
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.4468,
+        569
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "January 30, 2023); § 1342,",
+      "dir": "ltr",
+      "width": 80.99910000000003,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.4468,
+        569
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1999444444444407,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        170.44590000000002,
+        569
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.law.cornell.edu/uscode/text/31/1342",
+      "dir": "ltr",
+      "width": 152.1423000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        172.2454,
+        569
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.20002222222219895,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        324.3877000000002,
+        569
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed January 30, 2023); and",
+      "dir": "ltr",
+      "width": 103.86900000000013,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        326.1879,
+        569
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.174,
+        558
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "§ 1517(a),",
+      "dir": "ltr",
+      "width": 28.55699999999999,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.174,
+        558
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1999222222222209,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        118.73100000000001,
+        558
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.law.cornell.edu/uscode/text/31/1517(a)",
+      "dir": "ltr",
+      "width": 159.43230000000014,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        120.5303,
+        558
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.199988888888874,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        279.9626000000001,
+        558
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed January 30, 2023).",
+      "dir": "ltr",
+      "width": 90.17910000000012,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        281.7625,
+        558
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.6064,
+        547
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "4.",
+      "dir": "ltr",
+      "width": 6.075,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.6064,
+        547
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 1.3689999999999998,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        77.6814,
+        547
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "President William J. Clinton, Executive Order 12866, “Regulatory Planning and Review,” September 30, 1993,",
+      "dir": "ltr",
+      "width": 334.46160000000026,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0024,
+        547
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.5856,
+        536
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "in",
+      "dir": "ltr",
+      "width": 5.652,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.5856,
+        536
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1999777777777783,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        96.2376,
+        536
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Federal Register",
+      "dir": "ltr",
+      "width": 50.552099999999996,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        98.0374,
+        536
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": ", Vol. 58, No. 190 (October 4, 1993), pp. 51735–51744,",
+      "dir": "ltr",
+      "width": 161.10630000000018,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        148.5892,
+        536
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19996666666664473,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        309.6955000000002,
+        536
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.govinfo.gov/content/pkg/",
+      "dir": "ltr",
+      "width": 120.25710000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        311.4952,
+        536
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        525
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "FR-1993-10-04/pdf/FR-1993-10-04.pdf",
+      "dir": "ltr",
+      "width": 119.15820000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        525
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19994444444444703,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        209.69819999999999,
+        525
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed March 9, 2023).",
+      "dir": "ltr",
+      "width": 80.28810000000014,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        211.4977,
+        525
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.2364,
+        514
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "5.",
+      "dir": "ltr",
+      "width": 6.075,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.2364,
+        514
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 1.2989999999999986,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        78.3114,
+        514
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Brent J. McIntosh, General Counsel, Department of the Treasury, and Neomi Rao, Administrator, Office of",
+      "dir": "ltr",
+      "width": 323.2125000000004,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0024,
+        514
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.468,
+        503
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "Information and Regulatory Affairs, Memorandum of Agreement, “The Department of the Treasury and the",
+      "dir": "ltr",
+      "width": 331.8705000000003,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.468,
+        503
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2004,
+        492
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "Office of Management and Budget Review of Tax Regulations Under Executive Order 12866,” April 11, 2018,",
+      "dir": "ltr",
+      "width": 329.66459999999995,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2004,
+        492
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.612,
+        481
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "https://home.treasury.gov/sites/default/files/2018-04/04-11%20Signed%20Treasury%20OIRA%20MOA.pdf",
+      "dir": "ltr",
+      "width": 330.41249999999997,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.612,
+        481
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0756,
+        470
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "(accessed January 31, 2023).",
+      "dir": "ltr",
+      "width": 88.15410000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0756,
+        470
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.1644,
+        459
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "6.",
+      "dir": "ltr",
+      "width": 6.075,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.1644,
+        459
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 1.306999999999999,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        78.2394,
+        459
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "See Steven A. Engel, Assistant Attorney General, Office of Legal Counsel, “Extending Regulatory Review",
+      "dir": "ltr",
+      "width": 321.8175000000003,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0024,
+        459
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4608,
+        448
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "Under Executive Order 12866 to Independent Regulatory Agencies,” 43 Op. O.L.C. __ (Oct. 8, 2019),",
+      "dir": "ltr",
+      "width": 307.3086000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4608,
+        448
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1999222222221988,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        397.7694000000002,
+        448
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://",
+      "dir": "ltr",
+      "width": 22.85999999999998,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        399.5687,
+        448
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.3168,
+        437
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "www.justice.gov/sites/default/files/opinions/attachments/2020/12/30/2019-10-08-extend-reg-review.pdf",
+      "dir": "ltr",
+      "width": 327.5135999999999,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.3168,
+        437
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0756,
+        426
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "(accessed January 31, 2023).",
+      "dir": "ltr",
+      "width": 88.15410000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0756,
+        426
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.5692,
+        415
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "7.",
+      "dir": "ltr",
+      "width": 6.075,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.5692,
+        415
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 1.373,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        77.6442,
+        415
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Office of Management and Budget, Circular A-4, “Regulatory Analysis,” September 17, 2003,",
+      "dir": "ltr",
+      "width": 284.8185000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0012,
+        415
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19976666666663176,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        374.8197000000003,
+        415
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://",
+      "dir": "ltr",
+      "width": 22.85999999999998,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        376.6176,
+        415
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.3168,
+        404
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/circulars/A4/a-4.pdf",
+      "dir": "ltr",
+      "width": 279.71549999999985,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.3168,
+        404
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1999555555555427,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        370.03230000000013,
+        404
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed",
+      "dir": "ltr",
+      "width": 30.537000000000038,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        371.8319,
+        404
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.4468,
+        393
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "January 31, 2023).",
+      "dir": "ltr",
+      "width": 55.81709999999998,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.4468,
+        393
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.2268,
+        382
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "8.",
+      "dir": "ltr",
+      "width": 6.075,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.2268,
+        382
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 1.3000000000000003,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        78.3018,
+        382
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "President Donald J. Trump, Executive Order 13891, “Promoting the Rule of Law Through Improved Agency",
+      "dir": "ltr",
+      "width": 327.20760000000024,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0018,
+        382
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2004,
+        371
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "Guidance Documents,” October 9, 2019, in",
+      "dir": "ltr",
+      "width": 130.21020000000004,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2004,
+        371
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1999111111111031,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        220.41060000000007,
+        371
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Federal Register",
+      "dir": "ltr",
+      "width": 50.552100000000095,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        222.2098,
+        371
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": ", Vol. 84, No. 199 (October 15, 2019), pp. 55235–",
+      "dir": "ltr",
+      "width": 146.36610000000022,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        272.7616,
+        371
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2988,
+        360
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "55238,",
+      "dir": "ltr",
+      "width": 20.483999999999995,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2988,
+        360
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19996666666666524,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        110.78280000000001,
+        360
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://home.treasury.gov/sites/default/files/2018-04/04-11%20Signed%20Treasury%20OIRA%20MOA.",
+      "dir": "ltr",
+      "width": 319.85640000000006,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        112.5825,
+        360
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4788,
+        349
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "pdf",
+      "dir": "ltr",
+      "width": 10.557,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4788,
+        349
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19997777777777673,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        101.03580000000001,
+        349
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed January 31, 2023).",
+      "dir": "ltr",
+      "width": 88.15410000000003,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        102.8356,
+        349
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.102,
+        338
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "9.",
+      "dir": "ltr",
+      "width": 6.075,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.102,
+        338
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 1.3139999999999992,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        78.177,
+        338
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "President Donald J. Trump, Executive Order 13771, “Reducing Regulation and Controlling Regulatory Costs,”",
+      "dir": "ltr",
+      "width": 331.3494000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.003,
+        338
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.4468,
+        327
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "January 30, 2017, in",
+      "dir": "ltr",
+      "width": 60.3531,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.4468,
+        327
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19996666666666998,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        149.79989999999998,
+        327
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Federal Register",
+      "dir": "ltr",
+      "width": 50.55210000000003,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        151.5996,
+        327
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": ", Vol. 82, No. 22 (February 3, 20170, pp. 9339–9341,",
+      "dir": "ltr",
+      "width": 157.32630000000017,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        202.1514,
+        327
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.20001111111105907,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        359.4777000000005,
+        327
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.govinfo.",
+      "dir": "ltr",
+      "width": 65.259,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        361.2778,
+        327
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2724,
+        316
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "gov/content/pkg/FR-2017-02-03/pdf/2017-02451.pdf",
+      "dir": "ltr",
+      "width": 164.21220000000005,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2724,
+        316
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1999777777777846,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        254.48459999999994,
+        316
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed January 31, 2023).",
+      "dir": "ltr",
+      "width": 88.1541000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        256.2844,
+        316
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        305
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "10.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        305
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8999888888888895,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.9018,
+        305
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "President Donald J. Trump, Executive Order 13777, “Enforcing the Regulatory Reform Agenda,” February 24,",
+      "dir": "ltr",
+      "width": 332.8623000000004,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0017,
+        305
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.9172,
+        294
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "2017, in",
+      "dir": "ltr",
+      "width": 22.419,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.9172,
+        294
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19994444444444545,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        112.33619999999999,
+        294
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Federal Register",
+      "dir": "ltr",
+      "width": 50.55210000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        114.1357,
+        294
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": ", Vol. 82, No. 39 (March 1, 2017), pp. 12285–12287,",
+      "dir": "ltr",
+      "width": 149.7762000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        164.6876,
+        294
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19993333333332608,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        314.46380000000005,
+        294
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.govinfo.gov/content/",
+      "dir": "ltr",
+      "width": 105.86610000000005,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        316.2632,
+        294
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4788,
+        283
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "pkg/FR-2017-03-01/pdf/2017-04107.pdf",
+      "dir": "ltr",
+      "width": 122.43420000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4788,
+        283
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.2000111111111159,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        212.91299999999995,
+        283
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed January 31, 2023).",
+      "dir": "ltr",
+      "width": 88.1541000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        214.7131,
+        283
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        272
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "11.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        272
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8999888888888895,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.9018,
+        272
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "See note 8,",
+      "dir": "ltr",
+      "width": 34.64999999999999,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0017,
+        272
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19971111111111384,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        124.65169999999998,
+        272
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "supra",
+      "dir": "ltr",
+      "width": 17.19900000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        126.4491,
+        272
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": ".",
+      "dir": "ltr",
+      "width": 1.6019999999999999,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        143.6478,
+        272
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        261
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "12.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        261
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8999888888888895,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.9018,
+        261
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "President Donald J. Trump, Executive Order 13892, “Promoting the Rule of Law Through Transparency and",
+      "dir": "ltr",
+      "width": 328.4505000000003,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0017,
+        261
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        250
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "Fairness in Civil Administrative Enforcement and Adjudication,” in",
+      "dir": "ltr",
+      "width": 203.03550000000007,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        250
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.199999999999976,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        293.5755000000002,
+        250
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Federal Register",
+      "dir": "ltr",
+      "width": 50.552100000000095,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        295.3755,
+        250
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": ", Vol. 84, No. 199 (October",
+      "dir": "ltr",
+      "width": 80.16300000000007,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        345.9274,
+        250
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.282,
+        239
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "15, 2019), pp. 55239–55243,",
+      "dir": "ltr",
+      "width": 85.06710000000004,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.282,
+        239
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19996666666666052,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        175.34910000000005,
+        239
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.govinfo.gov/content/pkg/FR-2019-10-15/pdf/2019-22624.pdf",
+      "dir": "ltr",
+      "width": 228.27329999999995,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        177.1488,
+        239
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0756,
+        228
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "(accessed January 31, 2023).",
+      "dir": "ltr",
+      "width": 88.15410000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0756,
+        228
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        217
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "13.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        217
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8999888888888895,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.9018,
+        217
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "President Donald J. Trump, Executive Order 13893, “Increasing Government Accountability for Administrative",
+      "dir": "ltr",
+      "width": 336.72150000000045,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0017,
+        217
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.7588,
+        206
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "Actions by Reinvigorating Administrative PAYGO,” October 10, 2019, in",
+      "dir": "ltr",
+      "width": 216.85140000000015,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.7588,
+        206
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19995555555551744,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        306.61020000000036,
+        206
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Federal Register",
+      "dir": "ltr",
+      "width": 50.552100000000095,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        308.4098,
+        206
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": ", Vol. 84, No. 200",
+      "dir": "ltr",
+      "width": 52.929000000000066,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        358.9616,
+        206
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0756,
+        195
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "(October 16, 2019), pp. 55487–55488,",
+      "dir": "ltr",
+      "width": 115.18920000000008,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0756,
+        195
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19994444444444387,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        205.2648,
+        195
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.govinfo.gov/content/pkg/FR-2019-10-16/pdf/2019-22749.",
+      "dir": "ltr",
+      "width": 217.3112999999999,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        207.0643,
+        195
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4788,
+        184
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "pdf",
+      "dir": "ltr",
+      "width": 10.557,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4788,
+        184
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19997777777777673,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        101.03580000000001,
+        184
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed January 31, 2023).",
+      "dir": "ltr",
+      "width": 88.15410000000003,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        102.8356,
+        184
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        173
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "14.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        173
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8999888888888895,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.9018,
+        173
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "President Donald J. Trump, Executive Order 13924, “Regulatory Relief to Support Economic Recovery,” May 19,",
+      "dir": "ltr",
+      "width": 339.73740000000043,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0017,
+        173
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.9172,
+        162
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "2020, in",
+      "dir": "ltr",
+      "width": 25.21799999999999,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.9172,
+        162
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1999555555555569,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        115.13519999999998,
+        162
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Federal Register",
+      "dir": "ltr",
+      "width": 50.55210000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        116.9348,
+        162
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": ", Vol. 85, No. 100 (May 22, 2020), pp. 31353–31356, esp. 31355,",
+      "dir": "ltr",
+      "width": 190.07730000000026,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        167.4866,
+        162
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19997777777775305,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        357.5639000000002,
+        162
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.govinfo.",
+      "dir": "ltr",
+      "width": 65.259,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        359.3637,
+        162
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2724,
+        151
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "gov/content/pkg/FR-2020-05-22/pdf/2020-11301.pdf",
+      "dir": "ltr",
+      "width": 165.75120000000004,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.2724,
+        151
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19994444444445333,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        256.02359999999993,
+        151
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed January 31, 2023).",
+      "dir": "ltr",
+      "width": 88.1541000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        257.8231,
+        151
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        140
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "15.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        140
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8999888888888895,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.9018,
+        140
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "President Donald J. Trump, Executive Order 13979, “Ensuring Democratic Accountability in Agency",
+      "dir": "ltr",
+      "width": 303.93540000000013,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0017,
+        140
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        129
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "Rulemaking,” January 18, 2021, in",
+      "dir": "ltr",
+      "width": 102.47220000000003,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.54,
+        129
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19995555555554587,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        193.0122000000001,
+        129
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Federal Register",
+      "dir": "ltr",
+      "width": 50.55210000000003,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        194.8118,
+        129
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": ", Vol. 86, No. 13 (January 22, 2021), pp. 6813–6815,",
+      "dir": "ltr",
+      "width": 153.60120000000018,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        245.3636,
+        129
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.19987777777777183,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        398.9648,
+        129
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://",
+      "dir": "ltr",
+      "width": 22.85999999999998,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        400.7637,
+        129
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.3168,
+        118
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "www.govinfo.gov/content/pkg/FR-2021-01-22/pdf/2021-01644.pdf",
+      "dir": "ltr",
+      "width": 206.90730000000008,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.3168,
+        118
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1999666666666384,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        297.22410000000025,
+        118
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed January 31, 2023).",
+      "dir": "ltr",
+      "width": 88.1550000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        299.0238,
+        118
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        107
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "16.",
+      "dir": "ltr",
+      "width": 10.125,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7768,
+        107
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.8999888888888895,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        81.9018,
+        107
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "President Donald J. Trump, Executive Order 13980, “Protecting Americans from Overcriminalization",
+      "dir": "ltr",
+      "width": 315.3248999999993,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.0017,
+        107
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.8392,
+        96
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "Through Regulatory Reform,” January 18, 2021, in",
+      "dir": "ltr",
+      "width": 156.66390000000004,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.8392,
+        96
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.21957777777776263,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        246.50310000000013,
+        96
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "Federal Register",
+      "dir": "ltr",
+      "width": 51.902999999999714,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        248.4793,
+        96
+      ],
+      "fontName": "g_d0_f18",
+      "hasEOL": false
+    },
+    {
+      "str": ", Vol. 86, No. 13 (January 22, 2021),",
+      "dir": "ltr",
+      "width": 109.83599999999936,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        300.4711,
+        96
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4788,
+        85
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "pp. 6817–6820,",
+      "dir": "ltr",
+      "width": 47.952000000000034,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        90.4788,
+        85
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.21988888888888405,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        138.43080000000003,
+        85
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "https://www.govinfo.gov/content/pkg/FR-2021-01-22/pdf/2021-01645.pdf",
+      "dir": "ltr",
+      "width": 235.1519999999997,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        140.4098,
+        85
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.21962222222226224,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        375.5617999999996,
+        85
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "(accessed",
+      "dir": "ltr",
+      "width": 31.256999999999834,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        377.53839999999997,
+        85
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.4468,
+        74
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "January 31, 2023).",
+      "dir": "ltr",
+      "width": 57.34800000000005,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        89.4468,
+        74
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    }
+  ],
+  "styles": {
+    "g_d0_f3": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f21": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f8": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.017,
+      "descent": -0.297,
+      "vertical": false
+    },
+    "g_d0_f17": {
+      "fontFamily": "sans-serif",
+      "ascent": 0.939,
+      "descent": -0.202,
+      "vertical": false
+    },
+    "g_d0_f18": {
+      "fontFamily": "sans-serif",
+      "ascent": 0.939,
+      "descent": -0.202,
+      "vertical": false
+    }
+  },
+  "lang": "en-US"
+}

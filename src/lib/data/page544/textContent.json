@@ -1,0 +1,1513 @@
+{
+  "items": [
+    {
+      "str": "— 511 —",
+      "dir": "ltr",
+      "width": 38.11,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        232.5974,
+        32.0001
+      ],
+      "fontName": "g_d0_f3",
+      "hasEOL": false
+    },
+    {
+      "str": "Department of Housing and Urban Development",
+      "dir": "ltr",
+      "width": 219.18329999999995,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        142.4507,
+        664.4
+      ],
+      "fontName": "g_d0_f62",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4798,
+        0,
+        0,
+        10.5,
+        72.2556,
+        631.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "housing portfolio has waned for decades with the department effectively working",
+      "dir": "ltr",
+      "width": 359.60700114000025,
+      "height": 10.5,
+      "transform": [
+        10.4798,
+        0,
+        0,
+        10.5,
+        72.2556,
+        631.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5624,
+        0,
+        0,
+        10.5,
+        72.2868,
+        617.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "to maintain the public housing portfolio from the late 1990s when the Faircloth",
+      "dir": "ltr",
+      "width": 359.3032732800007,
+      "height": 10.5,
+      "transform": [
+        10.5624,
+        0,
+        0,
+        10.5,
+        72.2868,
+        617.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        71.4264,
+        603.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Amendment capped HUD’s public housing portfolio.",
+      "dir": "ltr",
+      "width": 234.8115,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        71.4264,
+        603.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "43",
+      "dir": "ltr",
+      "width": 6.605098500000001,
+      "height": 6.1215,
+      "transform": [
+        6.1215,
+        0,
+        0,
+        6.1215,
+        305.7607,
+        607.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6692,
+        0,
+        0,
+        10.5,
+        85.4316,
+        589.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Longer-term reforms of HUD rental assistance programs should encourage",
+      "dir": "ltr",
+      "width": 346.09497803999983,
+      "height": 10.5,
+      "transform": [
+        10.6692,
+        0,
+        0,
+        10.5,
+        85.4316,
+        589.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5369,
+        0,
+        0,
+        10.5,
+        72.36,
+        575.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "choice and competition for renters, encourage participation by landlords where",
+      "dir": "ltr",
+      "width": 359.3662429499997,
+      "height": 10.5,
+      "transform": [
+        10.5369,
+        0,
+        0,
+        10.5,
+        72.36,
+        575.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5173,
+        0,
+        0,
+        10.5,
+        72.318,
+        561.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "appropriate,",
+      "dir": "ltr",
+      "width": 56.0992782,
+      "height": 10.5,
+      "transform": [
+        10.5173,
+        0,
+        0,
+        10.5,
+        72.318,
+        561.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "44",
+      "dir": "ltr",
+      "width": 6.7202336,
+      "height": 6.1215,
+      "transform": [
+        6.1316,
+        0,
+        0,
+        6.1215,
+        127.9811,
+        565.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.34877981277317605,
+      "height": 0,
+      "transform": [
+        6.1316,
+        0,
+        0,
+        6.1215,
+        134.7013336,
+        565.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "and encourage all non-elderly, able-bodied adults to move toward",
+      "dir": "ltr",
+      "width": 294.59798684000003,
+      "height": 10.5,
+      "transform": [
+        10.5173,
+        0,
+        0,
+        10.5,
+        136.8399119,
+        561.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.3936,
+        547.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "self-sufficiency. This can be pursued through regulations and legislative reforms",
+      "dir": "ltr",
+      "width": 359.1735000000002,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.3936,
+        547.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2868,
+        533.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "that seek to strengthen work requirements, limit the period during which house",
+      "dir": "ltr",
+      "width": 358.4700000000003,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2868,
+        533.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.843,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        430.7421,
+        533.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5472,
+        0,
+        0,
+        10.5,
+        72.2556,
+        519.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "holds are eligible for housing benefits, and add flexibility to rent payment terms",
+      "dir": "ltr",
+      "width": 359.4127155200008,
+      "height": 10.5,
+      "transform": [
+        10.5472,
+        0,
+        0,
+        10.5,
+        72.2556,
+        519.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2868,
+        505.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "to facilitate the movement of households toward self-sufficiency.",
+      "dir": "ltr",
+      "width": 288.7920000000001,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2868,
+        505.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4302,
+        0,
+        0,
+        10.5,
+        85.6668,
+        491.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Obviously, using government vouchers or other such programs to expand hous",
+      "dir": "ltr",
+      "width": 345.21041544000104,
+      "height": 10.5,
+      "transform": [
+        10.4302,
+        0,
+        0,
+        10.5,
+        85.6668,
+        491.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.8174531999999997,
+      "height": 10.5,
+      "transform": [
+        10.4302,
+        0,
+        0,
+        10.5,
+        430.7516,
+        491.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3372,
+        0,
+        0,
+        10.5,
+        72.2304,
+        477.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "ing choice options is not without its downsides. The turn toward mobility vouchers",
+      "dir": "ltr",
+      "width": 359.23527324000014,
+      "height": 10.5,
+      "transform": [
+        10.3372,
+        0,
+        0,
+        10.5,
+        72.2304,
+        477.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.36,
+        463.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "constitutes an abandonment of America’s public housing stock, and efforts to",
+      "dir": "ltr",
+      "width": 358.9767089999999,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.36,
+        463.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        449.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "increase competition in the public housing market must not come at the expense",
+      "dir": "ltr",
+      "width": 359.2050000000001,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        449.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.36,
+        435.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "of local autonomy and the ability of cities, towns, neighborhoods, and commu",
+      "dir": "ltr",
+      "width": 358.3587419999997,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.36,
+        435.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.9198600000000003,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        430.7097,
+        435.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5993,
+        0,
+        0,
+        10.5,
+        72.2304,
+        421.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "nities to choose for themselves the sort of housing they want to allow. Freedom",
+      "dir": "ltr",
+      "width": 359.62894934999974,
+      "height": 10.5,
+      "transform": [
+        10.5993,
+        0,
+        0,
+        10.5,
+        72.2304,
+        421.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.56,
+        0,
+        0,
+        10.5,
+        72.36,
+        407.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "of association and self-government at the most local level possible must remain",
+      "dir": "ltr",
+      "width": 359.26387200000033,
+      "height": 10.5,
+      "transform": [
+        10.56,
+        0,
+        0,
+        10.5,
+        72.36,
+        407.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.3984,
+        393.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "primary considerations in any conservative effort to increase competition in the",
+      "dir": "ltr",
+      "width": 359.13045000000005,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.3984,
+        393.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.3984,
+        379.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "public housing market.",
+      "dir": "ltr",
+      "width": 103.16144999999997,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.3984,
+        379.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5978,
+        0,
+        0,
+        10.5,
+        85.5348,
+        365.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Congress should also consider those areas in which federal policy negatively",
+      "dir": "ltr",
+      "width": 346.57349471999964,
+      "height": 10.5,
+      "transform": [
+        10.5978,
+        0,
+        0,
+        10.5,
+        85.5348,
+        365.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.2304,
+        351.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "interacts with private markets, including when federal policy crowds out pri",
+      "dir": "ltr",
+      "width": 358.23236400000053,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.2304,
+        351.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.9198600000000003,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        430.7124,
+        351.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.1284,
+        337.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "vate-sector development and exacerbates affordability challenges that persist",
+      "dir": "ltr",
+      "width": 359.6310899999998,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.1284,
+        337.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4705,
+        0,
+        0,
+        10.5,
+        72.318,
+        323.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "across the nation. It is essential that legislation provides states and localities max",
+      "dir": "ltr",
+      "width": 358.4324383000002,
+      "height": 10.5,
+      "transform": [
+        10.4705,
+        0,
+        0,
+        10.5,
+        72.318,
+        323.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.832203,
+      "height": 10.5,
+      "transform": [
+        10.4705,
+        0,
+        0,
+        10.5,
+        430.7466,
+        323.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        309.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "imal flexibility to pursue locally designed policies and minimize the likelihood of",
+      "dir": "ltr",
+      "width": 359.53050000000025,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        309.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.4296,
+        295.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "federal preemption of local land use and zoning decisions.",
+      "dir": "ltr",
+      "width": 258.3630000000001,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.4296,
+        295.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        85.3272,
+        281.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "In the same manner, Congress should prioritize any and all legislative support",
+      "dir": "ltr",
+      "width": 346.42545000000007,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        85.3272,
+        281.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4541,
+        0,
+        0,
+        10.5,
+        72.4296,
+        267.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "for the single-family home. Homeownership forms the backbone of the American",
+      "dir": "ltr",
+      "width": 359.1756953399996,
+      "height": 10.5,
+      "transform": [
+        10.4541,
+        0,
+        0,
+        10.5,
+        72.4296,
+        267.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.7094,
+        0,
+        0,
+        10.5,
+        71.9316,
+        253.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Dream. The purchase of a home is the largest investment most Americans will",
+      "dir": "ltr",
+      "width": 359.95043057999965,
+      "height": 10.5,
+      "transform": [
+        10.7094,
+        0,
+        0,
+        10.5,
+        71.9316,
+        253.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5127,
+        0,
+        0,
+        10.5,
+        72.2304,
+        239.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "make in their lifetimes, and homeownership remains the most accessible way to",
+      "dir": "ltr",
+      "width": 359.1989848700002,
+      "height": 10.5,
+      "transform": [
+        10.5127,
+        0,
+        0,
+        10.5,
+        72.2304,
+        239.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.472,
+        0,
+        0,
+        10.5,
+        72.4548,
+        225.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "build generational wealth for millions of Americans. For these reasons, American",
+      "dir": "ltr",
+      "width": 359.2388183999999,
+      "height": 10.5,
+      "transform": [
+        10.472,
+        0,
+        0,
+        10.5,
+        72.4548,
+        225.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4101,
+        0,
+        0,
+        10.5,
+        72.2556,
+        211.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "homeowners and citizens know best what is in the interest of their neighborhoods",
+      "dir": "ltr",
+      "width": 359.07141526000015,
+      "height": 10.5,
+      "transform": [
+        10.4101,
+        0,
+        0,
+        10.5,
+        72.2556,
+        211.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6042,
+        0,
+        0,
+        10.5,
+        72.318,
+        197.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "and communities. Localities rather than the federal government must have the",
+      "dir": "ltr",
+      "width": 359.27665852,
+      "height": 10.5,
+      "transform": [
+        10.6042,
+        0,
+        0,
+        10.5,
+        72.318,
+        197.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4074,
+        0,
+        0,
+        10.5,
+        72.1416,
+        183.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "final say in zoning laws and regulations, and a conservative Administration should",
+      "dir": "ltr",
+      "width": 359.2207776600005,
+      "height": 10.5,
+      "transform": [
+        10.4074,
+        0,
+        0,
+        10.5,
+        72.1416,
+        183.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4089,
+        0,
+        0,
+        10.5,
+        72.36,
+        169.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "oppose any efforts to weaken single-family zoning. Along the same lines, Congress",
+      "dir": "ltr",
+      "width": 358.97693875000056,
+      "height": 10.5,
+      "transform": [
+        10.4089,
+        0,
+        0,
+        10.5,
+        72.36,
+        169.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4468,
+        0,
+        0,
+        10.5,
+        72.36,
+        155.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "can propose tax credits for the renovation or repair of housing stock in rural areas",
+      "dir": "ltr",
+      "width": 359.23097755999964,
+      "height": 10.5,
+      "transform": [
+        10.4468,
+        0,
+        0,
+        10.5,
+        72.36,
+        155.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3662,
+        0,
+        0,
+        10.5,
+        72.3936,
+        141.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "so that more Americans are able to access the American Dream of homeownership.",
+      "dir": "ltr",
+      "width": 361.3532925600005,
+      "height": 10.5,
+      "transform": [
+        10.3662,
+        0,
+        0,
+        10.5,
+        72.3936,
+        141.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4304,
+        0,
+        0,
+        10.5,
+        84.9264,
+        127.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Additionally, enhanced statutory authorities for local autonomy should extend",
+      "dir": "ltr",
+      "width": 346.76803535999954,
+      "height": 10.5,
+      "transform": [
+        10.4304,
+        0,
+        0,
+        10.5,
+        84.9264,
+        127.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4025,
+        0,
+        0,
+        10.5,
+        72.2868,
+        113.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "to the prioritizing of federal rental assistance subsidies that emphasize choice and",
+      "dir": "ltr",
+      "width": 359.1171855000005,
+      "height": 10.5,
+      "transform": [
+        10.4025,
+        0,
+        0,
+        10.5,
+        72.2868,
+        113.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.368,
+        0,
+        0,
+        10.5,
+        72.2304,
+        99.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "mobility in housing voucher subsidies over static, site-based subsidies and provide",
+      "dir": "ltr",
+      "width": 359.5031424000002,
+      "height": 10.5,
+      "transform": [
+        10.368,
+        0,
+        0,
+        10.5,
+        72.2304,
+        99.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4743,
+        0,
+        0,
+        10.5,
+        72.318,
+        85.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "authority for maximal flexibility to direct PHA land sales that involve the existing",
+      "dir": "ltr",
+      "width": 359.41827248999965,
+      "height": 10.5,
+      "transform": [
+        10.4743,
+        0,
+        0,
+        10.5,
+        72.318,
+        85.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.3936,
+        71.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "stock of public housing units. Congress must consider the future of the public",
+      "dir": "ltr",
+      "width": 359.1834119999996,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.3936,
+        71.9999
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    }
+  ],
+  "styles": {
+    "g_d0_f3": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f62": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f4": {
+      "fontFamily": "serif",
+      "ascent": 1.089,
+      "descent": -0.312,
+      "vertical": false
+    }
+  },
+  "lang": "en-US"
+}

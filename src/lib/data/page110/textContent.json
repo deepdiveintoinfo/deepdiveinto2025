@@ -1,0 +1,1519 @@
+{
+  "items": [
+    {
+      "str": "— 77 —",
+      "dir": "ltr",
+      "width": 36.14,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        233.5823,
+        32.0001
+      ],
+      "fontName": "g_d0_f3",
+      "hasEOL": false
+    },
+    {
+      "str": "Central Personnel Agencies: Managing the Bureaucracy",
+      "dir": "ltr",
+      "width": 250.15229999999997,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        126.8499,
+        664.4
+      ],
+      "fontName": "g_d0_f22",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3777,
+        0,
+        0,
+        10.5,
+        85.2636,
+        632
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "The obvious solution to these discrepancies is to move closer to a market model",
+      "dir": "ltr",
+      "width": 346.45121234000015,
+      "height": 10.5,
+      "transform": [
+        10.3777,
+        0,
+        0,
+        10.5,
+        85.2636,
+        632
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4683,
+        0,
+        0,
+        10.5,
+        72.4296,
+        618
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "for federal pay and benefits. One need is for a neutral agency to oversee pay hiring",
+      "dir": "ltr",
+      "width": 358.9381172299993,
+      "height": 10.5,
+      "transform": [
+        10.4683,
+        0,
+        0,
+        10.5,
+        72.4296,
+        618
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6019,
+        0,
+        0,
+        10.5,
+        72.36,
+        604
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "decisions, especially for high-demand occupations. The OPM is independent of",
+      "dir": "ltr",
+      "width": 359.58040154000065,
+      "height": 10.5,
+      "transform": [
+        10.6019,
+        0,
+        0,
+        10.5,
+        72.36,
+        604
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.318,
+        590
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "agency operations, so it can assess requirements more neutrally. For many years,",
+      "dir": "ltr",
+      "width": 361.42995000000025,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.318,
+        590
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5486,
+        0,
+        0,
+        10.5,
+        72.096,
+        576
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "with its Special Pay Rates program, the OPM evaluated claims that federal rates",
+      "dir": "ltr",
+      "width": 359.55641501999924,
+      "height": 10.5,
+      "transform": [
+        10.5486,
+        0,
+        0,
+        10.5,
+        72.096,
+        576
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5462,
+        0,
+        0,
+        10.5,
+        72.2304,
+        562
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "in an area were too low to attract competent employees and allowed agencies to",
+      "dir": "ltr",
+      "width": 359.3923489800005,
+      "height": 10.5,
+      "transform": [
+        10.5462,
+        0,
+        0,
+        10.5,
+        72.2304,
+        562
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.474,
+        0,
+        0,
+        10.5,
+        72.36,
+        548
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "offer higher pay when needed rather than increased rates for all. Ideally, the OPM",
+      "dir": "ltr",
+      "width": 359.713819,
+      "height": 10.5,
+      "transform": [
+        10.474,
+        0,
+        0,
+        10.5,
+        72.36,
+        548
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.3936,
+        534
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "should establish an initial pay schedule for every occupation and region, monitor",
+      "dir": "ltr",
+      "width": 359.4675,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.3936,
+        534
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.558,
+        0,
+        0,
+        10.5,
+        72.2868,
+        520
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "turnover rates and applicant-to-position ratios, and adjust pay and recruitment",
+      "dir": "ltr",
+      "width": 359.4376078000002,
+      "height": 10.5,
+      "transform": [
+        10.558,
+        0,
+        0,
+        10.5,
+        72.2868,
+        520
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4303,
+        0,
+        0,
+        10.5,
+        72.36,
+        506
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "on that basis. Most of this requires legislation, but the OPM should be an advocate",
+      "dir": "ltr",
+      "width": 359.2518659300002,
+      "height": 10.5,
+      "transform": [
+        10.4303,
+        0,
+        0,
+        10.5,
+        72.36,
+        506
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.4296,
+        492
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "for a true equality of benefits between the public and private sectors.",
+      "dir": "ltr",
+      "width": 305.48700000000014,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.4296,
+        492
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        85.8456,
+        478
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": true
+    },
+    {
+      "str": "Reforming Federal Retirement Benefits.",
+      "dir": "ltr",
+      "width": 196.91699999999994,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        85.8456,
+        478
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.1800761904761917,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        282.76259999999996,
+        478
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": "Career civil servants enjoy retire",
+      "dir": "ltr",
+      "width": 146.1074999999999,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        284.6534,
+        478
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.843,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        430.7421,
+        478
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        464
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "ment benefits that are nearly unheard of in the private sector. Federal employees",
+      "dir": "ltr",
+      "width": 359.3373000000001,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        464
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5737,
+        0,
+        0,
+        10.5,
+        72.2304,
+        450
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "retire earlier (normally at age 55 after 30 years), enjoy richer pension annuities,",
+      "dir": "ltr",
+      "width": 361.3984923000005,
+      "height": 10.5,
+      "transform": [
+        10.5737,
+        0,
+        0,
+        10.5,
+        72.2304,
+        450
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4091,
+        0,
+        0,
+        10.5,
+        72.318,
+        436
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "and receive automatic cost-of-living adjustments based on the areas in which they",
+      "dir": "ltr",
+      "width": 359.33462291999945,
+      "height": 10.5,
+      "transform": [
+        10.4091,
+        0,
+        0,
+        10.5,
+        72.318,
+        436
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4879,
+        0,
+        0,
+        10.5,
+        72.2304,
+        422
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "retire. Defined-benefit federal pensions are fully indexed for inflation—a practice",
+      "dir": "ltr",
+      "width": 359.37418624,
+      "height": 10.5,
+      "transform": [
+        10.4879,
+        0,
+        0,
+        10.5,
+        72.2304,
+        422
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6198,
+        0,
+        0,
+        10.5,
+        72.2868,
+        408
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "that is extremely rare in the private sector. A federal employee with a preretire",
+      "dir": "ltr",
+      "width": 358.33753952000023,
+      "height": 10.5,
+      "transform": [
+        10.6198,
+        0,
+        0,
+        10.5,
+        72.2868,
+        408
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.8868468,
+      "height": 10.5,
+      "transform": [
+        10.6198,
+        0,
+        0,
+        10.5,
+        430.7245,
+        408
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        394
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "ment income of $25,000 under the older of the two federal retirement plans will",
+      "dir": "ltr",
+      "width": 359.3940000000001,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        394
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3866,
+        0,
+        0,
+        10.5,
+        72.2304,
+        380
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "receive at least $200,000 more over a 20-year period than will private-sector work",
+      "dir": "ltr",
+      "width": 358.61709953999934,
+      "height": 10.5,
+      "transform": [
+        10.3866,
+        0,
+        0,
+        10.5,
+        72.2304,
+        380
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.8014956,
+      "height": 10.5,
+      "transform": [
+        10.3866,
+        0,
+        0,
+        10.5,
+        430.7582,
+        380
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.36,
+        366
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "ers with the same preretirement salary under historic inflation levels.",
+      "dir": "ltr",
+      "width": 310.09650000000005,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.36,
+        366
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        85.4316,
+        352
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "During the early Reagan years, the OPM reformed many specific provisions of",
+      "dir": "ltr",
+      "width": 346.3215000000001,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        85.4316,
+        352
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5891,
+        0,
+        0,
+        10.5,
+        72.2868,
+        338
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "the federal pension program to save billions administratively. Under OPM pres",
+      "dir": "ltr",
+      "width": 358.5543383700003,
+      "height": 10.5,
+      "transform": [
+        10.5891,
+        0,
+        0,
+        10.5,
+        72.2868,
+        338
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.8756106,
+      "height": 10.5,
+      "transform": [
+        10.5891,
+        0,
+        0,
+        10.5,
+        430.729,
+        338
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.3936,
+        324
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "sure, Reagan and Congress ultimately ended the old Civil Service Retirement",
+      "dir": "ltr",
+      "width": 359.44473600000015,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.3936,
+        324
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6008,
+        0,
+        0,
+        10.5,
+        72.2976,
+        310
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "System (CSRS) entirely for new employees, which (counting disbursements for",
+      "dir": "ltr",
+      "width": 359.72860728,
+      "height": 10.5,
+      "transform": [
+        10.6008,
+        0,
+        0,
+        10.5,
+        72.2976,
+        310
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.2868,
+        296
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "the unfunded liability) accounted for 51.3 percent of the federal government's",
+      "dir": "ltr",
+      "width": 359.39011500000095,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.2868,
+        296
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.2868,
+        282
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "total payroll. The retirement system that replaced it—the Federal Employees",
+      "dir": "ltr",
+      "width": 359.23160700000057,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.2868,
+        282
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4824,
+        0,
+        0,
+        10.5,
+        71.9316,
+        268
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Retirement System (FERS)—reduced the cost of federal employee retirement dis",
+      "dir": "ltr",
+      "width": 358.9949457600003,
+      "height": 10.5,
+      "transform": [
+        10.4824,
+        0,
+        0,
+        10.5,
+        71.9316,
+        268
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.8365584,
+      "height": 10.5,
+      "transform": [
+        10.4824,
+        0,
+        0,
+        10.5,
+        430.7441,
+        268
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.4548,
+        254
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "bursements to 28.5 percent of payroll (including contributions to Social Security",
+      "dir": "ltr",
+      "width": 359.41500000000025,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.4548,
+        254
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4836,
+        0,
+        0,
+        10.5,
+        72.318,
+        240
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "and the employer match to the Thrift Savings Plan). More of the pension cost was",
+      "dir": "ltr",
+      "width": 359.39458176000016,
+      "height": 10.5,
+      "transform": [
+        10.4836,
+        0,
+        0,
+        10.5,
+        72.318,
+        240
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.3936,
+        226
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "shifted to the employee, but the new system was much more equitable for the 40",
+      "dir": "ltr",
+      "width": 359.2995,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.3936,
+        226
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.3984,
+        212
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "percent who received few or no benefits under the old system.",
+      "dir": "ltr",
+      "width": 275.6985000000001,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.3984,
+        212
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3813,
+        0,
+        0,
+        10.5,
+        85.4316,
+        198
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "By 1999, more than half of the federal workforce was covered by the new system,",
+      "dir": "ltr",
+      "width": 348.3569790599992,
+      "height": 10.5,
+      "transform": [
+        10.3813,
+        0,
+        0,
+        10.5,
+        85.4316,
+        198
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.318,
+        184
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "and the government’s per capita share of the cost (as the employer) was less than",
+      "dir": "ltr",
+      "width": 359.32995000000005,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.318,
+        184
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6713,
+        0,
+        0,
+        10.5,
+        72.2556,
+        170
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "half the cost of the old system: 20.2 percent of FERS payroll vs. 44.3 percent of",
+      "dir": "ltr",
+      "width": 359.5438423799994,
+      "height": 10.5,
+      "transform": [
+        10.6713,
+        0,
+        0,
+        10.5,
+        72.2556,
+        170
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.7089,
+        0,
+        0,
+        10.5,
+        72.0348,
+        156
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "CSRS payroll, representing one of the largest examples of government savings",
+      "dir": "ltr",
+      "width": 359.7622828299997,
+      "height": 10.5,
+      "transform": [
+        10.7089,
+        0,
+        0,
+        10.5,
+        72.0348,
+        156
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3388,
+        0,
+        0,
+        10.5,
+        72.318,
+        142
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "anywhere. Although the government pension system has become more like private",
+      "dir": "ltr",
+      "width": 359.10374368000015,
+      "height": 10.5,
+      "transform": [
+        10.3388,
+        0,
+        0,
+        10.5,
+        72.318,
+        142
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.3984,
+        128
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "pension systems, it still remains much more generous, and other means might be",
+      "dir": "ltr",
+      "width": 359.0863499999999,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.3984,
+        128
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.36,
+        114
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "considered in the future to move it even closer to private plans.",
+      "dir": "ltr",
+      "width": 280.87395,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.36,
+        114
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        85.6404,
+        100
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": true
+    },
+    {
+      "str": "GSA: Landlord and Contractor Management.",
+      "dir": "ltr",
+      "width": 238.90261500000025,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        85.6404,
+        100
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.32941690009334895,
+      "height": 0,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        324.5430150000002,
+        100
+      ],
+      "fontName": "g_d0_f11",
+      "hasEOL": false
+    },
+    {
+      "str": "The General Services",
+      "dir": "ltr",
+      "width": 103.50144000000026,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        328.07106999999996,
+        100
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6758,
+        0,
+        0,
+        10.5,
+        71.4264,
+        86
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Administration is best known as the federal government’s landlord—designing,",
+      "dir": "ltr",
+      "width": 362.36974698000034,
+      "height": 10.5,
+      "transform": [
+        10.6758,
+        0,
+        0,
+        10.5,
+        71.4264,
+        86
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6659,
+        0,
+        0,
+        10.5,
+        72.36,
+        72
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "constructing, managing, and preserving government buildings and leasing and",
+      "dir": "ltr",
+      "width": 359.28510785999936,
+      "height": 10.5,
+      "transform": [
+        10.6659,
+        0,
+        0,
+        10.5,
+        72.36,
+        72
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    }
+  ],
+  "styles": {
+    "g_d0_f3": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f22": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f4": {
+      "fontFamily": "serif",
+      "ascent": 1.089,
+      "descent": -0.312,
+      "vertical": false
+    },
+    "g_d0_f11": {
+      "fontFamily": "serif",
+      "ascent": 1.143,
+      "descent": -0.351,
+      "vertical": false
+    }
+  },
+  "lang": "en-US"
+}

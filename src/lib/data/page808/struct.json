@@ -1,0 +1,30 @@
+{
+  "children": [
+    {
+      "role": "Document",
+      "children": [
+        {
+          "role": "Art",
+          "children": [
+            {
+              "role": "Figure",
+              "children": [
+                {
+                  "type": "content",
+                  "id": "p2152R_mc41688"
+                }
+              ],
+              "bbox": [
+                69.7659,
+                70.158,
+                415.649,
+                650.025
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "role": "Root"
+}

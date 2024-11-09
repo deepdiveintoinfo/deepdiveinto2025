@@ -1,0 +1,1135 @@
+{
+  "items": [
+    {
+      "str": "— 869 —",
+      "dir": "ltr",
+      "width": 43.28,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        230.0124,
+        32.0001
+      ],
+      "fontName": "g_d0_f3",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        30,
+        0,
+        0,
+        30,
+        395.6223,
+        610
+      ],
+      "fontName": "g_d0_f2",
+      "hasEOL": true
+    },
+    {
+      "str": "30",
+      "dir": "ltr",
+      "width": 36.03,
+      "height": 30,
+      "transform": [
+        30,
+        0,
+        0,
+        30,
+        395.6223,
+        610
+      ],
+      "fontName": "g_d0_f2",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        16,
+        0,
+        0,
+        16,
+        290.9453,
+        472.2
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": true
+    },
+    {
+      "str": "FEDERAL TRADE",
+      "dir": "ltr",
+      "width": 141.168,
+      "height": 16,
+      "transform": [
+        16,
+        0,
+        0,
+        16,
+        290.9453,
+        472.2
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        16,
+        0,
+        0,
+        16,
+        321.7621,
+        454.2
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": true
+    },
+    {
+      "str": "COMMISSION",
+      "dir": "ltr",
+      "width": 110.17599999999997,
+      "height": 16,
+      "transform": [
+        16,
+        0,
+        0,
+        16,
+        321.7621,
+        454.2
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        13,
+        0,
+        0,
+        13,
+        330.0502,
+        436.2
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": true
+    },
+    {
+      "str": "Adam Candeub",
+      "dir": "ltr",
+      "width": 101.673,
+      "height": 13,
+      "transform": [
+        13,
+        0,
+        0,
+        13,
+        330.0502,
+        436.2
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        72.3576,
+        380
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": true
+    },
+    {
+      "str": "MISSION/OVERVIEW",
+      "dir": "ltr",
+      "width": 107.46000000000002,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        72.3576,
+        380
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        84.9264,
+        366
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "America’s antitrust laws are over a century old. In 1890, the U.S. Congress",
+      "dir": "ltr",
+      "width": 346.6784160000001,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        84.9264,
+        366
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.36,
+        352
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "enacted the Sherman Act,",
+      "dir": "ltr",
+      "width": 115.10625,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.36,
+        352
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "1",
+      "dir": "ltr",
+      "width": 2.4975720000000003,
+      "height": 6.1215,
+      "transform": [
+        6.1215,
+        0,
+        0,
+        6.1215,
+        187.4644,
+        355.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.3027326635628545,
+      "height": 0,
+      "transform": [
+        6.1215,
+        0,
+        0,
+        6.1215,
+        189.961972,
+        355.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "the first federal prohibition on trusts and restraints of",
+      "dir": "ltr",
+      "width": 239.98275000000004,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        191.81515000000002,
+        352
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4792,
+        0,
+        0,
+        10.5,
+        72.2868,
+        338
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "trade. The Clayton Act,",
+      "dir": "ltr",
+      "width": 102.90888776,
+      "height": 10.5,
+      "transform": [
+        10.4792,
+        0,
+        0,
+        10.5,
+        72.2868,
+        338
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "2",
+      "dir": "ltr",
+      "width": 3.3174042000000004,
+      "height": 6.1215,
+      "transform": [
+        6.1094,
+        0,
+        0,
+        6.1215,
+        175.13,
+        341.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.28264048842767125,
+      "height": 0,
+      "transform": [
+        6.1094,
+        0,
+        0,
+        6.1215,
+        178.4474042,
+        341.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "adopted in 1914, builds upon the Sherman Act, outlawing",
+      "dir": "ltr",
+      "width": 251.61292744000008,
+      "height": 10.5,
+      "transform": [
+        10.4792,
+        0,
+        0,
+        10.5,
+        180.174168,
+        338
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4194,
+        0,
+        0,
+        10.5,
+        72.36,
+        324
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "certain practices, such as price fixing, while bringing other business combinations,",
+      "dir": "ltr",
+      "width": 361.62924162000076,
+      "height": 10.5,
+      "transform": [
+        10.4194,
+        0,
+        0,
+        10.5,
+        72.36,
+        324
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.3936,
+        310
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "such as mergers and acquisitions, under regulatory scrutiny.",
+      "dir": "ltr",
+      "width": 268.88399999999996,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.3936,
+        310
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6564,
+        0,
+        0,
+        10.5,
+        85.2636,
+        296
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "The Federal Trade Commission Act (FTCA),",
+      "dir": "ltr",
+      "width": 203.8366848399999,
+      "height": 10.5,
+      "transform": [
+        10.6564,
+        0,
+        0,
+        10.5,
+        85.2636,
+        296
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "3",
+      "dir": "ltr",
+      "width": 3.2989437,
+      "height": 6.1215,
+      "transform": [
+        6.2127,
+        0,
+        0,
+        6.1215,
+        289.0175,
+        299.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.35432554283966206,
+      "height": 0,
+      "transform": [
+        6.2127,
+        0,
+        0,
+        6.1215,
+        292.3164437,
+        299.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "also adopted in 1914, gives the",
+      "dir": "ltr",
+      "width": 137.04236963999983,
+      "height": 10.5,
+      "transform": [
+        10.6564,
+        0,
+        0,
+        10.5,
+        294.51776199999995,
+        296
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5438,
+        0,
+        0,
+        10.5,
+        72.4296,
+        282
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "federal government legal tools to combat anticompetitive, unfair, and deceptive",
+      "dir": "ltr",
+      "width": 359.1966889799991,
+      "height": 10.5,
+      "transform": [
+        10.5438,
+        0,
+        0,
+        10.5,
+        72.4296,
+        282
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3141,
+        0,
+        0,
+        10.5,
+        72.3984,
+        268
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "practices in the marketplace, empowering the Federal Trade Commission (FTC) to",
+      "dir": "ltr",
+      "width": 359.35149528,
+      "height": 10.5,
+      "transform": [
+        10.3141,
+        0,
+        0,
+        10.5,
+        72.3984,
+        268
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.36,
+        254
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "enforce provisions of the Sherman and Clayton Acts. The FTCA prohibits “unfair",
+      "dir": "ltr",
+      "width": 359.50110000000006,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.36,
+        254
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6003,
+        0,
+        0,
+        10.5,
+        72.2304,
+        240
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "methods of competition and unfair or deceptive acts or practices in or affecting",
+      "dir": "ltr",
+      "width": 359.58443662999935,
+      "height": 10.5,
+      "transform": [
+        10.6003,
+        0,
+        0,
+        10.5,
+        72.2304,
+        240
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.36,
+        226
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "commerce.” Sections 3, 7, and 8 of the Clayton Act empower the FTC to block",
+      "dir": "ltr",
+      "width": 359.405109,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.36,
+        226
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2664,
+        212
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "unlawful tying contracts, unlawful corporate mergers and acquisitions, and inter",
+      "dir": "ltr",
+      "width": 358.5540000000002,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2664,
+        212
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.843,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        430.7421,
+        212
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.549,
+        0,
+        0,
+        10.5,
+        72.2028,
+        198
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "locking directorates. Under an amendment to the FTCA, the Robinson–Patman",
+      "dir": "ltr",
+      "width": 359.56688460000066,
+      "height": 10.5,
+      "transform": [
+        10.549,
+        0,
+        0,
+        10.5,
+        72.2028,
+        198
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4874,
+        0,
+        0,
+        10.5,
+        71.4264,
+        184
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Act,",
+      "dir": "ltr",
+      "width": 17.973306120000004,
+      "height": 10.5,
+      "transform": [
+        10.4874,
+        0,
+        0,
+        10.5,
+        71.4264,
+        184
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "4",
+      "dir": "ltr",
+      "width": 3.3505816000000004,
+      "height": 6.1215,
+      "transform": [
+        6.1142,
+        0,
+        0,
+        6.1215,
+        88.9202,
+        187.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.2827744267443027,
+      "height": 0,
+      "transform": [
+        6.1142,
+        0,
+        0,
+        6.1215,
+        92.27078159999999,
+        187.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "the FTC has authority to prohibit practices involving discriminatory pricing",
+      "dir": "ltr",
+      "width": 337.7519607,
+      "height": 10.5,
+      "transform": [
+        10.4874,
+        0,
+        0,
+        10.5,
+        93.99972100000001,
+        184
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3666,
+        0,
+        0,
+        10.5,
+        72.318,
+        170
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "and product promotion. While the FTC has enforcement or administrative respon",
+      "dir": "ltr",
+      "width": 358.7144231400006,
+      "height": 10.5,
+      "transform": [
+        10.3666,
+        0,
+        0,
+        10.5,
+        72.318,
+        170
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.7941756,
+      "height": 10.5,
+      "transform": [
+        10.3666,
+        0,
+        0,
+        10.5,
+        430.7622,
+        170
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.3936,
+        156
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "sibilities under more than 70 laws, the FTCA and the Clayton Act are the focus of",
+      "dir": "ltr",
+      "width": 359.36250000000047,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.3936,
+        156
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        142
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "its regulatory energy.",
+      "dir": "ltr",
+      "width": 94.899,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        142
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        85.4316,
+        128
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "FTC actions, therefore, turn on the antitrust principles and market principles",
+      "dir": "ltr",
+      "width": 346.1114999999999,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        85.4316,
+        128
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4273,
+        0,
+        0,
+        10.5,
+        72.2304,
+        114
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "it adopts. Modern approaches to antitrust stress that the objective of antitrust law",
+      "dir": "ltr",
+      "width": 359.82214020999965,
+      "height": 10.5,
+      "transform": [
+        10.4273,
+        0,
+        0,
+        10.5,
+        72.2304,
+        114
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6608,
+        0,
+        0,
+        10.5,
+        72.2304,
+        100
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "is to assure a competitive economy—which in economic terms maximizes both",
+      "dir": "ltr",
+      "width": 359.60690736000026,
+      "height": 10.5,
+      "transform": [
+        10.6608,
+        0,
+        0,
+        10.5,
+        72.2304,
+        100
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.29,
+        0,
+        0,
+        10.5,
+        72.318,
+        86
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "allocative efficiency (optimal distribution of goods and services, taking into account",
+      "dir": "ltr",
+      "width": 359.6859210000008,
+      "height": 10.5,
+      "transform": [
+        10.29,
+        0,
+        0,
+        10.5,
+        72.318,
+        86
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4437,
+        0,
+        0,
+        10.5,
+        72.36,
+        72
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "consumer’s preferences, so that prices tend toward marginal cost) and productive",
+      "dir": "ltr",
+      "width": 359.1379556,
+      "height": 10.5,
+      "transform": [
+        10.4437,
+        0,
+        0,
+        10.5,
+        72.36,
+        72
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    }
+  ],
+  "styles": {
+    "g_d0_f3": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f2": {
+      "fontFamily": "serif",
+      "ascent": 1.158,
+      "descent": -0.32,
+      "vertical": false
+    },
+    "g_d0_f8": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.017,
+      "descent": -0.297,
+      "vertical": false
+    },
+    "g_d0_f4": {
+      "fontFamily": "serif",
+      "ascent": 1.089,
+      "descent": -0.312,
+      "vertical": false
+    }
+  },
+  "lang": "en-US"
+}

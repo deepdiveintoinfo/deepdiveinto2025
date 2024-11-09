@@ -1,0 +1,1927 @@
+{
+  "items": [
+    {
+      "str": "— 837 —",
+      "dir": "ltr",
+      "width": 42.319999999999986,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        230.4924,
+        32.0001
+      ],
+      "fontName": "g_d0_f3",
+      "hasEOL": false
+    },
+    {
+      "str": "Financial Regulatory Agencies",
+      "dir": "ltr",
+      "width": 137.3300999999999,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        183.3257,
+        664.4
+      ],
+      "fontName": "g_d0_f101",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        5,
+        0,
+        0,
+        5,
+        72.4752,
+        633.5
+      ],
+      "fontName": "g_d0_f13",
+      "hasEOL": true
+    },
+    {
+      "str": "l",
+      "dir": "ltr",
+      "width": 3.955,
+      "height": 5,
+      "transform": [
+        5,
+        0,
+        0,
+        5,
+        72.4752,
+        633.5
+      ],
+      "fontName": "g_d0_f13",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 2.7002800000000007,
+      "height": 0,
+      "transform": [
+        5,
+        0,
+        0,
+        5,
+        76.4302,
+        633.5
+      ],
+      "fontName": "g_d0_f13",
+      "hasEOL": false
+    },
+    {
+      "str": "Require the SEC and the CFTC to publish a detailed annual report on SRO",
+      "dir": "ltr",
+      "width": 331.3369500000001,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        89.9316,
+        632
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.3936,
+        618
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "supervision.",
+      "dir": "ltr",
+      "width": 55.251000000000005,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        90.3936,
+        618
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        8,
+        0,
+        0,
+        8,
+        71.7204,
+        578
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": true
+    },
+    {
+      "str": "AUTHOR’S NOTE:",
+      "dir": "ltr",
+      "width": 71.61519999999999,
+      "height": 8,
+      "transform": [
+        8,
+        0,
+        0,
+        8,
+        71.7204,
+        578
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.2250249999999987,
+      "height": 0,
+      "transform": [
+        8,
+        0,
+        0,
+        8,
+        143.33560000000003,
+        578
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": false
+    },
+    {
+      "str": "The preparation of this chapter was a collective enterprise of individuals involved in the",
+      "dir": "ltr",
+      "width": 270.4104000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        145.13580000000002,
+        578
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.9172,
+        567
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "2025 Presidential Transition Project. All contributors to this chapter are listed at the front of this volume, but Paul",
+      "dir": "ltr",
+      "width": 349.5996000000004,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.9172,
+        567
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7588,
+        556
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "Atkins, C. Wallace DeWitt, Christopher Iacovella, Brian Knight, Chelsea Pizzola, and Andrew Vollmer deserve special",
+      "dir": "ltr",
+      "width": 357.2766000000001,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        71.7588,
+        556
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.4788,
+        545
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "mention. The author alone assumes responsibility for the content of this chapter, and no views expressed herein",
+      "dir": "ltr",
+      "width": 347.0337000000002,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.4788,
+        545
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.4176,
+        534
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": true
+    },
+    {
+      "str": "should be attributed to any other individual.",
+      "dir": "ltr",
+      "width": 136.99620000000007,
+      "height": 9,
+      "transform": [
+        9,
+        0,
+        0,
+        9,
+        72.4176,
+        534
+      ],
+      "fontName": "g_d0_f17",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        12,
+        0,
+        0,
+        12,
+        71.8716,
+        492
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": true
+    },
+    {
+      "str": "CONSUMER FINANCIAL PROTECTION BUREAU",
+      "dir": "ltr",
+      "width": 288.51360000000005,
+      "height": 12,
+      "transform": [
+        12,
+        0,
+        0,
+        12,
+        71.8716,
+        492
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9.5,
+        0,
+        0,
+        9.5,
+        72.3996,
+        478
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": true
+    },
+    {
+      "str": "Robert Bowes",
+      "dir": "ltr",
+      "width": 67.54499999999999,
+      "height": 9.5,
+      "transform": [
+        9.5,
+        0,
+        0,
+        9.5,
+        72.3996,
+        478
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        30.5861,
+        0,
+        0,
+        30.5861,
+        70.8052,
+        450
+      ],
+      "fontName": "g_d0_f9",
+      "hasEOL": true
+    },
+    {
+      "str": "T",
+      "dir": "ltr",
+      "width": 21.41027,
+      "height": 30.5861,
+      "transform": [
+        30.5861,
+        0,
+        0,
+        30.5861,
+        70.8052,
+        450
+      ],
+      "fontName": "g_d0_f9",
+      "hasEOL": false
+    },
+    {
+      "str": "he Consumer Financial Protection Bureau (CFPB) was authorized in 2010",
+      "dir": "ltr",
+      "width": 338.44956565999985,
+      "height": 10.5,
+      "transform": [
+        10.6118,
+        0,
+        0,
+        10.5,
+        93.2356,
+        464
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        93.4348,
+        450
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "by the Dodd–Frank Act.",
+      "dir": "ltr",
+      "width": 106.52250000000001,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        93.4348,
+        450
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "32",
+      "dir": "ltr",
+      "width": 6.574491000000001,
+      "height": 6.1215,
+      "transform": [
+        6.1215,
+        0,
+        0,
+        6.1215,
+        199.9501,
+        453.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.3053024585477419,
+      "height": 0,
+      "transform": [
+        6.1215,
+        0,
+        0,
+        6.1215,
+        206.524591,
+        453.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "Since the Bureau’s inception, its status as an “inde",
+      "dir": "ltr",
+      "width": 222.36900000000023,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        208.3935,
+        450
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.843,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        430.7422,
+        450
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4191,
+        0,
+        0,
+        10.5,
+        72.3984,
+        436
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "pendent” agency with no congressional oversight has been questioned in multiple",
+      "dir": "ltr",
+      "width": 359.2714062000003,
+      "height": 10.5,
+      "transform": [
+        10.4191,
+        0,
+        0,
+        10.5,
+        72.3984,
+        436
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5718,
+        0,
+        0,
+        10.5,
+        72.36,
+        422
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "court cases, and the agency has been assailed by critics",
+      "dir": "ltr",
+      "width": 246.93399003999988,
+      "height": 10.5,
+      "transform": [
+        10.5718,
+        0,
+        0,
+        10.5,
+        72.36,
+        422
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "33",
+      "dir": "ltr",
+      "width": 6.551694199999992,
+      "height": 6.1215,
+      "transform": [
+        6.1634,
+        0,
+        0,
+        6.1215,
+        319.4124,
+        425.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.3505154784696715,
+      "height": 0,
+      "transform": [
+        6.1634,
+        0,
+        0,
+        6.1215,
+        325.96409420000003,
+        425.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "as a shakedown mecha",
+      "dir": "ltr",
+      "width": 102.56231769999977,
+      "height": 10.5,
+      "transform": [
+        10.5718,
+        0,
+        0,
+        10.5,
+        328.1244613,
+        422
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.8692787999999996,
+      "height": 10.5,
+      "transform": [
+        10.5718,
+        0,
+        0,
+        10.5,
+        430.7311,
+        422
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.324,
+        0,
+        0,
+        10.5,
+        72.2304,
+        408
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "nism to provide unaccountable funding to leftist nonprofits politically aligned with",
+      "dir": "ltr",
+      "width": 359.56014239999894,
+      "height": 10.5,
+      "transform": [
+        10.324,
+        0,
+        0,
+        10.5,
+        72.2304,
+        408
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2868,
+        394
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "those who spearheaded its creation.",
+      "dir": "ltr",
+      "width": 160.41899999999995,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2868,
+        394
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        85.3272,
+        380
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "In 2015, for example,",
+      "dir": "ltr",
+      "width": 93.74294999999998,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        85.3272,
+        380
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.18159523809524508,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        179.07014999999993,
+        380
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "Investor’s Business Daily",
+      "dir": "ltr",
+      "width": 109.19789999999999,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        180.9769,
+        380
+      ],
+      "fontName": "g_d0_f10",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.18235238095237924,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        290.1748,
+        380
+      ],
+      "fontName": "g_d0_f10",
+      "hasEOL": false
+    },
+    {
+      "str": "accused the CFPB of “diverting",
+      "dir": "ltr",
+      "width": 139.56599999999992,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        292.0895,
+        380
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.2903,
+        0,
+        0,
+        10.5,
+        72.3984,
+        366
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "potentially millions of dollars in settlement payments for alleged victims of lending",
+      "dir": "ltr",
+      "width": 359.0841346200006,
+      "height": 10.5,
+      "transform": [
+        10.2903,
+        0,
+        0,
+        10.5,
+        72.3984,
+        366
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.4548,
+        352
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "bias to a slush fund for poverty groups tied to the Democratic Party” and plan",
+      "dir": "ltr",
+      "width": 358.04922300000067,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.4548,
+        352
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.9198600000000003,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        430.7079,
+        352
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4807,
+        0,
+        0,
+        10.5,
+        72.2304,
+        338
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "ning “to create a so-called Civil Penalty Fund from its own shakedown operations",
+      "dir": "ltr",
+      "width": 359.53202894000026,
+      "height": 10.5,
+      "transform": [
+        10.4807,
+        0,
+        0,
+        10.5,
+        72.2304,
+        338
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6884,
+        0,
+        0,
+        10.5,
+        72.2868,
+        324
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "targeting financial institutions” that would use “ramped-up (and trumped-up)",
+      "dir": "ltr",
+      "width": 359.72558387999925,
+      "height": 10.5,
+      "transform": [
+        10.6884,
+        0,
+        0,
+        10.5,
+        72.2868,
+        324
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4361,
+        0,
+        0,
+        10.5,
+        72.318,
+        310
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "anti-discrimination lawsuits and investigations” to “bankroll some 60 liberal non",
+      "dir": "ltr",
+      "width": 358.50403803000097,
+      "height": 10.5,
+      "transform": [
+        10.4361,
+        0,
+        0,
+        10.5,
+        72.318,
+        310
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.8196125999999997,
+      "height": 10.5,
+      "transform": [
+        10.4361,
+        0,
+        0,
+        10.5,
+        430.7518,
+        310
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.3984,
+        296
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "profits, many of whom are radical Acorn-style pressure groups.”",
+      "dir": "ltr",
+      "width": 284.7600000000001,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.3984,
+        296
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "34",
+      "dir": "ltr",
+      "width": 6.605098500000001,
+      "height": 6.1215,
+      "transform": [
+        6.1215,
+        0,
+        0,
+        6.1215,
+        357.1532,
+        299.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        85.2636,
+        282
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "The CFPB has a fiscal year (FY) 2023 budget of $653.2 million",
+      "dir": "ltr",
+      "width": 277.28295000000014,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        85.2636,
+        282
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "35",
+      "dir": "ltr",
+      "width": 6.4704255,
+      "height": 6.1215,
+      "transform": [
+        6.1215,
+        0,
+        0,
+        6.1215,
+        362.5931,
+        285.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.3207342154700716,
+      "height": 0,
+      "transform": [
+        6.1215,
+        0,
+        0,
+        6.1215,
+        369.06352549999997,
+        285.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "and 1,635 full-",
+      "dir": "ltr",
+      "width": 63.54600000000002,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        371.0269,
+        282
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5401,
+        0,
+        0,
+        10.5,
+        72.2868,
+        268
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "time equivalent (FTE) employees.",
+      "dir": "ltr",
+      "width": 154.13104432999984,
+      "height": 10.5,
+      "transform": [
+        10.5401,
+        0,
+        0,
+        10.5,
+        72.2868,
+        268
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "36",
+      "dir": "ltr",
+      "width": 6.59962260000001,
+      "height": 6.1215,
+      "transform": [
+        6.1449,
+        0,
+        0,
+        6.1215,
+        226.3426,
+        271.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.34858463115754473,
+      "height": 0,
+      "transform": [
+        6.1449,
+        0,
+        0,
+        6.1215,
+        232.9422226,
+        271.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "From FY 2012 through FY 2020, it imposed",
+      "dir": "ltr",
+      "width": 196.5633789100003,
+      "height": 10.5,
+      "transform": [
+        10.5401,
+        0,
+        0,
+        10.5,
+        235.0842403,
+        268
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.318,
+        254
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "approximately $1.25 billion in civil money penalties;",
+      "dir": "ltr",
+      "width": 244.1633670000005,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.318,
+        254
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "37",
+      "dir": "ltr",
+      "width": 6.45619260000001,
+      "height": 6.1215,
+      "transform": [
+        6.2439,
+        0,
+        0,
+        6.1215,
+        316.3706,
+        257.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.39051672832684664,
+      "height": 0,
+      "transform": [
+        6.2439,
+        0,
+        0,
+        6.1215,
+        322.82679260000003,
+        257.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "in FY 2022, it imposed",
+      "dir": "ltr",
+      "width": 106.35030000000023,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        325.26514000000003,
+        254
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.318,
+        240
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "approximately $172.5 million in civil money penalties.",
+      "dir": "ltr",
+      "width": 257.21992799999975,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.318,
+        240
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "38",
+      "dir": "ltr",
+      "width": 6.693460800000015,
+      "height": 6.1215,
+      "transform": [
+        6.2439,
+        0,
+        0,
+        6.1215,
+        329.64,
+        243.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.4491726645205645,
+      "height": 0,
+      "transform": [
+        6.2439,
+        0,
+        0,
+        6.1215,
+        336.3334608,
+        243.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "These penalties are",
+      "dir": "ltr",
+      "width": 92.33090999999965,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        339.13804999999996,
+        240
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2305,
+        226
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "imposed by the CFPB Civil Penalty Fund, described as “a victims relief fund, into",
+      "dir": "ltr",
+      "width": 359.23755000000057,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2305,
+        226
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5243,
+        0,
+        0,
+        10.5,
+        72.0961,
+        212
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "which the CFPB deposits civil penalties it collects in judicial and administrative",
+      "dir": "ltr",
+      "width": 359.1080597399999,
+      "height": 10.5,
+      "transform": [
+        10.5243,
+        0,
+        0,
+        10.5,
+        72.0961,
+        212
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.3181,
+        198
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "actions under Federal consumer financial laws.”",
+      "dir": "ltr",
+      "width": 214.48350000000002,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.3181,
+        198
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "39",
+      "dir": "ltr",
+      "width": 6.5683695,
+      "height": 6.1215,
+      "transform": [
+        6.1215,
+        0,
+        0,
+        6.1215,
+        286.7979,
+        201.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        85.2637,
+        184
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "The CFPB is headed by a single Director who is appointed by the President to",
+      "dir": "ltr",
+      "width": 346.21650000000005,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        85.2637,
+        184
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4594,
+        0,
+        0,
+        10.5,
+        72.3181,
+        170
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "a five-year term.",
+      "dir": "ltr",
+      "width": 72.01924463999998,
+      "height": 10.5,
+      "transform": [
+        10.4594,
+        0,
+        0,
+        10.5,
+        72.3181,
+        170
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "40",
+      "dir": "ltr",
+      "width": 6.84782940000001,
+      "height": 6.1215,
+      "transform": [
+        6.0978,
+        0,
+        0,
+        6.1215,
+        143.8866,
+        173.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.28258906490865565,
+      "height": 0,
+      "transform": [
+        6.0978,
+        0,
+        0,
+        6.1215,
+        150.73442939999998,
+        173.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "Its organizational structure includes five divisions: Operations;",
+      "dir": "ltr",
+      "width": 279.4396060399998,
+      "height": 10.5,
+      "transform": [
+        10.4594,
+        0,
+        0,
+        10.5,
+        152.45760099999998,
+        170
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.0349,
+        156
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Consumer Education and External Affairs; Legal; Supervision, Enforcement and",
+      "dir": "ltr",
+      "width": 359.53050000000013,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.0349,
+        156
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4148,
+        0,
+        0,
+        10.5,
+        71.9317,
+        142
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Fair Lending; and Research, Monitoring and Regulations.",
+      "dir": "ltr",
+      "width": 252.06836292000017,
+      "height": 10.5,
+      "transform": [
+        10.4148,
+        0,
+        0,
+        10.5,
+        71.9317,
+        142
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "41",
+      "dir": "ltr",
+      "width": 5.795533099999985,
+      "height": 6.1215,
+      "transform": [
+        6.0718,
+        0,
+        0,
+        6.1215,
+        323.5066,
+        145.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.27976779538193147,
+      "height": 0,
+      "transform": [
+        6.0718,
+        0,
+        0,
+        6.1215,
+        329.3021331,
+        145.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "Each of these divisions",
+      "dir": "ltr",
+      "width": 100.57259916000004,
+      "height": 10.5,
+      "transform": [
+        10.4148,
+        0,
+        0,
+        10.5,
+        331.0008272,
+        142
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.7034,
+        0,
+        0,
+        10.5,
+        72.2305,
+        128
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "reports to the Office of the Director, except for the Operations Division, which",
+      "dir": "ltr",
+      "width": 359.4758296799996,
+      "height": 10.5,
+      "transform": [
+        10.7034,
+        0,
+        0,
+        10.5,
+        72.2305,
+        128
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2305,
+        114
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "reports to the Deputy Director.",
+      "dir": "ltr",
+      "width": 139.06199999999998,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2305,
+        114
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        85.4317,
+        100
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Passage of Title X of Dodd–Frank was a bid to placate concern over a series",
+      "dir": "ltr",
+      "width": 345.93835500000085,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        85.4317,
+        100
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5931,
+        0,
+        0,
+        10.5,
+        72.3601,
+        86
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "of regulatory failures identified in the wake of the 2008 financial crisis. The law",
+      "dir": "ltr",
+      "width": 359.7999380499995,
+      "height": 10.5,
+      "transform": [
+        10.5931,
+        0,
+        0,
+        10.5,
+        72.3601,
+        86
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5351,
+        0,
+        0,
+        10.5,
+        72.2305,
+        72
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "imported a new superstructure of federal regulation over consumer finance and",
+      "dir": "ltr",
+      "width": 359.5819261800005,
+      "height": 10.5,
+      "transform": [
+        10.5351,
+        0,
+        0,
+        10.5,
+        72.2305,
+        72
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    }
+  ],
+  "styles": {
+    "g_d0_f3": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f101": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f13": {
+      "fontFamily": "monospace",
+      "ascent": 0.851,
+      "descent": -0.148,
+      "vertical": false
+    },
+    "g_d0_f4": {
+      "fontFamily": "serif",
+      "ascent": 1.089,
+      "descent": -0.312,
+      "vertical": false
+    },
+    "g_d0_f8": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.017,
+      "descent": -0.297,
+      "vertical": false
+    },
+    "g_d0_f17": {
+      "fontFamily": "sans-serif",
+      "ascent": 0.939,
+      "descent": -0.202,
+      "vertical": false
+    },
+    "g_d0_f9": {
+      "fontFamily": "serif",
+      "ascent": 1.133,
+      "descent": -0.292,
+      "vertical": false
+    },
+    "g_d0_f10": {
+      "fontFamily": "serif",
+      "ascent": 1.103,
+      "descent": -0.315,
+      "vertical": false
+    }
+  },
+  "lang": "en-US"
+}

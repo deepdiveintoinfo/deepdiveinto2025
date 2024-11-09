@@ -1,0 +1,1029 @@
+{
+  "items": [
+    {
+      "str": "— 449 —",
+      "dir": "ltr",
+      "width": 44.06,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        229.6224,
+        32.0001
+      ],
+      "fontName": "g_d0_f3",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        30,
+        0,
+        0,
+        30,
+        401.7118,
+        610
+      ],
+      "fontName": "g_d0_f2",
+      "hasEOL": true
+    },
+    {
+      "str": "14",
+      "dir": "ltr",
+      "width": 30.47999999999998,
+      "height": 30,
+      "transform": [
+        30,
+        0,
+        0,
+        30,
+        401.7118,
+        610
+      ],
+      "fontName": "g_d0_f2",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        16,
+        0,
+        0,
+        16,
+        216.8993,
+        472.2
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": true
+    },
+    {
+      "str": "DEPARTMENT OF HEALTH",
+      "dir": "ltr",
+      "width": 215.0384,
+      "height": 16,
+      "transform": [
+        16,
+        0,
+        0,
+        16,
+        216.8993,
+        472.2
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        16,
+        0,
+        0,
+        16,
+        239.1004,
+        454.2
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": true
+    },
+    {
+      "str": "AND HUMAN SERVICES",
+      "dir": "ltr",
+      "width": 193.16640000000007,
+      "height": 16,
+      "transform": [
+        16,
+        0,
+        0,
+        16,
+        239.1004,
+        454.2
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        13,
+        0,
+        0,
+        13,
+        330.4402,
+        436.2
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": true
+    },
+    {
+      "str": "Roger Severino",
+      "dir": "ltr",
+      "width": 101.41169999999998,
+      "height": 13,
+      "transform": [
+        13,
+        0,
+        0,
+        13,
+        330.4402,
+        436.2
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        50.6722,
+        0,
+        0,
+        50.6722,
+        69.9699,
+        352
+      ],
+      "fontName": "g_d0_f9",
+      "hasEOL": true
+    },
+    {
+      "str": "I",
+      "dir": "ltr",
+      "width": 21.282324,
+      "height": 50.6722,
+      "transform": [
+        50.6722,
+        0,
+        0,
+        50.6722,
+        69.9699,
+        352
+      ],
+      "fontName": "g_d0_f9",
+      "hasEOL": false
+    },
+    {
+      "str": "f the U.S. Department of Health and Human Services (HHS) were a separate coun",
+      "dir": "ltr",
+      "width": 337.7931220800014,
+      "height": 10.5,
+      "transform": [
+        10.1454,
+        0,
+        0,
+        10.5,
+        92.94,
+        380
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.7132164,
+      "height": 10.5,
+      "transform": [
+        10.1454,
+        0,
+        0,
+        10.5,
+        430.7906,
+        380
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.29,
+        0,
+        0,
+        10.5,
+        92.8,
+        366
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "try, its approximately $1.6 trillion budget would rank as the world’s fifth-largest",
+      "dir": "ltr",
+      "width": 338.99273100000056,
+      "height": 10.5,
+      "transform": [
+        10.29,
+        0,
+        0,
+        10.5,
+        92.8,
+        366
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.1003,
+        0,
+        0,
+        10.5,
+        92.7448,
+        352
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "national budget. For good or ill, HHS activities personally impact the lives of more",
+      "dir": "ltr",
+      "width": 338.8812254800002,
+      "height": 10.5,
+      "transform": [
+        10.1003,
+        0,
+        0,
+        10.5,
+        92.7448,
+        352
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3084,
+        0,
+        0,
+        10.5,
+        71.4379,
+        338
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Americans than do those of any other federal agency. Under President Trump, HHS",
+      "dir": "ltr",
+      "width": 360.0311784000001,
+      "height": 10.5,
+      "transform": [
+        10.3084,
+        0,
+        0,
+        10.5,
+        71.4379,
+        338
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.29,
+        0,
+        0,
+        10.5,
+        72.0941,
+        324
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "was dedicated to serving “all Americans from conception to natural death, including",
+      "dir": "ltr",
+      "width": 359.52231000000046,
+      "height": 10.5,
+      "transform": [
+        10.29,
+        0,
+        0,
+        10.5,
+        72.0941,
+        324
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.2252,
+        0,
+        0,
+        10.5,
+        72.2811,
+        310
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "those individuals and families who face…economic and social well-being challenges.”",
+      "dir": "ltr",
+      "width": 357.2531502000004,
+      "height": 10.5,
+      "transform": [
+        10.2252,
+        0,
+        0,
+        10.5,
+        72.2811,
+        310
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "1",
+      "dir": "ltr",
+      "width": 2.4322104,
+      "height": 6.1215,
+      "transform": [
+        5.9613,
+        0,
+        0,
+        6.1215,
+        429.3222,
+        313.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3763,
+        0,
+        0,
+        10.5,
+        71.9941,
+        296
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Under President Biden, the mission has shifted to “promoting equity in everything",
+      "dir": "ltr",
+      "width": 359.7100039500003,
+      "height": 10.5,
+      "transform": [
+        10.3763,
+        0,
+        0,
+        10.5,
+        71.9941,
+        296
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.2587,
+        0,
+        0,
+        10.5,
+        72.0941,
+        282
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "we do” for the sake of “populations sharing a particular characteristic” including race,",
+      "dir": "ltr",
+      "width": 361.3350090100006,
+      "height": 10.5,
+      "transform": [
+        10.2587,
+        0,
+        0,
+        10.5,
+        72.0941,
+        282
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.29,
+        0,
+        0,
+        10.5,
+        72.3857,
+        268
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "sexuality, gender identification, ethnicity, and a host of other categories.",
+      "dir": "ltr",
+      "width": 307.03199100000035,
+      "height": 10.5,
+      "transform": [
+        10.29,
+        0,
+        0,
+        10.5,
+        72.3857,
+        268
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "2",
+      "dir": "ltr",
+      "width": 3.2575113000000004,
+      "height": 6.1215,
+      "transform": [
+        5.9991,
+        0,
+        0,
+        6.1215,
+        379.3086,
+        271.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5527,
+        0,
+        0,
+        10.5,
+        84.9264,
+        254
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "As a result of HHS’s having lost its way, U.S. life expectancy, instead of return",
+      "dir": "ltr",
+      "width": 345.8204211600003,
+      "height": 10.5,
+      "transform": [
+        10.5527,
+        0,
+        0,
+        10.5,
+        84.9264,
+        254
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.8622881999999996,
+      "height": 10.5,
+      "transform": [
+        10.5527,
+        0,
+        0,
+        10.5,
+        430.7387,
+        254
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5461,
+        0,
+        0,
+        10.5,
+        72.2304,
+        240
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "ing to normal after the COVID-19 pandemic, continued to drop precipitously to",
+      "dir": "ltr",
+      "width": 359.4037057300003,
+      "height": 10.5,
+      "transform": [
+        10.5461,
+        0,
+        0,
+        10.5,
+        72.2304,
+        240
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5429,
+        0,
+        0,
+        10.5,
+        72.2028,
+        226
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "levels not seen since 1996 with white populations alone losing 7 percent of their",
+      "dir": "ltr",
+      "width": 359.82285126000056,
+      "height": 10.5,
+      "transform": [
+        10.5429,
+        0,
+        0,
+        10.5,
+        72.2028,
+        226
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3623,
+        0,
+        0,
+        10.5,
+        72.36,
+        212
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "expected life span in just one year.",
+      "dir": "ltr",
+      "width": 148.72076583000012,
+      "height": 10.5,
+      "transform": [
+        10.3623,
+        0,
+        0,
+        10.5,
+        72.36,
+        212
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "3",
+      "dir": "ltr",
+      "width": 3.2078772,
+      "height": 6.1215,
+      "transform": [
+        6.0412,
+        0,
+        0,
+        6.1215,
+        221.0042,
+        215.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": " ",
+      "dir": "ltr",
+      "width": 0.27712668012977576,
+      "height": 0,
+      "transform": [
+        6.0412,
+        0,
+        0,
+        6.1215,
+        224.2120772,
+        215.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "Nothing less than America’s long-term survival",
+      "dir": "ltr",
+      "width": 205.83258228000014,
+      "height": 10.5,
+      "transform": [
+        10.3623,
+        0,
+        0,
+        10.5,
+        225.8862549,
+        212
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        198
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "is at stake. Accordingly, HHS must return to serving the health and well-being of",
+      "dir": "ltr",
+      "width": 359.5872000000001,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2304,
+        198
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.318,
+        184
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "all Americans at all stages of life instead of using social engineering that leaves us",
+      "dir": "ltr",
+      "width": 359.19450000000006,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.318,
+        184
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.3936,
+        170
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "sicker, poorer, and more divided.",
+      "dir": "ltr",
+      "width": 146.2755,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.3936,
+        170
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        71.832,
+        142
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": true
+    },
+    {
+      "str": "OVERVIEW",
+      "dir": "ltr",
+      "width": 58.05999999999999,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        71.832,
+        142
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6212,
+        0,
+        0,
+        10.5,
+        85.4316,
+        128
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "HHS consists of 11 operating divisions that have varying degrees of practical",
+      "dir": "ltr",
+      "width": 346.10560956,
+      "height": 10.5,
+      "transform": [
+        10.6212,
+        0,
+        0,
+        10.5,
+        85.4316,
+        128
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.2304,
+        114
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "independence from the Secretary of Health and Human Services and 15 staff",
+      "dir": "ltr",
+      "width": 359.7799589999999,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.2304,
+        114
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.36,
+        100
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "divisions that are directly under the Office of the Secretary. This chapter’s rec",
+      "dir": "ltr",
+      "width": 358.3491029999998,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        72.36,
+        100
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.9198600000000003,
+      "height": 10.5,
+      "transform": [
+        10.71,
+        0,
+        0,
+        10.5,
+        430.7098,
+        100
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.36,
+        86
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "ommendations are limited to those divisions that most need reform and address,",
+      "dir": "ltr",
+      "width": 361.4310000000002,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.36,
+        86
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.096,
+        72
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "wherever possible, five cross-cutting goals.",
+      "dir": "ltr",
+      "width": 190.73984999999996,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.096,
+        72
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    }
+  ],
+  "styles": {
+    "g_d0_f3": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f2": {
+      "fontFamily": "serif",
+      "ascent": 1.158,
+      "descent": -0.32,
+      "vertical": false
+    },
+    "g_d0_f8": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.017,
+      "descent": -0.297,
+      "vertical": false
+    },
+    "g_d0_f9": {
+      "fontFamily": "serif",
+      "ascent": 1.133,
+      "descent": -0.292,
+      "vertical": false
+    },
+    "g_d0_f4": {
+      "fontFamily": "serif",
+      "ascent": 1.089,
+      "descent": -0.312,
+      "vertical": false
+    }
+  },
+  "lang": "en-US"
+}

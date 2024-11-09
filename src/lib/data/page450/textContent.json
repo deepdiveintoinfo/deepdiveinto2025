@@ -1,0 +1,997 @@
+{
+  "items": [
+    {
+      "str": "— 417 —",
+      "dir": "ltr",
+      "width": 40.63000000000001,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        231.3373,
+        32.0001
+      ],
+      "fontName": "g_d0_f3",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        30,
+        0,
+        0,
+        30,
+        401.3402,
+        610
+      ],
+      "fontName": "g_d0_f2",
+      "hasEOL": true
+    },
+    {
+      "str": "13",
+      "dir": "ltr",
+      "width": 30.030000000000005,
+      "height": 30,
+      "transform": [
+        30,
+        0,
+        0,
+        30,
+        401.3402,
+        610
+      ],
+      "fontName": "g_d0_f2",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        16,
+        0,
+        0,
+        16,
+        286.5323,
+        472.2
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": true
+    },
+    {
+      "str": "ENVIRONMENTAL",
+      "dir": "ltr",
+      "width": 147.264,
+      "height": 16,
+      "transform": [
+        16,
+        0,
+        0,
+        16,
+        286.5323,
+        472.2
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        16,
+        0,
+        0,
+        16,
+        248.72,
+        454.2
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": true
+    },
+    {
+      "str": "PROTECTION AGENCY",
+      "dir": "ltr",
+      "width": 185.98239999999996,
+      "height": 16,
+      "transform": [
+        16,
+        0,
+        0,
+        16,
+        248.72,
+        454.2
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        13,
+        0,
+        0,
+        13,
+        288.5909,
+        436.2
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": true
+    },
+    {
+      "str": "Mandy M. Gunasekara",
+      "dir": "ltr",
+      "width": 143.10269999999997,
+      "height": 13,
+      "transform": [
+        13,
+        0,
+        0,
+        13,
+        288.5909,
+        436.2
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        72.3576,
+        380
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": true
+    },
+    {
+      "str": "MISSION STATEMENT",
+      "dir": "ltr",
+      "width": 109.26999999999995,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        72.3576,
+        380
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4706,
+        0,
+        0,
+        10.5,
+        85.2012,
+        366
+      ],
+      "fontName": "g_d0_f10",
+      "hasEOL": true
+    },
+    {
+      "str": "Creating a better environmental tomorrow with clean air, safe water, healthy soil,",
+      "dir": "ltr",
+      "width": 349.52119272000033,
+      "height": 10.5,
+      "transform": [
+        10.4706,
+        0,
+        0,
+        10.5,
+        85.2012,
+        366
+      ],
+      "fontName": "g_d0_f10",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2616,
+        352
+      ],
+      "fontName": "g_d0_f10",
+      "hasEOL": true
+    },
+    {
+      "str": "and thriving communities.",
+      "dir": "ltr",
+      "width": 115.19550000000002,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.2616,
+        352
+      ],
+      "fontName": "g_d0_f10",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5248,
+        0,
+        0,
+        10.5,
+        84.9264,
+        338
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "A conservative U.S. Environmental Protection Agency (EPA) will take a more",
+      "dir": "ltr",
+      "width": 346.33643616000023,
+      "height": 10.5,
+      "transform": [
+        10.5248,
+        0,
+        0,
+        10.5,
+        84.9264,
+        338
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5062,
+        0,
+        0,
+        10.5,
+        72.3936,
+        324
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "supportive role toward local and state efforts, building them up so that they may",
+      "dir": "ltr",
+      "width": 359.43706378,
+      "height": 10.5,
+      "transform": [
+        10.5062,
+        0,
+        0,
+        10.5,
+        72.3936,
+        324
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3996,
+        0,
+        0,
+        10.5,
+        72.2028,
+        310
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "lead in a meaningful fashion. This will include the sharing of federal resources and",
+      "dir": "ltr",
+      "width": 359.25418200000024,
+      "height": 10.5,
+      "transform": [
+        10.3996,
+        0,
+        0,
+        10.5,
+        72.2028,
+        310
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.6057,
+        0,
+        0,
+        10.5,
+        72.318,
+        296
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "agency expertise. Creating environmental standards from the ground up is con",
+      "dir": "ltr",
+      "width": 358.4970531100011,
+      "height": 10.5,
+      "transform": [
+        10.6057,
+        0,
+        0,
+        10.5,
+        72.318,
+        296
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.8816862000000003,
+      "height": 10.5,
+      "transform": [
+        10.6057,
+        0,
+        0,
+        10.5,
+        430.7263,
+        296
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.3936,
+        282
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "sistent with the concept of cooperative federalism embedded within many of the",
+      "dir": "ltr",
+      "width": 359.1209999999999,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.3936,
+        282
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3544,
+        0,
+        0,
+        10.5,
+        72.318,
+        268
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "agency’s authorizing statutes and will create earnest relationships among local offi",
+      "dir": "ltr",
+      "width": 358.22599959999997,
+      "height": 10.5,
+      "transform": [
+        10.3544,
+        0,
+        0,
+        10.5,
+        72.318,
+        268
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.7897104,
+      "height": 10.5,
+      "transform": [
+        10.3544,
+        0,
+        0,
+        10.5,
+        430.764,
+        268
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3682,
+        0,
+        0,
+        10.5,
+        72.36,
+        254
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "cials and regulated stakeholders. This in turn will promote a culture of compliance.",
+      "dir": "ltr",
+      "width": 361.38153736000055,
+      "height": 10.5,
+      "transform": [
+        10.3682,
+        0,
+        0,
+        10.5,
+        72.36,
+        254
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        84.9264,
+        240
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "A conservative EPA will track success by measured progress as opposed to the",
+      "dir": "ltr",
+      "width": 346.5525000000001,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        84.9264,
+        240
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4946,
+        0,
+        0,
+        10.5,
+        72.36,
+        226
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "current perpetual process and will convey this progress to the public in clear, con",
+      "dir": "ltr",
+      "width": 358.45670598000027,
+      "height": 10.5,
+      "transform": [
+        10.4946,
+        0,
+        0,
+        10.5,
+        72.36,
+        226
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.8410235999999998,
+      "height": 10.5,
+      "transform": [
+        10.4946,
+        0,
+        0,
+        10.5,
+        430.743,
+        226
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5891,
+        0,
+        0,
+        10.5,
+        72.36,
+        212
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "cise terms. True transparency will be a defining characteristic of a conservative",
+      "dir": "ltr",
+      "width": 359.2542778800001,
+      "height": 10.5,
+      "transform": [
+        10.5891,
+        0,
+        0,
+        10.5,
+        72.36,
+        212
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4149,
+        0,
+        0,
+        10.5,
+        71.9316,
+        198
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "EPA. This will be reflected in all agency work, including the establishment of open-",
+      "dir": "ltr",
+      "width": 362.6530669399999,
+      "height": 10.5,
+      "transform": [
+        10.4149,
+        0,
+        0,
+        10.5,
+        71.9316,
+        198
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5838,
+        0,
+        0,
+        10.5,
+        72.3936,
+        184
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "source science, to build not only transparency and awareness among the public,",
+      "dir": "ltr",
+      "width": 361.43359485999997,
+      "height": 10.5,
+      "transform": [
+        10.5838,
+        0,
+        0,
+        10.5,
+        72.3936,
+        184
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.4548,
+        170
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "but also trust.",
+      "dir": "ltr",
+      "width": 61.78200000000001,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.4548,
+        170
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5279,
+        0,
+        0,
+        10.5,
+        85.2636,
+        156
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "The challenge of creating a conservative EPA will be to balance justified skep",
+      "dir": "ltr",
+      "width": 345.4867247700007,
+      "height": 10.5,
+      "transform": [
+        10.5279,
+        0,
+        0,
+        10.5,
+        85.2636,
+        156
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.8532480000000002,
+      "height": 10.5,
+      "transform": [
+        10.528,
+        0,
+        0,
+        10.5,
+        430.7393,
+        156
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4622,
+        0,
+        0,
+        10.5,
+        72.2868,
+        142
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "ticism toward an agency that has long been amenable to being coopted by the Left",
+      "dir": "ltr",
+      "width": 359.2928723999995,
+      "height": 10.5,
+      "transform": [
+        10.4622,
+        0,
+        0,
+        10.5,
+        72.2868,
+        142
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5787,
+        0,
+        0,
+        10.5,
+        72.4296,
+        128
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "for political ends against the need to implement the agency’s true function: pro",
+      "dir": "ltr",
+      "width": 358.0974579600002,
+      "height": 10.5,
+      "transform": [
+        10.5787,
+        0,
+        0,
+        10.5,
+        72.4296,
+        128
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "-",
+      "dir": "ltr",
+      "width": 3.8718041999999997,
+      "height": 10.5,
+      "transform": [
+        10.5787,
+        0,
+        0,
+        10.5,
+        430.7294,
+        128
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4069,
+        0,
+        0,
+        10.5,
+        72.2868,
+        114
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "tecting public health and the environment in cooperation with states. Further, the",
+      "dir": "ltr",
+      "width": 358.99538171000034,
+      "height": 10.5,
+      "transform": [
+        10.4069,
+        0,
+        0,
+        10.5,
+        72.2868,
+        114
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        71.9316,
+        100
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "EPA needs to be realigned away from attempts to make it an all-powerful energy",
+      "dir": "ltr",
+      "width": 359.9631000000001,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        71.9316,
+        100
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5381,
+        0,
+        0,
+        10.5,
+        72.318,
+        86
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "and land use policymaker and returned to its congressionally sanctioned role as",
+      "dir": "ltr",
+      "width": 359.47250577000045,
+      "height": 10.5,
+      "transform": [
+        10.5381,
+        0,
+        0,
+        10.5,
+        72.318,
+        86
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.36,
+        72
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "environmental regulator.",
+      "dir": "ltr",
+      "width": 113.12699999999997,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        72.36,
+        72
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    }
+  ],
+  "styles": {
+    "g_d0_f3": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f2": {
+      "fontFamily": "serif",
+      "ascent": 1.158,
+      "descent": -0.32,
+      "vertical": false
+    },
+    "g_d0_f8": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.017,
+      "descent": -0.297,
+      "vertical": false
+    },
+    "g_d0_f10": {
+      "fontFamily": "serif",
+      "ascent": 1.103,
+      "descent": -0.315,
+      "vertical": false
+    },
+    "g_d0_f4": {
+      "fontFamily": "serif",
+      "ascent": 1.089,
+      "descent": -0.312,
+      "vertical": false
+    }
+  },
+  "lang": "en-US"
+}

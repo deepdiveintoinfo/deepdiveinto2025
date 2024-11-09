@@ -1,0 +1,725 @@
+{
+  "items": [
+    {
+      "str": "— 765 —",
+      "dir": "ltr",
+      "width": 42.64,
+      "height": 10,
+      "transform": [
+        10,
+        0,
+        0,
+        10,
+        230.3324,
+        32.0001
+      ],
+      "fontName": "g_d0_f3",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        30,
+        0,
+        0,
+        30,
+        397.8903,
+        610
+      ],
+      "fontName": "g_d0_f2",
+      "hasEOL": true
+    },
+    {
+      "str": "26",
+      "dir": "ltr",
+      "width": 34.739999999999995,
+      "height": 30,
+      "transform": [
+        30,
+        0,
+        0,
+        30,
+        397.8903,
+        610
+      ],
+      "fontName": "g_d0_f2",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        16,
+        0,
+        0,
+        16,
+        374.3044,
+        436.2
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": true
+    },
+    {
+      "str": "TRADE",
+      "dir": "ltr",
+      "width": 57.808,
+      "height": 16,
+      "transform": [
+        16,
+        0,
+        0,
+        16,
+        374.3044,
+        436.2
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        12,
+        0,
+        0,
+        12,
+        71.1924,
+        380
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": true
+    },
+    {
+      "str": "THE CASE FOR FAIR TRADE",
+      "dir": "ltr",
+      "width": 172.47479999999996,
+      "height": 12,
+      "transform": [
+        12,
+        0,
+        0,
+        12,
+        71.1924,
+        380
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        9.5,
+        0,
+        0,
+        9.5,
+        72.3996,
+        366
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": true
+    },
+    {
+      "str": "Peter Navarro",
+      "dir": "ltr",
+      "width": 66.69949999999999,
+      "height": 9.5,
+      "transform": [
+        9.5,
+        0,
+        0,
+        9.5,
+        72.3996,
+        366
+      ],
+      "fontName": "g_d0_f8",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        85.1616,
+        338
+      ],
+      "fontName": "g_d0_f10",
+      "hasEOL": true
+    },
+    {
+      "str": "For decades the world has struggled with a shifting maze of punitive tariffs,",
+      "dir": "ltr",
+      "width": 326.613,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        85.1616,
+        338
+      ],
+      "fontName": "g_d0_f10",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        85.7832,
+        324
+      ],
+      "fontName": "g_d0_f10",
+      "hasEOL": true
+    },
+    {
+      "str": "export subsidies, quotas, dollar-locked currencies, and the like. Many",
+      "dir": "ltr",
+      "width": 299.691,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        85.7832,
+        324
+      ],
+      "fontName": "g_d0_f10",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        85.7724,
+        310
+      ],
+      "fontName": "g_d0_f10",
+      "hasEOL": true
+    },
+    {
+      "str": "of these import-inhibiting and export-encouraging devices have long",
+      "dir": "ltr",
+      "width": 296.45595000000014,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        85.7724,
+        310
+      ],
+      "fontName": "g_d0_f10",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        85.8348,
+        296
+      ],
+      "fontName": "g_d0_f10",
+      "hasEOL": true
+    },
+    {
+      "str": "been employed by major exporting countries trying to amass ever larger",
+      "dir": "ltr",
+      "width": 309.8959500000001,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        85.8348,
+        296
+      ],
+      "fontName": "g_d0_f10",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        85.7016,
+        282
+      ],
+      "fontName": "g_d0_f10",
+      "hasEOL": true
+    },
+    {
+      "str": "[trade] surpluses.",
+      "dir": "ltr",
+      "width": 76.75500000000001,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        85.7016,
+        282
+      ],
+      "fontName": "g_d0_f10",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        226.3109,
+        254
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "Warren Buffett, CEO, Berkshire Hathaway",
+      "dir": "ltr",
+      "width": 189.44099999999995,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        226.3109,
+        254
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "1",
+      "dir": "ltr",
+      "width": 2.4975720000000003,
+      "height": 6.1215,
+      "transform": [
+        6.1215,
+        0,
+        0,
+        6.1215,
+        415.7485,
+        257.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        84.978,
+        226
+      ],
+      "fontName": "g_d0_f10",
+      "hasEOL": true
+    },
+    {
+      "str": "The Chinese government is implementing a comprehensive, long-term",
+      "dir": "ltr",
+      "width": 302.15850000000006,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        84.978,
+        226
+      ],
+      "fontName": "g_d0_f10",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        85.692,
+        212
+      ],
+      "fontName": "g_d0_f10",
+      "hasEOL": true
+    },
+    {
+      "str": "industrial strategy to ensure its global dominance…. Beijing’s ultimate goal",
+      "dir": "ltr",
+      "width": 326.20245000000006,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        85.692,
+        212
+      ],
+      "fontName": "g_d0_f10",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        85.692,
+        198
+      ],
+      "fontName": "g_d0_f10",
+      "hasEOL": true
+    },
+    {
+      "str": "is for domestic companies to replace foreign companies as designers and",
+      "dir": "ltr",
+      "width": 312.71940000000006,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        85.692,
+        198
+      ],
+      "fontName": "g_d0_f10",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        85.7976,
+        184
+      ],
+      "fontName": "g_d0_f10",
+      "hasEOL": true
+    },
+    {
+      "str": "manufacturers of key technology and products first at home, then abroad.",
+      "dir": "ltr",
+      "width": 317.36039999999997,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        85.7976,
+        184
+      ],
+      "fontName": "g_d0_f10",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        164.7036,
+        156
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "U.S.–China Economic and Security Review Commission",
+      "dir": "ltr",
+      "width": 250.0680000000001,
+      "height": 10.5,
+      "transform": [
+        10.5,
+        0,
+        0,
+        10.5,
+        164.7036,
+        156
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "2",
+      "dir": "ltr",
+      "width": 3.3239745000000003,
+      "height": 6.1215,
+      "transform": [
+        6.1215,
+        0,
+        0,
+        6.1215,
+        414.7671,
+        159.4965
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4212,
+        0,
+        0,
+        10.5,
+        85.2636,
+        128
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "The United States of America is the world’s dominant superpower and remains",
+      "dir": "ltr",
+      "width": 346.54450056000013,
+      "height": 10.5,
+      "transform": [
+        10.4212,
+        0,
+        0,
+        10.5,
+        85.2636,
+        128
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.3212,
+        0,
+        0,
+        10.5,
+        72.2868,
+        114
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "the world’s arsenal of democracy. To maintain that global positioning—and thereby",
+      "dir": "ltr",
+      "width": 359.73510479999953,
+      "height": 10.5,
+      "transform": [
+        10.3212,
+        0,
+        0,
+        10.5,
+        72.2868,
+        114
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.4779,
+        0,
+        0,
+        10.5,
+        72.4548,
+        100
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "best protect the homeland and our own democratic institutions—it is critical that",
+      "dir": "ltr",
+      "width": 359.5533296600001,
+      "height": 10.5,
+      "transform": [
+        10.4779,
+        0,
+        0,
+        10.5,
+        72.4548,
+        100
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.455,
+        0,
+        0,
+        10.5,
+        72.2868,
+        86
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "the United States strengthen its manufacturing and defense industrial base at the",
+      "dir": "ltr",
+      "width": 359.0916120000007,
+      "height": 10.5,
+      "transform": [
+        10.455,
+        0,
+        0,
+        10.5,
+        72.2868,
+        86
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    },
+    {
+      "str": "",
+      "dir": "ltr",
+      "width": 0,
+      "height": 0,
+      "transform": [
+        10.5421,
+        0,
+        0,
+        10.5,
+        72.3936,
+        72
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": true
+    },
+    {
+      "str": "same time that it increases the reliability and resilience of its globally dispersed",
+      "dir": "ltr",
+      "width": 359.35594217000056,
+      "height": 10.5,
+      "transform": [
+        10.5421,
+        0,
+        0,
+        10.5,
+        72.3936,
+        72
+      ],
+      "fontName": "g_d0_f4",
+      "hasEOL": false
+    }
+  ],
+  "styles": {
+    "g_d0_f3": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.008,
+      "descent": -0.275,
+      "vertical": false
+    },
+    "g_d0_f2": {
+      "fontFamily": "serif",
+      "ascent": 1.158,
+      "descent": -0.32,
+      "vertical": false
+    },
+    "g_d0_f8": {
+      "fontFamily": "sans-serif",
+      "ascent": 1.017,
+      "descent": -0.297,
+      "vertical": false
+    },
+    "g_d0_f10": {
+      "fontFamily": "serif",
+      "ascent": 1.103,
+      "descent": -0.315,
+      "vertical": false
+    },
+    "g_d0_f4": {
+      "fontFamily": "serif",
+      "ascent": 1.089,
+      "descent": -0.312,
+      "vertical": false
+    }
+  },
+  "lang": "en-US"
+}

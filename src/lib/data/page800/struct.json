@@ -1,0 +1,147 @@
+{
+  "children": [
+    {
+      "role": "Document",
+      "children": [
+        {
+          "role": "Art",
+          "children": [
+            {
+              "role": "Sect",
+              "children": [
+                {
+                  "role": "P",
+                  "children": [
+                    {
+                      "type": "content",
+                      "id": "p2120R_mc41486"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p2120R_mc41487"
+                    }
+                  ]
+                },
+                {
+                  "role": "P",
+                  "children": [
+                    {
+                      "type": "content",
+                      "id": "p2120R_mc41488"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p2120R_mc41489"
+                    },
+                    {
+                      "role": "Span",
+                      "children": [
+                        {
+                          "type": "content",
+                          "id": "p2120R_mc41490"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "content",
+                      "id": "p2120R_mc41491"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p2120R_mc41492"
+                    },
+                    {
+                      "role": "Span",
+                      "children": [
+                        {
+                          "type": "content",
+                          "id": "p2120R_mc41493"
+                        }
+                      ],
+                      "alt": "­"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p2120R_mc41494"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p2120R_mc41495"
+                    }
+                  ]
+                },
+                {
+                  "role": "P",
+                  "children": [
+                    {
+                      "type": "content",
+                      "id": "p2120R_mc41496"
+                    },
+                    {
+                      "role": "Span",
+                      "children": [
+                        {
+                          "type": "content",
+                          "id": "p2120R_mc41497"
+                        }
+                      ],
+                      "alt": "­"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p2120R_mc41498"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p2120R_mc41499"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p2120R_mc41500"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p2120R_mc41501"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p2120R_mc41502"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p2120R_mc41503"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p2120R_mc41504"
+                    },
+                    {
+                      "type": "content",
+                      "id": "p2120R_mc41505"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "role": "Figure",
+              "children": [
+                {
+                  "type": "content",
+                  "id": "p2120R_mc41506"
+                }
+              ],
+              "bbox": [
+                69.158,
+                321.462,
+                437.671,
+                645.696
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "role": "Root"
+}
