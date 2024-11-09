@@ -25,15 +25,19 @@ const alanyzeCommand = async (source) => {
     const tree = await page.getStructTree()
     const textContent = await page.getTextContent()
     const annotations = await page.getAnnotations()
+    const fontData = await page.getOperatorList()
     const pagePath = join(__projectroot, 'src', 'lib', 'data', `page${pageNumber}`)
     ;[
       [`annotations.json`, JSON.stringify(annotations, null, 2)],
       [`struct.json`, JSON.stringify(tree, null, 2)], 
       [`textContent.json`, JSON.stringify(textContent, null, 2)]
+      [`font.json`, JSON.stringify(textContent.styles, null, 2)]
     ].forEach(async ([fileName, content]) => {
       await fs.ensureFile(join(pagePath, fileName))
       fs.writeFileSync(join(pagePath, fileName), content)
     })
+
+    
   }
 }
 
