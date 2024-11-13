@@ -1,48 +1,67 @@
 #!/usr/bin/env node
 
 import { Command } from 'commander';
-import { join } from 'path'
-import fs from 'fs-extra';
-import * as path from 'path';
-import { __projectroot } from '../../lib/utils.mjs'
-// import pdfParse from 'pdf-parse'
-import { getDocument } from "pdfjs-dist/legacy/build/pdf.mjs";
-
-
+import { parsePDF } from '../../lib/parsers/pdfToDst/index.mjs';
+// Project 2025 url: https://static.project2025.org/2025_MandateForLeadership_FULL.pdf
 const program = new Command();
 
-const alanyzeCommand = async (source) => {
-  const pdfPath = join(__projectroot, 'src', 'assets', source)
-  // const pageNumber = 34
-  const loadingTask = getDocument(pdfPath);
-  const pdf = await loadingTask.promise;
+const alanyzeCommand = async () => {
+  const dst = await parsePDF('https://static.project2025.org/2025_MandateForLeadership_FULL.pdf');
+  // console.log(dst);
 
-  console.log('PDF loaded');
-  for (let pageNumber = 1; pageNumber <= pdf.numPages; pageNumber++) {
-
-    const page = await pdf.getPage(pageNumber);
-    const tree = await page.getStructTree()
-    const textContent = await page.getTextContent()
-    const annotations = await page.getAnnotations()
-    const pagePath = join(__projectroot, 'src', 'lib', 'data', `page${pageNumber}`)
-    ;[
-      [`annotations.json`, JSON.stringify(annotations, null, 2)],
-      [`struct.json`, JSON.stringify(tree, null, 2)], 
-      [`textContent.json`, JSON.stringify(textContent, null, 2)],
-    ].forEach(async ([fileName, content]) => {
-      await fs.ensureFile(join(pagePath, fileName))
-      fs.writeFileSync(join(pagePath, fileName), content)
-    })
-
-    
-  }
 }
+
+// function pageToMarkdown(textContent, pageNumber) {
+//   let markdownContent = `# Page ${pageNumber}\n\n`;
+//   let currentParagraph = '';
+//   let author, article, subsection;
+
+//   textContent.items.forEach((item, index) => {
+//     const text = item.str.trim();
+//     const [
+//       scaleX,       // Horizontal scaling factor (affects width of text; font size on X-axis)
+//       skewX,        // Skewing along the X-axis (for italic or slanted text)
+//       skewY,        // Skewing along the Y-axis (usually zero for regular text)
+//       scaleY,       // Vertical scaling factor (affects height of text; font size on Y-axis)
+//       translateX,   // X-axis translation (horizontal position of the text start)
+//       translateY    // Y-axis translation (vertical position of the text baseline)
+//     ] = item.transform;
+    
+//     const fontSize = scaleX;
+//     const lineHeight = translateY;
+//     const horizontalOffset = translateX;
+//     if(!/[a-zA-Z]{1,}/.test(text) && text != '') return;
+
+//     if(text.trim() == 'Veronique de Rugy') {
+//       console.log(fontSize, lineHeight, fontSize == "9.5" && lineHeight == 366, fontSize == 9.5 && lineHeight == 336);
+//     }
+
+//     if(fontSize > 30 && fontSize < 31 && lineHeight == 338) {
+//       currentParagraph += text.trim();
+//     } else if(fontSize == "9.5" && lineHeight == 366) {
+//       author = text.trim();
+//     } else if(fontSize == 12 && lineHeight == 380) {
+//       article = text.trim();
+//     } else if(fontSize == 16 && lineHeight == 436.2) {
+//       subsection += text.trim() + ' ';
+//     } else if (text.trim() == '') {
+//       currentParagraph += '\n\n';
+//     } else {
+//       currentParagraph += text.trim();
+//     }
+//   });
+
+//   return {currentParagraph, author, article};
+
+
+//   // return markdownContent;
+
+// }
 
 
 // Main command
 program
   .name('analyze')
-  .argument('source', 'source to analyze.')
   .description('Analyze a pdf and generate a json db from it.')
   .action(alanyzeCommand);
 
