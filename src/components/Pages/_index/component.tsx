@@ -1,73 +1,27 @@
-// import { useEffect } from 'react';
-// import { gql, useQuery } from '@apollo/client'
 import { PageComponentType } from '@/lib/types'
-// import Content from './content/_index.mdx'
 import { HeroSection } from '@/components/ThirdParty/UiBlocks';
 import { Button } from "@/components/ThirdParty/ShadCn/Button";
 import { ChevronRightIcon } from "lucide-react";
-import { Caption } from '@/components/Comics/index';
 import { IconSection } from '@/components/ThirdParty/UiBlocks/IconSection';
-
-// import { Caption } from '@/components/Comics/index';
-
-// const GET_PEOPLE = gql`
-//       query Example{
-//           getCharacters {
-//             mangaName
-//             race
-//             team
-//             mentors
-//             students
-//             dateOfBirth
-//             dateOfDeath
-//         }
-//       }  
-// `;
-
 
 
 export const Content = () => <>
 {/* Hero */}
-  <div className="container relative py-24 lg:py-32">
+  <div className="container relative py-0 lg:py-0">
     {/* Announcement Banner */}
 
-    <div className="flex justify-center">
-    <Caption gradiant className='absolute top-4 left-4'>{"Meanwhile"}...</Caption>
-
-      <a
-        className="inline-flex items-center gap-x-2 border text-sm p-1 ps-3 rounded-full transition"
-        href="#"
-      >
-        PRO release - Join to waitlist
-        <span className="py-1.5 px-2.5 inline-flex justify-center items-center gap-x-2 rounded-full bg-muted-foreground/15 font-semibold text-sm">
-          <svg
-            className="flex-shrink-0 w-4 h-4"
-            xmlns="http://www.w3.org/2000/svg"
-            width={24}
-            height={24}
-            viewBox="0 0 24 24"
-            fill="none"
-            stroke="currentColor"
-            strokeWidth={2}
-            strokeLinecap="round"
-            strokeLinejoin="round"
-          >
-            <path d="m9 18 6-6-6-6" />
-          </svg>
-        </span>
-      </a>
-    </div>
     {/* End Announcement Banner */}
     {/* Title */}
-    <div className="mt-5 max-w-2xl text-center mx-auto">
+    <div className="mt-12 mb-5 max-w-2xl text-center mx-auto">
       <h1 className="scroll-m-20 text-4xl font-happy-monkey-regular tracking-tight lg:text-5xl">
-        is index
+        Deep Dive Into 2025
       </h1>
     </div>
     {/* End Title */}
-    <div className="mt-5 max-w-3xl text-center mx-auto">
+    <div className="mt-0 max-w-5xl text-center mx-auto">
+    <iframe className='inline-block' width="560" height="315" src="https://www.youtube.com/embed/3h8C0QDEgsA?si=FJHzOwGIjcRrtexG" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
       <p className="text-xl text-muted-foreground">
-      Welcome to <b>Meanwhile</b> - the modular, scalable, and customizable front-end setup for building modern web applications. Whether you're starting a new project or looking to scale an existing one, Meanwhile provides the tools and components you need to create efficient, high-performance web applications.
+      Donald Trump's connection to Project 2025's Mandate for Leadership is clear in his speeches, even if he doesn't say he's fully behind it. The project is a plan to reshape the government in a conservative way by placing loyal supporters in important positions and making federal agencies smaller. In a recent speech at The Heritage Foundation, <a href="https://www.snopes.com/fact-check/trump-video-project-2025-colossal-mandate/">Trump spoke excitedly about the need for a strong “mandate,”</a> fitting with the goals of Project 2025's <i>Mandate</i> for Leadership.
       </p>
     </div>
     {/* Buttons */}

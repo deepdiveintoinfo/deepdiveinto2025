@@ -114,7 +114,7 @@ export default {
       chunkFilename: '[id].[contenthash].css'
     }),
     new ModuleFederationPlugin({
-      name: 'meanwhile',
+      name: 'deepdiveinto2025',
       remotes: {
         // Configure if needed for microfrontend
       },

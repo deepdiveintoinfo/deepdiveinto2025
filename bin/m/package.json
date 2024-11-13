@@ -1,7 +1,7 @@
 {
   "name": "m-cli",
   "version": "1.0.0",
-  "description": "CLI for madrox",
+  "description": "CLI for deepdiveinto2025",
   "main": "bin/index.mjs",
   "type": "module",
   "bin": {

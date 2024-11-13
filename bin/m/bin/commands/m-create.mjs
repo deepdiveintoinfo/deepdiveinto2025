@@ -12,7 +12,7 @@ const program = new Command();
 
 program
     .name('create')
-    .description('CLI command to generate something for a madrox project.')
+    .description('CLI command to generate something for a deepdiveinto2025 project.')
     .argument('type', 'type of component or w/e.')
     .argument('nameOfThing', 'Name of thing.')
     .option('-d, --docs', 'Whether to generate documentation.')
@@ -98,7 +98,7 @@ program.parse();
 
 createCommand.docs =  `# Init command documentation
 
-The init command is used to initialize a new madrox project.
+The init command is used to initialize a new deepdiveinto2025 project.
 
 ### Source Code
 
