@@ -3,7 +3,7 @@ import { ChapterPage } from '.';
 
 const meta: Meta<typeof ChapterPage> = {
   component: ChapterPage,
-  title: "Components/Pages/dw-nominate"
+  title: "Components/Pages/chapter"
 };
 
 export default meta;
