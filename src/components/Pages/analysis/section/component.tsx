@@ -25,7 +25,7 @@ import { PageComponentType } from '@/lib/types'
 // `;
 
 // Define the TypeScript interfaces
-export const ChapterPage: PageComponentType = () => {
+export const SectionPage: PageComponentType = () => {
     // const { loading, error, data } = useQuery(GET_PEOPLE);
   
     // useEffect(() => {
@@ -38,11 +38,10 @@ export const ChapterPage: PageComponentType = () => {
     // if (error) return <p>Error : {error.message}</p>;
     return (
       <>
-      <h1>chapter page</h1>
+      <h1>section page</h1>
 
       </>
     );
   }
 
-  ChapterPage.path = "/document/section/:sectionNumber/chapter/:chapterNumber"
-  // ChapterPage.path = "/document/section/:sectionNumber/chapter/:chapterNumber/subsection/:subsectionNumber/paragraph/:paragraphNumber/line/:lineNumber"
+  SectionPage.path = "/analysis/section/:sectionName"

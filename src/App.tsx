@@ -18,8 +18,6 @@ const router = createHashRouter(Object.entries(pages).map(([_, Element]) => {
 }), {
 });
 
-console.log(router.routes)
-
 
 function App() {
   return (
