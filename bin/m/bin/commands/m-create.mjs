@@ -4,7 +4,7 @@ import { __projectroot, colors, extractPropsFromInterface } from '../../lib/util
 import { join } from 'path';
 import fs from 'fs-extra';
 import * as changeCase from "change-case";
-import { componentTemplate, indexTemplate, variantsTemplate, storyTemplate, documentationTemplate } from '../../templates/index.mjs'
+import { componentTemplate, pageComponentTemplate, indexTemplate, variantsTemplate, storyTemplate, documentationTemplate } from '../../templates/index.mjs'
 import { log } from 'console'
 import ts from 'typescript';
 
@@ -46,6 +46,54 @@ export async function createTest(type, nameOfThing, typeFolder) {
     
 }
 
+const createComponent = async ({nameOfThing, typeFolder, options}) => {
+    const targetPath = join(__projectroot, 'src', 'components', ...typeFolder, changeCase.pascalCase(nameOfThing))
+    await fs.ensureDir(targetPath)
+
+    
+    const fileTuple = [
+        ['component.tsx', componentTemplate(nameOfThing, options)],
+        ['index.ts', indexTemplate(options)],
+        ['story.tsx', storyTemplate(nameOfThing, options)],
+        ['variants.tsx', variantsTemplate(nameOfThing, options)]
+    ]
+
+    if(options.docs) fileTuple.push(['docs.mdx', documentationTemplate(nameOfThing, typeFolder[0], options)])
+    
+    fileTuple.forEach(async ([fileName, fileContents]) => {
+        await fs.writeFile(join(targetPath, fileName), fileContents, 'utf-8')
+        log(colors.blue(`<${changeCase.pascalCase(nameOfThing)} /> -->`), colors.yellow(fileName), colors.green(`created!`))
+    })
+
+    console.log(typeFolder, nameOfThing)
+
+}
+
+
+
+const createPage = async ({urlPath, options, typeFolder, ...rest}) => {
+    const nameOfThing = urlPath.split('/').pop()
+    console.log({urlPath, options, ...rest})
+    const targetPath = join(__projectroot, 'src', 'components', ...typeFolder, changeCase.kebabCase(nameOfThing))
+    await fs.ensureDir(targetPath)
+
+    
+    const fileTuple = [
+        ['component.tsx', pageComponentTemplate({nameOfThing, urlPath, options})],
+        ['index.ts', indexTemplate(options)],
+        ['story.tsx', storyTemplate(nameOfThing, options)],
+        ['variants.tsx', variantsTemplate(nameOfThing, options)]
+    ]
+
+    if(options.docs) fileTuple.push(['docs.mdx', documentationTemplate(nameOfThing, typeFolder[0], options)])
+    
+    fileTuple.forEach(async ([fileName, fileContents]) => {
+        await fs.writeFile(join(targetPath, fileName), fileContents, 'utf-8')
+        log(colors.blue(`<${changeCase.pascalCase(nameOfThing)} /> -->`), colors.yellow(fileName), colors.green(`created!`))
+    })
+}
+
+
 export default program;
 
 export async function createCommand(type, nameOfThing, options) {
@@ -71,34 +119,18 @@ export async function createCommand(type, nameOfThing, options) {
             break;
     }
 
-    if(nameOfThing == 'unit') return createTest(type, nameOfThing, typeFolder, options)
-    const targetPath = join(__projectroot, 'src', 'components', ...typeFolder, changeCase.pascalCase(nameOfThing))
-    await fs.ensureDir(targetPath)
-
-    
-    const fileTuple = [
-        ['component.tsx', componentTemplate(nameOfThing, options)],
-        ['index.ts', indexTemplate(options)],
-        ['story.tsx', storyTemplate(nameOfThing, options)],
-        ['variants.tsx', variantsTemplate(nameOfThing, options)]
-    ]
-
-    if(options.docs) fileTuple.push(['docs.mdx', documentationTemplate(nameOfThing, typeFolder[0], options)])
-    
-    fileTuple.forEach(async ([fileName, fileContents]) => {
-        await fs.writeFile(join(targetPath, fileName), fileContents, 'utf-8')
-        log(colors.blue(`<${changeCase.pascalCase(nameOfThing)} /> -->`), colors.yellow(fileName), colors.green(`created!`))
-    })
-
-    console.log(typeFolder, nameOfThing)
-
+    switch (type) {
+        case "unit": return createTest({type, nameOfThing, typeFolder, options})
+        case "page": return createPage({type, urlPath:nameOfThing, typeFolder, options})
+        default: return createComponent({type, nameOfThing, typeFolder, options})
+    }
 }
 
 program.parse();
 
 createCommand.docs =  `# Init command documentation
 
-The init command is used to initialize a new deepdiveinto2025 project.
+The init command is used to initialize a new madrox project.
 
 ### Source Code
 

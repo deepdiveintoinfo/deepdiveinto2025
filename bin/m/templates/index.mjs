@@ -176,6 +176,29 @@ ${variantsTemplate(componentName, options)}
 `)
 }
 
+export const pageComponentTemplate = ({nameOfThing, urlPath, options}) => {
+    return `import { useParams } from 'react-router-dom';
+import { PageComponentType } from '@/lib/types'
+import './style.css'
+
+// Define the TypeScript interfaces
+export const ${changeCase.pascalCase(nameOfThing)}Page: PageComponentType = () => {
+
+    // const { ${changeCase.camelCase(nameOfThing)}Id } = useParams()
+
+    return (
+      <>
+        <h1>${changeCase.capitalCase(nameOfThing)}</h1>
+      </>
+    );
+  }
+
+  ${changeCase.pascalCase(nameOfThing)}Page.path = "${urlPath}"
+`
+
+}
+
+
 export const atomTemplate = (componentName) => componentTemplate(componentName)
 export const moleculeTemplate = (componentName) => componentTemplate(componentName)
 export const organismTemplate = (componentName) => componentTemplate(componentName)
