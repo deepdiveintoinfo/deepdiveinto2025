@@ -29,7 +29,7 @@ export const Content = () => <>
       </div>
     </div>
     <p className="text-lg xs:text-sm xs:max-w-md text-center text-muted-foreground mt-4">
-        Donald Trump's connection to <a href="https://static.project2025.org/2025_MandateForLeadership_FULL.pdf">Project 2025's Mandate for Leadership</a> is clear in his speeches, even if he doesn't say he's fully behind it. The project is a plan to reshape the government in a conservative way by placing loyal supporters in important positions and making federal agencies smaller. <a href="https://www.snopes.com/fact-check/trump-video-project-2025-colossal-mandate/" className="text-blue-500 underline"> In a recent speech at The Heritage Foundation</a>, Trump spoke excitedly about the need for a strong "mandate," fitting with the goals of Project 2025's <i>Mandate</i> for Leadership.
+        Donald Trump's connection to <a href="https://static.project2025.org/2025_MandateForLeadership_FULL.pdf">Project 2025's Mandate for Leadership</a> is clear in his speeches, even if he doesn't say he's fully behind it. The project is a plan to reshape the government in a conservative way by placing loyal supporters in important positions and making federal agencies smaller. <a href="https://www.snopes.com/fact-check/trump-video-project-2025-colossal-mandate/" className="text-blue-500 underline"> In a recent speech at The Heritage Foundation</a>, Trump spoke excitedly about laying the groundwork for a strong "mandate," fitting with the goals of Project 2025's <i>Mandate</i> for Leadership.
     </p>
     {/* Buttons */}
     <div className="mt-8 gap-3 flex justify-center">
