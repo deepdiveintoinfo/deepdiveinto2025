@@ -6,14 +6,18 @@ import {
   RouterProvider
 } from 'react-router-dom';
 import * as pages from './components/Pages'
+import { PageWrapper } from './components/Templates/PageWrapper';
+import { TooltipProvider } from '@radix-ui/react-tooltip';
 
 /**
  * Router documentation https://reactrouter.com/en/main/routers/create-hash-router
  */
-const router = createHashRouter(Object.entries(pages).map(([_, Element]) => {
+const router = createHashRouter(Object.entries(pages).map(([path, Element]) => {
   return ({
     ...Element,
-    element: <Element />,
+    element: <PageWrapper>
+      <Element />
+    </PageWrapper>,
   })
 }), {
 });
@@ -21,9 +25,11 @@ const router = createHashRouter(Object.entries(pages).map(([_, Element]) => {
 
 function App() {
   return (
-    <Theme className='flex justify-center' accentColor="crimson" grayColor="sand" radius="large" scaling="100%" style={{width: '100%', overflow: 'hidden'}}>
-      <RouterProvider router={router} />
-    </Theme>
+    <TooltipProvider>
+      <Theme className='flex justify-center' accentColor="crimson" grayColor="sand" radius="large" scaling="100%" style={{width: '100%', overflow: 'hidden'}}>
+          <RouterProvider router={router} />
+      </Theme>
+    </TooltipProvider>
   )
 }
 

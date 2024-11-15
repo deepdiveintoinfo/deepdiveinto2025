@@ -14,7 +14,7 @@ const nth = (d: number) => {
 };
 
 // Define the TypeScript interfaces
-export const ReadingLevelPage: PageComponentType = () => {
+export const ReadPage: PageComponentType = () => {
 
     const { chapterId, readingLevel } = useParams()
     // const Content = useMdxContent("project2025/chapter/" + chapterId + "/reading-level/" + readingLevel + ".mdx");
@@ -26,4 +26,4 @@ export const ReadingLevelPage: PageComponentType = () => {
     );
   }
 
-  ReadingLevelPage.path = "/project2025/chapter/:chapterId/reading-level/:readingLevel"
+  ReadPage.path = "/project2025/chapter/:chapterId/read/:level"

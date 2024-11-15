@@ -1,4 +1,3 @@
-import { useEffect } from 'react'
 import { useParams } from 'react-router-dom';
 import { useChapter } from '@/hooks/useChapter';
 import { PageComponentType } from '@/lib/types'
@@ -8,7 +7,9 @@ import { PageComponentType } from '@/lib/types'
 export const ChapterPage: PageComponentType = () => {
 
     const { chapterNumber } = useParams()
-    const ChapterData: { ChapterContent?: string } = useChapter(chapterNumber ?? '');
+    const { 
+      ChapterContent, 
+    }: { ChapterContent?: string } = useChapter(chapterNumber ?? '');
     // const chapterContent = import('' + chapterNumber + '.mdx')
   
     // if (loading) return <p>Loading...</p>;
@@ -16,10 +17,10 @@ export const ChapterPage: PageComponentType = () => {
     return (
       <div>
         <h1>Chapter {chapterNumber}</h1>
-        {ChapterData.ChapterContent && <ChapterData.ChapterContent />}
+        {ChapterContent && <ChapterContent />}
       </div>
     );
   }
 
-  ChapterPage.path = "/project2025/chapter/:chapterNumber/content"
+  ChapterPage.path = "/project2025/chapter/:chapterNumber"
   // ChapterPage.path = "/document/section/:sectionNumber/chapter/:chapterNumber/subsection/:subsectionNumber/paragraph/:paragraphNumber/line/:lineNumber"

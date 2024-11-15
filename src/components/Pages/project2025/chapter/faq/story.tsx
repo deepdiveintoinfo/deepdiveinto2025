@@ -3,7 +3,7 @@ import { FAQPage } from '.';
 
 const meta: Meta<typeof FAQPage> = {
   component: FAQPage,
-  title: "Components/Pages/chapter//faq",
+  title: "Components/Pages/chapter/faq",
 };
 
 export default meta;

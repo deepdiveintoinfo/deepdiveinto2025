@@ -1,16 +1,19 @@
 import {
+  ChevronLeft,
   Home,
   LineChart,
   Package,
   Package2,
   PanelLeft,
+  PlusCircle,
   Search,
   Settings,
   ShoppingCart,
+  Upload,
   Users2,
-  StarIcon
 } from "lucide-react"
 
+import { Badge } from "@/components/ThirdParty/ShadCn"
 import {
   Breadcrumb,
   BreadcrumbItem,
@@ -21,6 +24,14 @@ import {
 } from "@/components/ThirdParty/ShadCn"
 import { Button } from "@/components/ThirdParty/ShadCn"
 import {
+  Card,
+  CardContent,
+  CardDescription,
+  CardFooter,
+  CardHeader,
+  CardTitle,
+} from "@/components/ThirdParty/ShadCn"
+import {
   DropdownMenu,
   DropdownMenuContent,
   DropdownMenuItem,
@@ -29,7 +40,28 @@ import {
   DropdownMenuTrigger,
 } from "@/components/ThirdParty/ShadCn"
 import { Input } from "@/components/ThirdParty/ShadCn"
+import { Label } from "@/components/ThirdParty/ShadCn"
+import {
+  Select,
+  SelectContent,
+  SelectItem,
+  SelectTrigger,
+  SelectValue,
+} from "@/components/ThirdParty/ShadCn"
 import { Sheet, SheetContent, SheetTrigger } from "@/components/ThirdParty/ShadCn"
+import {
+  Table,
+  TableBody,
+  TableCell,
+  TableHead,
+  TableHeader,
+  TableRow,
+} from "@/components/ThirdParty/ShadCn"
+import { Textarea } from "@/components/ThirdParty/ShadCn"
+import {
+  ToggleGroup,
+  ToggleGroupItem,
+} from "@/components/ThirdParty/ShadCn"
 import {
   Tooltip,
   TooltipContent,
@@ -46,8 +78,8 @@ export const DashboardPage7: PageComponentType = () => {
             href="#"
             className="group flex h-9 w-9 shrink-0 items-center justify-center gap-2 rounded-full bg-primary text-lg font-semibold text-primary-foreground md:h-8 md:w-8 md:text-base"
           >
-            <StarIcon className="h-4 w-4 transition-all fill-white group-hover:scale-110" />
-            <span className="sr-only">Deep Dive Into 2025</span>
+            <Package2 className="h-4 w-4 transition-all group-hover:scale-110" />
+            <span className="sr-only">Acme Inc</span>
           </a>
           <Tooltip>
             <TooltipTrigger asChild>
@@ -56,10 +88,10 @@ export const DashboardPage7: PageComponentType = () => {
                 className="flex h-9 w-9 items-center justify-center rounded-lg text-muted-foreground transition-colors hover:text-foreground md:h-8 md:w-8"
               >
                 <Home className="h-5 w-5" />
-                <span className="sr-only">Deep Dive Into 2025</span>
+                <span className="sr-only">Dashboard</span>
               </a>
             </TooltipTrigger>
-            <TooltipContent side="right">Home</TooltipContent>
+            <TooltipContent side="right">Dashboard</TooltipContent>
           </Tooltip>
           <Tooltip>
             <TooltipTrigger asChild>
@@ -148,28 +180,28 @@ export const DashboardPage7: PageComponentType = () => {
                   className="flex items-center gap-4 px-2.5 text-muted-foreground hover:text-foreground"
                 >
                   <Home className="h-5 w-5" />
-                  DeepDiveInto2025
+                  Dashboard
                 </a>
                 <a
                   href="#"
                   className="flex items-center gap-4 px-2.5 text-muted-foreground hover:text-foreground"
                 >
                   <ShoppingCart className="h-5 w-5" />
-                  Project 2025
+                  Orders
                 </a>
                 <a
                   href="#"
                   className="flex items-center gap-4 px-2.5 text-foreground"
                 >
                   <Package className="h-5 w-5" />
-                  Chapter 1
+                  Products
                 </a>
                 <a
                   href="#"
                   className="flex items-center gap-4 px-2.5 text-muted-foreground hover:text-foreground"
                 >
                   <Users2 className="h-5 w-5" />
-                  Read
+                  Customers
                 </a>
                 <a
                   href="#"
@@ -185,24 +217,18 @@ export const DashboardPage7: PageComponentType = () => {
             <BreadcrumbList>
               <BreadcrumbItem>
                 <BreadcrumbLink asChild>
-                  <a href="#">DeepDiveInto2025</a>
+                  <a href="#">Dashboard</a>
                 </BreadcrumbLink>
               </BreadcrumbItem>
               <BreadcrumbSeparator />
               <BreadcrumbItem>
                 <BreadcrumbLink asChild>
-                  <a href="#">Project 2025</a>
+                  <a href="#">Products</a>
                 </BreadcrumbLink>
               </BreadcrumbItem>
               <BreadcrumbSeparator />
               <BreadcrumbItem>
-                <BreadcrumbLink asChild>
-                  <a href="#">Chapter 1</a>
-                </BreadcrumbLink>
-              </BreadcrumbItem>
-              <BreadcrumbSeparator />
-              <BreadcrumbItem>
-                <BreadcrumbPage>Summary</BreadcrumbPage>
+                <BreadcrumbPage>Edit Product</BreadcrumbPage>
               </BreadcrumbItem>
             </BreadcrumbList>
           </Breadcrumb>
@@ -240,7 +266,7 @@ export const DashboardPage7: PageComponentType = () => {
             </DropdownMenuContent>
           </DropdownMenu>
         </header>
-        {/* <main className="grid flex-1 items-start gap-4 p-4 sm:px-6 sm:py-0 md:gap-8">
+        <main className="grid flex-1 items-start gap-4 p-4 sm:px-6 sm:py-0 md:gap-8">
           <div className="mx-auto grid max-w-[59rem] flex-1 auto-rows-max gap-4">
             <div className="flex items-center gap-4">
               <Button variant="outline" size="icon" className="h-7 w-7">
@@ -568,8 +594,7 @@ export const DashboardPage7: PageComponentType = () => {
               <Button size="sm">Save Product</Button>
             </div>
           </div>
-        </main> */}
-        <main>Page Content</main>
+        </main>
       </div>
     </div>
   )

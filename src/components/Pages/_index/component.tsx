@@ -1,21 +1,24 @@
 import { PageComponentType } from '@/lib/types'
-import { HeroSection } from '@/components/ThirdParty/UiBlocks';
+import { HeroSection as UiBlocksHeroSection } from '@/components/ThirdParty/UiBlocks';
 import { Button } from "@/components/ThirdParty/ShadCn/Button";
 import { ChevronRightIcon } from "lucide-react";
 import { IconSection } from '@/components/ThirdParty/UiBlocks/IconSection';
 import { Link } from 'react-router-dom';
+import {
+  AlertTriangleIcon, BookOpenIcon, UsersIcon, CompassIcon,
+} from "lucide-react";
 
-export const Content = () => <>
+export const HeroSection = () => <>
 {/* Hero */}
   <div className="container relative py-0 lg:py-0">
     {/* Announcement Banner */}
 
     {/* End Announcement Banner */}
     {/* Title */}
-    <div className="mt-12 mb-5 max-w-2xl text-center mx-auto">
-      <h1 className="scroll-m-20 text-4xl font-happy-monkey-regular tracking-tight lg:text-5xl">
+    <div className="mt-8 mb-5 max-w-2xl text-center mx-auto">
+      {/* <h1 className="scroll-m-20 text-4xl font-happy-monkey-regular tracking-tight lg:text-5xl">
         Deep Dive Into 2025
-      </h1>
+      </h1> */}
     </div>
     {/* End Title */}
     <div className="mt-0 max-w-md lg:max-w-[550px] mx-auto text-center">
@@ -26,10 +29,11 @@ export const Content = () => <>
           title="YouTube video player"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
         ></iframe>
+        <small>Donald Trump endorses a 'mandate' from The Heritage Foundation. Following this endorsement, The Heritage Foundation released their Mandate for Leadership, also known as Project 2025.</small>
       </div>
     </div>
     <p className="text-lg xs:text-sm xs:max-w-md text-center text-muted-foreground mt-4">
-        Donald Trump's connection to <a href="https://static.project2025.org/2025_MandateForLeadership_FULL.pdf">Project 2025's Mandate for Leadership</a> is clear in his speeches, even if he doesn't say he's fully behind it. The project is a plan to reshape the government in a conservative way by placing loyal supporters in important positions and making federal agencies smaller. <a href="https://www.snopes.com/fact-check/trump-video-project-2025-colossal-mandate/" className="text-blue-500 underline"> In a recent speech at The Heritage Foundation</a>, Trump spoke excitedly about laying the groundwork for a strong "mandate," fitting with the goals of Project 2025's <i>Mandate</i> for Leadership.
+      Project 2025, or the Mandate for Leadership, outlines a vision for significant government restructuring and policy changes. Our mission is to critically analyze this document, uncovering its potential risks, impacts, and underlying motives. By collaborating on this analysis, we aim to create a transparent, accessible resource to inform and prepare communities for the possible implications of these proposals.
     </p>
     {/* Buttons */}
     <div className="mt-8 gap-3 flex justify-center">
@@ -89,14 +93,80 @@ export const Content = () => <>
     // if (error) return <p>Error : {error.message}</p>;
     return (
       <>
-      <div className='font-komika-text'>
-        <HeroSection.SimpleCentered className='relative'>
-          <Content />
-        </HeroSection.SimpleCentered>
-        <IconSection.CircleIconsCenterAligned />
+      <div className='font-komika-text grid justify-center'>
+          <HeroSection />
+          <GoalsSection />
       </div>
       </>
     );
   }
 
   IndexPage.path = "/"
+
+  export function GoalsSection() {
+    return (
+      <>
+        {/* Icon Blocks */}
+        <div className="container py-24 lg:py-32">
+          <h2 className='text-center md:text-left'>Goals</h2>
+
+          <div className="grid sm:grid-cols-2 lg:grid-cols-4 items-top gap-12">
+            {/* Icon Block */}
+            <div className="text-center">
+              <div className="flex justify-center items-center w-12 h-12 bg-primary border rounded-full mx-auto">
+                <AlertTriangleIcon className="flex-shrink-0 w-5 h-5 text-primary-foreground" />
+              </div>
+              <div className="mt-3">
+                <h3 className="text-lg font-semibold ">Identify Risks and Implications</h3>
+                <p className="mt-1 text-muted-foreground">
+                  Analyze each chapter to uncover potential dangers, biases, and impacts on various communities.
+                </p>
+              </div>
+            </div>
+            {/* End Icon Block */}
+            {/* Icon Block */}
+            <div className="text-center">
+              <div className="flex justify-center items-center w-12 h-12 bg-primary border rounded-full mx-auto">
+                <BookOpenIcon className="flex-shrink-0 w-5 h-5 text-primary-foreground" />
+              </div>
+              <div className="mt-3">
+                <h3 className="text-lg font-semibold ">Simplify and Clarify Content</h3>
+                <p className="mt-1 text-muted-foreground">
+                  Break down complex language and concepts to make the document accessible and understandable for everyone.
+                </p>
+              </div>
+            </div>
+            {/* End Icon Block */}
+            {/* Icon Block */}
+            <div className="text-center">
+              <div className="flex justify-center items-center w-12 h-12 bg-primary border rounded-full mx-auto">
+                <UsersIcon className="flex-shrink-0 w-5 h-5 text-primary-foreground" />
+              </div>
+              <div className="mt-3">
+                <h3 className="text-lg font-semibold ">Encourage Collaborative Analysis</h3>
+                <p className="mt-1 text-muted-foreground">
+                  Foster open, public discussions to gather diverse perspectives and critical insights into the document’s proposals.
+                </p>
+              </div>
+            </div>
+            {/* End Icon Block */}
+            {/* Icon Block */}
+            <div className="text-center">
+              <div className="flex justify-center items-center w-12 h-12 bg-primary border rounded-full mx-auto">
+                <CompassIcon className="flex-shrink-0 w-5 h-5 text-primary-foreground" />
+              </div>
+              <div className="mt-3">
+                <h3 className="text-lg font-semibold ">Prepare for Real-World Outcomes</h3>
+                <p className="mt-1 text-muted-foreground">
+                Equip readers and communities with knowledge to anticipate and respond to the possible effects of these policies.
+                </p>
+              </div>
+            </div>
+            {/* End Icon Block */}
+          </div>
+        </div>
+        {/* End Icon Blocks */}
+      </>
+    );
+  }
+  

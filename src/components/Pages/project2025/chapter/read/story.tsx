@@ -1,15 +1,15 @@
 import type { Meta, StoryObj } from '@storybook/react';
 
-import { ReadingLevelPage } from '.';
+import { ReadPage } from '.';
 
 
-const meta: Meta<typeof ReadingLevelPage> = {
-  component: ReadingLevelPage,
+const meta: Meta<typeof ReadPage> = {
+  component: ReadPage,
   tags: ["autodoc"]
 };
 
 export default meta;
-type Story = StoryObj<typeof ReadingLevelPage>;
+type Story = StoryObj<typeof ReadPage>;
 
 export const Default: Story = {
   args: {
