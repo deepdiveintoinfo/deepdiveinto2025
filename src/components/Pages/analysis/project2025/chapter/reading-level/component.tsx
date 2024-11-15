@@ -1,5 +1,8 @@
 import { useParams } from 'react-router-dom';
 import { PageComponentType } from '@/lib/types'
+
+// import { useMdxContent } from '@/hooks/useMdxContent';
+
 const nth = (d: number) => {
   if (d > 3 && d < 21) return 'th';
   switch (d % 10) {
@@ -11,9 +14,10 @@ const nth = (d: number) => {
 };
 
 // Define the TypeScript interfaces
-export const RewritesPage: PageComponentType = () => {
+export const ReadingLevelPage: PageComponentType = () => {
 
     const { chapterId, readingLevel } = useParams()
+    // const Content = useMdxContent("project2025/chapter/" + chapterId + "/reading-level/" + readingLevel + ".mdx");
 
     return (
       <>
@@ -22,4 +26,4 @@ export const RewritesPage: PageComponentType = () => {
     );
   }
 
-  RewritesPage.path = "/analysis/chapter/:chapterId/rewrites/:readingLevel"
+  ReadingLevelPage.path = "/project2025/chapter/:chapterId/reading-level/:readingLevel"

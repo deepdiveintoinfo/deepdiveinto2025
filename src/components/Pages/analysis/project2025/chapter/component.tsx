@@ -1,3 +1,4 @@
+import { useEffect } from 'react'
 import { useParams } from 'react-router-dom';
 import { useChapter } from '@/hooks/useChapter';
 import { PageComponentType } from '@/lib/types'
@@ -7,25 +8,18 @@ import { PageComponentType } from '@/lib/types'
 export const ChapterPage: PageComponentType = () => {
 
     const { chapterNumber } = useParams()
-    const ChapterComponent = useChapter();
-
+    const ChapterData: { ChapterContent?: string } = useChapter(chapterNumber ?? '');
     // const chapterContent = import('' + chapterNumber + '.mdx')
-  
-    // useEffect(() => {
-    //   if (loading) return;
-    //   if (error) return;
-    //   console.log(data)
-    // }, [loading, error, data]);
   
     // if (loading) return <p>Loading...</p>;
     // if (error) return <p>Error : {error.message}</p>;
     return (
       <div>
         <h1>Chapter {chapterNumber}</h1>
-        {ChapterComponent && <ChapterComponent />}
+        {ChapterData.ChapterContent && <ChapterData.ChapterContent />}
       </div>
     );
   }
 
-  ChapterPage.path = "/analysis/chapter/:chapterNumber"
+  ChapterPage.path = "/project2025/chapter/:chapterNumber/content"
   // ChapterPage.path = "/document/section/:sectionNumber/chapter/:chapterNumber/subsection/:subsectionNumber/paragraph/:paragraphNumber/line/:lineNumber"

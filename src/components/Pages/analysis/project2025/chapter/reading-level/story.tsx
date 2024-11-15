@@ -1,15 +1,15 @@
 import type { Meta, StoryObj } from '@storybook/react';
 
-import { RewritesPage } from '.';
+import { ReadingLevelPage } from '.';
 
 
-const meta: Meta<typeof RewritesPage> = {
-  component: RewritesPage,
+const meta: Meta<typeof ReadingLevelPage> = {
+  component: ReadingLevelPage,
   tags: ["autodoc"]
 };
 
 export default meta;
-type Story = StoryObj<typeof RewritesPage>;
+type Story = StoryObj<typeof ReadingLevelPage>;
 
 export const Default: Story = {
   args: {

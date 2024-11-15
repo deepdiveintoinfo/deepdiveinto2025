@@ -1,5 +1,4 @@
 import { useParams } from 'react-router-dom';
-import { useChapter } from '@/hooks/useChapter';
 import { PageComponentType } from '@/lib/types'
 import './style.css'
 
@@ -7,12 +6,11 @@ import './style.css'
 export const FAQPage: PageComponentType = () => {
 
     const { chapterNumber } = useParams()
-    const ChapterContent = useChapter();
+    // const MdxContent = useMdxContent(`@/lib/document/chapters/${chapterNumber}/content.mdx`);
 
     return (
       <>
         <h1>Chapter {chapterNumber}</h1>
-        {ChapterContent && <ChapterContent />}
       </>
     );
   }

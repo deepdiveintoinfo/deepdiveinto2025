@@ -1,17 +1,16 @@
 import { useEffect, useState } from "react";
-import { useParams } from 'react-router-dom';
+import project2025 from '@/lib/data/project2025'
 
-export const useChapter = () => {
-    const [ChapterComponent, setChapterComponent] = useState<React.ComponentType | null>(null);
-    const { chapterNumber } = useParams();
+export const useChapter = (chapterNumber:string) => {
+    const [content, setContent] = useState({});
+
     useEffect(() => {
-        import(`@/lib/document/chapters/${chapterNumber}/content.mdx`).then((module) => {
-            setChapterComponent(() => module.default);
-        });
+        setContent(() => project2025[parseInt(chapterNumber)]);
         return () => {
             console.log("Chapter unmounted");
         };
-    });
 
-    return ChapterComponent;
+    }, [chapterNumber]);
+
+    return content;
 }
