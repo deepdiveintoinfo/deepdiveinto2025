@@ -1,0 +1,56 @@
+
+:root {
+  --background: 210 100% 98%; /* Very light off-white */
+  --foreground: 0 0% 0%; /* Pure black */
+  --card: 210 15% 95%; /* Very light gray */
+  --card-foreground: 0 0% 10%; /* Very dark gray/black */
+  --popover: 210 100% 98%; /* Very light off-white */
+  --popover-foreground: 0 0% 0%; /* Pure black */
+  --primary: 220 80% 40%; /* Strong dark blue */
+  --primary-foreground: 0 0% 100%; /* Pure white */
+  --secondary: 0 70% 50%; /* Bold patriotic red */
+  --secondary-foreground: 0 0% 100%; /* Pure white */
+  --muted: 210 20% 90%; /* Light grayish blue */
+  --muted-foreground: 0 0% 20%; /* Dark gray */
+  --accent: 50 15% 50%; /* Muted golden yellow */
+  --accent-foreground: 0 0% 10%; /* Dark gray */
+  --destructive: 0 80% 50%; /* Deep red */
+  --destructive-foreground: 0 0% 100%; /* Pure white */
+  --border: 0 0% 20%; /* Dark gray */
+  --input: 0 0% 18%; /* Medium gray */
+  --ring: 220 80% 40%; /* Strong dark blue */
+  --radius: 0.5rem;
+  --chart-1: 0 70% 50%; /* Patriotic red */
+  --chart-2: 220 80% 40%; /* Dark blue */
+  --chart-3: 120 60% 40%; /* Dark green for contrast */
+  --chart-4: 50 30% 60%; /* Muted yellow */
+  --chart-5: 30 60% 50%; /* Muted orange */
+}
+
+.dark {
+  --background: 220 20% 12%; /* Very dark navy blue */
+  --foreground: 0 0% 90%; /* Light gray */
+  --card: 220 20% 15%; /* Dark navy */
+  --card-foreground: 0 0% 90%; /* Very light gray */
+  --popover: 220 20% 12%; /* Very dark navy blue */
+  --popover-foreground: 0 0% 90%; /* Light gray */
+  --primary: 220 70% 30%; /* Darker blue */
+  --primary-foreground: 0 0% 100%; /* Pure white */
+  --secondary: 0 80% 40%; /* Dark red */
+  --secondary-foreground: 0 0% 100%; /* Pure white */
+  --muted: 210 15% 25%; /* Dark muted blue-gray */
+  --muted-foreground: 0 0% 60%; /* Light gray */
+  --accent: 50 20% 40%; /* Muted dark yellow */
+  --accent-foreground: 0 0% 90%; /* Very light gray */
+  --destructive: 0 80% 35%; /* Dark red */
+  --destructive-foreground: 0 0% 100%; /* Pure white */
+  --border: 0 0% 20%; /* Dark gray */
+  --input: 0 0% 18%; /* Medium gray */
+  --ring: 220 70% 30%; /* Darker blue */
+  --radius: 0.5rem;
+  --chart-1: 0 80% 40%; /* Dark patriotic red */
+  --chart-2: 220 70% 30%; /* Dark blue */
+  --chart-3: 120 60% 40%; /* Dark green for contrast */
+  --chart-4: 50 20% 40%; /* Muted dark yellow */
+  --chart-5: 30 60% 45%; /* Muted orange */
+}

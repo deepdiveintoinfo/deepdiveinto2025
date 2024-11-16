@@ -6,16 +6,17 @@ import {
   RouterProvider
 } from 'react-router-dom';
 import * as pages from './components/Pages'
-import { PageWrapper } from './components/Templates/PageWrapper';
+import { PageWrapper, IndexWrapper } from './components/Templates/wrappers';
 import { TooltipProvider } from '@radix-ui/react-tooltip';
 
 /**
  * Router documentation https://reactrouter.com/en/main/routers/create-hash-router
  */
 const router = createHashRouter(Object.entries(pages).map(([path, Element]) => {
+  console.log(path)
   return ({
     ...Element,
-    element: <PageWrapper>
+    element: path == 'IndexPage' ? <IndexWrapper><Element /></IndexWrapper> :<PageWrapper>
       <Element />
     </PageWrapper>,
   })

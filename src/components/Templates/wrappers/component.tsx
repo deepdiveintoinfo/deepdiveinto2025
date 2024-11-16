@@ -248,3 +248,46 @@ import { ReactNode } from "react"
       </div>
     )
   }
+
+  export const IndexWrapper = ({ children }: { children: ReactNode }) => {
+    return (
+      <div className="flex flex-col items-center justify-start h-full w-full bg-gray-50">
+        <header className="w-full bg-primary text-primary-foreground py-4 shadow-md">
+          <nav className="max-w-5xl mx-auto flex justify-between items-center px-4 lg:px-8">
+            <a href="/" className="text-2xl font-display font-bold tracking-wide">
+              Deep Dive Into 2025
+            </a>
+            <ul className="flex space-x-6 text-sm font-medium">
+              <li>
+                <a href="#goals" className="hover:underline">
+                  Goals
+                </a>
+              </li>
+              <li>
+                <a href="#why-this-matters" className="hover:underline">
+                  Why This Matters
+                </a>
+              </li>
+              <li>
+                <a href="#how-you-can-help" className="hover:underline">
+                  How to Help
+                </a>
+              </li>
+              <li>
+                <a href="#chapters" className="hover:underline">
+                  Chapters
+                </a>
+              </li>
+            </ul>
+          </nav>
+        </header>
+        <main className="w-full max-w-5xl px-4 lg:px-8 mt-8">{children}</main>
+        <footer className="w-full bg-secondary text-secondary-foreground py-4 mt-16">
+          <div className="max-w-5xl mx-auto text-center text-sm">
+            © {new Date().getFullYear()} Deep Dive Into 2025. All rights reserved.
+          </div>
+        </footer>
+      </div>
+    );
+  };
+  
