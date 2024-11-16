@@ -87,4 +87,25 @@
     --chart-4: 50 20% 40%; /* Muted dark yellow */
     --chart-5: 30 60% 45%; /* Muted orange */
   }
-  
+
+:root {
+  --sidebar-background: 210 15% 95%; /* USWDS gray-lighter */
+  --sidebar-foreground: 210 20% 25%; /* USWDS gray-dark */
+  --sidebar-primary: 210 100% 36%; /* USWDS primary-darkest */
+  --sidebar-primary-foreground: 0 0% 100%; /* White */
+  --sidebar-accent: 210 15% 85%; /* USWDS gray-light */
+  --sidebar-accent-foreground: 210 20% 25%; /* USWDS gray-dark */
+  --sidebar-border: 210 15% 90%; /* USWDS gray-lighter */
+  --sidebar-ring: 220 80% 40%; /* USWDS primary ring color */
+}
+
+.dark {
+  --sidebar-background: 220 20% 12%; /* USWDS very dark navy */
+  --sidebar-foreground: 210 15% 85%; /* USWDS gray-light */
+  --sidebar-primary: 210 100% 36%; /* USWDS primary-darkest */
+  --sidebar-primary-foreground: 0 0% 100%; /* White */
+  --sidebar-accent: 220 20% 15%; /* USWDS dark navy */
+  --sidebar-accent-foreground: 210 15% 85%; /* USWDS gray-light */
+  --sidebar-border: 220 20% 15%; /* USWDS dark navy */
+  --sidebar-ring: 220 70% 30%; /* USWDS primary ring color (darker variant) */
+}

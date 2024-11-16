@@ -16,9 +16,7 @@ const router = createHashRouter(Object.entries(pages).map(([path, Element]) => {
   console.log(path)
   return ({
     ...Element,
-    element: path == 'IndexPage' ? <IndexWrapper><Element /></IndexWrapper> :<PageWrapper>
-      <Element />
-    </PageWrapper>,
+    element: path == 'IndexPage' ? <IndexWrapper><Element /></IndexWrapper> : <Element />
   })
 }), {
 });
