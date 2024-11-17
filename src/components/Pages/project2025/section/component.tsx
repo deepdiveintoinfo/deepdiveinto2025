@@ -1,6 +1,8 @@
 // import { useEffect } from 'react';
 // import { gql, useQuery } from '@apollo/client'
 import { PageComponentType } from '@/lib/types'
+import { useParams } from 'react-router-dom';
+import * as changeCase from 'change-case'
 // import Content from './content/_index.mdx'
 // import { HeroSection } from '@/components/ThirdParty/UiBlocks';
 // import { Button } from "@/components/ThirdParty/ShadCn/Button";
@@ -27,21 +29,16 @@ import { PageComponentType } from '@/lib/types'
 // Define the TypeScript interfaces
 export const SectionPage: PageComponentType = () => {
     // const { loading, error, data } = useQuery(GET_PEOPLE);
-  
-    // useEffect(() => {
-    //   if (loading) return;
-    //   if (error) return;
-    //   console.log(data)
-    // }, [loading, error, data]);
-  
-    // if (loading) return <p>Loading...</p>;
-    // if (error) return <p>Error : {error.message}</p>;
-    return (
-      <>
-      <h1>section page</h1>
+    const { sectionName } = useParams();
 
-      </>
+    // const { content } = useChapter(sectionName, chapterName);
+
+    return (
+      <div>
+        <h1>{changeCase.capitalCase(sectionName || '')}</h1>
+        {/* {ChapterContent && <ChapterContent />} */}
+      </div>
     );
   }
 
-  SectionPage.path = "/analysis/section/:sectionName"
+SectionPage.path = "/project2025/:sectionName"

@@ -8,15 +8,15 @@ import {
 import * as pages from './components/Pages'
 import { PageWrapper, IndexWrapper } from './components/Templates/wrappers';
 import { TooltipProvider } from '@radix-ui/react-tooltip';
+import { SidebarWrapper } from './components/Templates/wrappers/SidebarWrapper';
 
 /**
  * Router documentation https://reactrouter.com/en/main/routers/create-hash-router
  */
 const router = createHashRouter(Object.entries(pages).map(([path, Element]) => {
-  console.log(path)
   return ({
     ...Element,
-    element: path == 'IndexPage' ? <IndexWrapper><Element /></IndexWrapper> : <Element />
+    element: path == 'IndexPage' ? <IndexWrapper><Element /></IndexWrapper> : <SidebarWrapper><Element /></SidebarWrapper>
   })
 }), {
 });

@@ -20,7 +20,9 @@ import {
 
 export function NavMain({
   items,
+  title,
 }: {
+  title: string
   items: {
     title: string
     url: string
@@ -32,36 +34,39 @@ export function NavMain({
     }[]
   }[]
 }) {
+  
   return (
     <SidebarGroup>
-      <SidebarGroupLabel>Platform</SidebarGroupLabel>
+      <SidebarGroupLabel>{title}</SidebarGroupLabel>
       <SidebarMenu>
         {items.map((item) => (
           <Collapsible
             key={item.title}
             asChild
-            defaultOpen={item.isActive}
+            defaultOpen = {`/${window.location.hash}`.startsWith(item.url) ? true : false}
             className="group/collapsible"
           >
-            <SidebarMenuItem>
+            <SidebarMenuItem >
               <CollapsibleTrigger asChild>
-                <SidebarMenuButton tooltip={item.title}>
+                <SidebarMenuButton  tooltip={item.title} isActive={`/${window.location.hash}`.startsWith(item.url) ? true : false}>
                   {item.icon && <item.icon />}
-                  <span>{item.title}</span>
+                  <span className="inline-block ml-2">{item.title}</span>
                   <ChevronRight className="ml-auto transition-transform duration-200 group-data-[state=open]/collapsible:rotate-90" />
                 </SidebarMenuButton>
               </CollapsibleTrigger>
               <CollapsibleContent>
                 <SidebarMenuSub>
-                  {item.items?.map((subItem) => (
-                    <SidebarMenuSubItem key={subItem.title}>
-                      <SidebarMenuSubButton asChild>
-                        <a href={subItem.url}>
-                          <span>{subItem.title}</span>
-                        </a>
-                      </SidebarMenuSubButton>
-                    </SidebarMenuSubItem>
-                  ))}
+                  {item.items?.map((subItem) => {
+                    return (
+                      <SidebarMenuSubItem key={subItem.title}>
+                        <SidebarMenuSubButton asChild isActive={`/${window.location.hash}`.startsWith(subItem.url) ? true : false}>
+                          <a href={subItem.url}>
+                            <span>{subItem.title}</span>
+                          </a>
+                        </SidebarMenuSubButton>
+                      </SidebarMenuSubItem>
+                    )}
+                  )}
                 </SidebarMenuSub>
               </CollapsibleContent>
             </SidebarMenuItem>

@@ -1,4 +1,5 @@
-import { PageComponentType } from '@/lib/types'
+import { ReactNode } from "react"
+import { useLocation } from "react-router-dom"
 import { AppSidebar } from "./app-sidebar"
 import {
   Breadcrumb,
@@ -14,12 +15,13 @@ import {
   SidebarProvider,
   SidebarTrigger,
 } from "@/components/ThirdParty/ShadCn/Sidebar"
+import * as changeCase from 'change-case'
 
 // Define the TypeScript interfaces
-export const SidebarPage: PageComponentType = () => {
-
-    // const { sidebarId } = useParams()
-
+export const SidebarWrapper = ({children}: {children: ReactNode}) => {
+    const location = useLocation();
+    const pathNameChunks = location.pathname.split('/');
+    const currentChunk = pathNameChunks.pop();
     return (
       <SidebarProvider>
         <AppSidebar />
@@ -30,30 +32,29 @@ export const SidebarPage: PageComponentType = () => {
               <Separator orientation="vertical" className="mr-2 h-4" />
               <Breadcrumb>
                 <BreadcrumbList>
-                  <BreadcrumbItem className="hidden md:block">
-                    <BreadcrumbLink href="#">
-                      Building Your Application
-                    </BreadcrumbLink>
-                  </BreadcrumbItem>
-                  <BreadcrumbSeparator className="hidden md:block" />
+                  
+                  {pathNameChunks.map((chunk, index) => <>
+                      <BreadcrumbItem key={`chunk-${index}}`} className="hidden md:block">
+                      <BreadcrumbLink href={`/#${pathNameChunks.slice(0, index+1).join('/')}`}>
+                          {changeCase.capitalCase(chunk || '')}
+                        </BreadcrumbLink>
+                      </BreadcrumbItem>
+                      <BreadcrumbSeparator />
+
+                    </>
+                  )}
                   <BreadcrumbItem>
-                    <BreadcrumbPage>Data Fetching</BreadcrumbPage>
+                    <BreadcrumbPage>{changeCase.capitalCase(currentChunk || '')}</BreadcrumbPage>
                   </BreadcrumbItem>
                 </BreadcrumbList>
               </Breadcrumb>
             </div>
           </header>
           <div className="flex flex-1 flex-col gap-4 p-4 pt-0">
-            <div className="grid auto-rows-min gap-4 md:grid-cols-3">
-              <div className="aspect-video rounded-xl bg-muted/50" />
-              <div className="aspect-video rounded-xl bg-muted/50" />
-              <div className="aspect-video rounded-xl bg-muted/50" />
-            </div>
-            <div className="min-h-[100vh] flex-1 rounded-xl bg-muted/50 md:min-h-min" />
+            {children || <div className="min-h-[100vh] flex-1 rounded-xl bg-muted/50 md:min-h-min" />}
+
           </div>
         </SidebarInset>
       </SidebarProvider>
     )
   }
-
-  SidebarPage.path = "/sidebar"
