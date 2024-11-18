@@ -1,15 +1,62 @@
-## Critical Summary
-The chapter advocates for centralizing power within the White House Office, aiming to streamline decision-making and enhance efficiency. However, this approach risks undermining established checks and balances, potentially leading to an overconcentration of authority in the executive branch.
 
----
+import { Card, CardHeader, CardContent } from "@/components/ThirdParty/ShadCn/Card";
+import { Alert, AlertTitle, AlertDescription } from "@/components/ThirdParty/ShadCn/Alert";
+import { Accordion, AccordionItem, AccordionTrigger, AccordionContent } from "@/components/ThirdParty/ShadCn/Accordion";
+
+
+<Card className="my-6 border border-muted">
+  <CardHeader className="text-xl font-semibold">Critical Summary</CardHeader>
+  <CardContent className="text-muted-foreground">
+    The chapter advocates for centralizing power within the White House Office, aiming to streamline decision-making and enhance efficiency. However, this approach risks undermining established checks and balances, potentially leading to an overconcentration of authority in the executive branch.
+  </CardContent>
+</Card>
+
+## Concerning Points
+
+<div className="flex space-x-4">
+  <Alert className="border-l-4 border-secondary bg-secondary w-[400px] text-white">
+    <AlertTitle>Erosion of Checks and Balances</AlertTitle>
+    <AlertDescription className="my-6">
+      The proposals could disrupt the equilibrium between governmental branches, granting excessive power to the executive.
+    </AlertDescription>
+  </Alert>
+  <Alert className="border-l-4 border-gray bg-white w-[400px]">
+    <AlertTitle>Diminished Transparency</AlertTitle>
+    <AlertDescription className="my-6">
+      Streamlining processes may result in less public visibility into governmental actions, reducing accountability.
+    </AlertDescription>
+  </Alert>
+  <Alert className="border-l-4 border-primary bg-primary w-[400px] text-white">
+    <AlertTitle>Potential for Partisan Appointments</AlertTitle>
+    <AlertDescription className="my-6">
+      Prioritizing loyalty over expertise could lead to appointments based on political alignment rather than qualifications.
+    </AlertDescription>
+  </Alert>
+</div>
+
 
 ## Key Themes and Concerns
 
-- **Centralization of Power**: The chapter emphasizes consolidating decision-making within the White House Office. While intended to improve efficiency, this could diminish the roles of other governmental branches, threatening the balance of power.
-- **Reduction of Oversight**: By streamlining processes, the proposals may limit oversight mechanisms. This reduction could decrease transparency and accountability, allowing executive actions to proceed with minimal scrutiny.
-- **Emphasis on Loyalty**: The focus on appointing individuals aligned with the administration's ideology raises concerns about the potential sidelining of experienced professionals in favor of loyalists, which could impact the quality of governance.
-
----
+<Accordion type="single" collapsible className="my-6">
+  <AccordionItem value="centralization">
+    <AccordionTrigger>Centralization of Power</AccordionTrigger>
+    <AccordionContent>
+      The chapter emphasizes consolidating decision-making within the White House Office. While intended to improve efficiency, this could diminish the roles of other governmental branches, threatening the balance of power.
+    </AccordionContent>
+  </AccordionItem>
+  <AccordionItem value="oversight">
+    <AccordionTrigger>Reduction of Oversight</AccordionTrigger>
+    <AccordionContent>
+      By streamlining processes, the proposals may limit oversight mechanisms. This reduction could decrease transparency and accountability, allowing executive actions to proceed with minimal scrutiny.
+    </AccordionContent>
+  </AccordionItem>
+  <AccordionItem value="loyalty">
+    <AccordionTrigger>Emphasis on Loyalty</AccordionTrigger>
+    <AccordionContent>
+      The focus on appointing individuals aligned with the administration's ideology raises concerns about the potential sidelining of experienced professionals in favor of loyalists, which could impact the quality of governance.
+    </AccordionContent>
+  </AccordionItem>
+</Accordion>
 
 ## FAQs
 
@@ -23,27 +70,6 @@ The chapter advocates for centralizing power within the White House Office, aimi
 ---
 
 ## Concerning Points to Highlight
-
-- **Erosion of Checks and Balances**:  
-  The proposals could disrupt the equilibrium between governmental branches, granting excessive power to the executive.
-
-- **Diminished Transparency**:  
-  Streamlining processes may result in less public visibility into governmental actions, reducing accountability.
-
-- **Potential for Partisan Appointments**:  
-  Prioritizing loyalty over expertise could lead to appointments based on political alignment rather than qualifications.
-
----
-
-## Keywords
-
-- Centralization  
-- Executive authority  
-- Oversight  
-- Accountability  
-- Loyalty  
-
----
 
 ## Call to Action
 It is crucial to critically assess these proposals to understand their implications on democratic governance. Engaging in informed discussions and analyses will help ensure that any reforms uphold the principles of transparency, accountability, and balanced power distribution.

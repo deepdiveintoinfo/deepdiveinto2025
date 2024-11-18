@@ -1,3 +1,4 @@
+import { useParams } from 'react-router-dom';
 import { PageComponentType } from '@/lib/types'
 import { useChapter } from '@/hooks/use-chapter';
 import { ChapterInterface } from '@/lib/data/project2025/types';
@@ -5,6 +6,7 @@ import { Tabs, TabsList, TabsTrigger, TabsContent } from '@/components/ThirdPart
 
 // Define the TypeScript interfaces
 export const ReadPage: PageComponentType = () => {
+  const { version } = useParams();
   const chapter: ChapterInterface | undefined = useChapter();
   const RawMdxContent = chapter?.versions?.raw;
   const SimpleMdxContent = chapter?.versions?.simple;
@@ -12,7 +14,7 @@ export const ReadPage: PageComponentType = () => {
     return (
       <article>
       <h1>{chapter?.title}</h1>
-      <Tabs defaultValue="account" className="">
+      <Tabs defaultValue={version || "raw"} className="">
         <TabsList>
           {RawMdxContent && <TabsTrigger defaultChecked value="raw">Raw</TabsTrigger>}
           {ClearMdxContent && <TabsTrigger value="clear">Clear</TabsTrigger>}
@@ -26,4 +28,4 @@ export const ReadPage: PageComponentType = () => {
     );
   }
 
-  ReadPage.path = "/project2025/:sectionName/:chapterName/read"
+  ReadPage.path = "/project2025/:sectionName/:chapterName/read/:version?"

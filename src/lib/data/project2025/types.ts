@@ -2,16 +2,16 @@ import WhiteHouseOfficeRaw from '@/lib/data/project2025/taking-the-reins-of-gove
 
 // types.ts
 export interface ChapterInterface {
-    title: string;
-    chapterId: string;
-    summary: typeof WhiteHouseOfficeRaw;
-    metadata: {
+    title?: string;
+    chapterId?: string;
+    summary?: typeof WhiteHouseOfficeRaw;
+    metadata?: {
         authors: string[];
         title: string;
         wordcount: number;
         keywords: string[];
     }
-    versions: {
+    versions?: {
       [version: string]: typeof WhiteHouseOfficeRaw;
     };
   }

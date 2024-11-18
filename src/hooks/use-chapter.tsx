@@ -1,6 +1,8 @@
 import project2025Data from '@/lib/data/project2025'
 import { useParams } from "react-router-dom";
 
+console.log(project2025Data);
+
 
 export const useChapter = () => {
     const { chapterName, sectionName } = useParams();

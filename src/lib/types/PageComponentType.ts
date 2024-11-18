@@ -5,7 +5,7 @@ import { ReactElement } from "react";
  */
 export type PageComponentType = React.FC & {
   /** Function signature that returns a React element. */
-  (): ReactElement;
+  (): Promise<ReactElement> | ReactElement;
   /** The path name associated with the route for this page component. */
   path?: string;
 };
