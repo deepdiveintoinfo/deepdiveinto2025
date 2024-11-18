@@ -18,7 +18,7 @@ export const GoalsSection = () => (
       />
       <GoalItem
         title="Encourage Collaborative Analysis"
-        description="Foster open, public discussions to gather diverse perspectives and critical insights into the document’s proposals."
+        description="Foster open, public discussions to gather diverse perspectives and critical insights into the document's proposals."
         icon={Users}
       />
       <GoalItem

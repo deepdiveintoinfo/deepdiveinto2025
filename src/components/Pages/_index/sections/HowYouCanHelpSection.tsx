@@ -8,7 +8,7 @@ export function HowYouCanHelpSection() {
         <div className="text-center mb-12">
           <h2 className="text-3xl font-bold lg:text-4xl">How You Can Help</h2>
           <p className="mt-3 text-muted-foreground">
-            Join our efforts to analyze Project 2025. Whether you’re a researcher, writer, or concerned citizen, there’s a way for you to contribute.
+            Join our efforts to analyze Project 2025. Whether you're a researcher, writer, or concerned citizen, there's a way for you to contribute.
           </p>
         </div>
         {/* Icon Blocks */}

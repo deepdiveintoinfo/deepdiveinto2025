@@ -1,4 +1,3 @@
-import { useEffect, useState } from "react";
 import project2025Data from '@/lib/data/project2025'
 import { useParams } from "react-router-dom";
 

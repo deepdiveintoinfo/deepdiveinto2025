@@ -42,7 +42,7 @@ export function CircleIconsCenterAligned() {
             <div className="mt-3">
               <h3 className="text-lg font-semibold ">Encourage Collaborative Analysis</h3>
               <p className="mt-1 text-muted-foreground">
-                Foster open, public discussions to gather diverse perspectives and critical insights into the document’s proposals.
+                Foster open, public discussions to gather diverse perspectives and critical insights into the document's proposals.
               </p>
             </div>
           </div>

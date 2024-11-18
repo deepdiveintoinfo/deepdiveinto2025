@@ -171,7 +171,7 @@
     "title": "Line Graph",
     "image": "https://datavizproject.com/wp-content/uploads/types/Line-Graph.png",
     "description": [
-      "A line chart or line graph is a type of chart which displays information as a series of data points called ‘markers’ connected by straight line segments.",
+      "A line chart or line graph is a type of chart which displays information as a series of data points called ‘markers' connected by straight line segments.",
       "It is similar to a scatter plot except that the measurement points are ordered (typically by their x-axis value) and joined with straight line segments. Line Charts show how a particular data changes at equal intervals of time.",
       "A line chart is similar to the <a href=\"https://datavizproject.com/data-type/spline-graph/\">spline graph</a>, but&nbsp;the spline graph&nbsp;draws a curved line between the points instead of the straight lines."
     ],
@@ -878,7 +878,7 @@
     "title": "Exploded View Drawing",
     "image": "https://datavizproject.com/wp-content/uploads/types/Exploded-View-Drawing.png",
     "description": [
-      "<span data-sheets-value=\"[null,2,&quot;An exploded view drawing is a diagram, picture or technical drawing of an object, that shows the relationship or order of assembly of various parts. It shows the components of an object slightly separated by distance, or suspended in surrounding space in the case of a three-dimensional exploded diagram. An object is represented as if there had been a small controlled explosion emanating from the middle of the object, causing the object's parts to be separated an equal distance away from their original locations.&quot;]\" data-sheets-userformat=\"[null,null,13057,[null,0],null,null,null,null,null,null,null,1,0,null,null,&quot;arial,sans,sans-serif&quot;,8]\">An exploded view drawing is a diagram, picture or technical drawing of an object, that shows the relationship or order of assembly of various parts. It shows the components of an object slightly separated by distance, or suspended in surrounding space in the case of a three-dimensional exploded diagram. An object is represented as if there had been a small controlled explosion emanating from the middle of the object, causing the object’s parts to be separated an equal distance away from their original locations.</span>"
+      "<span data-sheets-value=\"[null,2,&quot;An exploded view drawing is a diagram, picture or technical drawing of an object, that shows the relationship or order of assembly of various parts. It shows the components of an object slightly separated by distance, or suspended in surrounding space in the case of a three-dimensional exploded diagram. An object is represented as if there had been a small controlled explosion emanating from the middle of the object, causing the object's parts to be separated an equal distance away from their original locations.&quot;]\" data-sheets-userformat=\"[null,null,13057,[null,0],null,null,null,null,null,null,null,1,0,null,null,&quot;arial,sans,sans-serif&quot;,8]\">An exploded view drawing is a diagram, picture or technical drawing of an object, that shows the relationship or order of assembly of various parts. It shows the components of an object slightly separated by distance, or suspended in surrounding space in the case of a three-dimensional exploded diagram. An object is represented as if there had been a small controlled explosion emanating from the middle of the object, causing the object's parts to be separated an equal distance away from their original locations.</span>"
     ],
     "family": [
       "Diagram"
@@ -1069,7 +1069,7 @@
       "<span data-sheets-value=\"[null,2,&quot;A heat map is a graphical representation of data where the individual values contained in a matrix are represented as colors. Fractal maps and tree maps both often use a similar system of color-coding to represent the values taken by a variable in a hierarchy. The term is also used to mean its thematic application as a choropleth map. The term \\&quot;Heatmap\\&quot; was originally coined and trademarked by software designer Cormac Kinney in 1991, to describe a 2D display depicting real time financial market information.&quot;]\" data-sheets-userformat=\"[null,null,13057,[null,0],null,null,null,null,null,null,null,1,0,null,null,&quot;arial,sans,sans-serif&quot;,8]\">A heat map is a data visualization type where the individual values contained in a matrix through variations in coloring. The term “Heat map” was originally introduced by software designer Cormac Kinney in 1991 to describe a 2D display depicting real time financial market information even though similar visualizations have existed for over a century.</span>",
       "Heat maps are useful for visualizing variance across multiple variables to display patterns in correlations",
       "<span data-sheets-value=\"[null,2,&quot;A heat map is a graphical representation of data where the individual values contained in a matrix are represented as colors. Fractal maps and tree maps both often use a similar system of color-coding to represent the values taken by a variable in a hierarchy. The term is also used to mean its thematic application as a choropleth map. The term \\&quot;Heatmap\\&quot; was originally coined and trademarked by software designer Cormac Kinney in 1991, to describe a 2D display depicting real time financial market information.&quot;]\" data-sheets-userformat=\"[null,null,13057,[null,0],null,null,null,null,null,null,null,1,0,null,null,&quot;arial,sans,sans-serif&quot;,8]\">Fractal maps and tree maps both often use a similar system of color-coding to represent the values taken by a variable in a hierarchy. The term is also used to mean its thematic application as a choropleth map.&nbsp;</span>",
-      "Many also incorrectly refers to heat maps as <a href=\"https://datavizproject.com/data-type/choropleth-map-2/\">Choropleth maps</a>&nbsp;– properly because of the misleading term ‘map’. But a&nbsp;choropleth maps include different shading or patterns within geographic boundaries to show the proportion of a variable of interest, whereas the coloration a heat map does not correspond to geographic boundaries.",
+      "Many also incorrectly refers to heat maps as <a href=\"https://datavizproject.com/data-type/choropleth-map-2/\">Choropleth maps</a>&nbsp;– properly because of the misleading term ‘map'. But a&nbsp;choropleth maps include different shading or patterns within geographic boundaries to show the proportion of a variable of interest, whereas the coloration a heat map does not correspond to geographic boundaries.",
       "&nbsp;"
     ],
     "family": [
@@ -1239,7 +1239,7 @@
     "title": "Treemap",
     "image": "https://datavizproject.com/wp-content/uploads/types/Treemap.png",
     "description": [
-      "<span data-sheets-value=\"[null,2,&quot;Treemaps display hierarchical (tree-structured) data as a set of nested rectangles. Each branch of the tree is given a rectangle, which is then tiled with smaller rectangles representing sub-branches. A leaf node's rectangle has an area proportional to a specified dimension on the data. Often the leaf nodes are colored to show a separate dimension of the data.&quot;]\" data-sheets-userformat=\"[null,null,13057,[null,0],null,null,null,null,null,null,null,1,0,null,null,&quot;arial,sans,sans-serif&quot;,8]\">Treemaps display hierarchical (tree-structured) data as a set of nested rectangles. Each branch of the tree is given a rectangle, which is then tiled with smaller rectangles representing sub-branches. A leaf node’s rectangle has an area proportional to a specified dimension on the data. Often the leaf nodes are colored to show a separate dimension of the data.</span>"
+      "<span data-sheets-value=\"[null,2,&quot;Treemaps display hierarchical (tree-structured) data as a set of nested rectangles. Each branch of the tree is given a rectangle, which is then tiled with smaller rectangles representing sub-branches. A leaf node's rectangle has an area proportional to a specified dimension on the data. Often the leaf nodes are colored to show a separate dimension of the data.&quot;]\" data-sheets-userformat=\"[null,null,13057,[null,0],null,null,null,null,null,null,null,1,0,null,null,&quot;arial,sans,sans-serif&quot;,8]\">Treemaps display hierarchical (tree-structured) data as a set of nested rectangles. Each branch of the tree is given a rectangle, which is then tiled with smaller rectangles representing sub-branches. A leaf node's rectangle has an area proportional to a specified dimension on the data. Often the leaf nodes are colored to show a separate dimension of the data.</span>"
     ],
     "family": [
       "Chart"
@@ -1360,7 +1360,7 @@
     "description": [
       "Flow Maps in cartography can be defined as a mix of maps and<a href=\"https://datavizproject.com/data-type/sankey-diagram/\"> Sankey diagrams</a>, that show the movement of quantities&nbsp;from one location to another, such as the number of people travelling, the amount of goods being traded, or the number of packets in a network.",
       "The&nbsp;width&nbsp;of the connections shows the&nbsp;quantity. Sometimes you flow maps with arrows to display the direction of the movement.",
-      "The most&nbsp;famous example of a flow map, is <a href=\"https://datavizproject.com/wp-content/uploads/examples/Skærmbillede-2017-02-23-kl.-11.06.00.png\">Minard’s map</a> of&nbsp;Napoleon’s disastrous&nbsp;Russian campaign of 1812."
+      "The most&nbsp;famous example of a flow map, is <a href=\"https://datavizproject.com/wp-content/uploads/examples/Skærmbillede-2017-02-23-kl.-11.06.00.png\">Minard's map</a> of&nbsp;Napoleon's disastrous&nbsp;Russian campaign of 1812."
     ],
     "family": [
       "Diagram",
@@ -2298,7 +2298,7 @@
     "title": "Grouped Bar Chart",
     "image": "https://datavizproject.com/wp-content/uploads/types/Grouped-Bar-Chart.png",
     "description": [
-      "<span data-sheets-value=\"[null,2,&quot;Grouped Bar Charts are used when two or more data sets are displayed side-by-side and grouped together under categories on the same axis. Basically, it\\u2019s the most simple bar chart with two or more graphs.&quot;]\" data-sheets-userformat=\"[null,null,12544,null,null,null,null,null,null,null,null,4,null,null,null,&quot;arial,sans,sans-serif&quot;,12]\">Grouped Bar Charts are used when two or more data sets are displayed side-by-side and grouped together under categories on the same axis. Basically, it’s the most simple bar chart with two or more graphs.</span>"
+      "<span data-sheets-value=\"[null,2,&quot;Grouped Bar Charts are used when two or more data sets are displayed side-by-side and grouped together under categories on the same axis. Basically, it\\u2019s the most simple bar chart with two or more graphs.&quot;]\" data-sheets-userformat=\"[null,null,12544,null,null,null,null,null,null,null,null,4,null,null,null,&quot;arial,sans,sans-serif&quot;,12]\">Grouped Bar Charts are used when two or more data sets are displayed side-by-side and grouped together under categories on the same axis. Basically, it's the most simple bar chart with two or more graphs.</span>"
     ],
     "family": [
       "Chart"
@@ -2569,7 +2569,7 @@
     "title": "Waterfall Plot",
     "image": "https://datavizproject.com/wp-content/uploads/types/Waterfall-Plot.png",
     "description": [
-      "A Waterfall Plot is a three-dimensional plot in which multiple curves of data, typically spectra, are displayed simultaneously. Typically the curves are staggered both across the screen and vertically, with ‘nearer’ curves masking the ones behind. The result is a series of “mountain” shapes that appear to be side by side. The waterfall plot is often used to show how two-dimensional information changes over time or some other variable such as rpm.",
+      "A Waterfall Plot is a three-dimensional plot in which multiple curves of data, typically spectra, are displayed simultaneously. Typically the curves are staggered both across the screen and vertically, with ‘nearer' curves masking the ones behind. The result is a series of “mountain” shapes that appear to be side by side. The waterfall plot is often used to show how two-dimensional information changes over time or some other variable such as rpm.",
       "Not to be confused with the similarly named <a href=\"https://datavizproject.com/data-type/waterfall-chart/\">Waterfall Chart</a>."
     ],
     "family": [
@@ -3154,7 +3154,7 @@
     "title": "Word Cloud",
     "image": "https://datavizproject.com/wp-content/uploads/types/Word-Cloud-1.png",
     "description": [
-      "<span data-sheets-value=\"[null,2,&quot;A tag cloud is a visual representation for text data, typically used to depict keyword metadata (tags) on websites, to visualize free form text or to analyses speeches( e.g. election's campaign). Tags are usually single words, and the importance of each tag is shown with font size or color. This format is useful for quickly perceiving the most prominent terms and for locating a term alphabetically to determine its relative prominence.&quot;]\" data-sheets-userformat=\"[null,null,13057,[null,0],null,null,null,null,null,null,null,1,0,null,null,&quot;arial,sans,sans-serif&quot;,8]\">A tag cloud is a visual representation for text data, typically used to depict keyword metadata (tags) on websites, to visualize free form text or to analyses speeches( e.g. election’s campaign). Tags are usually single words, and the importance of each tag is shown with font size or color. This format is useful for quickly perceiving the most prominent terms and for locating a term alphabetically to determine its relative prominence.</span>"
+      "<span data-sheets-value=\"[null,2,&quot;A tag cloud is a visual representation for text data, typically used to depict keyword metadata (tags) on websites, to visualize free form text or to analyses speeches( e.g. election's campaign). Tags are usually single words, and the importance of each tag is shown with font size or color. This format is useful for quickly perceiving the most prominent terms and for locating a term alphabetically to determine its relative prominence.&quot;]\" data-sheets-userformat=\"[null,null,13057,[null,0],null,null,null,null,null,null,null,1,0,null,null,&quot;arial,sans,sans-serif&quot;,8]\">A tag cloud is a visual representation for text data, typically used to depict keyword metadata (tags) on websites, to visualize free form text or to analyses speeches( e.g. election's campaign). Tags are usually single words, and the importance of each tag is shown with font size or color. This format is useful for quickly perceiving the most prominent terms and for locating a term alphabetically to determine its relative prominence.</span>"
     ],
     "family": [
       "Chart"
@@ -3357,7 +3357,7 @@
     "title": "Bubble Chart",
     "image": "https://datavizproject.com/wp-content/uploads/types/Bubble-Chart.png",
     "description": [
-      "<span data-sheets-value=\"[null,2,&quot;A bubble chart is a type of chart that displays three dimensions of data. Each entity with its triplet (v1, v2, v3) of associated data is plotted as a disk that expresses two of the vi values through the disk's xy location and the third through its size. Bubble charts can facilitate the understanding of social, economical, medical, and other scientific relationships. Bubble charts can be considered a variation of the scatter plot, in which the data points are replaced with bubbles.&quot;]\" data-sheets-userformat=\"[null,null,13057,[null,0],null,null,null,null,null,null,null,1,0,null,null,&quot;arial,sans,sans-serif&quot;,8]\">A bubble chart is a type of chart that displays three dimensions of data. Each entity with its triplet (v1, v2, v3) of associated data is plotted as a disk that expresses two of the vi values through the disk’s xy location and the third through its size. Bubble charts can facilitate the understanding of social, economical, medical, and other scientific relationships. Bubble charts can be considered a variation of the scatter plot, in which the data points are replaced with bubbles.</span>"
+      "<span data-sheets-value=\"[null,2,&quot;A bubble chart is a type of chart that displays three dimensions of data. Each entity with its triplet (v1, v2, v3) of associated data is plotted as a disk that expresses two of the vi values through the disk's xy location and the third through its size. Bubble charts can facilitate the understanding of social, economical, medical, and other scientific relationships. Bubble charts can be considered a variation of the scatter plot, in which the data points are replaced with bubbles.&quot;]\" data-sheets-userformat=\"[null,null,13057,[null,0],null,null,null,null,null,null,null,1,0,null,null,&quot;arial,sans,sans-serif&quot;,8]\">A bubble chart is a type of chart that displays three dimensions of data. Each entity with its triplet (v1, v2, v3) of associated data is plotted as a disk that expresses two of the vi values through the disk's xy location and the third through its size. Bubble charts can facilitate the understanding of social, economical, medical, and other scientific relationships. Bubble charts can be considered a variation of the scatter plot, in which the data points are replaced with bubbles.</span>"
     ],
     "family": [
       "Chart",
@@ -3936,7 +3936,7 @@
     "title": "Hanging Rootogram",
     "image": "https://datavizproject.com/wp-content/uploads/types/Hanging-Rootogram.png",
     "description": [
-      "Comparing the distribution of data with a theoretical distribution from an ordinary <a href=\"https://datavizproject.com/data-type/histogram/\">histogram</a> can be&nbsp;difficult because small frequencies are dominated by the larger frequencies and it is hard to perceive the pattern of differences between the histogram bars and the curve. Therefore John Tukey introduced the&nbsp;Hanging Rootogram in 1971 (also called&nbsp;Tukey’s Hanging Rootogram) in order to solve these problems. In this visualization the comparison is made easier by ‘hanging’ the observed results from the theoretical curve, so that the discrepancies are seen by comparison with the horizontal axis rather than a sloping curve. As in the rootogram, the vertical axis is scaled to the square-root of the frequencies so as to draw attention to discrepancies in the tails of the distribution.",
+      "Comparing the distribution of data with a theoretical distribution from an ordinary <a href=\"https://datavizproject.com/data-type/histogram/\">histogram</a> can be&nbsp;difficult because small frequencies are dominated by the larger frequencies and it is hard to perceive the pattern of differences between the histogram bars and the curve. Therefore John Tukey introduced the&nbsp;Hanging Rootogram in 1971 (also called&nbsp;Tukey's Hanging Rootogram) in order to solve these problems. In this visualization the comparison is made easier by ‘hanging' the observed results from the theoretical curve, so that the discrepancies are seen by comparison with the horizontal axis rather than a sloping curve. As in the rootogram, the vertical axis is scaled to the square-root of the frequencies so as to draw attention to discrepancies in the tails of the distribution.",
       "&nbsp;",
       "It is a variation of the concept of <a href=\"https://datavizproject.com/data-type/histogram/\">histograms</a> and <a href=\"https://datavizproject.com/data-type/pareto-chart/\">Pareto charts</a>&nbsp;by combining observed and predicted in a simple way where the <a href=\"https://datavizproject.com/data-type/line-chart/\">line charts</a> display that the data is continuously changing.",
       "&nbsp;",
@@ -5140,7 +5140,7 @@
     "title": "Histogram",
     "image": "https://datavizproject.com/wp-content/uploads/types/Histogram.png",
     "description": [
-      "A&nbsp;histogram&nbsp;is a chart that groups numeric data into bins, displaying the bins as segmented columns. They’re used to depict the distribution of a dataset: how often values fall into ranges.&nbsp;The histogram&nbsp;was first introduced by Karl Pearson.",
+      "A&nbsp;histogram&nbsp;is a chart that groups numeric data into bins, displaying the bins as segmented columns. They're used to depict the distribution of a dataset: how often values fall into ranges.&nbsp;The histogram&nbsp;was first introduced by Karl Pearson.",
       "To construct a histogram, the first step is to bin the range of values, and then count how many values fall into each interval. A rectangle is drawn with height proportional to the count and width equal to the bin size, so that rectangles abut each other."
     ],
     "family": [
@@ -5191,7 +5191,7 @@
     "title": "Cycle Diagram",
     "image": "https://datavizproject.com/wp-content/uploads/types/Cycle-Diagram.png",
     "description": [
-      "A Cycle Diagram is simply used to show how a series of events interact repeatedly through a cycle. It normally refers to a repetitive flow of actions/steps which doesn’t really have a start and/or a proper end."
+      "A Cycle Diagram is simply used to show how a series of events interact repeatedly through a cycle. It normally refers to a repetitive flow of actions/steps which doesn't really have a start and/or a proper end."
     ],
     "family": [
       "Diagram"
@@ -5942,7 +5942,7 @@
     "title": "Solid Gauge Chart",
     "image": "https://datavizproject.com/wp-content/uploads/types/Solid-Gauge-Chart.png",
     "description": [
-      "<span data-sheets-value=\"[null,2,&quot;The Angular Index Gauge is quite similar to the Angular Gauge, but it doesn't necessary display specific data/number. But this is very useful for indication of index of whether something is good/bad, high/low, above average, etc.&quot;]\" data-sheets-userformat=\"[null,null,13057,[null,0],null,null,null,null,null,null,null,1,0,null,null,&quot;arial,sans,sans-serif&quot;,8]\">The Angular Index Gauge is quite similar to the Angular Gauge, but it doesn’t necessary display specific data/number. But this is very useful for indication of index of whether something is good/bad, high/low, above average, etc.</span>"
+      "<span data-sheets-value=\"[null,2,&quot;The Angular Index Gauge is quite similar to the Angular Gauge, but it doesn't necessary display specific data/number. But this is very useful for indication of index of whether something is good/bad, high/low, above average, etc.&quot;]\" data-sheets-userformat=\"[null,null,13057,[null,0],null,null,null,null,null,null,null,1,0,null,null,&quot;arial,sans,sans-serif&quot;,8]\">The Angular Index Gauge is quite similar to the Angular Gauge, but it doesn't necessary display specific data/number. But this is very useful for indication of index of whether something is good/bad, high/low, above average, etc.</span>"
     ],
     "family": [
       "Chart"
@@ -6228,7 +6228,7 @@
     "title": "Swimlane Flow Chart",
     "image": "https://datavizproject.com/wp-content/uploads/types/Swimlane-Flow-Chart.png",
     "description": [
-      "A swimlane&nbsp;flow chart&nbsp;is a type of flowchart. It documents the steps or activities across boarder and show which step and activity belongs to whom throughout processes; that’s why it’s also called a cross-functional-diagram or a cross-channel-diagram. What a swimlane&nbsp;flow&nbsp;chart makes special and unique is that the elements within the flowchart are placed and match together in lanes, and you can plan, coordinate when and how a channel is required. These lanes can help identify and visualize stages, departments, or any other set of separated categories. And furthermore it work out who is in charge, who (employees, responsible people, stakeholders and areas) is responsible, who has to deliver or what can we do in which step or by which communication channel and the instant and situations in the process at which they are and how they are involved.",
+      "A swimlane&nbsp;flow chart&nbsp;is a type of flowchart. It documents the steps or activities across boarder and show which step and activity belongs to whom throughout processes; that's why it's also called a cross-functional-diagram or a cross-channel-diagram. What a swimlane&nbsp;flow&nbsp;chart makes special and unique is that the elements within the flowchart are placed and match together in lanes, and you can plan, coordinate when and how a channel is required. These lanes can help identify and visualize stages, departments, or any other set of separated categories. And furthermore it work out who is in charge, who (employees, responsible people, stakeholders and areas) is responsible, who has to deliver or what can we do in which step or by which communication channel and the instant and situations in the process at which they are and how they are involved.",
       "&nbsp;"
     ],
     "family": [
@@ -6941,7 +6941,7 @@
     "title": "Slope Chart",
     "image": "https://datavizproject.com/wp-content/uploads/types/Slope-Chart.png",
     "description": [
-      "The line chart’s fraternal twin.&nbsp;Line charts display three or more points in time while slope charts display exactly two points in time.",
+      "The line chart's fraternal twin.&nbsp;Line charts display three or more points in time while slope charts display exactly two points in time.",
       "Defined by Edward Tufte in his 1983 book <a href=\"http://www.amazon.com/gp/product/0961392142/ref=as_li_ss_tl?ie=UTF8&amp;tag=charpark-20&amp;linkCode=as2&amp;camp=217145&amp;creative=399369&amp;creativeASIN=0961392142\">The Visual Display of Quantitative Information</a>,&nbsp;this type of chart is useful for seeing (referred to the first example below):"
     ],
     "family": [
@@ -7108,7 +7108,7 @@
     "title": "Proportional Area Chart (Half Circle)",
     "image": "https://datavizproject.com/wp-content/uploads/types/Proportional-Area-Chart-Half-Circle.png",
     "description": [
-      "A Proportional Area Chart (Half Circle) is a variation of <a href=\"https://datavizproject.com/data-type/proportional-area-chart-circle/\">Proportional Area Chart (Circle)</a>, where one measure&nbsp;is represented as a circle. Representing two data sets in one circle (half circle each), this visualisation is useful for comparing two data sets (I,II in the input type) within one category and as well between different categories (A,B,C in the input type). Two data sets are often two different years or two contrary concepts (A/A’, male/female, etc.) It is also possible to use it for only one category (one circle)."
+      "A Proportional Area Chart (Half Circle) is a variation of <a href=\"https://datavizproject.com/data-type/proportional-area-chart-circle/\">Proportional Area Chart (Circle)</a>, where one measure&nbsp;is represented as a circle. Representing two data sets in one circle (half circle each), this visualisation is useful for comparing two data sets (I,II in the input type) within one category and as well between different categories (A,B,C in the input type). Two data sets are often two different years or two contrary concepts (A/A', male/female, etc.) It is also possible to use it for only one category (one circle)."
     ],
     "family": [
       "Chart"
@@ -7887,7 +7887,7 @@
     "title": "Butterfly Chart",
     "image": "https://datavizproject.com/wp-content/uploads/types/Butterfly-Chart.png",
     "description": [
-      "A Butterfly Chart (also called Tornado Chart) is a type of bar chart&nbsp;where two sets of data series are displayed side by side. It gives a quick glance of the difference between two groups with same parameters. It is also possible to stack/place two bars on each side (for example, ‘developed countries’ and ‘developing countries’) to give a&nbsp;further division of categories.",
+      "A Butterfly Chart (also called Tornado Chart) is a type of bar chart&nbsp;where two sets of data series are displayed side by side. It gives a quick glance of the difference between two groups with same parameters. It is also possible to stack/place two bars on each side (for example, ‘developed countries' and ‘developing countries') to give a&nbsp;further division of categories.",
       "The main use of the butterfly chart is comparison of two data sets sharing the same parameters.<br>\nIt&nbsp;has a lot of similarity with the <a href=\"https://datavizproject.com/data-type/population-pyramid-2/\">population pyramid</a>, but where the population pyramid is only for population data, the butterfly chart has a broader use as a comparison chart.",
       "&nbsp;",
       "&nbsp;"
@@ -8320,7 +8320,7 @@
     "title": "Scaled-up Number",
     "image": "https://datavizproject.com/wp-content/uploads/types/Scaled-up-Number.png",
     "description": [
-      "Scaled-up Number is not exactly a data visualization. But it’s very used technique in infographics and reports to highlight a single&nbsp;value. Often used when the number does not need a context or a comparison."
+      "Scaled-up Number is not exactly a data visualization. But it's very used technique in infographics and reports to highlight a single&nbsp;value. Often used when the number does not need a context or a comparison."
     ],
     "shape": [],
     "input": {
@@ -10194,7 +10194,7 @@
     "title": "Dot Chart",
     "image": "https://datavizproject.com/wp-content/uploads/types/Dot-Chart-1.png",
     "description": [
-      "A dot chart is a simple two-dimensional chart used to compare the values of a one-dimensional variable across several categories. One axis is used to separate each category, and the other axis is the one the value is plotted along. If the categories’ order is not significant (chronologically for instance), it is common to sort the dot chart by values. The dot chart should not be mistaken with the <a href=\"https://datavizproject.com/data-type/scatter-plot/\">scatter plot</a> and its two-dimensional and often more numerous data points. Alternatives include the <a href=\"https://datavizproject.com/data-type/lollipop-chart/\">lollipop chart</a> that adds lines to the dot chart, as well as the classic <a href=\"https://datavizproject.com/data-type/bar-chart/\">bar chart</a>."
+      "A dot chart is a simple two-dimensional chart used to compare the values of a one-dimensional variable across several categories. One axis is used to separate each category, and the other axis is the one the value is plotted along. If the categories' order is not significant (chronologically for instance), it is common to sort the dot chart by values. The dot chart should not be mistaken with the <a href=\"https://datavizproject.com/data-type/scatter-plot/\">scatter plot</a> and its two-dimensional and often more numerous data points. Alternatives include the <a href=\"https://datavizproject.com/data-type/lollipop-chart/\">lollipop chart</a> that adds lines to the dot chart, as well as the classic <a href=\"https://datavizproject.com/data-type/bar-chart/\">bar chart</a>."
     ],
     "family": [
       "Chart"

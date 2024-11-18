@@ -1,22 +1,29 @@
-import { useParams } from 'react-router-dom';
 import { PageComponentType } from '@/lib/types'
-import * as changeCase from 'change-case'
 import { useChapter } from '@/hooks/use-chapter';
-import { MDXProps } from 'mdx/types';
+import { ChapterInterface } from '@/lib/data/project2025/types';
+import { Tabs, TabsList, TabsTrigger, TabsContent } from '@/components/ThirdParty/ShadCn/Tabs';
 
 // Define the TypeScript interfaces
 export const ReadPage: PageComponentType = () => {
-    const { chapterName, sectionName, version } = useParams();
-  const chapter = useChapter() as { versions: { [key: string]: (props: MDXProps) => JSX.Element } };
-  const versionNum = version ?? 'raw';
-  const MdxContent = chapter?.versions[versionNum];
-
+  const chapter: ChapterInterface | undefined = useChapter();
+  const RawMdxContent = chapter?.versions?.raw;
+  const SimpleMdxContent = chapter?.versions?.simple;
+  const ClearMdxContent = chapter?.versions?.clear;
     return (
-      <div>
-        <h1>{changeCase.capitalCase(sectionName || '')}</h1>
-        {MdxContent && <MdxContent />}
-      </div>
+      <article>
+      <h1>{chapter?.title}</h1>
+      <Tabs defaultValue="account" className="">
+        <TabsList>
+          {RawMdxContent && <TabsTrigger defaultChecked value="raw">Raw</TabsTrigger>}
+          {ClearMdxContent && <TabsTrigger value="clear">Clear</TabsTrigger>}
+          {SimpleMdxContent && <TabsTrigger value="simple">Simple</TabsTrigger>}
+        </TabsList>
+        {RawMdxContent && <TabsContent defaultChecked value="raw"><RawMdxContent /></TabsContent>}
+        {SimpleMdxContent && <TabsContent value="simple"><SimpleMdxContent /></TabsContent>}
+        {ClearMdxContent && <TabsContent value="clear"><ClearMdxContent /></TabsContent>}
+      </Tabs>
+      </article>
     );
   }
 
-  ReadPage.path = "/project2025/:sectionName/:chapterName/read/:version?"
+  ReadPage.path = "/project2025/:sectionName/:chapterName/read"

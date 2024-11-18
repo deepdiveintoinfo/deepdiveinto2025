@@ -18,6 +18,7 @@ import { NavMain } from "./nav-main";
 import {
   Sidebar,
   SidebarContent,
+  SidebarFooter,
   SidebarRail,
 } from "@/components/ThirdParty/ShadCn/Sidebar";
 
@@ -94,6 +95,9 @@ export function AppSidebar({ ...props }: React.ComponentProps<typeof Sidebar>) {
   return (
     <Sidebar collapsible="icon" {...props}>
       <SidebarContent>
+      </SidebarContent>
+      <SidebarRail />
+      <SidebarFooter>
         {/* Sections with Chapters */}
         <NavMain
             title={"Project 2025"}
@@ -110,8 +114,7 @@ export function AppSidebar({ ...props }: React.ComponentProps<typeof Sidebar>) {
             }))
             }
           />
-      </SidebarContent>
-      <SidebarRail />
+      </SidebarFooter>
     </Sidebar>
   );
 }

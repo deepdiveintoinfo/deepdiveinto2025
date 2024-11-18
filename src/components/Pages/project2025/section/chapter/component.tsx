@@ -2,6 +2,7 @@ import { useParams } from 'react-router-dom';
 import { useChapter } from '@/hooks/use-chapter';
 import { PageComponentType } from '@/lib/types'
 import * as changeCase from 'change-case'
+import { ChapterInterface } from '@/lib/data/project2025/types';
 
 
 // Define the TypeScript interfaces
@@ -9,14 +10,16 @@ export const ChapterPage: PageComponentType = () => {
 
     const { chapterName, sectionName } = useParams();
 
-    // const { content } = useChapter(sectionName, chapterName);
+    const chapter: ChapterInterface | undefined = useChapter();
+
+    const Summary = chapter?.summary
 
     return (
-      <div>
-        <h1>{changeCase.capitalCase(sectionName || '')}</h1>
-        <h2>{changeCase.capitalCase(chapterName || '')}</h2>
+      <article>
+        <h1>{changeCase.capitalCase(chapter?.title || '')}</h1>
+        {Summary && <Summary />}
         {/* {ChapterContent && <ChapterContent />} */}
-      </div>
+      </article>
     );
   }
 

@@ -4,7 +4,7 @@ export const WhyThisMattersSection = () => (
         Why This Matters
       </h2>
       <p className="text-lg text-center text-muted-foreground leading-relaxed">
-        Project 2025 isn’t just a set of policy recommendations—it’s a detailed roadmap for reshaping government and society. By analyzing it critically, we aim to create a transparent, accessible record that informs and empowers communities.
+        Project 2025 isn't just a set of policy recommendations—it's a detailed roadmap for reshaping government and society. By analyzing it critically, we aim to create a transparent, accessible record that informs and empowers communities.
       </p>
       <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mt-8">
         <WhyItem
@@ -12,7 +12,7 @@ export const WhyThisMattersSection = () => (
           description="Communities, institutions, and vulnerable populations may face significant changes in policies like healthcare, education, and civil rights."
         />
         <WhyItem
-          title="What’s at Stake?"
+          title="What's at Stake?"
           description="Transparency in decision-making, representation for all voices, and preparation for potential societal changes."
         />
         <WhyItem
