@@ -27342,96 +27342,142 @@
   !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[2].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[2].use[2]!./src/styles/themes/UWDS.css ***!
   \********************************************************************************************************************************************************************************/
 :root {
-    /* Background and Foreground Colors */
-    --background: 210 15% 95%; /* Light gray (USWDS gray-lighter) */
-    --foreground: 0 0% 0%; /* Pure black */
-    --card: 210 15% 90%; /* Muted light gray (USWDS gray-light) */
-    --card-foreground: 0 0% 10%; /* Very dark gray */
-    --popover: 210 15% 95%; /* Light gray (USWDS gray-lighter) */
-    --popover-foreground: 0 0% 0%; /* Pure black */
-  
-    /* Primary Colors */
-    --primary: 210 100% 36%; /* Dark blue (USWDS primary-darkest) */
-    --primary-foreground: 0 0% 100%; /* Pure white */
-  
-    /* Secondary Colors */
-    --secondary: 0 80% 50%; /* Bold red (USWDS secondary) */
-    --secondary-foreground: 0 0% 100%; /* Pure white */
-  
-    /* Muted Colors */
-    --muted: 210 15% 85%; /* Very light gray (USWDS gray-lighter) */
-    --muted-foreground: 0 0% 20%; /* Dark gray */
-  
-    /* Accent Colors */
-    --accent: 42 95% 50%; /* Golden yellow (USWDS gold) */
-    --accent-foreground: 0 0% 10%; /* Very dark gray */
-  
-    /* Destructive Colors */
-    --destructive: 0 80% 50%; /* Deep red (USWDS secondary-dark) */
-    --destructive-foreground: 0 0% 100%; /* Pure white */
-  
-    /* Border and Input Colors */
-    --border: 0 0% 20%; /* Dark gray (USWDS gray-dark) */
-    --input: 0 0% 18%; /* Medium gray (USWDS gray-dark) */
-  
-    /* Focus Ring */
-    --ring: 210 100% 36%; /* Dark blue (USWDS primary-darkest) */
-  
-    /* Radius */
-    --radius: 0.5rem;
-  
-    /* Chart Colors */
-    --chart-1: 0 80% 50%; /* Patriotic red (USWDS secondary) */
-    --chart-2: 210 100% 36%; /* Dark blue (USWDS primary-darkest) */
-    --chart-3: 120 40% 40%; /* Dark green (USWDS green) */
-    --chart-4: 42 95% 50%; /* Muted golden yellow (USWDS gold) */
-    --chart-5: 30 60% 45%; /* Muted orange */
-  }
-  
-  .dark {
-    --background: 220 20% 12%; /* Very dark navy blue */
-    --foreground: 0 0% 90%; /* Light gray */
-    --card: 220 20% 15%; /* Dark navy */
-    --card-foreground: 0 0% 90%; /* Very light gray */
-    --popover: 220 20% 12%; /* Very dark navy blue */
-    --popover-foreground: 0 0% 90%; /* Light gray */
-  
-    /* Primary Colors */
-    --primary: 210 100% 36%; /* Dark blue (USWDS primary-darkest) */
-    --primary-foreground: 0 0% 100%; /* Pure white */
-  
-    /* Secondary Colors */
-    --secondary: 0 80% 40%; /* Dark red (USWDS secondary-darkest) */
-    --secondary-foreground: 0 0% 100%; /* Pure white */
-  
-    /* Muted Colors */
-    --muted: 210 15% 25%; /* Dark muted blue-gray */
-    --muted-foreground: 0 0% 60%; /* Light gray */
-  
-    /* Accent Colors */
-    --accent: 42 95% 40%; /* Muted dark yellow (USWDS gold-light) */
-    --accent-foreground: 0 0% 90%; /* Very light gray */
-  
-    /* Destructive Colors */
-    --destructive: 0 80% 35%; /* Dark red (USWDS secondary-dark) */
-    --destructive-foreground: 0 0% 100%; /* Pure white */
-  
-    /* Border and Input Colors */
-    --border: 0 0% 20%; /* Dark gray */
-    --input: 0 0% 18%; /* Medium gray */
-  
-    /* Focus Ring */
-    --ring: 210 100% 36%; /* Dark blue (USWDS primary-darkest) */
-  
-    /* Chart Colors */
-    --chart-1: 0 80% 40%; /* Dark patriotic red */
-    --chart-2: 210 100% 36%; /* Dark blue */
-    --chart-3: 120 60% 40%; /* Dark green for contrast */
-    --chart-4: 50 20% 40%; /* Muted dark yellow */
-    --chart-5: 30 60% 45%; /* Muted orange */
-  }
+  /* Background and Foreground Colors */
+  --background: 210 15% 95%; /* Light gray (USWDS gray-lighter) */
+  --foreground: 0 0% 0%; /* Pure black */
+  --card: 210 15% 90%; /* Muted light gray (USWDS gray-light) */
+  --card-foreground: 0 0% 10%; /* Very dark gray */
+  --popover: 210 15% 95%; /* Light gray (USWDS gray-lighter) */
+  --popover-foreground: 0 0% 0%; /* Pure black */
+
+  /* Primary Colors */
+  --primary: 210 100% 36%; /* Dark blue (USWDS primary-darkest) */
+  --primary-foreground: 0 0% 100%; /* Pure white */
+  --primary-lighter: 210 60% 90%; /* Light blue (USWDS primary-lighter) */
+  --primary-light: 210 80% 70%; /* Light blue (USWDS primary-light) */
+  --primary-vivid: 210 100% 40%; /* Vivid blue (USWDS primary-vivid) */
+  --primary-dark: 210 100% 30%; /* Dark blue (USWDS primary-dark) */
+  --primary-darker: 210 100% 20%; /* Darker blue (USWDS primary-darker) */
+
+  /* Secondary Colors */
+  --secondary: 0 80% 50%; /* Bold red (USWDS secondary) */
+  --secondary-foreground: 0 0% 100%; /* Pure white */
+  --secondary-lighter: 0 70% 90%; /* Light red (USWDS secondary-lighter) */
+  --secondary-light: 0 80% 70%; /* Light red (USWDS secondary-light) */
+  --secondary-vivid: 0 90% 50%; /* Vivid red (USWDS secondary-vivid) */
+  --secondary-dark: 0 80% 30%; /* Dark red (USWDS secondary-dark) */
+  --secondary-darker: 0 80% 20%; /* Darker red (USWDS secondary-darker) */
+
+  /* Muted Colors */
+  --muted: 210 15% 85%; /* Very light gray (USWDS gray-lighter) */
+  --muted-foreground: 0 0% 20%; /* Dark gray */
+  --muted-lighter: 210 15% 90%; /* Lighter muted gray */
+  --muted-light: 210 15% 75%; /* Light muted gray */
+  --muted-dark: 210 15% 50%; /* Dark muted gray */
+  --muted-darker: 210 15% 35%; /* Darker muted gray */
+
+  /* Accent Colors */
+  --accent: 42 95% 50%; /* Golden yellow (USWDS gold) */
+  --accent-foreground: 0 0% 10%; /* Very dark gray */
+  --accent-cool-lighter: 200 80% 90%; /* Light teal (USWDS accent-cool-lighter) */
+  --accent-cool-light: 200 70% 70%; /* Light teal (USWDS accent-cool-light) */
+  --accent-cool-dark: 200 70% 30%; /* Dark teal (USWDS accent-cool-dark) */
+  --accent-cool-darker: 200 70% 20%; /* Darker teal (USWDS accent-cool-darker) */
+  --accent-warm-lighter: 40 90% 90%; /* Light gold (USWDS accent-warm-lighter) */
+  --accent-warm-light: 40 90% 70%; /* Light gold (USWDS accent-warm-light) */
+  --accent-warm-dark: 40 90% 30%; /* Dark gold (USWDS accent-warm-dark) */
+  --accent-warm-darker: 40 90% 20%; /* Darker gold (USWDS accent-warm-darker) */
+
+  /* Destructive Colors */
+  --destructive: 0 80% 50%; /* Deep red (USWDS secondary-dark) */
+  --destructive-foreground: 0 0% 100%; /* Pure white */
+
+  /* Border and Input Colors */
+  --border: 0 0% 20%; /* Dark gray (USWDS gray-dark) */
+  --input: 0 0% 18%; /* Medium gray (USWDS gray-dark) */
+
+  /* Focus Ring */
+  --ring: 210 100% 36%; /* Dark blue (USWDS primary-darkest) */
+
+  /* Radius */
+  --radius: 0.5rem;
+
+  /* Chart Colors */
+  --chart-1: 0 80% 50%; /* Patriotic red (USWDS secondary) */
+  --chart-2: 210 100% 36%; /* Dark blue (USWDS primary-darkest) */
+  --chart-3: 120 40% 40%; /* Dark green (USWDS green) */
+  --chart-4: 42 95% 50%; /* Muted golden yellow (USWDS gold) */
+  --chart-5: 30 60% 45%; /* Muted orange */
+}
+
+.dark {
+  /* Background and Foreground Colors */
+  --background: 220 20% 12%; /* Very dark navy blue */
+  --foreground: 0 0% 90%; /* Light gray */
+  --card: 220 20% 15%; /* Dark navy */
+  --card-foreground: 0 0% 90%; /* Very light gray */
+  --popover: 220 20% 12%; /* Very dark navy blue */
+  --popover-foreground: 0 0% 90%; /* Light gray */
+
+  /* Primary Colors */
+  --primary: 210 100% 36%; /* Dark blue (USWDS primary-darkest) */
+  --primary-foreground: 0 0% 100%; /* Pure white */
+  --primary-lighter: 210 60% 80%; /* Light blue (USWDS primary-lighter) */
+  --primary-light: 210 80% 60%; /* Light blue (USWDS primary-light) */
+  --primary-vivid: 210 100% 40%; /* Vivid blue (USWDS primary-vivid) */
+  --primary-dark: 210 100% 30%; /* Dark blue (USWDS primary-dark) */
+  --primary-darker: 210 100% 20%; /* Darker blue (USWDS primary-darker) */
+
+  /* Secondary Colors */
+  --secondary: 0 80% 40%; /* Dark red (USWDS secondary-darkest) */
+  --secondary-foreground: 0 0% 100%; /* Pure white */
+  --secondary-lighter: 0 70% 80%; /* Light red (USWDS secondary-lighter) */
+  --secondary-light: 0 80% 60%; /* Light red (USWDS secondary-light) */
+  --secondary-vivid: 0 90% 40%; /* Vivid red (USWDS secondary-vivid) */
+  --secondary-dark: 0 80% 30%; /* Dark red (USWDS secondary-dark) */
+  --secondary-darker: 0 80% 20%; /* Darker red (USWDS secondary-darker) */
+
+  /* Muted Colors */
+  --muted: 210 15% 25%; /* Dark muted blue-gray */
+  --muted-foreground: 0 0% 60%; /* Light gray */
+  --muted-lighter: 210 15% 80%; /* Lighter muted gray */
+  --muted-light: 210 15% 65%; /* Light muted gray */
+  --muted-dark: 210 15% 40%; /* Dark muted gray */
+  --muted-darker: 210 15% 25%; /* Darker muted gray */
+
+  /* Accent Colors */
+  --accent: 42 95% 40%; /* Muted dark yellow (USWDS gold-light) */
+  --accent-foreground: 0 0% 90%; /* Very light gray */
+  --accent-cool-lighter: 200 80% 80%; /* Light teal (USWDS accent-cool-lighter) */
+  --accent-cool-light: 200 70% 60%; /* Light teal (USWDS accent-cool-light) */
+  --accent-cool-dark: 200 70% 30%; /* Dark teal (USWDS accent-cool-dark) */
+  --accent-cool-darker: 200 70% 20%; /* Darker teal (USWDS accent-cool-darker) */
+  --accent-warm-lighter: 40 90% 80%; /* Light gold (USWDS accent-warm-lighter) */
+  --accent-warm-light: 40 90% 60%; /* Light gold (USWDS accent-warm-light) */
+  --accent-warm-dark: 40 90% 30%; /* Dark gold (USWDS accent-warm-dark) */
+  --accent-warm-darker: 40 90% 20%; /* Darker gold (USWDS accent-warm-darker) */
+
+  /* Destructive Colors */
+  --destructive: 0 80% 35%; /* Dark red (USWDS secondary-dark) */
+  --destructive-foreground: 0 0% 100%; /* Pure white */
+
+  /* Border and Input Colors */
+  --border: 0 0% 20%; /* Dark gray */
+  --input: 0 0% 18%; /* Medium gray */
+
+  /* Focus Ring */
+  --ring: 210 100% 36%; /* Dark blue (USWDS primary-darkest) */
+
+  /* Chart Colors */
+  --chart-1: 0 80% 40%; /* Dark patriotic red */
+  --chart-2: 210 100% 36%; /* Dark blue */
+  --chart-3: 120 60% 40%; /* Dark green for contrast */
+  --chart-4: 50 20% 40%; /* Muted dark yellow */
+  --chart-5: 30 60% 45%; /* Muted orange */
+}
 
 :root {
+  /* Sidebar Colors */
   --sidebar-background: 210 15% 95%; /* USWDS gray-lighter */
   --sidebar-foreground: 210 20% 25%; /* USWDS gray-dark */
   --sidebar-primary: 210 100% 36%; /* USWDS primary-darkest */
@@ -27440,9 +27486,22 @@
   --sidebar-accent-foreground: 210 20% 25%; /* USWDS gray-dark */
   --sidebar-border: 210 15% 90%; /* USWDS gray-lighter */
   --sidebar-ring: 220 80% 40%; /* USWDS primary ring color */
+
+  /* Sidebar Variants */
+  --sidebar-background-light: 210 15% 98%; /* Very light gray */
+  --sidebar-background-dark: 210 15% 80%; /* Muted gray */
+  --sidebar-primary-lighter: 210 60% 90%; /* Light blue */
+  --sidebar-primary-light: 210 80% 70%; /* Light blue */
+  --sidebar-primary-dark: 210 100% 30%; /* Dark blue */
+  --sidebar-primary-darker: 210 100% 20%; /* Darker blue */
+  --sidebar-accent-light: 210 15% 88%; /* Slightly lighter gray */
+  --sidebar-accent-dark: 210 15% 70%; /* Muted gray */
+  --sidebar-border-light: 210 15% 92%; /* Slightly lighter gray */
+  --sidebar-border-dark: 210 15% 70%; /* Muted gray */
 }
 
 .dark {
+  /* Sidebar Colors */
   --sidebar-background: 220 20% 12%; /* USWDS very dark navy */
   --sidebar-foreground: 210 15% 85%; /* USWDS gray-light */
   --sidebar-primary: 210 100% 36%; /* USWDS primary-darkest */
@@ -27451,6 +27510,18 @@
   --sidebar-accent-foreground: 210 15% 85%; /* USWDS gray-light */
   --sidebar-border: 220 20% 15%; /* USWDS dark navy */
   --sidebar-ring: 220 70% 30%; /* USWDS primary ring color (darker variant) */
+
+  /* Sidebar Variants */
+  --sidebar-background-light: 220 20% 18%; /* Slightly lighter dark navy */
+  --sidebar-background-dark: 220 20% 10%; /* Very dark navy */
+  --sidebar-primary-lighter: 210 60% 80%; /* Light blue */
+  --sidebar-primary-light: 210 80% 60%; /* Light blue */
+  --sidebar-primary-dark: 210 100% 30%; /* Dark blue */
+  --sidebar-primary-darker: 210 100% 20%; /* Darker blue */
+  --sidebar-accent-light: 220 20% 25%; /* Slightly lighter dark navy */
+  --sidebar-accent-dark: 220 20% 10%; /* Very dark navy */
+  --sidebar-border-light: 220 20% 18%; /* Slightly lighter dark navy */
+  --sidebar-border-dark: 220 20% 10%; /* Very dark navy */
 }
 
 /*!****************************************************************************************************************************************************************************!*\
@@ -29563,6 +29634,9 @@ video {
 .bg-primary{
   background-color: hsl(var(--primary));
 }
+.bg-primary-darker{
+  background-color: hsl(var(--primary-darker));
+}
 .bg-purple-400{
   --tw-bg-opacity: 1;
   background-color: rgb(192 132 252 / var(--tw-bg-opacity));
@@ -30866,6 +30940,9 @@ video {
 .hover\:bg-accent:hover{
   background-color: hsl(var(--accent));
 }
+.hover\:bg-accent\/80:hover{
+  background-color: hsl(var(--accent) / 0.8);
+}
 .hover\:bg-destructive\/80:hover{
   background-color: hsl(var(--destructive) / 0.8);
 }
@@ -30878,6 +30955,9 @@ video {
 .hover\:bg-orange-600:hover{
   --tw-bg-opacity: 1;
   background-color: rgb(234 88 12 / var(--tw-bg-opacity));
+}
+.hover\:bg-primary-dark:hover{
+  background-color: hsl(var(--primary-dark));
 }
 .hover\:bg-primary-foreground\/90:hover{
   background-color: hsl(var(--primary-foreground) / 0.9);
