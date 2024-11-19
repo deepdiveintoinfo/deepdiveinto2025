@@ -5,6 +5,7 @@ import WhiteHouseOfficeEndNotes from '@/lib/data/project2025/taking-the-reins-of
 import WhiteHouseAuthor from '@/lib/data/project2025/taking-the-reins-of-government/white-house-office/authors.mdx';
 import ChapterOneMetadata from '@/lib/data/project2025/taking-the-reins-of-government/white-house-office/metadata.json'; 
 import ChapterOneSummary from '@/lib/data/project2025/taking-the-reins-of-government/white-house-office/summary.mdx';
+import ChapterOneFAQ from '@/lib/data/project2025/taking-the-reins-of-government/white-house-office/faq.mdx';
 
 const whiteHouseOffice = {
     title: "The White House Office",
@@ -13,6 +14,7 @@ const whiteHouseOffice = {
     summary: ChapterOneSummary,
     endnotes: WhiteHouseOfficeEndNotes,
     author: WhiteHouseAuthor,
+    faq: ChapterOneFAQ,
     versions: {
       raw: WhiteHouseOfficeRaw,
       simple: WhiteHouseOfficeSimple,

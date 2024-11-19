@@ -1,19 +1,25 @@
-import WhiteHouseOfficeRaw from '@/lib/data/project2025/taking-the-reins-of-government/white-house-office/versions/raw.mdx';
+// types.ts
+import { ReactNode } from "react";
+
+// Base type for MDX components
+export type MdxComponent = React.FC<{ components?: Record<string, React.ComponentType<any>>; children?: ReactNode }>;
+
 // types.ts
 export interface ChapterInterface {
     title?: string;
     chapterId?: string;
-    summary?: typeof WhiteHouseOfficeRaw;
-    author?: typeof WhiteHouseOfficeRaw;
+    summary?: MdxComponent;
+    author?: MdxComponent;
+    faq?: MdxComponent;
     metadata?: {
         authors: string[];
         title: string;
         wordcount: number;
         keywords: string[];
     }
-    endnotes?: typeof WhiteHouseOfficeRaw;
+    endnotes?: MdxComponent;
     versions?: {
-      [version: string]: typeof WhiteHouseOfficeRaw;
+      [version: string]: MdxComponent;
     };
   }
   

@@ -8,6 +8,7 @@ import {
   SidebarGroup,
   SidebarGroupContent,
   SidebarGroupLabel,
+  SidebarHeader,
   SidebarMenu,
   SidebarMenuButton,
   SidebarMenuItem,
@@ -16,7 +17,6 @@ import { Link, useLocation } from "react-router-dom";
 
 // This is sample data.
 const data = {
-    versions: ["1.0.1", "1.1.0-alpha", "2.0.0-beta1"],
     navMain: [
       {
         title: "Pages",
@@ -31,7 +31,7 @@ const data = {
             url: "/project2025",
           },
           {
-            title: "About the Project",
+            title: "About Deep Dive",
             url: "/about",
           },
           {
@@ -51,11 +51,16 @@ const data = {
 export function NavSidebar({ ...props }: React.ComponentProps<typeof Sidebar>) {
     const location = useLocation()
   return (
-    <Sidebar collapsible="icon" {...props}>
-      {/* <SidebarHeader className="bg-primary-lighter">
-        
-        <p className="ml-2 text-lg font-bold"><GiSniffingDog className="inline-block ml-2" size={32} />Deep Dive Into 2025</p>
-      </SidebarHeader> */}
+    <Sidebar {...props}>
+        <SidebarHeader>
+            <SidebarMenu>
+            <SidebarMenuItem>
+                    <div className="flex flex-col gap-0.5 leading-none h-9 justify-center align-middle">
+                        <span className="font-semibold">Deep Dive Into Project 2025</span>
+                    </div>
+            </SidebarMenuItem>
+            </SidebarMenu>
+        </SidebarHeader>
       <SidebarContent>
         {/* We create a SidebarGroup for each parent. */}
         {data.navMain.map((item) => (
@@ -65,7 +70,7 @@ export function NavSidebar({ ...props }: React.ComponentProps<typeof Sidebar>) {
               <SidebarMenu>
                 {item.items.map((item) => (
                   <SidebarMenuItem key={item.title}>
-                    <SidebarMenuButton asChild isActive={location.pathname == item.url.replace('#', '')}>
+                    <SidebarMenuButton asChild isActive={(item.url != '/' && location.pathname.startsWith(item.url.replace('#', ''))) || location.pathname == item.url}>
                       <Link to={item.url}>{item.title}</Link>
                     </SidebarMenuButton>
                   </SidebarMenuItem>

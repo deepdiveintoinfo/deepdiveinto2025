@@ -54,7 +54,7 @@ export function ContentNav({
           >
             <SidebarMenuItem>
               <CollapsibleTrigger asChild>
-                <SidebarMenuButton  tooltip={item.title} isActive={`${window.location.hash}`.startsWith(item.url) ? true : false}>
+                <SidebarMenuButton tooltip={item.title} isActive={`${window.location.hash}`.startsWith(item.url) ? true : false}>
                   {item.icon && <item.icon />}
                   <span className="inline-block ml-2">{item.title}</span>
                   <ChevronRight className="ml-auto transition-transform duration-200 group-data-[state=open]/collapsible:rotate-90" />

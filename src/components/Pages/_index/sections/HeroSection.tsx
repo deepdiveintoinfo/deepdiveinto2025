@@ -1,20 +1,52 @@
+import { Button } from "@/components/ThirdParty/ShadCn/Button";
+import { Link } from "react-router-dom";
+
 export const HeroSection = () => (
-    <section className="container relative bg-white rounded-lg shadow-lg p-8">
-      <div className="mt-0 max-w-md lg:max-w-[550px] mx-auto text-center">
-        <div className="relative overflow-hidden rounded-lg shadow-md" style={{ paddingTop: "56.25%" }}>
-          <iframe
-            className="absolute inset-0 w-full h-full max-w-[550px] max-h-[315px]"
-            src="https://www.youtube.com/embed/3h8C0QDEgsA?si=FJHzOwGIjcRrtexG"
-            title="YouTube video player"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-          ></iframe>
-        </div>
-        <small className="text-muted-foreground text-sm mt-4 block">
-          Donald Trump endorses a 'mandate' from The Heritage Foundation. Following this endorsement, The Heritage Foundation released their Mandate for Leadership, also known as Project 2025.
-        </small>
-      </div>
-      <p className="text-lg xs:text-sm xs:max-w-md text-center text-muted-foreground mt-6 leading-relaxed">
+  <div className="container md:py-24 lg:py-32">
+  {/* Grid */}
+  <div className="grid md:grid-cols-2 gap-4 md:gap-8 xl:gap-20 md:items-center">
+    {/* Text Section */}
+    <div>
+      <h1 className="scroll-m-20 text-4xl font-extrabold tracking-tight lg:text-5xl">
+        Help Unpack the Blueprint for America's Future
+      </h1>
+      <p className="mt-3 text-xl text-muted-foreground">
         Project 2025 outlines a vision for significant government restructuring and policy changes. Our mission is to critically analyze this document, uncovering its potential risks, impacts, and underlying motives. By collaborating on this analysis, we aim to create a transparent, accessible resource to inform and prepare communities for the possible implications of these proposals.
       </p>
-    </section>
-  );
+      {/* Buttons */}
+      <div className="mt-7 grid gap-3 w-full sm:inline-flex">
+        <Link to="/project2025">
+          <Button size={"lg"}>Explore the Analysis</Button>
+        </Link>
+        <Link to="/about">
+          <Button variant={"outline"} size={"lg"}>
+            Learn More
+          </Button>
+        </Link>
+      </div>
+    </div>
+    {/* End Text Section */}
+
+    {/* Video Section */}
+    <div className="relative ms-4">
+      <div
+        className="relative overflow-hidden rounded-lg shadow-md hover:shadow-lg transition-all"
+        style={{ paddingTop: "56.25%" }}
+      >
+        <iframe
+          className="absolute inset-0 w-full h-full rounded-md"
+          src="https://www.youtube.com/embed/3h8C0QDEgsA?si=FJHzOwGIjcRrtexG"
+          title="YouTube video player"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        ></iframe>
+      </div>
+      <small className="text-muted-foreground text-sm mt-4 block text-center">
+        Donald Trump endorses a 'mandate' from The Heritage Foundation. Following this endorsement, The Heritage Foundation released their Mandate for Leadership, also known as Project 2025.
+      </small>
+    </div>
+    {/* End Video Section */}
+  </div>
+  {/* End Grid */}
+</div>
+
+)
