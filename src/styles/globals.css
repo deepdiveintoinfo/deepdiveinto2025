@@ -9,6 +9,7 @@
 @import '@radix-ui/colors/red-dark.css';
 
 @import 'themes/UWDS.css';
+@import 'markdown.css';
 
 @tailwind base;
 @tailwind components;

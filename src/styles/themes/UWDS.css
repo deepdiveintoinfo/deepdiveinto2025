@@ -65,6 +65,29 @@
   --chart-3: 120 40% 40%; /* Dark green (USWDS green) */
   --chart-4: 42 95% 50%; /* Muted golden yellow (USWDS gold) */
   --chart-5: 30 60% 45%; /* Muted orange */
+
+    /* Sidebar Colors */
+    --sidebar-background: 210 15% 95%; /* USWDS gray-lighter */
+    --sidebar-foreground: 210 20% 25%; /* USWDS gray-dark */
+    --sidebar-primary: 210 100% 36%; /* USWDS primary-darkest */
+    --sidebar-primary-foreground: 0 0% 100%; /* White */
+    --sidebar-accent: 210 15% 85%; /* USWDS gray-light */
+    --sidebar-accent-foreground: 210 20% 25%; /* USWDS gray-dark */
+    --sidebar-border: 210 15% 90%; /* USWDS gray-lighter */
+    --sidebar-ring: 220 80% 40%; /* USWDS primary ring color */
+  
+    /* Sidebar Variants */
+    --sidebar-background-light: 210 15% 98%; /* Very light gray */
+    --sidebar-background-dark: 210 15% 80%; /* Muted gray */
+    --sidebar-primary-lighter: 210 60% 90%; /* Light blue */
+    --sidebar-primary-light: 210 80% 70%; /* Light blue */
+    --sidebar-primary-dark: 210 100% 30%; /* Dark blue */
+    --sidebar-primary-darker: 210 100% 20%; /* Darker blue */
+    --sidebar-accent-light: 210 15% 88%; /* Slightly lighter gray */
+    --sidebar-accent-dark: 210 15% 70%; /* Muted gray */
+    --sidebar-border-light: 210 15% 92%; /* Slightly lighter gray */
+    --sidebar-border-dark: 210 15% 70%; /* Muted gray */
+  
 }
 
 .dark {
@@ -131,52 +154,4 @@
   --chart-3: 120 60% 40%; /* Dark green for contrast */
   --chart-4: 50 20% 40%; /* Muted dark yellow */
   --chart-5: 30 60% 45%; /* Muted orange */
-}
-
-:root {
-  /* Sidebar Colors */
-  --sidebar-background: 210 15% 95%; /* USWDS gray-lighter */
-  --sidebar-foreground: 210 20% 25%; /* USWDS gray-dark */
-  --sidebar-primary: 210 100% 36%; /* USWDS primary-darkest */
-  --sidebar-primary-foreground: 0 0% 100%; /* White */
-  --sidebar-accent: 210 15% 85%; /* USWDS gray-light */
-  --sidebar-accent-foreground: 210 20% 25%; /* USWDS gray-dark */
-  --sidebar-border: 210 15% 90%; /* USWDS gray-lighter */
-  --sidebar-ring: 220 80% 40%; /* USWDS primary ring color */
-
-  /* Sidebar Variants */
-  --sidebar-background-light: 210 15% 98%; /* Very light gray */
-  --sidebar-background-dark: 210 15% 80%; /* Muted gray */
-  --sidebar-primary-lighter: 210 60% 90%; /* Light blue */
-  --sidebar-primary-light: 210 80% 70%; /* Light blue */
-  --sidebar-primary-dark: 210 100% 30%; /* Dark blue */
-  --sidebar-primary-darker: 210 100% 20%; /* Darker blue */
-  --sidebar-accent-light: 210 15% 88%; /* Slightly lighter gray */
-  --sidebar-accent-dark: 210 15% 70%; /* Muted gray */
-  --sidebar-border-light: 210 15% 92%; /* Slightly lighter gray */
-  --sidebar-border-dark: 210 15% 70%; /* Muted gray */
-}
-
-.dark {
-  /* Sidebar Colors */
-  --sidebar-background: 220 20% 12%; /* USWDS very dark navy */
-  --sidebar-foreground: 210 15% 85%; /* USWDS gray-light */
-  --sidebar-primary: 210 100% 36%; /* USWDS primary-darkest */
-  --sidebar-primary-foreground: 0 0% 100%; /* White */
-  --sidebar-accent: 220 20% 15%; /* USWDS dark navy */
-  --sidebar-accent-foreground: 210 15% 85%; /* USWDS gray-light */
-  --sidebar-border: 220 20% 15%; /* USWDS dark navy */
-  --sidebar-ring: 220 70% 30%; /* USWDS primary ring color (darker variant) */
-
-  /* Sidebar Variants */
-  --sidebar-background-light: 220 20% 18%; /* Slightly lighter dark navy */
-  --sidebar-background-dark: 220 20% 10%; /* Very dark navy */
-  --sidebar-primary-lighter: 210 60% 80%; /* Light blue */
-  --sidebar-primary-light: 210 80% 60%; /* Light blue */
-  --sidebar-primary-dark: 210 100% 30%; /* Dark blue */
-  --sidebar-primary-darker: 210 100% 20%; /* Darker blue */
-  --sidebar-accent-light: 220 20% 25%; /* Slightly lighter dark navy */
-  --sidebar-accent-dark: 220 20% 10%; /* Very dark navy */
-  --sidebar-border-light: 220 20% 18%; /* Slightly lighter dark navy */
-  --sidebar-border-dark: 220 20% 10%; /* Very dark navy */
 }

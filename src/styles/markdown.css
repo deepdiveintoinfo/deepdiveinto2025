@@ -20,6 +20,10 @@ article h5 {
 }
 
 article ul { 
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    row-gap: 10px;
     list-style-type: disc; 
     list-style-position: inside; 
     margin: 10px 0 10px 15px;
@@ -29,6 +33,10 @@ article ol {
     list-style-position: inside;
     margin: 10px 0 10px 15px; 
     text-indent: 10px;
+}
+article ul li, article ol li { 
+    margin: 0 0 0; 
+    padding: 0; 
 }
 article ul ul, article ol ul { 
     list-style-type: circle; 
@@ -42,13 +50,33 @@ article ol ol, article ul ol {
 }
 
 /* Ensure the first paragraph aligns flush with the bullet */
-li > p:first-of-type {
+article li > p:first-of-type {
+    display: inline; /* Display the paragraph as an inline element */
     margin: 0; /* Remove any default margin */
     text-indent: 0; /* Ensure no indent */
   }
   
   /* Add spacing only for subsequent paragraphs */
-  li > p:not(:first-of-type) {
+  article li > p:not(:first-of-type) {
     margin-top: 0.5em; /* Add some spacing above the second paragraph */
+  }
+  
+  article blockquote {
+    background: #f9f9f9;
+    border-left: 10px solid #ccc;
+    margin: 1.5em 10px;
+    padding: 0.5em 10px;
+    quotes: "\201C""\201D""\2018""\2019";
+  }
+  article blockquote:before {
+    color: #ccc;
+    content: open-quote;
+    font-size: 4em;
+    line-height: 0.1em;
+    margin-right: 0.25em;
+    vertical-align: -0.4em;
+  }
+  article blockquote p {
+    display: inline;
   }
   

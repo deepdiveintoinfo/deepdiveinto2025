@@ -19,6 +19,8 @@ program
     .version('0.9.0')
     .action(createCommand);
 
+export default program;
+
 export async function createTest(type, nameOfThing, typeFolder) {
     const componentFilePath = join(__projectroot, 'src', 'components', ...typeFolder, 'component.tsx')
 
@@ -92,9 +94,6 @@ const createPage = async ({urlPath, options, typeFolder, ...rest}) => {
         log(colors.blue(`<${changeCase.pascalCase(nameOfThing)} /> -->`), colors.yellow(fileName), colors.green(`created!`))
     })
 }
-
-
-export default program;
 
 export async function createCommand(type, nameOfThing, options) {
     let typeFolder = type.split('/');

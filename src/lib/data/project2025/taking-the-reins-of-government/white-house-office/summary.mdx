@@ -2,6 +2,17 @@
 import { Card, CardHeader, CardContent } from "@/components/ThirdParty/ShadCn/Card";
 import { Alert, AlertTitle, AlertDescription } from "@/components/ThirdParty/ShadCn/Alert";
 import { Accordion, AccordionItem, AccordionTrigger, AccordionContent } from "@/components/ThirdParty/ShadCn/Accordion";
+import { TriangleAlert } from "lucide-react";
+
+<Alert variant={"warning"} className="my-6">
+  <TriangleAlert className="h-4 w-4" />
+  <AlertTitle>Concerning Points</AlertTitle>
+  <AlertDescription className="mt-2">
+    * **Erosion of Checks and Balances**: The proposals could disrupt the equilibrium between governmental branches, granting excessive power to the executive.
+    * **Diminished Transparency**: Streamlining processes may result in less public visibility into governmental actions, reducing accountability.
+    * **Potential for Partisan Appointments**: Prioritizing loyalty over expertise could lead to appointments based on political alignment rather than qualifications.
+  </AlertDescription>
+</Alert>
 
 
 <Card className="my-6 border border-muted">
@@ -11,28 +22,6 @@ import { Accordion, AccordionItem, AccordionTrigger, AccordionContent } from "@/
   </CardContent>
 </Card>
 
-## Concerning Points
-
-<div className="flex space-x-4">
-  <Alert className="border-l-4 border-secondary bg-secondary w-[400px] text-white">
-    <AlertTitle>Erosion of Checks and Balances</AlertTitle>
-    <AlertDescription className="my-6">
-      The proposals could disrupt the equilibrium between governmental branches, granting excessive power to the executive.
-    </AlertDescription>
-  </Alert>
-  <Alert className="border-l-4 border-gray bg-white w-[400px]">
-    <AlertTitle>Diminished Transparency</AlertTitle>
-    <AlertDescription className="my-6">
-      Streamlining processes may result in less public visibility into governmental actions, reducing accountability.
-    </AlertDescription>
-  </Alert>
-  <Alert className="border-l-4 border-primary bg-primary w-[400px] text-white">
-    <AlertTitle>Potential for Partisan Appointments</AlertTitle>
-    <AlertDescription className="my-6">
-      Prioritizing loyalty over expertise could lead to appointments based on political alignment rather than qualifications.
-    </AlertDescription>
-  </Alert>
-</div>
 
 
 ## Key Themes and Concerns
@@ -69,7 +58,26 @@ import { Accordion, AccordionItem, AccordionTrigger, AccordionContent } from "@/
 
 ---
 
-## Concerning Points to Highlight
+## Key Quotes
 
-## Call to Action
-It is crucial to critically assess these proposals to understand their implications on democratic governance. Engaging in informed discussions and analyses will help ensure that any reforms uphold the principles of transparency, accountability, and balanced power distribution.
+### Highlighting Centralization of Power
+
+> "The White House Office must serve as the central hub for all executive decision-making, ensuring that policies align closely with the administration's priorities."
+
+> "To streamline operations, authority must be consolidated within a small, trusted circle of advisors."
+
+### Highlighting Reduction of Oversight
+
+> "Bureaucratic delays caused by unnecessary layers of oversight must be minimized to allow for quicker and more decisive action."
+
+> "Streamlining processes ensures that the executive branch can operate free from interference by external entities."
+
+### Highlighting Emphasis on Loyalty
+
+> "Appointments to key positions should prioritize ideological alignment and loyalty to the administration's vision."
+> "Those who fail to share the administration's values may hinder progress and should be replaced with individuals more aligned with its goals."
+
+### On Transparency and Public Accountability
+
+> "While transparency is important, it cannot come at the expense of efficiency and the ability to execute policies effectively."
+> "Certain decisions must remain shielded from public and legislative scrutiny to protect the administration's strategic interests."

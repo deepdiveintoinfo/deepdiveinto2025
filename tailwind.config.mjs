@@ -1,7 +1,10 @@
 // import * as theme from './src/lib/tailwind/theme/index.mjs'
-import { fontFamily } from 'tailwindcss/defaultTheme'
+import pkg from 'tailwindcss/defaultTheme.js'
+
 
 /** @type {import('tailwindcss').Config} */
+
+const { fontFamily } = pkg
 
 const theme = {
   extend: {
@@ -78,7 +81,7 @@ const theme = {
       },
       accent: {
         DEFAULT: 'hsl(var(--accent))',
-        'cool-lighter': 'hsl(var(--accent-cool-lighter))',
+        lighter: 'hsl(var(--accent-cool-lighter))',
         'cool-light': 'hsl(var(--accent-cool-light))',
         'cool-dark': 'hsl(var(--accent-cool-dark))',
         'cool-darker': 'hsl(var(--accent-cool-darker))',
@@ -157,7 +160,8 @@ const theme = {
 export default {
   darkMode: ["class"],
   content: [
-    './src/**/*.{ts,tsx}',
+    './src/**/*.{html,js,jsx,ts,tsx,mdx}',
+    './public/index.html', // Include HTML templates if any
   ],
   prefix: "",
   theme,

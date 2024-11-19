@@ -35,7 +35,7 @@ export const SidebarWrapper = ({children}: {children: ReactNode}) => {
                   
                   {pathNameChunks.map((chunk, index) => <>
                       <BreadcrumbItem key={`chunk-${index}}`} className="hidden md:block">
-                      <BreadcrumbLink href={`/#${pathNameChunks.slice(0, index+1).join('/')}`}>
+                      <BreadcrumbLink href={`#${pathNameChunks.slice(0, index+1).join('/')}`}>
                           {changeCase.capitalCase(chunk || '')}
                         </BreadcrumbLink>
                       </BreadcrumbItem>
