@@ -11,16 +11,13 @@ import {
   Settings2,
   Briefcase,
   Building,
-  FileText,
+  FileText
 } from "lucide-react";
 
-import { NavMain } from "./nav-main";
+import { ContentNav } from "./content-nav";
 import {
   Sidebar,
   SidebarContent,
-  // SidebarFooter,
-  // SidebarHeader,
-  // SidebarRail,
 } from "@/components/ThirdParty/ShadCn/Sidebar";
 
 const sections = [
@@ -95,9 +92,13 @@ const sections = [
 export function AppSidebar({ ...props }: React.ComponentProps<typeof Sidebar>) {
   return (
     <Sidebar collapsible="icon" {...props}>
+      {/* <SidebarHeader className="bg-primary-lighter">
+        
+        <p className="ml-2 text-lg font-bold"><GiSniffingDog className="inline-block ml-2" size={32} />Deep Dive Into 2025</p>
+      </SidebarHeader> */}
       <SidebarContent className="bg-primary-lighter">
         {/* Sections with Chapters */}
-        <NavMain
+        <ContentNav
             title={"Project 2025"}
             key={"Project 2025"}
             items={sections.map((section) => ({

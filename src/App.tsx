@@ -16,7 +16,7 @@ import { SidebarWrapper } from './components/Templates/wrappers/SidebarWrapper';
 const router = createHashRouter(Object.entries(pages).map(([path, Element]) => {
   return ({
     ...Element,
-    element: path == 'IndexPage' ? <IndexWrapper><Element /></IndexWrapper> : <SidebarWrapper><Element /></SidebarWrapper>
+    element: path == 'IndexPage' ? <SidebarWrapper><Element /></SidebarWrapper> : <SidebarWrapper><Element /></SidebarWrapper>
   })
 }), {
 });

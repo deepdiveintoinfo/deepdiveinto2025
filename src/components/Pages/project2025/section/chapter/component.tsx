@@ -7,7 +7,6 @@ import { ChapterInterface } from '@/lib/data/project2025/types';
 import * as React from "react";
 import { Badge } from "@/components/ThirdParty/ShadCn/Badge";
 import { Tabs, TabsList, TabsTrigger, TabsContent } from '@/components/ThirdParty/ShadCn/Tabs';
-import { useParams } from 'react-router-dom';
 import { useSearchParams } from 'react-router-dom';
 
 interface KeywordsBadgesProps {

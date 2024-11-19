@@ -20,7 +20,7 @@ import {
 
 import { Link } from "react-router-dom"
 
-export function NavMain({
+export function ContentNav({
   items,
   title,
 }: {
