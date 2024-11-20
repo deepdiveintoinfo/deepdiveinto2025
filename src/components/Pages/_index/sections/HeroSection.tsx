@@ -14,7 +14,7 @@ export const HeroSection = () => (
         Project 2025 outlines a vision for significant government restructuring and policy changes. Our mission is to critically analyze this document, uncovering its potential risks, impacts, and underlying motives. By collaborating on this analysis, we aim to create a transparent, accessible resource to inform and prepare communities for the possible implications of these proposals.
       </p>
       {/* Buttons */}
-      <div className="mt-7 grid gap-3 w-full sm:inline-flex">
+      <div className="mt-7 w-full flex justify-evenly">
         <Link to="/project2025">
           <Button size={"lg"}>Explore the Analysis</Button>
         </Link>

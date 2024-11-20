@@ -37,8 +37,6 @@ export const ChapterPage: PageComponentType = () => {
 
     const chapter: ChapterInterface | undefined = useChapter();
     const RawMdxContent = chapter?.versions?.raw;
-    const SimpleMdxContent = chapter?.versions?.simple;
-    const ClearMdxContent = chapter?.versions?.clear;  
     const Summary = chapter?.summary
     const EndNotes = chapter?.endnotes
     const Authors = chapter?.author
@@ -50,28 +48,16 @@ export const ChapterPage: PageComponentType = () => {
         <p className='ml-3'>authored by <i>{chapter?.metadata?.authors?.join(', ')}</i></p>
         {chapter?.metadata?.keywords && <KeywordsBadges keywords={chapter.metadata.keywords} />}
         <Tabs defaultValue={searchParams.get('tabKey') || "summary"}>
-          <TabsList className='flex justify-between flex-col md:flex-row mb-8 mt-4'>
-            <div>
+          <TabsList className='mb-8 mt-4'>
               {Summary && <TabsTrigger className='active:bg-black' value="summary" onClick={() => setSearchParams({tabKey: "summary"})}>Summary</TabsTrigger>}
               {Authors && <TabsTrigger value="authors" onClick={() => setSearchParams({tabKey: "authors"})}>Authors</TabsTrigger>}
               {FAQ && <TabsTrigger value="faq" onClick={() => setSearchParams({tabKey: "faq"})}>FAQ</TabsTrigger>}
-            </div>
-
-            <div>
               {RawMdxContent && <TabsTrigger value="raw" onClick={() => setSearchParams({tabKey: "raw"})}>Chapter Source</TabsTrigger>}
-              {ClearMdxContent && <TabsTrigger value="clear" onClick={() => setSearchParams({tabKey: "clear"})}>Made Clear</TabsTrigger>}
-              {SimpleMdxContent && <TabsTrigger value="simple" onClick={() => setSearchParams({tabKey: "simple"})}>Simplified</TabsTrigger>}
-            </div>
-            <div>
               {EndNotes && <TabsTrigger value="endnotes" onClick={() => setSearchParams({tabKey: "endnotes"})}>Endnotes</TabsTrigger>}
-
-            </div>
           </TabsList>
             {Summary && <TabsContent value="summary"><Summary /></TabsContent>}
             {Authors && <TabsContent value="authors"><Authors /></TabsContent>}
             {RawMdxContent && <TabsContent defaultChecked value="raw"><RawMdxContent /></TabsContent>}
-            {SimpleMdxContent && <TabsContent value="simple"><SimpleMdxContent /></TabsContent>}
-            {ClearMdxContent && <TabsContent value="clear"><ClearMdxContent /></TabsContent>}
             {EndNotes && <TabsContent value="endnotes"><EndNotes /></TabsContent>}
             {FAQ && <TabsContent value="faq"><FAQ /></TabsContent>}
         </Tabs>

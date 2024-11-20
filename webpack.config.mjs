@@ -6,6 +6,8 @@ import process from 'process'
 
 import { fileURLToPath } from 'url';
 import { dirname } from 'path';
+import remarkSlug from 'remark-slug';
+import remarkAutolinkHeadings from 'remark-autolink-headings';
 
 const { container } = pkg;
 const { ModuleFederationPlugin } = container;
@@ -82,10 +84,26 @@ export default {
         test: /\.mdx?$/,
         use: [
           'babel-loader',
-          '@mdx-js/loader',
+          {
+            loader: '@mdx-js/loader',
+            options: {
+              remarkPlugins: [
+                remarkSlug,
+                [
+                  remarkAutolinkHeadings,
+                  {
+                    behavior: 'append',
+                    linkProperties: {
+                      className: ['anchor'],
+                    },
+                  },
+                ],
+              ],
+            },
+          },
         ],
       },
-      {
+            {
         resourceQuery: /raw/,
         type: 'asset/source',
       },

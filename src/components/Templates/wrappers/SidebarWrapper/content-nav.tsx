@@ -17,6 +17,7 @@ import {
   SidebarMenuSubButton,
   SidebarMenuSubItem,
 } from "@/components/ThirdParty/ShadCn/Sidebar"
+import { useLocation } from "react-router-dom"
 
 import { Link } from "react-router-dom"
 
@@ -36,18 +37,20 @@ export function ContentNav({
     }[]
   }[]
 }) {
-
+  const location = useLocation()
+  console.log(location)
   const [currentSection, setCurrentSection] = useState<string | null>(null)
   
   return (
     <SidebarGroup>
       <SidebarGroupLabel>{title}</SidebarGroupLabel>
       <SidebarMenu>
-        {items.map((item) => (
+        {items.map((item, index) => (
           <Collapsible
             key={item.title}
             asChild
-            open={currentSection ? currentSection === item.title : `${window.location.hash.replace('#', '')}`.startsWith(item.url)}
+            defaultValue={index === 0 ? "open" : "closed"}
+            open={currentSection ? currentSection === item.title : (location.pathname.includes(item.url))}
             onOpenChange={(open) => setCurrentSection(open ? item.title : null)}
             defaultOpen = {`${window.location.hash.replace('#', '')}`.startsWith(item.url)}
             className="group/collapsible"

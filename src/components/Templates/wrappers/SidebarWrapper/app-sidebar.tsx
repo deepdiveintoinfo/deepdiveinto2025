@@ -18,7 +18,14 @@ import { ContentNav } from "./content-nav";
 import {
   Sidebar,
   SidebarContent,
+  SidebarHeader,
 } from "@/components/ThirdParty/ShadCn/Sidebar";
+import { SearchForm } from "./search-form";
+import { VersionSwitcher } from "./version-switcher";
+
+const data = {
+  versions: Object.keys({thorough: "C1", clear: "B2", simple: "B1", basic: "A2", essential: "A1"}),
+};
 
 const sections = [
   {
@@ -92,15 +99,19 @@ const sections = [
 export function AppSidebar({ ...props }: React.ComponentProps<typeof Sidebar>) {
   return (
     <Sidebar collapsible="icon" {...props}>
-      {/* <SidebarHeader className="bg-primary-lighter">
-        
-        <p className="ml-2 text-lg font-bold"><GiSniffingDog className="inline-block ml-2" size={32} />Deep Dive Into 2025</p>
-      </SidebarHeader> */}
+      <SidebarHeader>
+        <VersionSwitcher
+          versions={data.versions}
+          defaultVersion={data.versions[0]}
+        />
+        <SearchForm />
+      </SidebarHeader>
+
       <SidebarContent className="bg-primary-lighter">
         {/* Sections with Chapters */}
         <ContentNav
-            title={"Project 2025"}
-            key={"Project 2025"}
+            title={"Sections"}
+            key={"Sections"}
             items={sections.map((section) => ({
                 title: section.title,
                 url: section.url,
