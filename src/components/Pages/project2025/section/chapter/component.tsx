@@ -57,7 +57,7 @@ export const ChapterPage: PageComponentType = () => {
           </TabsList>
             {Summary && <TabsContent value="summary"><Summary /></TabsContent>}
             {Authors && <TabsContent value="authors"><Authors /></TabsContent>}
-            {RawMdxContent && <TabsContent defaultChecked value="raw"><RawMdxContent /></TabsContent>}
+            {RawMdxContent && <TabsContent value="raw"><RawMdxContent /></TabsContent>}
             {EndNotes && <TabsContent value="endnotes"><EndNotes /></TabsContent>}
             {FAQ && <TabsContent value="faq"><FAQ /></TabsContent>}
         </Tabs>

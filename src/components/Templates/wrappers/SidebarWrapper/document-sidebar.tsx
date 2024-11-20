@@ -14,7 +14,7 @@ import {
   FileText
 } from "lucide-react";
 
-import { ContentNav } from "./content-nav";
+import { ContentNav } from "./sections-menu";
 import {
   Sidebar,
   SidebarContent,
@@ -96,9 +96,9 @@ const sections = [
 ];
   
 
-export function AppSidebar({ ...props }: React.ComponentProps<typeof Sidebar>) {
+export function DocumentSidebar({ ...props }: React.ComponentProps<typeof Sidebar>) {
   return (
-    <Sidebar collapsible="icon" {...props}>
+    <Sidebar {...props}>
       <SidebarHeader>
         <VersionSwitcher
           versions={data.versions}

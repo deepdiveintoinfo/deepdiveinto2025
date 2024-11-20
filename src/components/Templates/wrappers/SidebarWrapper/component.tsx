@@ -1,6 +1,6 @@
 import { ReactNode } from "react"
 import { useLocation } from "react-router-dom"
-import { AppSidebar } from "./app-sidebar"
+import { DocumentSidebar } from "./document-sidebar"
 import {
   Breadcrumb,
   BreadcrumbItem,
@@ -16,7 +16,9 @@ import {
   SidebarTrigger,
 } from "@/components/ThirdParty/ShadCn/Sidebar"
 import * as changeCase from 'change-case'
-import { NavSidebar } from "./nav-sidebar"
+import { SiteSidebar } from "./sidebars/site-sidebar"
+import { Home } from "lucide-react"
+
 
 // Define the TypeScript interfaces
 export const SidebarWrapper = ({children}: {children: ReactNode}) => {
@@ -26,8 +28,7 @@ export const SidebarWrapper = ({children}: {children: ReactNode}) => {
     return (
       <>
       <SidebarProvider>
-      <NavSidebar />
-
+        <SiteSidebar />
         <SidebarInset>
           <header className="flex h-16 shrink-0 items-center gap-2 transition-[width,height] ease-linear group-has-[[data-collapsible=icon]]/sidebar-wrapper:h-12 justify-between">
 
@@ -64,7 +65,7 @@ export const SidebarWrapper = ({children}: {children: ReactNode}) => {
 
           </div>
         </SidebarInset>
-        { location.pathname.startsWith('/project2025') && <AppSidebar side="right" /> }
+        { location.pathname.startsWith('/project2025') && <DocumentSidebar side="right" /> }
 
       </SidebarProvider>
       </>
