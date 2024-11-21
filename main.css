@@ -28489,6 +28489,9 @@ video {
 .mr-2{
   margin-right: 0.5rem;
 }
+.mr-9{
+  margin-right: 3rem;
+}
 .ms-3{
   margin-inline-start: 0.75rem;
 }
@@ -31537,9 +31540,6 @@ video {
 }
 .has-\[\[data-variant\=inset\]\]\:bg-sidebar:has([data-variant=inset]){
   background-color: hsl(var(--sidebar-background));
-}
-.group\/sidebar-wrapper:has([data-collapsible=icon]) .group-has-\[\[data-collapsible\=icon\]\]\/sidebar-wrapper\:h-12{
-  height: 6rem;
 }
 .group\/menu-item:has([data-sidebar=menu-action]) .group-has-\[\[data-sidebar\=menu-action\]\]\/menu-item\:pr-8{
   padding-right: 2.5rem;
