@@ -7,15 +7,18 @@ import {
   SidebarContent,
   SidebarHeader,
   SidebarMenu,
+  SidebarMenuAction,
   SidebarMenuButton,
   SidebarMenuItem,
+  useSidebar,
 } from "@/components/ThirdParty/ShadCn/Sidebar";
 import { Link, useLocation } from "react-router-dom";
-import { PagesMenu } from "../menus/pages-menu";    
-import { Home } from "lucide-react";
+import { PagesMenu } from "./menus/pages-menu";    
+import { ChevronLeft, Home } from "lucide-react";
 
 export function SiteSidebar({ ...props }: React.ComponentProps<typeof Sidebar>) {
   const location = useLocation()
+
   return (
     <Sidebar collapsible="icon" {...props}>
         <SidebarHeader>

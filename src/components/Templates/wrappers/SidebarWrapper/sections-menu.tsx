@@ -11,15 +11,18 @@ import {
   SidebarGroup,
   SidebarGroupLabel,
   SidebarMenu,
+  SidebarMenuAction,
   SidebarMenuButton,
   SidebarMenuItem,
   SidebarMenuSub,
   SidebarMenuSubButton,
   SidebarMenuSubItem,
+  useSidebar,
 } from "@/components/ThirdParty/ShadCn/Sidebar"
 import { useLocation } from "react-router-dom"
 
 import { Link } from "react-router-dom"
+import { useIsMobile } from "@/hooks/use-mobile"
 
 export function ContentNav({
   items,
@@ -38,7 +41,11 @@ export function ContentNav({
   }[]
 }) {
   const location = useLocation()
-  console.log(location)
+  const isMobile = useIsMobile()
+  const {
+    setOpen,
+    setOpenMobile,
+  } = useSidebar()
   const [currentSection, setCurrentSection] = useState<string | null>(null)
   
   return (
@@ -49,18 +56,20 @@ export function ContentNav({
           <Collapsible
             key={item.title}
             asChild
-            defaultValue={index === 0 ? "open" : "closed"}
+            // defaultValue={index === 0 ? "open" : "closed"}
             open={currentSection ? currentSection === item.title : (location.pathname.includes(item.url))}
             onOpenChange={(open) => setCurrentSection(open ? item.title : null)}
-            defaultOpen = {`${window.location.hash.replace('#', '')}`.startsWith(item.url)}
+            defaultOpen = {true}
             className="group/collapsible"
           >
             <SidebarMenuItem>
               <CollapsibleTrigger asChild>
-                <SidebarMenuButton tooltip={item.title} isActive={`${window.location.hash}`.startsWith(item.url) ? true : false}>
+                <SidebarMenuButton tooltip={item.title} isActive={location.pathname.startsWith(item.url) ? true : false}>
                   {item.icon && <item.icon />}
                   <span className="inline-block ml-2">{item.title}</span>
-                  <ChevronRight className="ml-auto transition-transform duration-200 group-data-[state=open]/collapsible:rotate-90" />
+                  <SidebarMenuAction>
+                    <ChevronRight className="ml-auto transition-transform duration-200 group-data-[state=open]/collapsible:rotate-90" />
+                  </SidebarMenuAction>
                 </SidebarMenuButton>
               </CollapsibleTrigger>
               <CollapsibleContent>
@@ -68,7 +77,14 @@ export function ContentNav({
                   {item.items?.map((subItem) => {
                     return (
                       <SidebarMenuSubItem key={subItem.title}>
-                        <SidebarMenuSubButton asChild isActive={`${window.location.hash.replace('#', '')}`.startsWith(subItem.url) ? true : false}>
+                        <SidebarMenuSubButton asChild isActive={`${window.location.hash.replace('#', '')}`.startsWith(subItem.url) ? true : false}
+                          onClick={() => {
+                            if(isMobile) {
+                              setOpenMobile(false)
+                              setOpen(false)
+                            }
+                          }}
+                        >
                           <Link reloadDocument to={`${subItem.url}?tabKey=summary`}>
                             <span>{subItem.title}</span>
                           </Link>

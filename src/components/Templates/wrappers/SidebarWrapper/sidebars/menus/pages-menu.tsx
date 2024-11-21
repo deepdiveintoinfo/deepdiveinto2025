@@ -12,8 +12,10 @@ import {
   SidebarMenu,
   SidebarMenuButton,
   SidebarMenuItem,
+  useSidebar,
 } from "@/components/ThirdParty/ShadCn/Sidebar";
 import { Link, useLocation } from "react-router-dom";
+import { useIsMobile } from "@/hooks/use-mobile";
 
 const pages = [
   {
@@ -40,6 +42,8 @@ const pages = [
     
 
 export function PagesMenu({ ...props }: React.ComponentProps<typeof Sidebar>) {
+  const isMobile = useIsMobile();
+  const { setOpen, setOpenMobile } = useSidebar()
   const location = useLocation()
   return (
       <SidebarGroup key={"Pages"} {...props}>
@@ -47,7 +51,7 @@ export function PagesMenu({ ...props }: React.ComponentProps<typeof Sidebar>) {
           <SidebarGroupContent>
             <SidebarMenu>
               {pages.map((item) => (
-                <SidebarMenuItem key={item.title}>
+                <SidebarMenuItem key={item.title} onClick={() => isMobile ? setOpenMobile(false) : null}>
                   <SidebarMenuButton asChild isActive={(item.url != '/' && location.pathname.startsWith(item.url.replace('#', ''))) || location.pathname == item.url}>
                     <Link to={item.url}>{item.icon && <item.icon size={16} />} <span>{item.title}</span></Link>
                   </SidebarMenuButton>

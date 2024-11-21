@@ -34,10 +34,13 @@ export const SectionPage: PageComponentType = () => {
     // const { content } = useChapter(sectionName, chapterName);
 
     return (
-      <div>
-        <h1>{changeCase.capitalCase(sectionName || '')}</h1>
-        {/* {ChapterContent && <ChapterContent />} */}
-      </div>
+      <article>
+        <div>
+          <h1>{changeCase.capitalCase(sectionName || '')} Page</h1>
+          <h2>Nother here yet.</h2>
+          <p>Coming soon.</p>
+        </div>
+      </article>
     );
   }
 

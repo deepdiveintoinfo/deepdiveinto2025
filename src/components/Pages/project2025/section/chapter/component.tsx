@@ -49,11 +49,15 @@ export const ChapterPage: PageComponentType = () => {
         {chapter?.metadata?.keywords && <KeywordsBadges keywords={chapter.metadata.keywords} />}
         <Tabs defaultValue={searchParams.get('tabKey') || "summary"}>
           <TabsList className='mb-8 mt-4'>
+            <div>
               {Summary && <TabsTrigger className='active:bg-black' value="summary" onClick={() => setSearchParams({tabKey: "summary"})}>Summary</TabsTrigger>}
               {Authors && <TabsTrigger value="authors" onClick={() => setSearchParams({tabKey: "authors"})}>Authors</TabsTrigger>}
               {FAQ && <TabsTrigger value="faq" onClick={() => setSearchParams({tabKey: "faq"})}>FAQ</TabsTrigger>}
+            </div>
+            <div>
               {RawMdxContent && <TabsTrigger value="raw" onClick={() => setSearchParams({tabKey: "raw"})}>Chapter Source</TabsTrigger>}
               {EndNotes && <TabsTrigger value="endnotes" onClick={() => setSearchParams({tabKey: "endnotes"})}>Endnotes</TabsTrigger>}
+            </div>
           </TabsList>
             {Summary && <TabsContent value="summary"><Summary /></TabsContent>}
             {Authors && <TabsContent value="authors"><Authors /></TabsContent>}

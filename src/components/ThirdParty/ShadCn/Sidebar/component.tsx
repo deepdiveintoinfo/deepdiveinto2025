@@ -51,15 +51,21 @@ const SidebarProvider = React.forwardRef<
   HTMLDivElement,
   React.ComponentProps<"div"> & {
     defaultOpen?: boolean
+    defaultOpenMobile?: boolean
     open?: boolean
     onOpenChange?: (open: boolean) => void
+    openMobile?: boolean
+    onOpenMobileChange?: (open: boolean) => void
   }
 >(
   (
     {
+      defaultOpenMobile = false,
       defaultOpen = true,
       open: openProp,
       onOpenChange: setOpenProp,
+      openMobile: openMobileProp,
+      onOpenMobileChange: setOpenMobileProp,
       className,
       style,
       children,
@@ -68,7 +74,7 @@ const SidebarProvider = React.forwardRef<
     ref
   ) => {
     const isMobile = useIsMobile()
-    const [openMobile, setOpenMobile] = React.useState(false)
+    // const [openMobile, setOpenMobile] = React.useState(false)
 
     // This is the internal state of the sidebar.
     // We use openProp and setOpenProp for control from outside the component.
@@ -89,11 +95,32 @@ const SidebarProvider = React.forwardRef<
       [setOpenProp, open]
     )
 
+        // This is the internal state of the sidebar.
+    // We use openProp and setOpenProp for control from outside the component.
+    const [_openMobile, _setOpenMobile] = React.useState(defaultOpenMobile)
+    const openMobile = openMobileProp ?? _openMobile
+    const setOpenMobile = React.useCallback(
+      (value: boolean | ((value: boolean) => boolean)) => {
+        const openState = typeof value === "function" ? value(openMobile) : value
+        if (setOpenMobileProp) {
+          setOpenMobileProp(openState)
+        } else {
+          _setOpenMobile(openState)
+        }
+
+        // This sets the cookie to keep the sidebar state.
+        document.cookie = `mobile:${SIDEBAR_COOKIE_NAME}=${openState}; path=/; max-age=${SIDEBAR_COOKIE_MAX_AGE}`
+      },
+      [setOpenMobileProp, openMobile]
+    )
+
     // Helper to toggle the sidebar.
     const toggleSidebar = React.useCallback(() => {
-      return isMobile
-        ? setOpenMobile((open) => !open)
-        : setOpen((open) => !open)
+      if(isMobile) {
+        return setOpenMobile((open) => !open)
+      } else { 
+        return setOpen((open) => !open)
+      }
     }, [isMobile, setOpen, setOpenMobile])
 
     // Adds a keyboard shortcut to toggle the sidebar.
