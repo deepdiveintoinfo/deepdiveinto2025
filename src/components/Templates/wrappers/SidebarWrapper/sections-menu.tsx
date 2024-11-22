@@ -52,7 +52,7 @@ export function ContentNav({
     <SidebarGroup>
       <SidebarGroupLabel>{title}</SidebarGroupLabel>
       <SidebarMenu>
-        {items.map((item, index) => (
+        {items.map((item) => (
           <Collapsible
             key={item.title}
             asChild
@@ -77,7 +77,7 @@ export function ContentNav({
                   {item.items?.map((subItem) => {
                     return (
                       <SidebarMenuSubItem key={subItem.title}>
-                        <SidebarMenuSubButton asChild isActive={`${window.location.hash.replace('#', '')}`.startsWith(subItem.url) ? true : false}
+                        <SidebarMenuSubButton asChild isActive={location.pathname.startsWith(subItem.url) ? true : false}
                           onClick={() => {
                             if(isMobile) {
                               setOpenMobile(false)

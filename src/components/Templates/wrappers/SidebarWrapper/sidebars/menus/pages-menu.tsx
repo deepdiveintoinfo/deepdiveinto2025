@@ -43,7 +43,7 @@ const pages = [
 
 export function PagesMenu({ ...props }: React.ComponentProps<typeof Sidebar>) {
   const isMobile = useIsMobile();
-  const { setOpen, setOpenMobile } = useSidebar()
+  const { setOpenMobile } = useSidebar()
   const location = useLocation()
   return (
       <SidebarGroup key={"Pages"} {...props}>

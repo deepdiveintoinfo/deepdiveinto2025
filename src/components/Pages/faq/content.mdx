@@ -1,85 +1,98 @@
-## Frequently Asked Questions (FAQs)
+import { Accordion, AccordionItem, AccordionTrigger, AccordionContent } from "@/components/ThirdParty/ShadCn/Accordion";
 
-### What is Project 2025?
+<h2 className="text-2xl font-bold mb-4">Frequently Asked Questions (FAQs)</h2>
+<section className="my-6 p-3 bg-white border border-gray-300 rounded-md">
+      <Accordion type="single" collapsible defaultValue="project-2025">
+        <AccordionItem value="project-2025">
+          <AccordionTrigger>What is Project 2025?</AccordionTrigger>
+          <AccordionContent>
+            <p>
+              <strong>Project 2025</strong> is a collection of policy proposals created by the Heritage Foundation and other conservative groups. It is meant to guide the next Republican president in reshaping the federal government. The plan covers changes to many areas, including how decisions are made in the White House, how agencies work, and what policies the government should follow.
+            </p>
+          </AccordionContent>
+        </AccordionItem>
 
-**Project 2025** is a collection of policy proposals created by the Heritage Foundation and other conservative groups. It is meant to guide the next Republican president in reshaping the federal government. The plan covers changes to many areas, including how decisions are made in the White House, how agencies work, and what policies the government should follow.
+        <AccordionItem value="why-care">
+          <AccordionTrigger>Why should I care about Project 2025?</AccordionTrigger>
+          <AccordionContent>
+            <p>
+              This project isn't just a policy wishlist—it's designed to influence actual government decisions if a Republican president wins in 2024. These proposals could lead to major changes in how government works, affecting everything from healthcare and education to environmental protections and civil rights. Understanding these proposals helps you stay informed about potential impacts on your daily life.
+            </p>
+          </AccordionContent>
+        </AccordionItem>
 
-### Why should I care about Project 2025?
+        <AccordionItem value="normal-politics">
+          <AccordionTrigger>Isn't this just normal politics?</AccordionTrigger>
+          <AccordionContent>
+            <p>
+              While it's normal for political groups to propose ideas, <strong>Project 2025</strong> stands out because of its scale and focus. It doesn't just suggest policies; it plans to restructure the federal government in ways that could concentrate power and reduce oversight. This isn't just politics as usual—it's a roadmap for dramatic change.
+            </p>
+          </AccordionContent>
+        </AccordionItem>
 
-This project isn't just a policy wishlist—it's designed to influence actual government decisions if a Republican president wins in 2024. These proposals could lead to major changes in how government works, affecting everything from healthcare and education to environmental protections and civil rights. Understanding these proposals helps you stay informed about potential impacts on your daily life.
+        <AccordionItem value="spin">
+          <AccordionTrigger>How is this not just partisan spin?</AccordionTrigger>
+          <AccordionContent>
+            <p>
+              We base our analysis on the actual text of <strong>Project 2025</strong>. Every claim we make comes from their own words, which we quote directly. By focusing on the content of the document, we avoid spin and provide critical analysis grounded in facts.
+            </p>
+          </AccordionContent>
+        </AccordionItem>
 
-### Isn't this just normal politics?
+        <AccordionItem value="who-behind">
+          <AccordionTrigger>Who is behind Project 2025?</AccordionTrigger>
+          <AccordionContent>
+            <p>
+              The project is led by the Heritage Foundation, a powerful conservative think tank, with contributions from other right-leaning organizations. These groups have a long history of advocating for smaller government, reduced regulations, and conservative social policies. Their funding comes from major donors, corporations, and political groups with strong ideological goals.
+            </p>
+          </AccordionContent>
+        </AccordionItem>
 
-While it's normal for political groups to propose ideas, **Project 2025** stands out because of its scale and focus. It doesn't just suggest policies; it plans to restructure the federal government in ways that could concentrate power and reduce oversight. This isn't just politics as usual—it's a roadmap for dramatic change.
+        <AccordionItem value="efficiency">
+          <AccordionTrigger>Isn't the goal just to make government more efficient?</AccordionTrigger>
+          <AccordionContent>
+            <p>
+              Efficiency is one of the key terms used in <strong>Project 2025</strong>, but it often means removing oversight and consolidating power in the executive branch. While efficiency can be good, it should not come at the cost of transparency, accountability, and the checks and balances that keep democracy fair.
+            </p>
+          </AccordionContent>
+        </AccordionItem>
 
-### How is this not just partisan spin?
+        <AccordionItem value="centralization">
+          <AccordionTrigger>What's wrong with centralizing power?</AccordionTrigger>
+          <AccordionContent>
+            <p>
+              Centralizing power may make decisions faster, but it also reduces the input of other branches of government and the public. This could weaken democracy by concentrating control in the hands of a few people, making it harder to hold leaders accountable.
+            </p>
+          </AccordionContent>
+        </AccordionItem>
 
-We base our analysis on the actual text of **Project 2025**. Every claim we make comes from their own words, which we quote directly. By focusing on the content of the document, we avoid spin and provide critical analysis grounded in facts.
+        <AccordionItem value="policy-ideas">
+          <AccordionTrigger>Aren't these just policy ideas? Why should I worry?</AccordionTrigger>
+          <AccordionContent>
+            <p>
+              While these are currently just ideas, they are designed to become real policies under a supportive administration. The Heritage Foundation is highly influential, and their recommendations could directly shape government actions, potentially affecting laws, public services, and individual rights.
+            </p>
+          </AccordionContent>
+        </AccordionItem>
 
-### Who is behind Project 2025?
+        <AccordionItem value="impact">
+          <AccordionTrigger>How does this affect me?</AccordionTrigger>
+          <AccordionContent>
+            <p>
+              If implemented, the proposals in <strong>Project 2025</strong> could change how government services are provided, who gets access to them, and how much control ordinary people have over decisions. Policies on healthcare, education, and the environment could be drastically altered in ways that may not benefit everyone equally.
+            </p>
+          </AccordionContent>
+        </AccordionItem>
 
-The project is led by the Heritage Foundation, a powerful conservative think tank, with contributions from other right-leaning organizations. These groups have a long history of advocating for smaller government, reduced regulations, and conservative social policies. Their funding comes from major donors, corporations, and political groups with strong ideological goals.
+        <AccordionItem value="democratic">
+          <AccordionTrigger>Are these proposals democratic?</AccordionTrigger>
+          <AccordionContent>
+            <p>
+              Many parts of <strong>Project 2025</strong> prioritize loyalty to a specific political agenda and centralize power in the executive branch. This raises concerns about whether the proposals uphold democratic values like accountability, transparency, and fairness.
+            </p>
+          </AccordionContent>
+        </AccordionItem>
 
-### Isn't the goal just to make government more efficient?
-
-Efficiency is one of the key terms used in **Project 2025**, but it often means removing oversight and consolidating power in the executive branch. While efficiency can be good, it should not come at the cost of transparency, accountability, and the checks and balances that keep democracy fair.
-
-### What's wrong with centralizing power?
-
-Centralizing power may make decisions faster, but it also reduces the input of other branches of government and the public. This could weaken democracy by concentrating control in the hands of a few people, making it harder to hold leaders accountable.
-
-### Aren't these just policy ideas? Why should I worry?
-
-While these are currently just ideas, they are designed to become real policies under a supportive administration. The Heritage Foundation is highly influential, and their recommendations could directly shape government actions, potentially affecting laws, public services, and individual rights.
-
-### How does this affect me?
-
-If implemented, the proposals in **Project 2025** could change how government services are provided, who gets access to them, and how much control ordinary people have over decisions. Policies on healthcare, education, and the environment could be drastically altered in ways that may not benefit everyone equally.
-
-### Are these proposals democratic?
-
-Many parts of **Project 2025** prioritize loyalty to a specific political agenda and centralize power in the executive branch. This raises concerns about whether the proposals uphold democratic values like accountability, transparency, and fairness.
-
-### Is this fake news?
-
-No, this isn't fake news. Everything we discuss is based on the actual text of **Project 2025**. We encourage you to read the document yourself and form your own opinions. We provide critical analysis to help explain the potential impacts of these proposals.
-
-### Aren't they just trying to protect America's future?
-
-While the project claims to protect America's future, it does so by promoting policies that could concentrate power and reduce protections for certain groups. Protecting the future should include everyone, not just specific interests or ideologies.
-
-### What's the Heritage Foundation?
-
-The Heritage Foundation is a conservative think tank that has been influencing Republican policies for decades. They advocate for small government, free-market economics, and conservative social values. Their ideas often prioritize corporate interests and deregulation over public welfare.
-
-### What's the harm in reducing government bureaucracy?
-
-Reducing bureaucracy sounds good, but in practice, it can mean cutting important oversight and accountability mechanisms. This can lead to unchecked power, fewer protections for ordinary people, and less transparency in decision-making.
-
-### How can I trust this analysis?
-
-We base our analysis on direct quotes and content from **Project 2025**. Our goal is to provide a critical perspective that helps you understand the potential impacts of these proposals. We encourage you to verify our claims by reading the document yourself.
-
-### How can I make a difference?
-
-You can stay informed, share what you learn, and discuss these issues with others. Contact your representatives and let them know your concerns. Supporting organizations that promote transparency, accountability, and fair governance is another way to get involved.
-
-### Why focus on this now?
-
-**Project 2025** is meant to be implemented quickly after the next presidential election. By analyzing it now, we can prepare for its potential impacts and ensure that people understand what's at stake.
-
-### Does this affect state and local governments?
-
-Yes, many of the proposals in **Project 2025** could trickle down to state and local levels. Policies on education, healthcare, and environmental protections could shift, impacting communities across the country.
-
-### Why are they so focused on loyalty?
-
-The project emphasizes appointing loyal individuals to key positions to ensure the administration's agenda is carried out. However, prioritizing loyalty over expertise can lead to poor decision-making and less effective governance.
-
-### What's the risk if these ideas are implemented?
-
-The risks include weakened checks and balances, reduced transparency, partisan decision-making, and policies that prioritize special interests over public welfare. These changes could have long-term effects on democracy and governance in the United States.
-
-### How can I stay updated?
-
-Follow this site for ongoing analysis and updates. Read the document for yourself and discuss it with others. Staying informed is the best way to understand and address these proposals.
+        {/* Add additional AccordionItems here for other FAQs in a similar structure */}
+      </Accordion>
+    </section>

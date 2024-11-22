@@ -7,14 +7,12 @@ import {
   SidebarContent,
   SidebarHeader,
   SidebarMenu,
-  SidebarMenuAction,
   SidebarMenuButton,
   SidebarMenuItem,
-  useSidebar,
 } from "@/components/ThirdParty/ShadCn/Sidebar";
 import { Link, useLocation } from "react-router-dom";
 import { PagesMenu } from "./menus/pages-menu";    
-import { ChevronLeft, Home } from "lucide-react";
+import { ScrollTextIcon } from "lucide-react";
 
 export function SiteSidebar({ ...props }: React.ComponentProps<typeof Sidebar>) {
   const location = useLocation()
@@ -25,7 +23,7 @@ export function SiteSidebar({ ...props }: React.ComponentProps<typeof Sidebar>) 
             <SidebarMenu>
               <SidebarMenuItem>
                 <SidebarMenuButton asChild isActive={(location.pathname === '/')}>
-                      <Link to={"/"}>{<Home size={16} />} <span className="font-semibold">Deep Dive Into Project 2025</span></Link>
+                      <Link to={"/"}>{<ScrollTextIcon size={16} />} <span className="font-semibold">Deep Dive Into Project 2025</span></Link>
                 </SidebarMenuButton>
               </SidebarMenuItem>
             </SidebarMenu>

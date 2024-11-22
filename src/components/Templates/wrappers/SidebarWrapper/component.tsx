@@ -1,4 +1,4 @@
-import { PropsWithoutRef, ReactElement, ReactNode, useState } from "react"
+import { ReactNode, useState } from "react"
 import { useLocation } from "react-router-dom"
 import { DocumentSidebar } from "./document-sidebar"
 import { useIsMobile } from "@/hooks/use-mobile"
@@ -18,8 +18,7 @@ import {
 } from "@/components/ThirdParty/ShadCn/Sidebar"
 import * as changeCase from 'change-case'
 import { SiteSidebar } from "./sidebars/site-sidebar"
-import { Book, Home, BookOpen, Menu, X, ChevronRight, ChevronLeft } from "lucide-react"
-import { set } from "react-hook-form"
+import { Book, BookOpen, Menu, X, ChevronRight, ChevronLeft } from "lucide-react"
 
 
 // Define the TypeScript interfaces
@@ -32,7 +31,7 @@ export const SidebarWrapper = ({children}: {children: ReactNode}) => {
     const currentChunk = pathNameChunks.pop();
 
     const CloseLeftSidebarIcon = ({...props}) => {
-      const { open, setOpen, setOpenMobile, openMobile } = useSidebar()
+      const { setOpenMobile } = useSidebar()
       return isMobile ? <X onClick={() => {
         setOpenMobile(false)
         setIsLeftSidebarOpen(false)
@@ -41,7 +40,6 @@ export const SidebarWrapper = ({children}: {children: ReactNode}) => {
       }} {...props} />
     }
     const OpenLeftSidebarIcon = ({ ...props}) => {
-      const { open, setOpen, setOpenMobile, openMobile } = useSidebar()
       return isMobile ? <Menu onClick={() => {
         setIsLeftSidebarOpen(true)
       }} {...props} /> : <ChevronRight onClick={() => {
@@ -50,11 +48,11 @@ export const SidebarWrapper = ({children}: {children: ReactNode}) => {
     }
     
     const CloseRightSidebarIcon = ({...props}) => {
-      const { open, setOpen, setOpenMobile, openMobile } = useSidebar()
+      const { setOpen, setOpenMobile } = useSidebar()
       return isMobile ? <Book onClick={() => setOpenMobile(false)} {...props} /> : <BookOpen onClick={() => setOpen(false)} {...props} />
     }
     const OpenRightSidebarIcon = ({ ...props}) => {
-      const { open, setOpen, setOpenMobile, openMobile } = useSidebar()
+      const { setOpen, setOpenMobile } = useSidebar()
       return isMobile ? <Book onClick={() => setOpenMobile(true)} {...props} /> : <Book onClick={() => setOpen(true)} {...props} />
     }
 

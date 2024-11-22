@@ -61,7 +61,7 @@ article li > p:first-of-type {
     margin-top: 0.5em; /* Add some spacing above the second paragraph */
   }
   
-  article blockquote {
+  /* article blockquote {
     background: #f9f9f9;
     border-left: 10px solid #ccc;
     margin: 1.5em 10px;
@@ -78,5 +78,5 @@ article li > p:first-of-type {
   }
   article blockquote p {
     display: inline;
-  }
+  } */
   
