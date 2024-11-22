@@ -25,10 +25,9 @@ import { Book, BookOpen, Menu, X, ChevronRight, ChevronLeft } from "lucide-react
 export const SidebarWrapper = ({children}: {children: ReactNode}) => {
   const isMobile = useIsMobile();
     const location = useLocation();
-    const [isRightSidebarOpen, setIsRightSidebarOpen] = useState(!isMobile);
-    const [isLeftSidebarOpen, setIsLeftSidebarOpen] = useState(!isMobile);
     const pathNameChunks = location.pathname.split('/');
     const currentChunk = pathNameChunks.pop();
+    console.log({isMobile})
 
     const CloseLeftSidebarIcon = ({...props}) => {
       const { setOpenMobile } = useSidebar()
@@ -56,9 +55,13 @@ export const SidebarWrapper = ({children}: {children: ReactNode}) => {
       return isMobile ? <Book onClick={() => setOpenMobile(true)} {...props} /> : <Book onClick={() => setOpen(true)} {...props} />
     }
 
+    const [isRightSidebarOpen, setIsRightSidebarOpen] = useState(false);
+    const [isLeftSidebarOpen, setIsLeftSidebarOpen] = useState(false);
+
+
     return (
       <>
-      <SidebarProvider open={isLeftSidebarOpen} onOpenChange={setIsLeftSidebarOpen} openMobile={isLeftSidebarOpen} onOpenMobileChange={setIsLeftSidebarOpen}>
+      <SidebarProvider  open={isLeftSidebarOpen || false} onOpenChange={setIsLeftSidebarOpen} openMobile={isLeftSidebarOpen} onOpenMobileChange={setIsLeftSidebarOpen}>
         <SiteSidebar side="left" />
         <SidebarProvider open={isRightSidebarOpen} onOpenChange={setIsRightSidebarOpen} openMobile={isRightSidebarOpen} onOpenMobileChange={setIsRightSidebarOpen}>
 

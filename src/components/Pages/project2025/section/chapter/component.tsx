@@ -8,6 +8,7 @@ import * as React from "react";
 import { Badge } from "@/components/ThirdParty/ShadCn/Badge";
 import { Tabs, TabsList, TabsTrigger, TabsContent } from '@/components/ThirdParty/ShadCn/Tabs';
 import { useSearchParams } from 'react-router-dom';
+import { ScrollArea, ScrollBar } from "@/components/ThirdParty/ShadCn/ScrollArea";
 
 interface KeywordsBadgesProps {
   keywords: string[];
@@ -15,16 +16,19 @@ interface KeywordsBadgesProps {
 
 const KeywordsBadges: React.FC<KeywordsBadgesProps> = ({ keywords }) => {
   return (
-    <div className="flex flex-wrap gap-2">
-      {keywords.map((keyword) => (
-        <Badge
-          key={keyword}
-          className="text-sm font-medium bg-accent text-accent-foreground hover:bg-accent/80"
-        >
-          {keyword}
-        </Badge>
-      ))}
-    </div>
+    <ScrollArea className="whitespace-nowrap sm:whitespace-normal max-w-xs sm:max-w-full">
+      <div className="flex gap-2">
+        {keywords.map((keyword) => (
+          <Badge
+            key={keyword}
+            className="text-sm font-medium bg-accent text-accent-foreground hover:bg-accent/80"
+          >
+            {keyword}
+          </Badge>
+        ))}
+      </div>
+      <ScrollBar orientation='horizontal'/>
+    </ScrollArea>
   );
 };
 
@@ -48,7 +52,7 @@ export const ChapterPage: PageComponentType = () => {
         <p className='ml-3'>authored by <i>{chapter?.metadata?.authors?.join(', ')}</i></p>
         {chapter?.metadata?.keywords && <KeywordsBadges keywords={chapter.metadata.keywords} />}
         <Tabs defaultValue={searchParams.get('tabKey') || "summary"}>
-          <TabsList className='mb-8 mt-4'>
+          <TabsList className='mb-8 mt-4 flex flex-col md:flex-row md:justify-start'>
             <div>
               {Summary && <TabsTrigger className='active:bg-black' value="summary" onClick={() => setSearchParams({tabKey: "summary"})}>Summary</TabsTrigger>}
               {Authors && <TabsTrigger value="authors" onClick={() => setSearchParams({tabKey: "authors"})}>Authors</TabsTrigger>}
