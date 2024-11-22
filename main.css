@@ -32375,6 +32375,10 @@ video {
     display: flex;
   }
 
+  .md\:inline-flex{
+    display: inline-flex;
+  }
+
   .md\:hidden{
     display: none;
   }
@@ -32410,6 +32414,10 @@ video {
 
   .md\:w-auto{
     width: auto;
+  }
+
+  .md\:max-w-3xl{
+    max-width: 48rem;
   }
 
   .md\:max-w-\[420px\]{
