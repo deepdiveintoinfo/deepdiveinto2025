@@ -1,32 +1,233 @@
+import {
+  HoverCard,
+  HoverCardContent,
+  HoverCardTrigger,
+} from "@/components/ThirdParty/ShadCn/HoverCard";
+import { ScrollArea, ScrollBar } from "@/components/ThirdParty/ShadCn/ScrollArea";
+import { Card, CardHeader, CardContent } from "@/components/ThirdParty/ShadCn/Card";
+import { Link } from "react-router-dom"
+
+import {
+  ChevronRightIcon,
+  BookOpenIcon,
+  MessagesSquareIcon,
+  ThumbsUpIcon,
+  CrownIcon,
+  ShieldIcon,
+  ScaleIcon,
+} from "lucide-react";
+
+export function IconSectionDescriptionOnLeftIconBlocksOnRight() {
+  return (
+    <>
+      {/* Icon Blocks */}
+      <div className="container py-24 lg:py-32">
+        {/* Grid */}
+        <div className="grid md:grid-cols-2 gap-12">
+          <div className="lg:w-3/4">
+            <h3 className="scroll-m-20 border-b pb-2 text-3xl font-semibold tracking-tight transition-colors first:mt-0">
+              Exploring the Key Themes of Project 2025
+            </h3>
+            <p className="mt-3 text-muted-foreground">
+              Project 2025 offers a roadmap for restructuring governance,
+              focusing on centralization, efficiency, and alignment with a
+              defined agenda. These key themes shed light on its potential
+              impacts.
+            </p>
+          </div>
+          {/* End Col */}
+          <div className="space-y-6 lg:space-y-8">
+            {/* Icon Block */}
+            <div className="flex">
+              {/* Icon */}
+              <span className="flex-shrink-0 inline-flex justify-center items-center w-[46px] h-[46px] rounded-full border bg-primary text-primary-foreground">
+                <CrownIcon className="flex-shrink-0 w-5 h-5" />
+              </span>
+              <div className="ms-5 sm:ms-8">
+                <h4 className="text-base sm:text-lg font-semibold m-0">
+                  Executive Branch Restructuring
+                </h4>
+                <p className="mt-1 text-muted-foreground">
+                  Focuses on staffing and managing the executive branch to
+                  centralize control, often emphasizing loyalty over diverse
+                  perspectives.
+                </p>
+              </div>
+            </div>
+            {/* End Icon Block */}
+            {/* Icon Block */}
+            <div className="flex">
+              {/* Icon */}
+              <span className="flex-shrink-0 inline-flex justify-center items-center w-[46px] h-[46px] rounded-full border bg-primary text-primary-foreground">
+                <ShieldIcon className="flex-shrink-0 w-5 h-5" />
+              </span>
+              <div className="ms-5 sm:ms-8">
+                <h4 className="text-base sm:text-lg font-semibold m-0">
+                  National Defense and Security
+                </h4>
+                <p className="mt-1 text-muted-foreground">
+                  Highlights strategies for enhancing military strength,
+                  streamlining intelligence, and bolstering border security.
+                </p>
+              </div>
+            </div>
+            {/* End Icon Block */}
+            {/* Icon Block */}
+            <div className="flex">
+              {/* Icon */}
+              <span className="flex-shrink-0 inline-flex justify-center items-center w-[46px] h-[46px] rounded-full border bg-primary text-primary-foreground">
+                <BookOpenIcon className="flex-shrink-0 w-5 h-5" />
+              </span>
+              <div className="ms-5 sm:ms-8">
+                <h4 className="text-base sm:text-lg font-semibold m-0">
+                  Social Programs and Welfare
+                </h4>
+                <p className="mt-1 text-muted-foreground">
+                  Examines reforms to healthcare, education, and environmental
+                  policies with an emphasis on deregulation and decentralization.
+                </p>
+              </div>
+            </div>
+            {/* End Icon Block */}
+            {/* Icon Block */}
+            <div className="flex">
+              {/* Icon */}
+              <span className="flex-shrink-0 inline-flex justify-center items-center w-[46px] h-[46px] rounded-full border bg-primary text-primary-foreground">
+                <ScaleIcon className="flex-shrink-0 w-5 h-5" />
+              </span>
+              <div className="ms-5 sm:ms-8">
+                <h4 className="text-base sm:text-lg font-semibold m-0">
+                  Oversight and Accountability
+                </h4>
+                <p className="text-muted-foreground">
+                  Proposes changes to regulatory agencies like the FCC and SEC,
+                  raising questions about their independence and consumer
+                  protections.
+                </p>
+              </div>
+            </div>
+            {/* End Icon Block */}
+          </div>
+          {/* End Col */}
+        </div>
+        {/* End Grid */}
+      </div>
+      {/* End Icon Blocks */}
+    </>
+  );
+}
+
+
+
+
 ## Understanding Project 2025
 
 **Project 2025** is a comprehensive policy manual crafted to guide the next administration in reshaping the U.S. government. Spanning **30 chapters** across **5 major sections**, it delves into nearly every facet of federal governance—from the White House Office to independent regulatory agencies. 
 
-This page offers a critical overview of the document's structure, themes, and key takeaways, examining its implications for democracy, governance, and the balance of power.
-
----
-
 ### Document Organization and Highlights
 
-**Sections**: The document is divided into **5 key sections**, each addressing specific areas of governance:
-1. **Taking the Reins of Government**
-2. **The Common Defense**
-3. **The General Welfare**
-4. **The Economy**
-5. **Independent Regulatory Agencies**
+The document is divided into **5 key sections**, each addressing specific areas of governance:
 
-**Length**: Each chapter varies in length, with the average word count ranging from **4,000 to 6,000 words**. In total, Project 2025 spans hundreds of pages, combining policy analysis, recommendations, and implementation strategies.
 
-### Focus Areas
+<ScrollArea className="max-w-md md:max-w-full my-6">
+  <div className="flex md:flex-wrap gap-2">
+    {/* Section 1: Taking the Reins of Government */}
+      <Card className="w-96 md:w-1/4">
+        <Link to="taking-the-reins-of-government/white-house-office">
+        <CardHeader> 
+          <img
+            className="object-cover h-48 w-full rounded-t-lg"
+            src="https://images.pexels.com/photos/129112/pexels-photo-129112.jpeg"
+            alt="White House"
+          />
+        </CardHeader>
+        <CardContent>
+          <h4>1. Taking the Reins of Government</h4>
+          <p>(<i>3 chapters</i>)</p>
+          <p>Focuses on restructuring the White House and executive offices to centralize control.</p>
+        </CardContent>
+        </Link>
+      </Card>
 
-- **Executive Branch Restructuring**  
-  Provides detailed guidance on staffing, managing, and centralizing control in the White House and executive offices. This focus emphasizes loyalty to the President's vision, potentially at the expense of diverse perspectives and independent oversight.
-- **Federal Agency Overhauls**  
-  Offers specific recommendations for reorganizing major departments and agencies, aiming to align them more closely with a conservative policy agenda. These changes could result in significant shifts in how federal programs are administered and prioritized.
-- **Economic and Defense Policies**  
-  Lays out frameworks for addressing trade, national security, and fiscal priorities. The proposals often prioritize deregulation and free-market approaches, raising concerns about their impact on vulnerable populations and long-term stability.
-- **Independent Agency Reform**  
-  Proposes streamlining and aligning regulatory bodies with the administration's agenda, potentially diminishing their independence and undermining protections for consumers and workers.
+    {/* Section 2: The Common Defense */}
+      <Card className="w-96 md:w-2/4">
+        <Link to="/the-common-defense">
+          <CardHeader>
+            <img
+              className="object-cover h-48 w-full rounded-t-lg"
+              src="https://images.pexels.com/photos/261780/pexels-photo-261780.jpeg"
+              alt="Military Equipment"
+            />
+          </CardHeader>
+          <CardContent>
+            <h4>2. The Common Defense</h4>
+            <p>(<i>6 chapters</i>)</p>
+            <p>Focuses on national security, military, and foreign relations strategies.</p>
+          </CardContent>
+      </Link>
+    </Card>
+
+    {/* Section 3: The General Welfare */}
+      <Card className="w-96 md:w-2/4">
+        <Link to="/the-general-welfare">
+          <CardHeader>
+            <img
+              className="object-cover h-48 w-full rounded-t-lg"
+              src="https://images.pexels.com/photos/3184290/pexels-photo-3184290.jpeg"
+              alt="Community Well-being"
+            />
+          </CardHeader>
+          <CardContent>
+            <h4>3. The General Welfare</h4>
+            <p>(<i>9 chapters</i>)</p>
+            <p>Covers healthcare, education, environmental policy, and housing programs.</p>
+          </CardContent>
+        </Link>
+      </Card>
+
+    {/* Section 4: The Economy */}
+      <Card className="w-96 md:w-1/4">
+        <Link to="/the-economy">
+          <CardHeader>
+            <img
+              className="object-cover h-48 w-full rounded-t-lg"
+              src="https://images.pexels.com/photos/4386395/pexels-photo-4386395.jpeg"
+              alt="Economic Growth"
+            />
+          </CardHeader>
+          <CardContent>
+            <h4>4. The Economy</h4>
+            <p>(<i>6 chapters</i>)</p>
+            <p>Focuses on trade, financial systems, and economic development initiatives.</p>
+          </CardContent>
+        </Link>
+      </Card>
+
+    {/* Section 5: Independent Regulatory Agencies */}
+      <Card className="w-96 md:w-1/4">
+        <Link to="/independent-regulatory-agencies">
+          <CardHeader>
+            <img
+              className="object-cover h-48 w-full rounded-t-lg"
+              src="https://images.pexels.com/photos/207662/pexels-photo-207662.jpeg"
+              alt="Legal and Regulatory Oversight"
+            />
+          </CardHeader>
+          <CardContent>
+            <h4>5. Independent Regulatory Agencies</h4>
+            <p>(<i>4 chapters</i>)</p>
+            <p>Addresses oversight bodies like the Federal Reserve, FCC, and SEC.</p>
+          </CardContent>
+        </Link>
+      </Card>
+      <ScrollBar orientation="horizontal" />
+  </div>
+</ScrollArea>
+
+Each chapter varies in length, with the average word count ranging from **4,000 to 6,000 words**. In total, Project 2025 spans hundreds of pages, combining policy analysis, recommendations, and implementation strategies.
+
+<IconSectionDescriptionOnLeftIconBlocksOnRight />
+
 
 ### Sections Overview
 

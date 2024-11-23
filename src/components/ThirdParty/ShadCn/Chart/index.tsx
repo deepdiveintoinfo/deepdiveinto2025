@@ -5,5 +5,6 @@ export {
     ChartLegend,
     ChartLegendContent,
     ChartStyle,
+    ChartConfig
   } from './component'
   

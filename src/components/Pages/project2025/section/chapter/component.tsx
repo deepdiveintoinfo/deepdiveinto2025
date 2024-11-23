@@ -16,7 +16,7 @@ interface KeywordsBadgesProps {
 
 const KeywordsBadges: React.FC<KeywordsBadgesProps> = ({ keywords }) => {
   return (
-    <ScrollArea className="whitespace-nowrap sm:whitespace-normal max-w-xs sm:max-w-full">
+    <ScrollArea className="whitespace-nowrap sm:whitespace-normal max-w-md sm:max-w-full">
       <div className="flex gap-2">
         {keywords.map((keyword) => (
           <Badge
