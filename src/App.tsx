@@ -8,7 +8,7 @@ import {
 import { useEffect } from "react";
 import { useLocation } from "react-router-dom";
 import * as pages from './components/Pages'
-import { PageWrapper, IndexWrapper } from './components/Templates/wrappers';
+import { PageWrapper } from './components/Templates/wrappers';
 import { TooltipProvider } from '@radix-ui/react-tooltip';
 import { SidebarWrapper } from './components/Templates/wrappers/SidebarWrapper';
 
@@ -47,10 +47,10 @@ const router = createHashRouter(Object.entries(pages).map(([path, Element]) => {
     ...Element,
     // element: path == 'IndexPage' ? <SidebarWrapper><ScrollHandler /><Element /></SidebarWrapper> : <SidebarWrapper><ScrollHandler /><Element /></SidebarWrapper>
     element: (
-      <SidebarWrapper>
+      <PageWrapper>
         <ScrollHandler />
         <Element />
-      </SidebarWrapper>)
+      </PageWrapper>)
   })
 }), {
 });
@@ -58,7 +58,7 @@ const router = createHashRouter(Object.entries(pages).map(([path, Element]) => {
 function App() {
   return (
     <TooltipProvider>
-      <Theme className='flex justify-center' accentColor="crimson" grayColor="sand" radius="large" scaling="100%" style={{width: '100%', overflow: 'hidden'}}>
+      <Theme className='p-2 md:p-0 bg-zinc-100' accentColor="crimson" grayColor="sand" radius="large" scaling="100%" style={{width: '100%', overflow: 'hidden'}}>
           <RouterProvider router={router} />
       </Theme>
     </TooltipProvider>

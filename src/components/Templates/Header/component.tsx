@@ -1,5 +1,5 @@
 import { Book, Menu, Sunset, Trees, Zap } from 'lucide-react';
-
+import React from 'react';
 import {
   Accordion,
   AccordionContent,
@@ -24,6 +24,10 @@ import {
   SheetTrigger,
 } from '@/components/ThirdParty/ShadCn/Sheet';
 import { cn } from '@/lib/utils';
+import { Link } from 'react-router-dom';
+import { ReactNode } from 'react';
+import svg from '@/assets/united-states.svg'
+
 
 const subMenuItemsOne = [
   {
@@ -72,39 +76,43 @@ const subMenuItemsTwo = [
   },
 ];
 
+
 export const Header = () => {
   return (
-    <section className="py-32">
-      <div className="container">
-        <nav className="hidden justify-between lg:flex">
-          <div className="flex items-center gap-6">
+      <div className="container border-b">
+        <nav className="z-50 hidden justify-center lg:flex w-full fixed top-0 left-0 border-b bg-zinc-100">
+          <div className="container flex justify-between gap-6">
             <div className="flex items-center gap-2">
               <img
-                src="https://www.shadcnblocks.com/images/block/block-1.svg"
+                src={'/assets/united-states.svg'}
                 className="w-8"
                 alt="logo"
               />
-              <span className="text-xl font-bold">Shadcn Blocks</span>
+              <span className="text-xl font-bold">DeepDiveInto2025</span>
             </div>
-            <div className="flex items-center">
-              <a
-                className={cn(
-                  'text-muted-foreground',
-                  navigationMenuTriggerStyle,
-                  buttonVariants({
-                    variant: 'ghost',
-                  }),
-                )}
-                href="#"
-              >
-                Home
-              </a>
+            <div className="flex">
+              <Link to="/">
+                <a
+                  className={cn(
+                    'text-muted-foreground',
+                    navigationMenuTriggerStyle,
+                    buttonVariants({
+                      variant: 'ghost',
+                    }),
+                  )}
+                  href="#"
+                >
+                  Home
+                </a>
+              </Link>
               <NavigationMenu>
                 <NavigationMenuList>
                   <NavigationMenuItem className="text-muted-foreground">
-                    <NavigationMenuTrigger>
-                      <span>Products</span>
-                    </NavigationMenuTrigger>
+                    <Link to="/project2025">
+                      <NavigationMenuTrigger>
+                        <span>Explore Project 2025</span>
+                      </NavigationMenuTrigger>
+                    </Link>
                     <NavigationMenuContent>
                       <ul className="w-80 p-3">
                         <NavigationMenuLink>
@@ -164,7 +172,7 @@ export const Header = () => {
                 </NavigationMenuList>
               </NavigationMenu>
 
-              <a
+              <Link
                 className={cn(
                   'text-muted-foreground',
                   navigationMenuTriggerStyle,
@@ -172,11 +180,11 @@ export const Header = () => {
                     variant: 'ghost',
                   }),
                 )}
-                href="#"
+                to="/contribute"
               >
-                Pricing
-              </a>
-              <a
+                Contribute 
+              </Link>
+              <Link
                 className={cn(
                   'text-muted-foreground',
                   navigationMenuTriggerStyle,
@@ -184,15 +192,11 @@ export const Header = () => {
                     variant: 'ghost',
                   }),
                 )}
-                href="#"
+                to="/faq"
               >
-                Blog
-              </a>
+                FAQ 
+              </Link>
             </div>
-          </div>
-          <div className="flex gap-2">
-            <Button variant={'outline'}>Log in</Button>
-            <Button>Sign up</Button>
           </div>
         </nav>
         <div className="block lg:hidden">
@@ -285,9 +289,12 @@ export const Header = () => {
                   <a href="#" className="font-semibold">
                     Pricing
                   </a>
-                  <a href="#" className="font-semibold">
-                    Blog
+                  <Link to="project2025">
+
+                  <a className="font-semibold">
+                    Explore Project 2025
                   </a>
+                  </Link>
                 </div>
                 <div className="border-t pt-4">
                   <div className="grid grid-cols-2 justify-start">
@@ -368,6 +375,5 @@ export const Header = () => {
           </div>
         </div>
       </div>
-    </section>
   );
 };

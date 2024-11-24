@@ -1,1 +1,2 @@
-export * from './component'
+export { PageWrapper } from './PageWrapper';
+export { SidebarWrapper } from './SidebarWrapper';
