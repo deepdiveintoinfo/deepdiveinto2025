@@ -1,41 +1,4 @@
 import { useState } from "react";
-import {
-    Home,
-    LineChart,
-    Package,
-    Package2,
-    PanelLeft,
-    Search,
-    Settings,
-    ShoppingCart,
-    Users2,
-    StarIcon
-  } from "lucide-react"
-  
-  import {
-    Breadcrumb,
-    BreadcrumbItem,
-    BreadcrumbLink,
-    BreadcrumbList,
-    BreadcrumbPage,
-    BreadcrumbSeparator,
-  } from "@/components/ThirdParty/ShadCn"
-  import { Button } from "@/components/ThirdParty/ShadCn"
-  import {
-    DropdownMenu,
-    DropdownMenuContent,
-    DropdownMenuItem,
-    DropdownMenuLabel,
-    DropdownMenuSeparator,
-    DropdownMenuTrigger,
-  } from "@/components/ThirdParty/ShadCn"
-  import { Input } from "@/components/ThirdParty/ShadCn"
-  import { Sheet, SheetContent, SheetTrigger } from "@/components/ThirdParty/ShadCn"
-  import {
-    Tooltip,
-    TooltipContent,
-    TooltipTrigger,
-  } from "@/components/ThirdParty/ShadCn"
 import { ReactNode } from "react"
 import { Header } from "@/components/Templates/Header"
 

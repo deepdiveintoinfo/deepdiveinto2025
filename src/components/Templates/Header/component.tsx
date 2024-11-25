@@ -14,7 +14,6 @@ import {
   NavigationMenuLink,
   NavigationMenuList,
   NavigationMenuTrigger,
-  navigationMenuTriggerStyle,
 } from '@/components/ThirdParty/ShadCn/NavigationMenu';
 import {
   Sheet,
@@ -25,59 +24,159 @@ import {
 } from '@/components/ThirdParty/ShadCn/Sheet';
 import { cn } from '@/lib/utils';
 import { Link } from 'react-router-dom';
-import { ReactNode } from 'react';
-import svg from '@/assets/united-states.svg'
-
+import nav from './nav';
+import { ScrollArea } from '@/components/ThirdParty/ShadCn/ScrollArea/component';
 
 const subMenuItemsOne = [
   {
-    title: 'Blog',
-    description: 'The latest industry news, updates, and info',
+    title: '1. Taking the Reins of Government',
+    description: 'Focuses on restructuring the White House and executive offices to centralize control.',
     icon: <Book className="size-5 shrink-0" />,
   },
   {
-    title: 'Compnay',
-    description: 'Our mission is to innovate and empower the world',
+    title: '2. The Common Defense',
+    description: 'Focuses on national security, military, and foreign relations strategies.',
     icon: <Trees className="size-5 shrink-0" />,
   },
   {
-    title: 'Careers',
-    description: 'Browse job listing and discover our workspace',
+    title: '3. The General Welfare',
+    description: 'Covers healthcare, education, environmental policy, and housing programs.',
     icon: <Sunset className="size-5 shrink-0" />,
   },
   {
-    title: 'Support',
+    title: '4. The Economy',
     description:
-      'Get in touch with our support team or visit our community forums',
-    icon: <Zap className="size-5 shrink-0" />,
-  },
-];
-
-const subMenuItemsTwo = [
-  {
-    title: 'Help Center',
-    description: 'Get all the answers you need right here',
+      'Focuses on trade, financial systems, and economic development initiatives.',
     icon: <Zap className="size-5 shrink-0" />,
   },
   {
-    title: 'Contact Us',
-    description: 'We are here to help you with any questions you have',
-    icon: <Sunset className="size-5 shrink-0" />,
-  },
-  {
-    title: 'Status',
-    description: 'Check the current status of our services and APIs',
-    icon: <Trees className="size-5 shrink-0" />,
-  },
-  {
-    title: 'Terms of Service',
-    description: 'Our terms and conditions for using our services',
-    icon: <Book className="size-5 shrink-0" />,
+    title: '5. Independent Regulatory Agencies',
+    description:
+      'Addresses oversight bodies like the Federal Reserve, FCC, and SEC.',
+    icon: <Zap className="size-5 shrink-0" />,
   },
 ];
-
 
 export const Header = () => {
+  return (
+    <div className="container border-b">
+      <nav className="z-50 hidden justify-center lg:flex w-full fixed top-0 left-0 border-b bg-zinc-100">
+        <div className="container flex justify-between gap-6">
+          <div className="flex items-center gap-2">
+            <img
+              src={'/assets/united-states.svg'}
+              className="w-8"
+              alt="logo"
+            />
+            <span className="text-xl font-bold">DEEPDIVE</span><span>into2025</span>
+          </div>
+          <div className="flex">
+            {nav.map(({ page, url, children }, idx) => {
+              if (!children) {
+                return (
+                  <Link
+                    key={idx}
+                    to={url}
+                    className={cn(
+                      'text-muted-foreground',
+                      buttonVariants({
+                        variant: 'ghost',
+                      })
+                    )}
+                  >
+                    {page}
+                  </Link>
+                );
+              }
+
+              return (
+                <NavigationMenu key={idx}>
+                  <NavigationMenuList className='overflow-visible'>
+                    <NavigationMenuItem
+                      className={cn(
+                        'text-muted-foreground hover:bg-transparent active:bg-transparent focus:bg-transparent overflow-visible',
+                        buttonVariants({
+                          variant: 'ghost',
+                        })
+                      )}
+                    >
+                      <NavigationMenuTrigger>
+                        <Link to={url}>{page}</Link>
+                      </NavigationMenuTrigger>
+                      <NavigationMenuContent>
+                        <ul className="w-96">
+                          {children.map((section, sectionIdx) => (
+                            <li
+                              key={sectionIdx}
+                              className="relative group"
+                            >
+                              <Link
+                                to={section.url}
+                                className={cn(
+                                  'flex select-none gap-4 rounded-md p-3 leading-none no-underline outline-none transition-colors hover:bg-accent hover:text-accent-foreground focus:bg-accent focus:text-accent-foreground'
+                                )}
+                              >
+                                {section.emoji}
+                                <div>
+                                  <div className="text-sm font-semibold">
+                                    {sectionIdx+1}. {section.section}
+                                  </div>
+                                  <p className="text-sm leading-snug text-muted-foreground">
+                                    {section.description}
+                                  </p>
+                                </div>
+                              </Link>
+                              {/* Sidebar for chapters */}
+                              {section.chapters && (
+                                  <div
+                                    className="w-full absolute top-0 right-full z-50 hidden bg-white shadow-lg border group-hover:block"
+                                    style={{ minHeight: '100%' }}
+                                  >
+                                    <ul className="p-3 max-h-72 overflow-y-scroll">
+                                      {section.chapters.map((chapter, chapterIdx) => (
+                                        <li
+                                          key={chapterIdx}
+                                          className="mb-2"
+                                        >
+                                          <Link
+                                            to={chapter.url}
+                                            className={cn(
+                                              'flex items-start gap-2 p-3 rounded-md transition-colors hover:bg-accent hover:text-accent-foreground'
+                                            )}
+                                          >
+                                            <span className="text-lg">{chapter.emoji}</span>
+                                            <div>
+                                              <div className="text-sm font-medium">
+                                                {sectionIdx+1}.{chapterIdx+1}. {chapter.title}
+                                              </div>
+                                              <p className="text-sm text-muted-foreground">
+                                                {chapter.description}
+                                              </p>
+                                            </div>
+                                          </Link>
+                                        </li>
+                                      ))}
+                                    </ul>
+                                  </div>
+                              )}
+                            </li>
+                          ))}
+                        </ul>
+                      </NavigationMenuContent>
+                    </NavigationMenuItem>
+                  </NavigationMenuList>
+                </NavigationMenu>
+              );
+            })}
+          </div>
+        </div>
+      </nav>
+    </div>
+  );
+};
+
+
+export const OldHeader = () => {
   return (
       <div className="container border-b">
         <nav className="z-50 hidden justify-center lg:flex w-full fixed top-0 left-0 border-b bg-zinc-100">
@@ -88,114 +187,69 @@ export const Header = () => {
                 className="w-8"
                 alt="logo"
               />
-              <span className="text-xl font-bold">DeepDiveInto2025</span>
+              <span className="text-xl font-bold">DEEPDIVE</span><span>into2025</span>
             </div>
             <div className="flex">
-              <Link to="/">
-                <a
-                  className={cn(
-                    'text-muted-foreground',
-                    navigationMenuTriggerStyle,
-                    buttonVariants({
-                      variant: 'ghost',
-                    }),
-                  )}
-                  href="#"
-                >
-                  Home
-                </a>
-              </Link>
-              <NavigationMenu>
-                <NavigationMenuList>
-                  <NavigationMenuItem className="text-muted-foreground">
-                    <Link to="/project2025">
-                      <NavigationMenuTrigger>
-                        <span>Explore Project 2025</span>
-                      </NavigationMenuTrigger>
+              {nav.map(({page, url, children}, idx) => {
+                if(!children) {
+                  return (
+                    <Link key={idx} to={url} className={cn(
+                      'text-muted-foreground',
+                      buttonVariants({
+                        variant: 'ghost',
+                      }),
+                    )}>
+                        {page}
                     </Link>
-                    <NavigationMenuContent>
-                      <ul className="w-80 p-3">
-                        <NavigationMenuLink>
-                          {subMenuItemsOne.map((item, idx) => (
-                            <li key={idx}>
-                              <a
-                                className={cn(
-                                  'flex select-none gap-4 rounded-md p-3 leading-none no-underline outline-none transition-colors hover:bg-accent hover:text-accent-foreground focus:bg-accent focus:text-accent-foreground',
-                                )}
-                                href="#"
-                              >
-                                {item.icon}
-                                <div>
-                                  <div className="text-sm font-semibold">
-                                    {item.title}
-                                  </div>
-                                  <p className="text-sm leading-snug text-muted-foreground">
-                                    {item.description}
-                                  </p>
-                                </div>
-                              </a>
-                            </li>
-                          ))}
-                        </NavigationMenuLink>
-                      </ul>
-                    </NavigationMenuContent>
-                  </NavigationMenuItem>
-                  <NavigationMenuItem className="text-muted-foreground">
-                    <NavigationMenuTrigger>Resources</NavigationMenuTrigger>
-                    <NavigationMenuContent>
-                      <ul className="w-80 p-3">
-                        <NavigationMenuLink>
-                          {subMenuItemsTwo.map((item, idx) => (
-                            <li key={idx}>
-                              <a
-                                className={cn(
-                                  'flex select-none gap-4 rounded-md p-3 leading-none no-underline outline-none transition-colors hover:bg-accent hover:text-accent-foreground focus:bg-accent focus:text-accent-foreground',
-                                )}
-                                href="#"
-                              >
-                                {item.icon}
-                                <div>
-                                  <div className="text-sm font-semibold">
-                                    {item.title}
-                                  </div>
-                                  <p className="text-sm leading-snug text-muted-foreground">
-                                    {item.description}
-                                  </p>
-                                </div>
-                              </a>
-                            </li>
-                          ))}
-                        </NavigationMenuLink>
-                      </ul>
-                    </NavigationMenuContent>
-                  </NavigationMenuItem>
-                </NavigationMenuList>
-              </NavigationMenu>
+                  )
+                }
 
-              <Link
-                className={cn(
-                  'text-muted-foreground',
-                  navigationMenuTriggerStyle,
-                  buttonVariants({
-                    variant: 'ghost',
-                  }),
-                )}
-                to="/contribute"
-              >
-                Contribute 
-              </Link>
-              <Link
-                className={cn(
-                  'text-muted-foreground',
-                  navigationMenuTriggerStyle,
-                  buttonVariants({
-                    variant: 'ghost',
-                  }),
-                )}
-                to="/faq"
-              >
-                FAQ 
-              </Link>
+                return (
+                  <NavigationMenu key={idx}>
+                    <NavigationMenuList>
+                      <NavigationMenuItem className={cn(
+                        'text-muted-foreground hover:bg-transparent active:bg-transparent focus:bg-transparent',
+                        buttonVariants({
+                          variant: 'ghost',
+                        }),
+                      )}>
+                        <NavigationMenuTrigger>
+                          <Link to={url}>
+                            {page}
+                          </Link>
+                        </NavigationMenuTrigger>
+                        <NavigationMenuContent>
+                          <ul className="w-96">
+                            <NavigationMenuLink>
+                              {children.map((item, idx) => (
+                                <li key={idx}>
+                                  <Link
+                                    className={cn(
+                                      'flex select-none gap-4 rounded-md p-3 leading-none no-underline outline-none transition-colors hover:bg-accent hover:text-accent-foreground focus:bg-accent focus:text-accent-foreground',
+                                    )}
+                                    to={item.url}
+                                  >
+                                    {item.emoji}
+                                    <div>
+                                      <div className="text-sm font-semibold">
+                                        {item.section}
+                                      </div>
+                                      <p className="text-sm leading-snug text-muted-foreground">
+                                        {item.description}
+                                      </p>
+                                    </div>
+                                  </Link>
+                                </li>
+                              ))}
+                            </NavigationMenuLink>
+                          </ul>
+                        </NavigationMenuContent>
+                      </NavigationMenuItem>
+                    </NavigationMenuList>
+                </NavigationMenu>
+  
+                )
+              })}
             </div>
           </div>
         </nav>
@@ -239,32 +293,6 @@ export const Header = () => {
                       </AccordionTrigger>
                       <AccordionContent className="mt-2">
                         {subMenuItemsOne.map((item, idx) => (
-                          <a
-                            key={idx}
-                            className={cn(
-                              'flex select-none gap-4 rounded-md p-3 leading-none outline-none transition-colors hover:bg-accent hover:text-accent-foreground focus:bg-accent focus:text-accent-foreground',
-                            )}
-                            href="#"
-                          >
-                            {item.icon}
-                            <div>
-                              <div className="text-sm font-semibold">
-                                {item.title}
-                              </div>
-                              <p className="text-sm leading-snug text-muted-foreground">
-                                {item.description}
-                              </p>
-                            </div>
-                          </a>
-                        ))}
-                      </AccordionContent>
-                    </AccordionItem>
-                    <AccordionItem value="resources" className="border-b-0">
-                      <AccordionTrigger className="py-0 font-semibold hover:no-underline">
-                        Resources
-                      </AccordionTrigger>
-                      <AccordionContent className="mt-2">
-                        {subMenuItemsTwo.map((item, idx) => (
                           <a
                             key={idx}
                             className={cn(
