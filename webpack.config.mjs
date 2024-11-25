@@ -79,6 +79,9 @@ export default {
       {
         test: /\.(png|jpe?g|gif|svg|ogm|mp4|webm|ogg)$/i,
         type: 'asset/resource',
+        generator: {
+          filename: 'assets/[name][ext][query]', // Ensures all assets go into an 'assets/' folder
+        },
       },
       {
         test: /\.mdx?$/,
@@ -103,29 +106,16 @@ export default {
           },
         ],
       },
-            {
+      {
         resourceQuery: /raw/,
         type: 'asset/source',
-      },
-      {
-      test: /\.(png|jpe?g|gif|svg|ogm|mp4|webm|ogg)$/i,
-      use: [
-        {
-          loader: 'file-loader',
-          options: {
-            name: '[name].[ext]',
-            outputPath: 'assets/',
-            publicPath: 'assets/'
-          }
-        }
-      ]
-    }
-
+      }
     ],
   },
   plugins: [
     new HtmlWebpackPlugin({
       template: './public/index.html',
+      favicon: './src/assets/united-states.svg', // This will copy the image to the output folder
     }),
     new MiniCssExtractPlugin({
       filename: '[name].css',
