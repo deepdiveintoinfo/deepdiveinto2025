@@ -30117,6 +30117,9 @@ video {
 .pl-0{
   padding-left: 0px;
 }
+.pl-2{
+  padding-left: 0.5rem;
+}
 .pl-2\.5{
   padding-left: 0.625rem;
 }
@@ -32533,6 +32536,10 @@ video {
 
   .md\:pe-8{
     padding-inline-end: 2.5rem;
+  }
+
+  .md\:pl-0{
+    padding-left: 0px;
   }
 
   .md\:pt-4{
