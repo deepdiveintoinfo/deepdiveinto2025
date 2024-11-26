@@ -26,36 +26,7 @@ import { cn } from '@/lib/utils';
 import { Link } from 'react-router-dom';
 import nav from './nav';
 import logo from '@/assets/united-states.svg';
-
-const subMenuItemsOne = [
-  {
-    title: '1. Taking the Reins of Government',
-    description: 'Focuses on restructuring the White House and executive offices to centralize control.',
-    icon: <Book className="size-5 shrink-0" />,
-  },
-  {
-    title: '2. The Common Defense',
-    description: 'Focuses on national security, military, and foreign relations strategies.',
-    icon: <Trees className="size-5 shrink-0" />,
-  },
-  {
-    title: '3. The General Welfare',
-    description: 'Covers healthcare, education, environmental policy, and housing programs.',
-    icon: <Sunset className="size-5 shrink-0" />,
-  },
-  {
-    title: '4. The Economy',
-    description:
-      'Focuses on trade, financial systems, and economic development initiatives.',
-    icon: <Zap className="size-5 shrink-0" />,
-  },
-  {
-    title: '5. Independent Regulatory Agencies',
-    description:
-      'Addresses oversight bodies like the Federal Reserve, FCC, and SEC.',
-    icon: <Zap className="size-5 shrink-0" />,
-  },
-];
+import { kebabCase } from 'change-case';
 
 const Logo = () => (
   <div className="flex items-center gap-2">
@@ -64,12 +35,12 @@ const Logo = () => (
       className="w-8"
       alt="logo"
     />
-    <span className="text-xl font-bold">DEEPDIVE</span><span>into2025</span>
+    <span className="text-xl font-bold" style={{fontFamily: '"Cormorant Garamond", serif', fontWeight: 700}}>DEEPDIVE</span><span style={{fontFamily: '"Dancing Script", cursive'}}>into2025</span>
   </div>
 )
 
 const Navbar = () => (
-  <div className="flex">
+  <div className="hidden lg:flex">
   {nav.map(({ page, url, children }, idx) => {
     if (!children) {
       return (
@@ -171,246 +142,69 @@ const Navbar = () => (
 
 )
 
+const MobileNavbar = () => {
+  const [isOpen, setIsOpen] = React.useState(false);
+  return (
+    <div className="flex lg:hidden">
+      <div className="flex items-center justify-between">
+        <Sheet onOpenChange={setIsOpen} open={isOpen}>
+          <SheetTrigger asChild>
+            <Button variant={'ghost'} size={'icon'}>
+              <Menu className="size-4" />
+            </Button>
+          </SheetTrigger>
+          <SheetContent className="overflow-y-auto">
+            <SheetHeader>
+              <SheetTitle>
+                <div className="flex items-center gap-2">
+                  <Logo />
+                </div>
+                {nav.map(({ page, url, children }, idx) => {
+                  if (!children) {
+                    return (
+                      <p>
+                      <Link
+                        key={idx}
+                        to={url}
+                        onClick={() => setIsOpen(false)}
+                      >
+                        {page}
+                      </Link>
+                      </p>
+                    );
+                  }
+                  return (
+                    <Accordion type='single'>
+                    <AccordionItem value={kebabCase(page)}>
+                      <AccordionTrigger className="mb-4 py-0 font-semibold">
+                        {page}
+                      </AccordionTrigger>
+                      <AccordionContent>
+                        <div>Foobar</div>
+                      </AccordionContent>
+                    </AccordionItem>
+                  </Accordion>  
+                )
+                })}
+              </SheetTitle>
+            </SheetHeader>
+          </SheetContent>
+        </Sheet>
+      </div>
+    </div> 
+  )
+}
+
 export const Header = () => {
   return (
     <div className="container border-b">
-      <nav className="z-50 hidden justify-center lg:flex w-full fixed top-0 left-0 border-b bg-zinc-100">
-        <div className="container flex justify-between gap-6">
+      <nav className="z-50 flex justify-center w-full fixed top-0 left-0 border-b bg-zinc-100">
+        <div className="container flex justify-between gap-6 pl-2 md:pl-0">
           <Logo />
           <Navbar />
+          <MobileNavbar />
         </div>
       </nav>
     </div>
-  );
-};
-
-
-export const OldHeader = () => {
-  return (
-      <div className="container border-b">
-        <nav className="z-50 hidden justify-center lg:flex w-full fixed top-0 left-0 border-b bg-zinc-100">
-          <div className="container flex justify-between gap-6">
-            <div className="flex items-center gap-2">
-              <img
-                src={'/assets/united-states.svg'}
-                className="w-8"
-                alt="logo"
-              />
-              <span className="text-xl font-bold">DEEPDIVE</span><span>into2025</span>
-            </div>
-            <div className="flex">
-              {nav.map(({page, url, children}, idx) => {
-                if(!children) {
-                  return (
-                    <Link key={idx} to={url} className={cn(
-                      'text-muted-foreground',
-                      buttonVariants({
-                        variant: 'ghost',
-                      }),
-                    )}>
-                        {page}
-                    </Link>
-                  )
-                }
-
-                return (
-                  <NavigationMenu key={idx}>
-                    <NavigationMenuList>
-                      <NavigationMenuItem className={cn(
-                        'text-muted-foreground hover:bg-transparent active:bg-transparent focus:bg-transparent',
-                        buttonVariants({
-                          variant: 'ghost',
-                        }),
-                      )}>
-                        <NavigationMenuTrigger>
-                          <Link to={url}>
-                            {page}
-                          </Link>
-                        </NavigationMenuTrigger>
-                        <NavigationMenuContent>
-                          <ul className="w-96">
-                            <NavigationMenuLink>
-                              {children.map((item, idx) => (
-                                <li key={idx}>
-                                  <Link
-                                    className={cn(
-                                      'flex select-none gap-4 rounded-md p-3 leading-none no-underline outline-none transition-colors hover:bg-accent hover:text-accent-foreground focus:bg-accent focus:text-accent-foreground',
-                                    )}
-                                    to={item.url}
-                                  >
-                                    {item.emoji}
-                                    <div>
-                                      <div className="text-sm font-semibold">
-                                        {item.section}
-                                      </div>
-                                      <p className="text-sm leading-snug text-muted-foreground">
-                                        {item.description}
-                                      </p>
-                                    </div>
-                                  </Link>
-                                </li>
-                              ))}
-                            </NavigationMenuLink>
-                          </ul>
-                        </NavigationMenuContent>
-                      </NavigationMenuItem>
-                    </NavigationMenuList>
-                </NavigationMenu>
-  
-                )
-              })}
-            </div>
-          </div>
-        </nav>
-        <div className="block lg:hidden">
-          <div className="flex items-center justify-between">
-            <div className="flex items-center gap-2">
-              <img
-                src="https://www.shadcnblocks.com/images/block/block-1.svg"
-                className="w-8"
-                alt="logo"
-              />
-              <span className="text-xl font-bold">Shadcn Blocks</span>
-            </div>
-            <Sheet>
-              <SheetTrigger asChild>
-                <Button variant={'outline'} size={'icon'}>
-                  <Menu className="size-4" />
-                </Button>
-              </SheetTrigger>
-              <SheetContent className="overflow-y-auto">
-                <SheetHeader>
-                  <SheetTitle>
-                    <div className="flex items-center gap-2">
-                      <img
-                        src="https://www.shadcnblocks.com/images/block/block-1.svg"
-                        className="w-8"
-                        alt="logo"
-                      />
-                      <span className="text-xl font-bold">Shadcn Blocks</span>
-                    </div>
-                  </SheetTitle>
-                </SheetHeader>
-                <div className="my-8 flex flex-col gap-4">
-                  <a href="#" className="font-semibold">
-                    Home
-                  </a>
-                  <Accordion type="single" collapsible className="w-full">
-                    <AccordionItem value="products" className="border-b-0">
-                      <AccordionTrigger className="mb-4 py-0 font-semibold hover:no-underline">
-                        Products
-                      </AccordionTrigger>
-                      <AccordionContent className="mt-2">
-                        {subMenuItemsOne.map((item, idx) => (
-                          <a
-                            key={idx}
-                            className={cn(
-                              'flex select-none gap-4 rounded-md p-3 leading-none outline-none transition-colors hover:bg-accent hover:text-accent-foreground focus:bg-accent focus:text-accent-foreground',
-                            )}
-                            href="#"
-                          >
-                            {item.icon}
-                            <div>
-                              <div className="text-sm font-semibold">
-                                {item.title}
-                              </div>
-                              <p className="text-sm leading-snug text-muted-foreground">
-                                {item.description}
-                              </p>
-                            </div>
-                          </a>
-                        ))}
-                      </AccordionContent>
-                    </AccordionItem>
-                  </Accordion>
-                  <a href="#" className="font-semibold">
-                    Pricing
-                  </a>
-                  <Link to="project2025">
-
-                  <a className="font-semibold">
-                    Explore Project 2025
-                  </a>
-                  </Link>
-                </div>
-                <div className="border-t pt-4">
-                  <div className="grid grid-cols-2 justify-start">
-                    <a
-                      className={cn(
-                        buttonVariants({
-                          variant: 'ghost',
-                        }),
-                        'justify-start text-muted-foreground',
-                      )}
-                      href="#"
-                    >
-                      Press
-                    </a>
-                    <a
-                      className={cn(
-                        buttonVariants({
-                          variant: 'ghost',
-                        }),
-                        'justify-start text-muted-foreground',
-                      )}
-                      href="#"
-                    >
-                      Contact
-                    </a>
-                    <a
-                      className={cn(
-                        buttonVariants({
-                          variant: 'ghost',
-                        }),
-                        'justify-start text-muted-foreground',
-                      )}
-                      href="#"
-                    >
-                      Imprint
-                    </a>
-                    <a
-                      className={cn(
-                        buttonVariants({
-                          variant: 'ghost',
-                        }),
-                        'justify-start text-muted-foreground',
-                      )}
-                      href="#"
-                    >
-                      Sitemap
-                    </a>
-                    <a
-                      className={cn(
-                        buttonVariants({
-                          variant: 'ghost',
-                        }),
-                        'justify-start text-muted-foreground',
-                      )}
-                      href="#"
-                    >
-                      Legal
-                    </a>
-                    <a
-                      className={cn(
-                        buttonVariants({
-                          variant: 'ghost',
-                        }),
-                        'justify-start text-muted-foreground',
-                      )}
-                      href="#"
-                    >
-                      Cookie Settings
-                    </a>
-                  </div>
-                  <div className="mt-2 flex flex-col gap-3">
-                    <Button variant={'outline'}>Log in</Button>
-                    <Button>Sign up</Button>
-                  </div>
-                </div>
-              </SheetContent>
-            </Sheet>
-          </div>
-        </div>
-      </div>
   );
 };
