@@ -1,4 +1,4 @@
-import { Book, Menu, Sunset, Trees, Zap } from 'lucide-react';
+import { Menu } from 'lucide-react';
 import React from 'react';
 import {
   Accordion,
@@ -11,7 +11,6 @@ import {
   NavigationMenu,
   NavigationMenuContent,
   NavigationMenuItem,
-  NavigationMenuLink,
   NavigationMenuList,
   NavigationMenuTrigger,
 } from '@/components/ThirdParty/ShadCn/NavigationMenu';
@@ -162,25 +161,53 @@ const MobileNavbar = () => {
                 {nav.map(({ page, url, children }, idx) => {
                   if (!children) {
                     return (
-                      <p>
                       <Link
+                        className='block w-full text-left my-4 text-lg font-semibold text-gray-900 hover:bg-gray-300'
                         key={idx}
                         to={url}
                         onClick={() => setIsOpen(false)}
                       >
                         {page}
                       </Link>
-                      </p>
                     );
                   }
                   return (
-                    <Accordion type='single'>
-                    <AccordionItem value={kebabCase(page)}>
-                      <AccordionTrigger className="mb-4 py-0 font-semibold">
-                        {page}
-                      </AccordionTrigger>
-                      <AccordionContent>
-                        <div>Foobar</div>
+                    <Accordion type='multiple'>
+                      <AccordionItem value={kebabCase(page)}>
+                        <AccordionTrigger className={cn(
+                          "font-semibold bg-transparent p-0"
+                          )}>
+                          {page}
+                        </AccordionTrigger>
+                        <AccordionContent className='p-0 m-0'>
+                          <Accordion className='text-left text-ellipsis p-0 m-0' type='multiple'>
+                            {children.map((section, sectionIdx) => (
+                              <AccordionItem value={kebabCase(section.section)} disabled={sectionIdx !== 0}>
+                                <AccordionTrigger className={cn(
+                                  `font-semibold bg-transparent p-0 ml-8 -indent-7`,
+                                  sectionIdx !== 0 && 'text-muted-light'
+                                )}>
+                                  {section.emoji} {section.section}
+                                </AccordionTrigger>
+                                {section.chapters && (
+                                  <AccordionContent className='p-0 m-0'>
+                                    {section.chapters.map((chapter, chapterIdx) => (
+                                      <Link
+                                        to={chapter.url}
+                                        className={cn(
+                                          'text-ellipsis px-2 ml-8 -indent-7 py-3 block select-none gap-1 rounded-md no-underline outline-none hover:bg-accent hover:text-accent-foreground focus:bg-accent focus:text-accent-foreground',
+                                          chapterIdx !== 0 && 'text-muted-light disabled'
+                                        )}
+                                        onClick={() => setIsOpen(false)}
+                                      >
+                                      {chapter.emoji} {chapter.title}
+                                      </Link>
+                                    ))}
+                          </AccordionContent>
+                          )}
+                          </AccordionItem>
+                        ))}
+                        </Accordion>
                       </AccordionContent>
                     </AccordionItem>
                   </Accordion>  
@@ -199,7 +226,7 @@ export const Header = () => {
   return (
     <div className="container border-b">
       <nav className="z-50 flex justify-center w-full fixed top-0 left-0 border-b bg-zinc-100">
-        <div className="container flex justify-between gap-6 pl-2 md:pl-0">
+        <div className="container flex justify-between px-4 md:px-6">
           <Logo />
           <Navbar />
           <MobileNavbar />
@@ -208,3 +235,26 @@ export const Header = () => {
     </div>
   );
 };
+
+
+/**
+ * 
+                          {children.map((section, sectionIdx) => {
+                            return (
+                              <Link
+                              to={section.url}
+                              className={cn(
+                                'flex select-none gap-1 rounded-md leading-none no-underline outline-none transition-colors hover:bg-accent hover:text-accent-foreground focus:bg-accent focus:text-accent-foreground'
+                              )}
+                            >
+                              {section.emoji}
+                              <div>
+                                <div className="text-sm font-semibold">
+                                  {sectionIdx+1}. {section.section}
+                                </div>
+                              </div>
+                            </Link>
+                            )}
+                          )}
+
+ */

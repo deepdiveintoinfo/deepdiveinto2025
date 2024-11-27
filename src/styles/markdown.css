@@ -2,8 +2,9 @@ article h1, article h2, article h3, article h4, article h5, article p {
     margin-bottom: 24px;
     padding: 0;
 }
+  
 article h1 {
-    font-size: 48px;
+    @apply text-2xl lg:text-4xl py-4
 }
 article h2 {
     font-size: 36px;

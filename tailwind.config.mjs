@@ -26,6 +26,7 @@ const theme = {
       '10': '4rem', // 64px
       '12': '6rem', // 96px
       '14': '8rem', // 128px
+      indent: '2rem', // 32px
     },
     borderRadius: {
       /* USWDS Border Radii */

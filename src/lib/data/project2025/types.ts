@@ -2,7 +2,7 @@
 import { ReactNode } from "react";
 
 // Base type for MDX components
-export type MdxComponent = React.FC<{ components?: Record<string, React.ComponentType<any>>; children?: ReactNode }>;
+export type MdxComponent = React.FC<{ components?: Record<string, React.ComponentType<unknown>>; children?: ReactNode }>;
 
 // types.ts
 export interface ChapterInterface {
@@ -22,7 +22,7 @@ export interface ChapterInterface {
       [version: string]: MdxComponent;
     };
   }
-  
+    
   export interface SectionInterface {
     chapters: {
       [chapterName: string]: ChapterInterface;
@@ -33,4 +33,41 @@ export interface ChapterInterface {
     sections: {
       [sectionName: string]: SectionInterface;
     };
+  }
+
+  export type ChapterType = {
+    title: string,
+    chapterId: string,
+    metadata: {
+      authors: string[],
+      title: string,
+      wordcount: number,
+      keywords: string[],
+    },
+    summary: MdxComponent,
+    emoji: string,
+    chapterIdx: number,
+    description: string,
+    endnotes: MdxComponent,
+    author: MdxComponent,
+    faq: MdxComponent,
+    versions: {
+      raw: MdxComponent,
+      simple: MdxComponent,
+      clear: MdxComponent,
+    }
+    url: string;
+    status?: string;
+  };
+  export type SectionType = {
+    title: string,
+    sectionId: string,
+    sectionIdx: number,
+    chapters: ChapterType[],
+    emoji: string,
+    description: string,
+    url: string,
+}
+  export type Project2025Type = {
+    sections: SectionType[]
   }

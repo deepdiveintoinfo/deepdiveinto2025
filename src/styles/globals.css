@@ -8,8 +8,8 @@
 @import '@radix-ui/colors/green-dark.css';
 @import '@radix-ui/colors/red-dark.css';
 
-@import 'themes/UWDS.css';
-@import 'markdown.css';
+@import './themes/UWDS.css';
+@import './markdown.css';
 
 @tailwind base;
 @tailwind components;

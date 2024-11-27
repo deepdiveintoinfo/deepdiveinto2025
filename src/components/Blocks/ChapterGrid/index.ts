@@ -1,0 +1,1 @@
+export { ChapterGrid } from './component';
