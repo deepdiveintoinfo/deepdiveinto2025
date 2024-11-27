@@ -39,7 +39,10 @@ export interface ChapterInterface {
     title: string,
     chapterId: string,
     metadata: {
-      authors: string[],
+      authors: Array<{
+        name: string,
+        avatar: string,
+      }>,
       title: string,
       wordcount: number,
       keywords: string[],

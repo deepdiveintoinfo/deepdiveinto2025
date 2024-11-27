@@ -10,6 +10,24 @@
   import { Link, useParams, useSearchParams } from 'react-router-dom';
   import { Suspense } from 'react';
   import { KeywordBadges } from '@/components/Blocks/KeywordBadges/component';
+import { Avatar, AvatarFallback, AvatarImage, Tooltip, TooltipContent, TooltipTrigger } from '@/components/ThirdParty/ShadCn';
+
+  const AuthorAvatar = ({ src, fallback, name }: { src: string; fallback: string; name: string }) => {
+    return (
+<Tooltip>
+  <TooltipTrigger>
+    <Avatar className='max-w-8 max-h-8'>
+      <AvatarImage src={src} />
+      <AvatarFallback>{fallback}</AvatarFallback>
+    </Avatar>
+  </TooltipTrigger> 
+  <TooltipContent>
+      {name}
+  </TooltipContent> 
+</Tooltip>
+    )
+  } 
+
 
   // Define the TypeScript interfaces
   export const ChapterPage: PageComponentType = () => {
@@ -31,7 +49,13 @@
             <Badge size="sm" className='border-primary text-primary-dark hover:bg-primary-lighter' variant={"outline"}>{section?.emoji} {changeCase.capitalCase(sectionName || '')}</Badge>
           </Link>
           <h1 className='m-0'>{chapter?.emoji} {section?.sectionIdx}.{chapter?.chapterIdx}. {changeCase.capitalCase(chapter?.title || '')}</h1>
-          <p className='ml-3'>authored by <i>{chapter?.metadata?.authors?.join(', ')}</i></p>
+          <p className='ml-3'>authored by {
+            chapter?.metadata?.authors?.map((author, idx) => {
+              return (
+                <AuthorAvatar key={idx} src={author.avatar} fallback={author.name.split(' ').map(n => n[0]).join('')} name={author.name} />
+              )
+            })
+           } </p>
           {chapter?.metadata?.keywords && <KeywordBadges size="sm" keywords={chapter.metadata.keywords} />}
           <Tabs defaultValue={searchParams.get('tabKey') || "summary"}>
             <TabsList className='mb-8 mt-4 flex flex-col md:flex-row md:justify-start'>
