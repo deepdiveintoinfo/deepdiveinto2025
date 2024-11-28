@@ -4,9 +4,10 @@ import {
   HoverCardTrigger,
 } from "@/components/ThirdParty/ShadCn/HoverCard";
 import { ScrollArea, ScrollBar } from "@/components/ThirdParty/ShadCn/ScrollArea";
-import { Card, CardHeader, CardContent } from "@/components/ThirdParty/ShadCn/Card";
+import { Card, CardHeader, CardContent, CardFooter } from "@/components/ThirdParty/ShadCn/Card";
 import { Link } from "react-router-dom"
-
+import { Tabs, TabsList, TabsTrigger, TabsContent } from "@/components/ThirdParty/ShadCn/Tabs";
+import { Ticker } from "@/components/ThirdParty/Animata/Ticker";
 import {
   ChevronRightIcon,
   BookOpenIcon,
@@ -24,60 +25,75 @@ import {
 
 ### Document Organization and Highlights
 
-The document is divided into **5 key sections**, each addressing specific areas of governance:
+The document is divided into **5 key sections**, each addressing specific areas of governance.
 
+<div className="flex flex-col lg:flex-row gap-4 my-4">
+  <Card>
+    <CardHeader className="flex justify-center mb-0 pb-0">
+      <Ticker className="text-4xl bold" value={5} />
+    </CardHeader>
+    <CardFooter className="py-0 mt-3 justify-center font-bold">
+      Sections
+    </CardFooter>
+  </Card>
+  <Card>
+    <CardHeader className="flex justify-center mb-0 pb-0">
+      <Ticker className="text-4xl bold" value={30} />
+    </CardHeader>
+    <CardFooter className="py-0 mt-3 justify-center font-bold">
+      Chapters
+    </CardFooter>
+  </Card>
+  <Card>
+    <CardHeader className="flex justify-center mb-0 pb-0 gap-3">
+      <p className="flex justify-center text-4xl bold m-0 p-0">~<Ticker  value={4_000} /> - <Ticker value={6_000} /></p>
+    </CardHeader>
+    <CardFooter className="py-0 mt-3 justify-center font-bold">
+      Words per Chapter
+    </CardFooter>
+  </Card>
+  <Card>
+    <CardHeader className="flex justify-center mb-0 pb-0 gap-3">
+      <p className="flex justify-center text-4xl bold m-0 p-0"><Ticker  value={100} />+</p>
+    </CardHeader>
+    <CardFooter className="py-0 mt-3 justify-center font-bold">
+      Authors
+    </CardFooter>
+  </Card>
+</div>
 
-Each chapter varies in length, with the average word count ranging from **4,000 to 6,000 words**. In total, Project 2025 spans hundreds of pages, combining policy analysis, recommendations, and implementation strategies.
+### Section Overview
 
-
-### Sections Overview
-
-#### **1. Taking the Reins of Government**
+#### 👑 <Link to="/project2025/taking-the-reins-of-government">**1. Taking the Reins of Government**</Link>
 This section advocates for restructuring the White House and executive offices, emphasizing centralized control and loyalty to the President's agenda. Key chapters include:
-- **White House Office**: Promotes the consolidation of decision-making authority and prioritization of loyalty over diverse perspectives.
-- **Executive Office of the President**: Details a hierarchical management approach aimed at tighter presidential control.
-- **Central Personnel Agencies**: Proposes strategies to reshape the federal workforce to align with conservative objectives, potentially sidelining career public servants.
+- 🏛️ <Link to="/project2025/taking-the-reins-of-government/white-house-office">**1.1. White House Office**</Link>: Promotes the consolidation of decision-making authority and prioritization of loyalty over diverse perspectives.
+- 🗃️ **1.2. Executive Office of the President**: Details a hierarchical management approach aimed at tighter presidential control.
+- 📇 **1.3. Central Personnel Agencies**: Proposes strategies to reshape the federal workforce to align with conservative objectives, potentially sidelining career public servants.
 
-#### **2. The Common Defense**
+#### ⚔️ **2. The Common Defense**
 Focusing on national security and defense, this section outlines significant policy shifts that could concentrate power and limit oversight. Key topics include:
-- **Department of Defense**: Prioritizes military expansion and readiness but may downplay checks on executive authority in defense policy.
-- **Department of Homeland Security**: Recommends aggressive border security measures that risk marginalizing humanitarian concerns.
-- **Intelligence Community**: Suggests reforms that could centralize intelligence operations while reducing transparency.
+- **2.1. Department of Defense**: Prioritizes military expansion and readiness but may downplay checks on executive authority in defense policy.
+- **2.2. Department of Homeland Security**: Recommends aggressive border security measures that risk marginalizing humanitarian concerns.
+- **2.3 Intelligence Community**: Suggests reforms that could centralize intelligence operations while reducing transparency.
+- ...
 
 #### **3. The General Welfare**
 Examines domestic policy with a heavy emphasis on deregulation and decentralization. Notable chapters include:
 - **Department of Education**: Advocates for reduced federal oversight, raising questions about equity in education access.
 - **Environmental Protection Agency**: Focuses on rolling back environmental protections to promote energy independence, potentially at the cost of public health and climate stability.
 - **Department of Health and Human Services**: Proposes healthcare reforms that could prioritize cost-cutting over accessibility and equity.
+- ...
 
 #### **4. The Economy**
 Outlines an economic agenda favoring deregulation and free-market principles, with potential risks to vulnerable populations. Key topics include:
 - **Department of the Treasury**: Recommends sweeping tax policy changes likely to benefit high-income earners.
 - **Small Business Administration**: Aims to empower entrepreneurs but lacks detailed protections for marginalized business owners.
 - **Trade Policies**: Presents conflicting views on free trade versus fair trade, exposing internal ideological divides.
+- ...
 
 #### **5. Independent Regulatory Agencies**
 Focuses on reforming regulatory bodies, often to the detriment of consumer protections and independent oversight. Highlights include:
 - **Federal Communications Commission**: Proposes reducing regulations in media, raising concerns about monopolization and access to unbiased information.
 - **Federal Election Commission**: Suggests changes to campaign finance rules that could amplify the influence of money in politics.
 - **Federal Trade Commission**: Advocates for deregulation in economic competition, potentially limiting consumer protections.
-
----
-
-### Key Statistics
-
-- **Chapters**: 30, spanning a wide range of federal agencies and policy areas.
-- **Sections**: 5, covering governance, defense, welfare, the economy, and regulatory agencies.
-- **Authors and Contributors**: Over 100 individuals, including prominent conservative figures and former government officials.
-- **Word Count**: Chapters average 4,000–6,000 words, making the document a detailed yet dense roadmap for governance reform.
-
----
-
-### How to Navigate Project 2025
-
-Project 2025 serves as a detailed manifesto for a specific vision of governance. Here's how you can explore it critically:
-- **Chapter Summaries**: Each chapter is summarized with watchdog insights and analysis of potential risks.
-- **FAQs**: Addresses common questions about the document's purpose, content, and underlying assumptions.
-- **Key Themes**: Recurring ideas such as deregulation, centralization of power, and ideological loyalty are highlighted and scrutinized.
-
-By unpacking the implications of this document, we aim to provide transparency and foster informed public discourse about its potential impact on democratic governance.
+- ...

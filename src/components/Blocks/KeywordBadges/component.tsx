@@ -7,7 +7,6 @@ interface KeywordsBadgesProps {
   }
 
 export const KeywordBadges: React.FC<KeywordsBadgesProps> = ({ keywords, ...props }) => {
-    console.log(keywords)
     return (
       <ScrollArea className="whitespace-nowrap sm:whitespace-normal max-w-md sm:max-w-full">
         <div className="flex gap-2">

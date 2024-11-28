@@ -1,83 +1,120 @@
-article h1, article h2, article h3, article h4, article h5, article p {
-    margin-bottom: 24px;
-    padding: 0;
-}
-  
-article h1 {
-    @apply text-2xl lg:text-4xl py-4
-}
-article h2 {
-    font-size: 36px;
-    margin: 24px 0 6px;
-}
-article h3 {
-    font-size: 24px;
-}
-article h4 {
-    font-size: 21px;
-}
-article h5 {
-    font-size: 18px;
-}
-
-article ul { 
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    row-gap: 10px;
-    list-style-type: disc; 
-    list-style-position: inside; 
-    margin: 10px 0 10px 15px;
-}
-article ol { 
-    list-style-type: decimal; 
-    list-style-position: inside;
-    margin: 10px 0 10px 15px; 
-    text-indent: 10px;
-}
-article ul li, article ol li { 
-    margin: 0 0 0; 
-    padding: 0; 
-}
-article ul ul, article ol ul { 
-    list-style-type: circle; 
-    list-style-position: inside; 
-    margin-left: 15px;
-}
-article ol ol, article ul ol { 
-    list-style-type: lower-latin; 
-    list-style-position: inside; 
-    margin-left: 15px; 
-}
-
-/* Ensure the first paragraph aligns flush with the bullet */
-article li > p:first-of-type {
-    display: inline; /* Display the paragraph as an inline element */
-    margin: 0; /* Remove any default margin */
-    text-indent: 0; /* Ensure no indent */
+/* Base styles for markdown content */
+article {
+    @apply mx-auto max-w-none leading-relaxed text-gray-800;
   }
   
-  /* Add spacing only for subsequent paragraphs */
+  article h1 {
+    @apply text-2xl lg:text-4xl font-bold py-4 mb-6;
+  }
+  
+  article h2 {
+    @apply text-xl lg:text-3xl font-semibold py-3 mb-5;
+  }
+  
+  article h3 {
+    @apply text-lg lg:text-2xl font-medium py-2 mb-4;
+  }
+  
+  article h4 {
+    @apply text-base lg:text-xl font-medium py-2 mb-3;
+  }
+  
+  article h5 {
+    @apply text-sm lg:text-lg font-medium py-1 mb-2;
+  }
+  
+  article h6 {
+    @apply text-sm font-medium uppercase tracking-wider py-1 mb-2;
+  }
+  
+  article p {
+    @apply text-base leading-relaxed lg:leading-loose mb-6;
+  }
+  
+  article ul {
+    @apply list-disc pl-5 mb-6 space-y-2;
+  }
+  
+  article ol {
+    @apply list-decimal pl-5 mb-6 space-y-2;
+  }
+  
+  article ul ul,
+  article ol ul {
+    @apply list-disc pl-5 mb-4;
+  }
+  
+  article ol ol,
+  article ul ol {
+    @apply list-[lower-alpha] pl-5 mb-4;
+  }
+  
+  article li {
+    @apply text-base leading-relaxed;
+  }
+  
+  article li > p:first-of-type {
+    @apply inline m-0;
+  }
+  
   article li > p:not(:first-of-type) {
-    margin-top: 0.5em; /* Add some spacing above the second paragraph */
+    @apply mt-2;
   }
   
-  /* article blockquote {
-    background: #f9f9f9;
-    border-left: 10px solid #ccc;
-    margin: 1.5em 10px;
-    padding: 0.5em 10px;
-    quotes: "\201C""\201D""\2018""\2019";
+  article blockquote {
+    @apply border-l-4 border-gray-300 bg-gray-100 text-gray-600 pl-4 pr-2 py-2 mb-6;
   }
-  article blockquote:before {
-    color: #ccc;
-    content: open-quote;
-    font-size: 4em;
-    line-height: 0.1em;
-    margin-right: 0.25em;
-    vertical-align: -0.4em;
-  }
+  
   article blockquote p {
-    display: inline;
-  } */
+    @apply italic;
+  }
+  
+  article pre {
+    @apply bg-gray-900 text-white font-mono text-sm p-4 rounded-lg mb-6 overflow-auto;
+  }
+  
+  article code {
+    @apply bg-gray-200 text-gray-800 px-1 py-0.5 rounded text-sm font-mono;
+  }
+  
+  article hr {
+    @apply border-t border-gray-300 my-8;
+  }
+  
+  article a {
+    @apply text-blue-600 hover:underline;
+  }
+  
+  article img {
+    @apply max-w-full rounded-lg mb-6;
+  }
+  
+  article strong {
+    @apply font-bold;
+  }
+  
+  article em {
+    @apply italic;
+  }
+  
+  article table {
+    @apply w-full table-auto border-collapse border border-gray-300 mb-6;
+  }
+  
+  article thead {
+    @apply bg-gray-100;
+  }
+  
+  article th,
+  article td {
+    @apply border border-gray-300 px-4 py-2 text-left;
+  }
+  
+  article th {
+    @apply font-semibold text-gray-700;
+  }
+  
+  article caption {
+    @apply text-sm text-gray-500 mt-2;
+  }
   
