@@ -28958,9 +28958,6 @@ video {
 .max-h-96{
   max-height: 24rem;
 }
-.max-h-\[250px\]{
-  max-height: 250px;
-}
 .max-h-\[300px\]{
   max-height: 300px;
 }
@@ -30493,6 +30490,9 @@ video {
 }
 .leading-none{
   line-height: 1;
+}
+.leading-normal{
+  line-height: 1.5;
 }
 .leading-relaxed{
   line-height: 1.625;
