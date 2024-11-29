@@ -3,10 +3,10 @@ import WhiteHouseOfficeSimple from '@/lib/data/project2025/taking-the-reins-of-g
 import WhiteHouseOfficeClear from '@/lib/data/project2025/taking-the-reins-of-government/white-house-office/versions/clear.mdx';
 import WhiteHouseOfficeEndNotes from '@/lib/data/project2025/taking-the-reins-of-government/white-house-office/endnotes.mdx';
 import WhiteHouseAuthor from '@/lib/data/project2025/taking-the-reins-of-government/white-house-office/authors.mdx';
-import ChapterOneMetadata from '@/lib/data/project2025/taking-the-reins-of-government/white-house-office/metadata.json'; 
 import ChapterOneSummary from '@/lib/data/project2025/taking-the-reins-of-government/white-house-office/summary.mdx';
 import ChapterOneFAQ from '@/lib/data/project2025/taking-the-reins-of-government/white-house-office/faq.mdx';
 import { ChapterType } from '@/lib/data/project2025/types';
+
 
 const whiteHouseOffice : ChapterType = {
     chapterIdx: 1,
@@ -15,7 +15,16 @@ const whiteHouseOffice : ChapterType = {
     url: "/project2025/taking-the-reins-of-government/white-house-office",
     emoji: "🏛️",
     description: "Focuses on consolidating power within the executive branch, emphasizing loyalty over diversity of perspectives.",
-    metadata: ChapterOneMetadata,
+    metadata: {
+      authors: [{
+          name: "Richard Dearborn",
+          avatar: "https://littlesis.org/images/profile/c6/c6879a39a790aaa1dbca33bd03c59d25.jpg"
+      }],
+      title: "White House Office",
+      wordcount: 4998,
+      keywords: ["Centralization", "Executive Authority", "Oversight", "Accountability", "Loyalty"],
+      status: "analysis"
+    },
     summary: ChapterOneSummary,
     endnotes: WhiteHouseOfficeEndNotes,
     author: WhiteHouseAuthor,
@@ -24,7 +33,7 @@ const whiteHouseOffice : ChapterType = {
       raw: WhiteHouseOfficeRaw,
       simple: WhiteHouseOfficeSimple,
       clear: WhiteHouseOfficeClear,
-    }
+    },
 }
 
 export default whiteHouseOffice

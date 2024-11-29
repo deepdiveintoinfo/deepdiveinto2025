@@ -3,7 +3,19 @@ import { Link } from 'react-router-dom'
 import { FaLinkedin } from "react-icons/fa";
 import { Badge } from "@/components/ThirdParty/ShadCn/Badge";
 
-## Rick Dearborn
+import { Avatar, AvatarFallback, AvatarImage, Tooltip, TooltipContent, TooltipTrigger } from '@/components/ThirdParty/ShadCn';
+
+export const AuthorAvatar = () => {
+  return (
+    <Avatar className='max-w-8 max-h-8'>
+        <AvatarImage src={"https://littlesis.org/images/profile/c6/c6879a39a790aaa1dbca33bd03c59d25.jpg"} />
+        <AvatarFallback>{"Richard Dearborn".split(' ').map(n => n[0]).join('')}</AvatarFallback>
+    </Avatar>
+  )
+}
+
+
+<h2 className="flex gap-2 items-center">About <AuthorAvatar /> Rick Dearborn</h2>
 
 <Link to="https://en.wikipedia.org/wiki/Rick_Dearborn" target="_blank" rel="noopener noreferrer" >
     <Badge className="font-normal" variant={'outline'}><FaWikipediaW className="mr-2" /> Wikipedia</Badge>

@@ -3,14 +3,14 @@ const sections = [
       section: "Taking the Reins of Government",
       emoji: "👑",
       url: "/project2025/taking-the-reins-of-government",
-      description: "Focuses on consolidating power within the executive branch, emphasizing loyalty over diversity of perspectives.",
+      description: "Consolidating power within the executive branch.",
       chapters: [
         {
           number: 1,
           title: "White House Office",
           emoji: "🏛️",
           url: "/project2025/taking-the-reins-of-government/white-house-office",
-          description: "Advocates for centralizing decision-making and prioritizing loyalty to the President's agenda.",
+          description: "Restructure the White House to centeralize power.",
         },
         {
           number: 2,

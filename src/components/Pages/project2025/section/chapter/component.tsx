@@ -10,23 +10,6 @@
   import { Link, useParams, useSearchParams } from 'react-router-dom';
   import { Suspense } from 'react';
   import { KeywordBadges } from '@/components/Blocks/KeywordBadges/component';
-import { Avatar, AvatarFallback, AvatarImage, Tooltip, TooltipContent, TooltipTrigger } from '@/components/ThirdParty/ShadCn';
-
-  const AuthorAvatar = ({ src, fallback, name }: { src: string; fallback: string; name: string }) => {
-    return (
-<Tooltip>
-  <TooltipTrigger>
-    <Avatar className='max-w-8 max-h-8'>
-      <AvatarImage src={src} />
-      <AvatarFallback>{fallback}</AvatarFallback>
-    </Avatar>
-  </TooltipTrigger> 
-  <TooltipContent>
-      {name}
-  </TooltipContent> 
-</Tooltip>
-    )
-  } 
 
 
   // Define the TypeScript interfaces
@@ -52,7 +35,7 @@ import { Avatar, AvatarFallback, AvatarImage, Tooltip, TooltipContent, TooltipTr
           <p className='ml-3'>authored by {
             chapter?.metadata?.authors?.map((author, idx) => {
               return (
-                <AuthorAvatar key={idx} src={author.avatar} fallback={author.name.split(' ').map(n => n[0]).join('')} name={author.name} />
+                <i key={idx}>{author.name}</i>
               )
             })
            } </p>

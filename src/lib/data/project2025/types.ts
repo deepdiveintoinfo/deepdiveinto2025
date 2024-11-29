@@ -46,21 +46,22 @@ export interface ChapterInterface {
       title: string,
       wordcount: number,
       keywords: string[],
+      status: "undone" | "transcription" | "analysis" | "verification" | "complete";
     },
     summary: MdxComponent,
     emoji: string,
     chapterIdx: number,
     description: string,
-    endnotes: MdxComponent,
-    author: MdxComponent,
-    faq: MdxComponent,
-    versions: {
-      raw: MdxComponent,
-      simple: MdxComponent,
-      clear: MdxComponent,
+    endnotes?: MdxComponent,
+    author?: MdxComponent,
+    faq?: MdxComponent,
+    versions?: {
+      raw?: MdxComponent,
+      simple?: MdxComponent,
+      clear?: MdxComponent,
     }
+    subsections?: ChapterType[],
     url: string;
-    status?: string;
   };
   export type SectionType = {
     title: string,
@@ -69,6 +70,8 @@ export interface ChapterInterface {
     chapters: ChapterType[],
     emoji: string,
     description: string,
+    logline: string,
+    tagline: string,
     url: string,
 }
   export type Project2025Type = {
