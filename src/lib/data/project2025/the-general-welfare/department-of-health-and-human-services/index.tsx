@@ -10,7 +10,7 @@ const departmentOfHealthAndHumanServices: ChapterType = {
   metadata: {
     authors: [
       {
-        name: "Ethan K. Marshall",
+        name: "Roger Severino",
         avatar: "https://example.com/images/authors/ethan-k-marshall.jpg", // Placeholder avatar
       },
     ],

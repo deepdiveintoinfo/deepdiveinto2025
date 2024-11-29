@@ -1,7 +1,7 @@
 import { ChapterType } from '@/lib/data/project2025/types';
 
 const federalElectionCommission: ChapterType = {
-  chapterIdx: 27,
+  chapterIdx: 29,
   title: "Federal Election Commission",
   chapterId: "federal-election-commission",
   url: "/project2025/independent-regulatory-agencies/federal-election-commission",
@@ -10,7 +10,7 @@ const federalElectionCommission: ChapterType = {
   metadata: {
     authors: [
       {
-        name: "Thomas Grant",
+        name: "Hans A. Von Spakovsky",
         avatar: "https://example.com/images/authors/thomas-grant.jpg",
       },
     ],

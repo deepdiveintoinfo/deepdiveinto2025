@@ -61,6 +61,8 @@ export interface ChapterInterface {
       clear?: MdxComponent,
     }
     subsections?: ChapterType[],
+    logline?: string,
+    tagline?: string,
     url: string;
   };
   export type SectionType = {

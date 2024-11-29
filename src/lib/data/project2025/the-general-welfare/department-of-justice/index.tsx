@@ -10,7 +10,7 @@ const departmentOfJustice: ChapterType = {
   metadata: {
     authors: [
       {
-        name: "Michael B. Lawson",
+        name: "Gene Hamilton",
         avatar: "https://example.com/images/authors/michael-b-lawson.jpg", // Placeholder avatar
       },
     ],

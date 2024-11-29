@@ -10,7 +10,7 @@ const corporationForPublicBroadcasting: ChapterType = {
   metadata: {
     authors: [
       {
-        name: "Caroline Blake",
+        name: "Mike Gonzalez",
         avatar: "https://example.com/images/authors/caroline-blake.jpg",
       },
     ],

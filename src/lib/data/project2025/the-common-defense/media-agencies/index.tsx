@@ -12,7 +12,11 @@ const mediaAgencies: ChapterType = {
   metadata: {
     authors: [
       {
-        name: "Margaret Kane",
+        name: "Mora Namdar",
+        avatar: "https://example.com/images/authors/margaret-kane.jpg",
+      },
+      {
+        name: "Mike Gonzalez",
         avatar: "https://example.com/images/authors/margaret-kane.jpg",
       },
     ],

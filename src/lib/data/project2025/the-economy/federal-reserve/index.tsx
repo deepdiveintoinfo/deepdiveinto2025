@@ -1,7 +1,7 @@
 import { ChapterType } from '@/lib/data/project2025/types';
 
 const federalReserve: ChapterType = {
-  chapterIdx: 22,
+  chapterIdx: 24,
   title: "Federal Reserve",
   chapterId: "federal-reserve",
   url: "/project2025/the-economy/federal-reserve",
@@ -10,7 +10,7 @@ const federalReserve: ChapterType = {
   metadata: {
     authors: [
       {
-        name: "Michael A. Lang",
+        name: "Paul Winfree",
         avatar: "https://example.com/images/authors/michael-a-lang.jpg", // Placeholder avatar
       },
     ],

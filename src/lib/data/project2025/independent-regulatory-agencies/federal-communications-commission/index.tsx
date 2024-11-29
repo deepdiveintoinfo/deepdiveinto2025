@@ -1,7 +1,7 @@
 import { ChapterType } from '@/lib/data/project2025/types';
 
 const federalCommunicationsCommission: ChapterType = {
-  chapterIdx: 26,
+  chapterIdx: 28,
   title: "Federal Communications Commission",
   chapterId: "federal-communications-commission",
   url: "/project2025/independent-regulatory-agencies/federal-communications-commission",
@@ -10,7 +10,7 @@ const federalCommunicationsCommission: ChapterType = {
   metadata: {
     authors: [
       {
-        name: "Martin Wheeler",
+        name: "Brendan Carr",
         avatar: "https://example.com/images/authors/martin-wheeler.jpg",
       },
     ],

@@ -1,7 +1,7 @@
 import { ChapterType } from '@/lib/data/project2025/types';
 
 const departmentOfTheTreasury: ChapterType = {
-  chapterIdx: 20,
+  chapterIdx: 22,
   title: "Department of the Treasury",
   chapterId: "department-of-the-treasury",
   url: "/project2025/the-economy/department-of-the-treasury",
@@ -10,9 +10,17 @@ const departmentOfTheTreasury: ChapterType = {
   metadata: {
     authors: [
       {
-        name: "Jonathan E. Banks",
+        name: "William L. Walton",
         avatar: "https://example.com/images/authors/jonathan-e-banks.jpg", // Placeholder avatar
       },
+      {
+        name: "Stephen Moore",
+        avatar: "https://example.com/images/authors/linda-r-cohen.jpg", // Placeholder avatar
+      },
+      {
+        name: "David R. Burton",
+        avatar: "https://example.com/images/authors/michael-j-graetz.jpg", // Placeholder avatar
+      }
     ],
     title: "Department of the Treasury",
     wordcount: 5980, // Example word count; update with actual value.

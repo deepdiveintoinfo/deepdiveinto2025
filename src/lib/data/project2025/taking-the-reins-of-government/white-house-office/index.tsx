@@ -21,7 +21,7 @@ const whiteHouseOffice : ChapterType = {
           avatar: "https://littlesis.org/images/profile/c6/c6879a39a790aaa1dbca33bd03c59d25.jpg"
       }],
       title: "White House Office",
-      wordcount: 4998,
+      wordcount: 7_650,
       keywords: ["Centralization", "Executive Authority", "Oversight", "Accountability", "Loyalty"],
       status: "analysis"
     },

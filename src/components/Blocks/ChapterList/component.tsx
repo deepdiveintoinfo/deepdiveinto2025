@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom';
 
 const ChapterList = () => {
 
-    const { section }: { section: SectionType | undefined } = useContent();
+    const { section }: { section?: SectionType } = useContent();
     if(!section) return <>Loading</>;
 
   return (
@@ -14,11 +14,11 @@ const ChapterList = () => {
         <div className="mx-auto">
           <div className="mx-auto mt-6 flex flex-col gap-16 md:mt-8">
               <div className="grid">
-                <h3 className="border-b pb-4 text-xl font-bold">
+                <h3 className="border-b text-xl font-bold pb-4 m-0">
                   Chapters
                 </h3>
                 {section.chapters.map((chapter: ChapterType) => (
-                    <div className='border-b'>
+                    <div className='border-b mt-4'>
                           <div
                               key={chapter.title}
                               className="flex flex-col lg:flex-row lg:items-center justify-between"

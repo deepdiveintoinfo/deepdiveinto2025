@@ -1,7 +1,7 @@
 import { ChapterType } from '@/lib/data/project2025/types';
 
 const trade: ChapterType = {
-  chapterIdx: 24,
+  chapterIdx: 26,
   title: "Trade",
   chapterId: "trade",
   url: "/project2025/the-economy/trade",
@@ -10,9 +10,13 @@ const trade: ChapterType = {
   metadata: {
     authors: [
       {
-        name: "Henry J. Collins",
+        name: "Peter Navarro",
         avatar: "https://example.com/images/authors/henry-j-collins.jpg", // Placeholder avatar
       },
+      {
+        name: "Kent Lassman",
+        avatar: "https://example.com/images/authors/kent-lassman.jpg", // Placeholder avatar
+      }
     ],
     title: "Trade",
     wordcount: 6150, // Example word count; update with actual value.

@@ -10,7 +10,7 @@ const departmentOfState: ChapterType = {
   metadata: {
     authors: [
       {
-        name: "Margaret L. Edwards",
+        name: "Kiron K. Skinner",
         avatar: "https://example.com/images/authors/margaret-l-edwards.jpg", // Placeholder avatar
       },
     ],

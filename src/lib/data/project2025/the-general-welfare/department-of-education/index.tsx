@@ -10,7 +10,7 @@ const departmentOfEducation: ChapterType = {
   metadata: {
     authors: [
       {
-        name: "Andrew L. Hayes",
+        name: "Lindsey M. Burke",
         avatar: "https://example.com/images/authors/andrew-l-hayes.jpg", // Placeholder avatar
       },
     ],

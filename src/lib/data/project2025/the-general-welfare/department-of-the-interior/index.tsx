@@ -10,7 +10,7 @@ const departmentOfTheInterior: ChapterType = {
   metadata: {
     authors: [
       {
-        name: "Benjamin L. Collins",
+        name: "William Perry Pendley",
         avatar: "https://example.com/images/authors/benjamin-l-collins.jpg", // Placeholder avatar
       },
     ],

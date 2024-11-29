@@ -10,7 +10,7 @@ const departmentOfAgriculture: ChapterType = {
   metadata: {
     authors: [
       {
-        name: "Eleanor B. Thatcher",
+        name: "Daren Bakst",
         avatar: "https://example.com/images/authors/eleanor-b-thatcher.jpg", // Placeholder avatar
       },
     ],

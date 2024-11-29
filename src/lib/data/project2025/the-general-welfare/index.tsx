@@ -8,6 +8,8 @@ import departmentOfHousingAndUrbanDevelopment from './department-of-housing-and-
 import departmentOfTheInterior from './department-of-the-interior';
 import departmentOfJustice from './department-of-justice';
 import departmentOfLabor from './department-of-labor';
+import departmentOfTransportation from './department-of-transportation';
+import departmentOfVeteransAffairs from './department-of-veterans-affairs';
 
 export const theGeneralWelfare: SectionType = {
   title: "The General Welfare",
@@ -23,6 +25,8 @@ export const theGeneralWelfare: SectionType = {
     departmentOfTheInterior,
     departmentOfJustice,
     departmentOfLabor,
+    departmentOfTransportation,
+    departmentOfVeteransAffairs,
   ],
   emoji: "🌱",
   url: "/project2025/the-general-welfare",

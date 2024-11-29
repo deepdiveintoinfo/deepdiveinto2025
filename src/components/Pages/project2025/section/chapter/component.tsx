@@ -16,21 +16,28 @@
   export const ChapterPage: PageComponentType = () => {
 
       const [searchParams, setSearchParams] = useSearchParams();
-      const { chapterName, sectionName } = useParams()
+      const { sectionName } = useParams()
 
-      const { chapter, section }: { chapter: ChapterType | undefined, section: SectionType | undefined } = useContent();
+      const { chapter, section }: { chapter?: ChapterType | undefined, section?: SectionType | undefined } = useContent();
       const RawMdxContent = chapter?.versions?.raw;
       const EndNotes = chapter?.endnotes
       const Authors = chapter?.author
-      // const FAQ = chapter?.faq
-      const Summary = React.lazy(() => import(`@/lib/data/project2025/${sectionName}/${chapterName}/summary.mdx`));
-      const FAQ = React.lazy(() => import(`@/lib/data/project2025/${sectionName}/${chapterName}/faq.mdx`));
+      const Summary = chapter?.summary
+      const FAQ = chapter?.faq
+      // const Summary = React.lazy(() => import(`@/lib/data/project2025/${sectionName}/${chapterName}/summary.mdx`));
+      // const FAQ = React.lazy(() => import(`@/lib/data/project2025/${sectionName}/${chapterName}/faq.mdx`));
 
       return (
         <article className='mt-4'>
-          <Link to={`/project2025/${sectionName}`}>
-            <Badge size="sm" className='border-primary text-primary-dark hover:bg-primary-lighter' variant={"outline"}>{section?.emoji} {changeCase.capitalCase(sectionName || '')}</Badge>
-          </Link>
+          <div className='flex gap-2 leading-normal'>
+            <Link to={`/project2025`}>
+              <Badge className='border-secondary text-secondary-dark hover:bg-secondary-lighter' variant={"outline"} size="sm">📜 Project 2025</Badge>
+            </Link>
+            &gt;
+            <Link to={section?.url || ''}>
+              <Badge size="sm" className='border-primary text-primary-dark hover:bg-primary-lighter' variant={"outline"}>{section?.emoji} {changeCase.capitalCase(sectionName || '')}</Badge>
+            </Link>
+          </div>
           <h1 className='m-0'>{chapter?.emoji} {section?.sectionIdx}.{chapter?.chapterIdx}. {changeCase.capitalCase(chapter?.title || '')}</h1>
           <p className='ml-3'>authored by {
             chapter?.metadata?.authors?.map((author, idx) => {

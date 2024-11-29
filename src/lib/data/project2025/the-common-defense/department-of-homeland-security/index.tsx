@@ -10,12 +10,12 @@ const departmentOfHomelandSecurity: ChapterType = {
   metadata: {
     authors: [
       {
-        name: "Laura M. Greene",
+        name: "Ken Cuccinelli",
         avatar: "https://example.com/images/authors/laura-m-greene.jpg", // Placeholder avatar
       },
     ],
     title: "Department of Homeland Security",
-    wordcount: 7120, // Example word count; update with actual value.
+    wordcount: 6_980, // Example word count; update with actual value.
     keywords: ["Border Security", "Homeland Defense", "Executive Control", "Immigration Policy"],
     status: "transcription", // Adjust based on the progress
   },

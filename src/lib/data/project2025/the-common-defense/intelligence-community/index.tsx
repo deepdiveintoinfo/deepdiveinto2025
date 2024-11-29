@@ -10,7 +10,7 @@ const intelligenceCommunity: ChapterType = {
   metadata: {
     authors: [
       {
-        name: "Allen T. Reeves",
+        name: "Dustin J. Carmack",
         avatar: "https://example.com/images/authors/allen-t-reeves.jpg", // Placeholder avatar
       },
     ],

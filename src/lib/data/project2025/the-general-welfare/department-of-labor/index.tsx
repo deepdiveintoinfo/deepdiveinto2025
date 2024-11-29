@@ -10,7 +10,7 @@ const departmentOfLabor: ChapterType = {
   metadata: {
     authors: [
       {
-        name: "Emma J. Turner",
+        name: "Jonathan Berry",
         avatar: "https://example.com/images/authors/emma-j-turner.jpg", // Placeholder avatar
       },
     ],

@@ -10,7 +10,7 @@ const departmentOfHousingAndUrbanDevelopment: ChapterType = {
   metadata: {
     authors: [
       {
-        name: "Sophia R. Carter",
+        name: "Benjamin S. Carson, Sr., MD",
         avatar: "https://example.com/images/authors/sophia-r-carter.jpg", // Placeholder avatar
       },
     ],

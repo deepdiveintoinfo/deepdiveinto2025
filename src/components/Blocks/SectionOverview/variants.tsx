@@ -1,7 +1,7 @@
 import { cva } from "class-variance-authority"
 
 
-export const exampleVariants = cva(
+export const sectionOverviewVariants = cva(
     [],
     {
       variants: {},
@@ -9,4 +9,4 @@ export const exampleVariants = cva(
     }
   )
 
-export default exampleVariants
+export default sectionOverviewVariants

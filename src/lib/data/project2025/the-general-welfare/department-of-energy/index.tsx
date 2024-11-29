@@ -10,7 +10,7 @@ const departmentOfEnergy: ChapterType = {
   metadata: {
     authors: [
       {
-        name: "Melissa J. Carter",
+        name: "Bernard L. McNamee",
         avatar: "https://example.com/images/authors/melissa-j-carter.jpg", // Placeholder avatar
       },
     ],

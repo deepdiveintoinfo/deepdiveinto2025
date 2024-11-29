@@ -10,12 +10,12 @@ const departmentOfDefense: ChapterType = {
   metadata: {
     authors: [
       {
-        name: "James H. Prescott",
+        name: "Christopher Miller",
         avatar: "https://example.com/images/authors/james-h-prescott.jpg", // Placeholder avatar
       },
     ],
     title: "Department of Defense",
-    wordcount: 6450, // Example word count; update with actual value.
+    wordcount: 10_712,
     keywords: ["Military Expansion", "Defense Policy", "Executive Control", "National Security"],
     status: "transcription", // Adjust based on the progress
   },

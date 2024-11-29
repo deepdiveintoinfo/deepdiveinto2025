@@ -1,15 +1,15 @@
 import type { Meta, StoryObj } from '@storybook/react';
 
-import { PiePage } from '.';
+import { SectionOverview } from '.';
 
 
-const meta: Meta<typeof PiePage> = {
-  component: PiePage,
+const meta: Meta<typeof SectionOverview> = {
+  component: SectionOverview,
   tags: ["autodoc"]
 };
 
 export default meta;
-type Story = StoryObj<typeof PiePage>;
+type Story = StoryObj<typeof SectionOverview>;
 
 export const Default: Story = {
   args: {

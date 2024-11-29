@@ -10,12 +10,12 @@ const executiveOfficeOfThePresident: ChapterType = {
   metadata: {
     authors: [
       {
-        name: "John Springfield",
+        name: "Russ Vought",
         avatar: "https://example.com/images/authors/john-springfield.jpg", // Placeholder avatar
       },
     ],
     title: "Executive Office of the President",
-    wordcount: 6724, // Example word count; update with actual value.
+    wordcount: 9_334,
     keywords: ["Hierarchy", "Centralization", "Executive Power", "Streamlined Operations"],
     status: "transcription", // Adjust as per current status
   },

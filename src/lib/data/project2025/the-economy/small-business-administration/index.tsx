@@ -1,7 +1,7 @@
 import { ChapterType } from '@/lib/data/project2025/types';
 
 const smallBusinessAdministration: ChapterType = {
-  chapterIdx: 23,
+  chapterIdx: 25,
   title: "Small Business Administration",
   chapterId: "small-business-administration",
   url: "/project2025/the-economy/small-business-administration",
@@ -10,7 +10,7 @@ const smallBusinessAdministration: ChapterType = {
   metadata: {
     authors: [
       {
-        name: "Angela D. Knight",
+        name: "Karen Kerrigan",
         avatar: "https://example.com/images/authors/angela-d-knight.jpg", // Placeholder avatar
       },
     ],

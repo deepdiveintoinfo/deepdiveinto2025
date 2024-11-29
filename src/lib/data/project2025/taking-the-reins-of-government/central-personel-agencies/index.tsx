@@ -10,13 +10,21 @@ const centralPersonnelAgencies: ChapterType = {
   metadata: {
     authors: [
       {
-        name: "Margaret Whitestone",
+        name: "Donald Devine",
+        avatar: "https://example.com/images/authors/margaret-whitestone.jpg", // Placeholder avatar
+      },
+      {
+        name: "Dennis Dean Kirk",
+        avatar: "https://example.com/images/authors/margaret-whitestone.jpg", // Placeholder avatar
+      },
+      {
+        name: "Paul Dans",
         avatar: "https://example.com/images/authors/margaret-whitestone.jpg", // Placeholder avatar
       },
     ],
-    status: "undone", // Adjust based on the progress
+    status: "transcription", // Adjust based on the progress
     title: "Central Personnel Agencies",
-    wordcount: 7250, // Example word count; update with actual value.
+    wordcount: 6_143,
     keywords: ["Federal Workforce", "Reform", "Ideological Alignment", "Civil Service"],
   },
   summary: () => (

@@ -10,7 +10,7 @@ const usAgencyForGlobalMedia: ChapterType = {
   metadata: {
     authors: [
       {
-        name: "Edward Thompson",
+        name: "Mora Namdar",
         avatar: "https://example.com/images/authors/edward-thompson.jpg",
       },
     ],

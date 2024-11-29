@@ -1,8 +1,8 @@
 import { ChapterType } from '@/lib/data/project2025/types';
 
 const exportImportBank: ChapterType = {
-  chapterIdx: 21,
-  title: "Export–Import Bank",
+  chapterIdx: 23,
+  title: "Export-Import Bank",
   chapterId: "export-import-bank",
   url: "/project2025/the-economy/export-import-bank",
   emoji: "✈️",
@@ -10,11 +10,15 @@ const exportImportBank: ChapterType = {
   metadata: {
     authors: [
       {
-        name: "Laura M. Henderson",
+        name: "Veronique de Rugy",
         avatar: "https://example.com/images/authors/laura-m-henderson.jpg", // Placeholder avatar
       },
+      {
+        name: "Jennifer Hazelton",
+        avatar: "https://example.com/images/authors/jennifer-hazelton.jpg", // Placeholder avatar
+      }
     ],
-    title: "Export–Import Bank",
+    title: "Export-Import Bank",
     wordcount: 4740, // Example word count; update with actual value.
     keywords: ["Trade Policy", "Export-Import Bank", "Economic Support", "Deregulation"],
     status: "undone", // Adjust based on the progress

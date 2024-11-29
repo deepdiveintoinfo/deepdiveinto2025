@@ -5,12 +5,12 @@ const agencyForInternationalDevelopment: ChapterType = {
   title: "Agency for International Development",
   chapterId: "agency-for-international-development",
   url: "/project2025/the-common-defense/agency-for-international-development",
-  emoji: "🌐",
+  emoji: "📦",
   description: "Focuses on reforming aid distribution to reflect administration priorities, potentially sidelining global needs.",
   metadata: {
     authors: [
       {
-        name: "Howard V. Grant",
+        name: "Max Primorac",
         avatar: "https://example.com/images/authors/howard-v-grant.jpg", // Placeholder avatar
       },
     ],

@@ -1,16 +1,16 @@
 import { ChapterType } from '@/lib/data/project2025/types';
 
 const federalTradeCommission: ChapterType = {
-  chapterIdx: 28,
+  chapterIdx: 30,
   title: "Federal Trade Commission",
   chapterId: "federal-trade-commission",
   url: "/project2025/independent-regulatory-agencies/federal-trade-commission",
-  emoji: "⚖️",
+  emoji: "💰",
   description: "Aims to reduce competition regulations, potentially favoring large corporations.",
   metadata: {
     authors: [
       {
-        name: "Eleanor Rivers",
+        name: "Adam Candeub",
         avatar: "https://example.com/images/authors/eleanor-rivers.jpg",
       },
     ],
