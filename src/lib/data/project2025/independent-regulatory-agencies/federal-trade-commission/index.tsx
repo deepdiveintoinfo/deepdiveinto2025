@@ -17,7 +17,7 @@ const federalTradeCommission: ChapterType = {
     title: "Federal Trade Commission",
     wordcount: 6100,
     keywords: ["FTC Reform", "Market Competition", "Deregulation"],
-    status: "transcription",
+    status: "undone",
   },
   summary: () => (
     <p>

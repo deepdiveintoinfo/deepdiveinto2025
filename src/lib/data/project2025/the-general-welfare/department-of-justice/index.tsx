@@ -17,7 +17,7 @@ const departmentOfJustice: ChapterType = {
     title: "Department of Justice",
     wordcount: 5800, // Example word count; update with actual value.
     keywords: ["Justice Department", "Executive Control", "Independence", "Oversight"],
-    status: "transcription",
+    status: "undone",
   },
   summary: () => (
     <p>

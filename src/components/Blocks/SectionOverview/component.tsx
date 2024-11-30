@@ -12,13 +12,16 @@ export interface SectionOverviewProps
 
 const SectionOverview = forwardRef<HTMLDivElement, SectionOverviewProps>(
   ({ className, ...props }, ref) => {
-
     const { project2025 } = useContent()
 
-    console.log('here', project2025)
+    if (!project2025) return <>Loading</>
 
     return (
-      <>
+      <section
+        className={cn(sectionOverviewVariants({ className }))}
+        ref={ref}
+        {...props}
+      >
       {project2025.sections.map((section) => (
         <>
           <h3>
@@ -36,7 +39,7 @@ const SectionOverview = forwardRef<HTMLDivElement, SectionOverviewProps>(
           </ul>
         </>
       ))}
-      </>
+      </section>
     )
 
     // return (

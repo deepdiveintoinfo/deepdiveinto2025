@@ -17,7 +17,7 @@ const federalCommunicationsCommission: ChapterType = {
     title: "Federal Communications Commission",
     wordcount: 6800,
     keywords: ["Media Deregulation", "Telecommunications Policy", "FCC Reform"],
-    status: "analysis",
+    status: "undone",
   },
   summary: () => (
     <p>

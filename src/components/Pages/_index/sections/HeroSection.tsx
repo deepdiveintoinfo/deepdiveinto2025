@@ -7,19 +7,19 @@ export const HeroSection = () => (
   <div className="grid md:grid-cols-2 gap-4 md:gap-8 xl:gap-20 md:items-center">
     {/* Text Section */}
     <div>
-      <h1 className="scroll-m-20 text-4xl font-extrabold tracking-tight lg:text-5xl">
+      <h1 className="scroll-m-20 text-2xl lg:text-4xl font-extrabold tracking-tight">
         Help Unpack the Blueprint for America's Future
       </h1>
-      <p className="mt-3 text-xl text-muted-foreground">
+      <p className="mt-3 text-lg lg:text-xl text-muted-foreground">
         Project 2025 outlines a vision for significant government restructuring and policy changes. Our mission is to critically analyze this document, uncovering its potential risks, impacts, and underlying motives. By collaborating on this analysis, we aim to create a transparent, accessible resource to inform and prepare communities for the possible implications of these proposals.
       </p>
       {/* Buttons */}
-      <div className="mt-7 w-full flex justify-evenly">
-        <Link to="/project2025">
-          <Button size={"lg"}>Explore the Analysis</Button>
+      <div className="mt-7 block lg:flex w-full gap-4">
+        <Link className="block my-2 flex-grow" to="/project2025">
+          <Button className="w-full" size={"lg"}>Explore the Analysis</Button>
         </Link>
-        <Link to="/about">
-          <Button variant={"outline"} size={"lg"}>
+        <Link className="block my-2 flex-grow" to="/about">
+          <Button className="w-full" variant={"outline"} size={"lg"}>
             Learn More
           </Button>
         </Link>

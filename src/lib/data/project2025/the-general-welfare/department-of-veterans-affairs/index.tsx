@@ -17,7 +17,7 @@ const departmentOfVeteransAffairs: ChapterType = {
     title: "Department of Veterans Affairs",
     wordcount: 4825, // Example word count; adjust as needed.
     keywords: ["Veterans Affairs", "Privatization", "Healthcare Reform", "Cost-Cutting"],
-    status: "transcription",
+    status: "undone",
   },
   summary: () => (
     <p>

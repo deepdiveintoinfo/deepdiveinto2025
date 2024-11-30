@@ -21,7 +21,7 @@ const financialRegulatoryAgencies: ChapterType = {
     title: "Financial Regulatory Agencies",
     wordcount: 7200,
     keywords: ["Deregulation", "Financial Oversight", "Consumer Protections"],
-    status: "transcription",
+    status: "undone",
   },
   summary: () => (
     <p>

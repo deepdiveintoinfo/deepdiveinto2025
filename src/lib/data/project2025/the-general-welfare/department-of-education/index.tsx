@@ -17,7 +17,7 @@ const departmentOfEducation: ChapterType = {
     title: "Department of Education",
     wordcount: 6000, // Example word count; update with actual value.
     keywords: ["Education Policy", "Federal Oversight", "Equity", "Local Control"],
-    status: "transcription",
+    status: "undone",
   },
   summary: () => (
     <p>

@@ -17,7 +17,7 @@ const environmentalProtectionAgency: ChapterType = {
     title: "Environmental Protection Agency",
     wordcount: 5900, // Example word count; update with actual value.
     keywords: ["Deregulation", "Environmental Policy", "Industrial Interests", "Climate Change"],
-    status: "transcription",
+    status: "undone",
   },
   summary: () => (
     <p>

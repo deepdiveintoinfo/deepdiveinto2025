@@ -17,7 +17,7 @@ const departmentOfLabor: ChapterType = {
     title: "Department of Labor",
     wordcount: 5600, // Example word count; update with actual value.
     keywords: ["Labor Policy", "Worker Protections", "Business Interests", "Union Rights"],
-    status: "transcription",
+    status: "undone",
   },
   summary: () => (
     <p>
