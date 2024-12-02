@@ -17,7 +17,7 @@ const agencyForInternationalDevelopment: ChapterType = {
     title: "Agency for International Development",
     wordcount: 6850, // Example word count; update with actual value.
     keywords: ["Foreign Aid", "International Development", "National Interests", "Global Needs"],
-    status: "transcription", // Adjust based on the progress
+    status: "undone", // Adjust based on the progress
   },
   summary: () => (
     <p>

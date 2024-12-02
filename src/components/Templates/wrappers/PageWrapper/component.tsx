@@ -6,7 +6,7 @@ import { Header } from "@/components/Templates/Header"
     return (
       <div className="flex flex-col items-center w-full">
         <Header />
-        <div className="container pt-16 px-4 md:px-6">
+        <div className="container mt-10 px-4 md:px-6">
           {children}
         </div>
       </div>

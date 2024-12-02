@@ -29,11 +29,11 @@
         <article className='mt-4'>
           <div className='flex gap-2 leading-normal'>
             <Link to={`/project2025`}>
-              <Badge className='text-secondary-dark hover:bg-secondary-lighter' variant={"ghost"} size="sm">📜 Project 2025</Badge>
+              <Badge className='border-secondary text-secondary-dark hover:bg-secondary-lighter' variant={"outline"} size="sm">📜 Project 2025</Badge>
             </Link>
             &gt;
             <Link to={section?.url || ''}>
-              <Badge size="sm" className='text-primary-dark hover:bg-primary-lighter' variant={"ghost"}>{section?.emoji} {changeCase.capitalCase(sectionName || '')}</Badge>
+              <Badge size="sm" className='border-primary text-primary-dark hover:bg-primary-lighter' variant={"outline"}>{section?.emoji} {changeCase.capitalCase(sectionName || '')}</Badge>
             </Link>
           </div>
           <h1 className='m-0'>{chapter?.emoji} {section?.sectionIdx}.{chapter?.chapterIdx}. {changeCase.capitalCase(chapter?.title || '')}</h1>

@@ -4,7 +4,7 @@ import pkg from 'tailwindcss/defaultTheme.js'
 
 /** @type {import('tailwindcss').Config} */
 
-const { fontFamily } = pkg
+const { fontFamily, colors } = pkg
 
 const theme = {
   extend: {
@@ -45,6 +45,7 @@ const theme = {
       lg: '0 10px 15px rgba(0, 0, 0, 0.2)', // Prominent shadow
     },
     colors: {
+      ...colors,
       gradient: 'var(--gradient)',
       background: 'hsl(var(--background))',
       foreground: 'hsl(var(--foreground))',
@@ -124,7 +125,7 @@ const theme = {
           dark: 'hsl(var(--sidebar-border-dark))',
         },
         ring: 'hsl(var(--sidebar-ring))',
-      },       
+      },
     },
       typography: (theme) => ({
       DEFAULT: {

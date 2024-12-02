@@ -181,22 +181,20 @@ const MobileNavbar = () => {
                         </AccordionTrigger>
                         <AccordionContent className='p-0 m-0'>
                           <Accordion className='text-left text-ellipsis p-0 m-0' type='multiple'>
-                            {children.map((section, sectionIdx) => (
-                              <AccordionItem value={kebabCase(section.section)} disabled={sectionIdx !== 0}>
+                            {children.map((section) => (
+                              <AccordionItem value={kebabCase(section.section)}>
                                 <AccordionTrigger className={cn(
                                   `font-semibold bg-transparent p-0 ml-8 -indent-7`,
-                                  sectionIdx !== 0 && 'text-muted-light'
                                 )}>
                                   {section.emoji} {section.section}
                                 </AccordionTrigger>
                                 {section.chapters && (
                                   <AccordionContent className='p-0 m-0'>
-                                    {section.chapters.map((chapter, chapterIdx) => (
+                                    {section.chapters.map((chapter) => (
                                       <Link
                                         to={chapter.url}
                                         className={cn(
                                           'text-ellipsis px-2 ml-8 -indent-7 py-3 block select-none gap-1 rounded-md no-underline outline-none hover:bg-accent hover:text-accent-foreground focus:bg-accent focus:text-accent-foreground',
-                                          chapterIdx !== 0 && 'text-muted-light disabled'
                                         )}
                                         onClick={() => setIsOpen(false)}
                                       >

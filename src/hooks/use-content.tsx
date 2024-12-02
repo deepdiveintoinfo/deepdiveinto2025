@@ -7,14 +7,14 @@ export const useContent = () => {
     const { chapterName, sectionName } = useParams()
 
     const output: {
-        project2025: typeof project2025Data,
+        project2025?: typeof project2025Data,
         section?: SectionType | undefined,
         chapter?: ChapterType | undefined,
+        chapters?: ChapterType[] | undefined,
     } = {
         project2025: project2025Data,
+        chapters: project2025Data?.sections.map((section) => section.chapters).flat(Infinity) as ChapterType[]
     }
-
-    console.log(output)
 
     if(sectionName) {
         output.section = project2025Data?.sections.find(section => section.sectionId === sectionName) as SectionType | undefined;

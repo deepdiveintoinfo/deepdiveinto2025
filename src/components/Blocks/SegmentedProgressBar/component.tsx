@@ -1,4 +1,5 @@
 import { ChapterType } from '@/lib/data/project2025/types';
+import React from 'react';
 
 const SegmentedProgressBar = ({ chapters }: { chapters : ChapterType[]}) => {
   const totalChapters = chapters.length;
@@ -21,43 +22,43 @@ const SegmentedProgressBar = ({ chapters }: { chapters : ChapterType[]}) => {
   );
 
   return (
-    <div className="relative w-full h-6 bg-gray-200 rounded-full overflow-hidden">
+    <div className="relative w-full h-6 md:mt-0 text-xs">
       {/* Undone */}
       {percentages.undone > 0 && (
         <div
-          className="absolute top-0 left-0 h-full bg-red-500 pl-2 font-bold text-white"
+          className="absolute top-0 left-0 h-6 border-red-500 border-b-8 border-t-0 lg:border-b-0 lg:border-t-2"
           style={{
             width: `${percentages.undone}%`,
           }}
           title={`Undone: ${statusCounts.undone} (${percentages.undone.toFixed(1)}%)`}
-        >📂 {statusCounts.undone} Undone ({Math.round(percentages.undone)}%)</div>
+        >📂 {statusCounts.undone} <span className='hidden lg:inline'>Undone ({Math.round(percentages.undone)}%)</span></div>
       )}
       {/* Transcription */}
       {percentages.transcription > 0 && (
         <div
-          className="absolute top-0 left-0 h-full bg-green-500 pl-2 font-bold text-white"
+          className="absolute top-0 left-0 h-full border-green-500 border-b-8 border-t-0 lg:border-b-0 lg:border-t-2"
           style={{
             width: `${percentages.transcription}%`,
             marginLeft: `${percentages.undone}%`,
           }}
           title={`Transcription: ${statusCounts.transcription} (${percentages.transcription.toFixed(1)}%)`}
-        >🖋️ {statusCounts.transcription} Transcription ({Math.round(percentages.transcription)}%)</div>
+        >🖋️ {statusCounts.transcription} <span className='hidden lg:inline'>Transcription ({Math.round(percentages.transcription)}%)</span></div>
       )}
       {/* Analysis */}
       {percentages.analysis > 0 && (
         <div
-          className="absolute top-0 left-0 h-full bg-blue-500 pl-2 font-bold text-white"
+          className="absolute top-0 left-0 h-full border-blue-500 border-b-8 border-t-0 lg:border-b-0 lg:border-t-2"
           style={{ 
             width: `${percentages.analysis}%`,
             marginLeft: `${percentages.undone + percentages.transcription}%`,
           }}
           title={`Analysis: ${statusCounts.analysis} (${percentages.analysis.toFixed(1)}%)`}
-        >🧠 {statusCounts.analysis} Analysis ({Math.round(percentages.analysis)}%)</div>
+        >🧠 {statusCounts.analysis} <span className='hidden lg:inline'>Analysis ({Math.round(percentages.analysis)}%)</span></div>
       )}
       {/* Verification */}
       {percentages.verification > 0 && (
         <div
-          className="absolute top-0 left-0 h-full bg-yellow-500 pl-2 font-bold"
+          className="absolute top-0 left-0 h-full border-yellow-500 border-b-8 border-t-0 lg:border-b-0 lg:border-t-2"
           style={{
             width: `${percentages.verification}%`,
             marginLeft: `${
@@ -65,11 +66,11 @@ const SegmentedProgressBar = ({ chapters }: { chapters : ChapterType[]}) => {
             }%`,
           }}
           title={`Verification: ${statusCounts.verification} (${percentages.verification.toFixed(1)}%)`}
-        >🔍 {statusCounts.verification} Verification ({Math.round(percentages.verification)}%)</div>
+        >🔍 {statusCounts.verification} <span className='hidden lg:inline'>Verification ({Math.round(percentages.verification)}%)</span></div>
       )}
       {percentages.complete > 0 && (
         <div
-          className="absolute top-0 left-0 h-full white pl-2 font-bold"
+          className="absolute top-0 left-0 h-full border-gray-500 border-b-8 border-t-0 lg:border-b-0 lg:border-t-2"
           style={{
             width: `${percentages.complete}%`,
             marginLeft: `${
@@ -77,9 +78,8 @@ const SegmentedProgressBar = ({ chapters }: { chapters : ChapterType[]}) => {
             }%`,
           }}
           title={`Verification: ${statusCounts.verification} (${percentages.verification.toFixed(1)}%)`}
-        >✅ {statusCounts.complete} Complete ({Math.round(percentages.complete)}%)</div>
+        >✅ {statusCounts.complete} <span className='hidden lg:inline'>Complete ({Math.round(percentages.complete)}%)</span></div>
       )}
-
     </div>
   );
 };
