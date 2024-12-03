@@ -153,7 +153,7 @@ const MobileNavbar = () => {
               <Menu className="size-4" />
             </Button>
           </SheetTrigger>
-          <SheetContent className="overflow-y-auto">
+          <SheetContent side={"left"} className="overflow-y-auto">
             <SheetHeader>
               <SheetTitle>
                 <div className="flex items-center gap-2">
@@ -163,7 +163,7 @@ const MobileNavbar = () => {
                   if (!children) {
                     return (
                       <Link
-                        className='block w-full text-left my-4 text-lg font-semibold text-gray-900 hover:bg-gray-300'
+                        className='block w-full text-left my-4 font-semibold text-gray-900 hover:bg-gray-300'
                         key={idx}
                         to={url}
                         onClick={() => setIsOpen(false)}
@@ -175,20 +175,30 @@ const MobileNavbar = () => {
                   return (
                     <Accordion type='multiple'>
                       <AccordionItem value={kebabCase(page)}>
-                        <AccordionTrigger className={cn(
-                          "font-semibold bg-transparent p-0"
-                          )}>
-                          {page}
-                        </AccordionTrigger>
+                        <div className='flex justify-between'>
+                          <Link
+                            to={url}
+                            onClick={() => setIsOpen(false)}
+                          >
+                            {page}
+                          </Link>
+                          <AccordionTrigger size={"sm"} className={cn(
+                            "font-semibold bg-transparent p-0"
+                            )}>
+                            
+                          </AccordionTrigger>
+                        </div>
                         <AccordionContent className='p-0 m-0'>
-                          <Accordion className='text-left text-ellipsis p-0 m-0' type='multiple'>
+                          <Accordion className='text-left text-base text-ellipsis p-0 m-0' type='multiple'>
                             {children.map((section: SectionType) => (
                               <AccordionItem value={kebabCase(section.title)}>
-                                <AccordionTrigger className={cn(
-                                  `font-semibold bg-transparent p-0 ml-8 -indent-7`,
-                                )}>
+                                <div className='flex justify-between'>
                                   {section.emoji} {section.title}
-                                </AccordionTrigger>
+                                  <AccordionTrigger className={cn(
+                                    `font-semibold bg-transparent p-0 ml-8 -indent-7`,
+                                  )}>
+                                  </AccordionTrigger>
+                                </div>
                                 {section.chapters && (
                                   <AccordionContent className='p-0 m-0'>
                                     {section.chapters.map((chapter: ChapterType) => (
@@ -226,9 +236,9 @@ export const Header = () => {
     <div className="container border-b">
       <nav className="z-50 flex justify-center w-full fixed top-0 left-0 border-b bg-zinc-100">
         <div className="container flex justify-between px-4 md:px-6">
+          <MobileNavbar />
           <Logo />
           <Navbar />
-          <MobileNavbar />
         </div>
       </nav>
     </div>
