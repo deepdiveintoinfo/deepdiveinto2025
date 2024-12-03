@@ -50,9 +50,8 @@ This repository includes:
 ## 📊 **Current Status**
 
 ### Analysis Progress
-- Sections Completed: 1/5
-- Chapters Analyzed: 3/30
-- Evidence Tracked: 12 entries
+- Sections Completed: 0/5
+- Chapters Analyzed: 0/30
 
 [Explore Project 2025](https://deepdive2025.example.com) to learn more.
 

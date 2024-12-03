@@ -1,6 +1,6 @@
-export * from './ExploreChaptersSection'
-export * from './GoalsSection'
+export { ExploreChaptersSection } from './ExploreChaptersSection'
+export { GoalsSection } from './GoalsSection'
 export { HowYouCanHelpSection } from './HowYouCanHelpSection'
-export * from './HeroSection'
-export * from './WhyThisMattersSection'
+export { HeroSection } from './HeroSection'
+export { WhyThisMattersSection } from './WhyThisMattersSection'
 

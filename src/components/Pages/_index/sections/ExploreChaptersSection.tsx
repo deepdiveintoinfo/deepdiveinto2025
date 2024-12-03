@@ -19,32 +19,32 @@ const chapterImages: { [chapterIdx: number]: string} = {
   2: 'https://images.pexels.com/photos/1146358/pexels-photo-1146358.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Capitol Building
   3: 'https://images.pexels.com/photos/5668430/pexels-photo-5668430.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Government meeting
   4: 'https://images.pexels.com/photos/3743542/pexels-photo-3743542.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Military vehicles
-  5: 'https://images.pexels.com/photo/american-flag-on-top-of-white-house-1055400/', // Homeland Security
-  6: 'https://images.pexels.com/photo/flags-of-different-countries-704772/', // Department of State
-  7: 'https://images.pexels.com/photo/silhouette-of-man-standing-in-front-of-monitor-218717/', // Intelligence Community
-  8: 'https://images.pexels.com/photo/people-having-business-meeting-1181406/', // Media Agencies
-  9: 'https://images.pexels.com/photo/person-holding-aid-kit-1169754/', // International Aid
-  10: 'https://images.pexels.com/photo/green-corn-field-under-blue-sky-158827/', // Agriculture
-  11: 'https://images.pexels.com/photo/people-sitting-in-a-classroom-1181395/', // Education
-  12: 'https://images.pexels.com/photo/solar-panel-array-356036/', // Energy
-  13: 'https://images.pexels.com/photo/forest-trees-158607/', // Environment
-  14: 'https://images.pexels.com/photo/doctor-holding-stethoscope-218297/', // Health
-  15: 'https://images.pexels.com/photo/white-and-brown-concrete-building-106399/', // Housing
-  16: 'https://images.pexels.com/photo/mountain-during-sunset-167699/', // Interior
-  17: 'https://images.pexels.com/photo/scales-of-justice-607712/', // Justice
-  18: 'https://images.pexels.com/photo/person-holding-black-pen-1109541/', // Labor
-  19: 'https://images.pexels.com/photo/road-traffic-155144/', // Transportation
-  20: 'https://images.pexels.com/photo/soldier-in-uniform-1053764/', // Veterans
-  21: 'https://images.pexels.com/photo/people-working-in-office-1181400/', // Commerce
-  22: 'https://images.pexels.com/photo/close-up-photo-of-u-s-dollar-banknotes-545064/', // Treasury
-  23: 'https://images.pexels.com/photo/airplane-flying-above-city-buildings-210182/', // Export-Import
-  24: 'https://images.pexels.com/photo/low-angle-photo-of-high-rise-building-210598/', // Federal Reserve
-  25: 'https://images.pexels.com/photo/person-holding-open-signage-3345876/', // Small Business
-  26: 'https://images.pexels.com/photo/container-van-in-terminal-1427541/', // Trade
-  27: 'https://images.pexels.com/photo/close-up-photo-of-pen-1109543/', // Financial Regulation
-  28: 'https://images.pexels.com/photo/satellite-dish-under-blue-sky-159451/', // Communications
-  29: 'https://images.pexels.com/photo/person-holding-voting-signage-1550337/', // Election Commission
-  30: 'https://images.pexels.com/photo/people-shopping-in-a-mall-264507/', // Trade Commission
+  5: 'https://images.pexels.com/photos/97509/pexels-photo-97509.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Homeland Security // https://images.pexels.com/photos/97509/pexels-photo-97509.jpeg
+  6: 'https://images.pexels.com/photos/7841425/pexels-photo-7841425.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Department of State
+  7: 'https://images.pexels.com/photos/12220471/pexels-photo-12220471.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Intelligence Community
+  8: 'https://images.pexels.com/photos/1722177/pexels-photo-1722177.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Media Agencies
+  9: 'https://images.pexels.com/photos/9493595/pexels-photo-9493595.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // International Aid
+  10: 'https://images.pexels.com/photos/1112080/pexels-photo-1112080.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Agriculture
+  11: 'https://images.pexels.com/photo/people-sitting-in-a-classroom-1181395/ ?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Education
+  12: 'https://images.pexels.com/photo/solar-panel-array-356036/ ?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Energy
+  13: 'https://images.pexels.com/photo/forest-trees-158607/ ?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Environment
+  14: 'https://images.pexels.com/photo/doctor-holding-stethoscope-218297/ ?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Health
+  15: 'https://images.pexels.com/photo/white-and-brown-concrete-building-106399/ ?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Housing
+  16: 'https://images.pexels.com/photo/mountain-during-sunset-167699/ ?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Interior
+  17: 'https://images.pexels.com/photo/scales-of-justice-607712/ ?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Justice
+  18: 'https://images.pexels.com/photo/person-holding-black-pen-1109541/ ?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Labor
+  19: 'https://images.pexels.com/photo/road-traffic-155144/ ?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Transportation
+  20: 'https://images.pexels.com/photo/soldier-in-uniform-1053764/ ?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Veterans
+  21: 'https://images.pexels.com/photo/people-working-in-office-1181400/ ?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Commerce
+  22: 'https://images.pexels.com/photo/close-up-photo-of-u-s-dollar-banknotes-545064/ ?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Treasury
+  23: 'https://images.pexels.com/photo/airplane-flying-above-city-buildings-210182/ ?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Export-Import
+  24: 'https://images.pexels.com/photo/low-angle-photo-of-high-rise-building-210598/ ?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Federal Reserve
+  25: 'https://images.pexels.com/photo/person-holding-open-signage-3345876/ ?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Small Business
+  26: 'https://images.pexels.com/photo/container-van-in-terminal-1427541/ ?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Trade
+  27: 'https://images.pexels.com/photo/close-up-photo-of-pen-1109543/ ?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Financial Regulation
+  28: 'https://images.pexels.com/photo/satellite-dish-under-blue-sky-159451/ ?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Communications
+  29: 'https://images.pexels.com/photo/person-holding-voting-signage-1550337/ ?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Election Commission
+  30: 'https://images.pexels.com/photo/people-shopping-in-a-mall-264507/ ?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Trade Commission
 };
 
 export const ExploreChaptersSection = () => {
