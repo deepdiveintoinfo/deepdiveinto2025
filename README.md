@@ -53,7 +53,7 @@ This repository includes:
 - Sections Completed: 0/5
 - Chapters Analyzed: 0/30
 
-[Explore Project 2025](https://deepdive2025.example.com) to learn more.
+[Explore Project 2025](https://github.com/deepdiveinto2025/deepdiveinto2025) to learn more.
 
 ---
 
@@ -61,7 +61,7 @@ This repository includes:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/deepdive2025/deepdive2025.git
+   git clone https://github.com/deepdiveinto2025/deepdiveinto2025.git
    ```
 2. Install dependencies:
    ```bash
@@ -85,7 +85,7 @@ This repository includes:
 ## 🤝 **Join Us**
 
 Want to help hold power accountable? Join the conversation:
-- [GitHub Discussions](https://github.com/deepdive2025/deepdive2025/discussions)
+- [GitHub Discussions](https://github.com/deepdiveinto2025/deepdiveinto2025/discussions)
 - [Twitter](https://twitter.com/deepdive2025)
 - [Email Us](mailto:info@deepdive2025.example.com)
 
@@ -93,5 +93,5 @@ Want to help hold power accountable? Join the conversation:
 
 ## 📢 **Acknowledgments**
 
-This project was inspired by the need for public accountability and transparency. Special thanks to all contributors and collaborators who make this work possible.
+This project was inspired by the need for public accountability and transparency called for in [this reddit post](). Special thanks to all contributors and collaborators who make this work possible.
 
