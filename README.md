@@ -77,6 +77,7 @@ This repository includes:
 ## 📚 **Resources**
 
 - [Official Project 2025 Document](https://www.project2025.org/)
+- [Contribution Wiki](https://github.com/deepdiveinto2025/deepdiveinto2025/wiki)
 - [Contributing Guidelines](./CONTRIBUTING.md)
 - [Code of Conduct](./CODE_OF_CONDUCT.md)
 
