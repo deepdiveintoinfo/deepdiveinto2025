@@ -33057,6 +33057,10 @@ video {
     transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
   }
 
+  .lg\:list-disc{
+    list-style-type: disc;
+  }
+
   .lg\:grid-cols-3{
     grid-template-columns: repeat(3, minmax(0, 1fr));
   }
@@ -33083,6 +33087,10 @@ video {
 
   .lg\:gap-12{
     gap: 6rem;
+  }
+
+  .lg\:gap-2{
+    gap: 0.5rem;
   }
 
   .lg\:gap-8{
@@ -33148,6 +33156,10 @@ video {
   .lg\:py-5{
     padding-top: 1.25rem;
     padding-bottom: 1.25rem;
+  }
+
+  .lg\:pl-indent{
+    padding-left: 2rem;
   }
 
   .lg\:pt-0{
