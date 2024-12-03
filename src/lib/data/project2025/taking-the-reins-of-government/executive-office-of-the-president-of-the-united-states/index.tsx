@@ -17,7 +17,7 @@ const executiveOfficeOfThePresident: ChapterType = {
       },
     ],
     title: "Executive Office of the President",
-    wordcount: 9_334,
+    wordcount: 9_476,
     keywords: ["Hierarchy", "Centralization", "Executive Power", "Streamlined Operations"],
     status: "transcription", // Adjust as per current status
   },

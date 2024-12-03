@@ -16,7 +16,7 @@ const departmentOfDefense: ChapterType = {
       },
     ],
     title: "Department of Defense",
-    wordcount: 10_712,
+    wordcount: 10_942,
     keywords: ["Military Expansion", "Defense Policy", "Executive Control", "National Security"],
     status: "transcription", // Adjust based on the progress
   },

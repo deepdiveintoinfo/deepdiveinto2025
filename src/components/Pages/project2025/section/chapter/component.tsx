@@ -2,6 +2,7 @@
   import { PageComponentType } from '@/lib/types'
   import * as changeCase from 'change-case'
   import { SectionType, ChapterType } from '@/lib/data/project2025/types';
+  import { Card, CardHeader, CardContent, CardFooter } from "@/components/ThirdParty/ShadCn/Card";
 
   import { Badge } from "@/components/ThirdParty/ShadCn/Badge";
   import { Tabs, TabsList, TabsTrigger, TabsContent } from '@/components/ThirdParty/ShadCn/Tabs';
@@ -10,6 +11,7 @@
   import { KeywordBadges } from '@/components/Blocks/KeywordBadges/component';
 
   import { capitalCase } from 'change-case';
+import { Ticker } from '@/components/ThirdParty/Animata/Ticker';
 
   const statusIcons: { [status: string]: string} = {
     undone: '📂',
@@ -80,7 +82,19 @@
 
               {Summary && <TabsContent value="summary"><Summary /></TabsContent>}
               {Authors && <TabsContent value="authors"><Authors /></TabsContent>}
-              {RawMdxContent && <TabsContent value="raw"><RawMdxContent /></TabsContent>}
+              {RawMdxContent && <TabsContent value="raw">
+                <div className="flex flex-col lg:flex-row gap-4 my-4">
+                <Card>
+                  <CardHeader className="flex justify-center mb-0 pb-0 gap-3">
+                    <p className="flex justify-center text-4xl bold m-0 p-0"><Ticker value={chapter.metadata.wordcount.toLocaleString()} /></p>
+                  </CardHeader>
+                  <CardFooter className="py-0 mt-3 justify-center font-bold">
+                    Words
+                  </CardFooter>
+                </Card>
+                </div>
+                <RawMdxContent />
+              </TabsContent>}
               {EndNotes && <TabsContent value="endnotes"><EndNotes /></TabsContent>}
               {FAQ && <TabsContent value="faq"><FAQ /></TabsContent>}
             </Suspense>
