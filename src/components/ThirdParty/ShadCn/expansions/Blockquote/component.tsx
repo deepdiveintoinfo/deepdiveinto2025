@@ -21,7 +21,7 @@ const Blockquote = ({ children, className }: BlockquoteProps) => {
 
 const BlockquoteAuthor = ({ children, className }: BlockquoteProps) => {
   return (
-    <p className={cn('mt-4 pr-4 text-right font-bold not-italic text-primary-dark', className)}>
+    <p className={cn('mt-4 pr-4 text-right font-bold not-italic text-sm md:text-base text-primary-dark', className)}>
       {children}
     </p>
   );

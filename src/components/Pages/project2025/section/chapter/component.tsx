@@ -2,7 +2,7 @@
   import { PageComponentType } from '@/lib/types'
   import * as changeCase from 'change-case'
   import { SectionType, ChapterType } from '@/lib/data/project2025/types';
-  import { Card, CardHeader, CardContent, CardFooter } from "@/components/ThirdParty/ShadCn/Card";
+  import { Card, CardHeader, CardFooter } from "@/components/ThirdParty/ShadCn/Card";
 
   import { Badge } from "@/components/ThirdParty/ShadCn/Badge";
   import { Tabs, TabsList, TabsTrigger, TabsContent } from '@/components/ThirdParty/ShadCn/Tabs';
@@ -59,12 +59,8 @@ import { Ticker } from '@/components/ThirdParty/Animata/Ticker';
                 { statusIcons[chapter?.metadata?.status || '']} {capitalCase(chapter?.metadata?.status || '')}
             </Badge>
             &nbsp;
-            authored by {chapter?.metadata?.authors?.map((author, idx) => {
-              return (
-                <i key={idx}>{author.name}</i>
-              )
-            })
-           }</p>
+            authored by {chapter?.metadata?.authors?.map((author, idx) => <i key={idx}>{author.name}</i>)}
+          </p>
           {chapter?.metadata?.keywords && <KeywordBadges size="sm" keywords={chapter.metadata.keywords} />}
           <Tabs defaultValue={searchParams.get('tabKey') || "summary"}>
             <TabsList className='mb-8 mt-4 flex flex-col md:flex-row md:justify-start'>
@@ -98,7 +94,6 @@ import { Ticker } from '@/components/ThirdParty/Animata/Ticker';
               {EndNotes && <TabsContent value="endnotes"><EndNotes /></TabsContent>}
               {FAQ && <TabsContent value="faq"><FAQ /></TabsContent>}
             </Suspense>
-            
           </Tabs>
         </article>
 

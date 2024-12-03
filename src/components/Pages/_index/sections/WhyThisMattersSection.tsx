@@ -1,4 +1,4 @@
-import { Timer, Zap, ZoomIn } from 'lucide-react';
+// import { Timer, Zap, ZoomIn } from 'lucide-react';
 
 export const WhyThisMattersSection = () => {
   return (
