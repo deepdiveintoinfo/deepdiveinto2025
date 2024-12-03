@@ -33,11 +33,6 @@ const departmentOfTheTreasury: ChapterType = {
       high-income earners. It emphasizes deregulation to encourage investment but raises concerns about increasing wealth inequality.
     </p>
   ),
-  endnotes: () => (
-    <p>
-      Endnotes highlight key legislative acts and historical trends in corporate tax policy.
-    </p>
-  ),
 };
 
 export default departmentOfTheTreasury;

@@ -1,4 +1,5 @@
 import { ChapterType } from '@/lib/data/project2025/types';
+import CentralPersonnelAgenciesRaw from './versions/raw.mdx';
 
 const centralPersonnelAgencies: ChapterType = {
   chapterIdx: 3,
@@ -27,17 +28,14 @@ const centralPersonnelAgencies: ChapterType = {
     wordcount: 6_143,
     keywords: ["Federal Workforce", "Reform", "Ideological Alignment", "Civil Service"],
   },
+  versions: {
+    raw: CentralPersonnelAgenciesRaw,
+  },
   summary: () => (
     <p>
       This chapter outlines proposed reforms to central personnel agencies, aiming to align the federal workforce with
       ideological goals. It raises questions about the balance between political loyalty and maintaining professional expertise
       within civil service roles.
-    </p>
-  ),
-  endnotes: () => (
-    <p>
-      Endnotes include detailed references to past administrations' staffing policies, highlighting the tension between
-      ideological alignment and merit-based hiring.
     </p>
   ),
 };

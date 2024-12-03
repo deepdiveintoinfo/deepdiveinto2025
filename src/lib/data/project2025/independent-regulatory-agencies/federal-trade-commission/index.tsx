@@ -26,11 +26,6 @@ const federalTradeCommission: ChapterType = {
       monopolies and diminished consumer protections.
     </p>
   ),
-  endnotes: () => (
-    <p>
-      Endnotes reference key antitrust cases and the evolving role of the FTC in market regulation.
-    </p>
-  ),
 };
 
 export default federalTradeCommission;

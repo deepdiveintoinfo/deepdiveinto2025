@@ -25,12 +25,6 @@ const agencyForInternationalDevelopment: ChapterType = {
       Critics warn of reduced global trust and effectiveness in addressing international crises.
     </p>
   ),
-  endnotes: () => (
-    <p>
-      Endnotes include references to international aid frameworks, critiques of past U.S. foreign aid policies, and potential 
-      implications for global relationships.
-    </p>
-  ),
 };
 
 export default agencyForInternationalDevelopment;

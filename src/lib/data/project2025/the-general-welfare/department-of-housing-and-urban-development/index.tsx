@@ -25,11 +25,6 @@ const departmentOfHousingAndUrbanDevelopment: ChapterType = {
       exacerbate disparities in housing access and quality.
     </p>
   ),
-  endnotes: () => (
-    <p>
-      Endnotes include examples of past housing decentralization efforts and their outcomes.
-    </p>
-  ),
 };
 
 export default departmentOfHousingAndUrbanDevelopment;

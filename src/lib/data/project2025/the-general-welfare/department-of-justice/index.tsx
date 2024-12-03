@@ -25,11 +25,6 @@ const departmentOfJustice: ChapterType = {
       about the erosion of judicial independence and oversight.
     </p>
   ),
-  endnotes: () => (
-    <p>
-      Endnotes include historical examples of executive-judicial conflicts and their implications.
-    </p>
-  ),
 };
 
 export default departmentOfJustice;

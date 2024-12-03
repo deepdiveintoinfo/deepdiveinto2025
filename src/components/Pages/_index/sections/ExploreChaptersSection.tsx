@@ -15,10 +15,10 @@ import { useContent } from '@/hooks/use-content';
 import { ChapterType } from '@/lib/data/project2025/types';
 
 const chapterImages: { [chapterIdx: number]: string} = {
-  1: 'https://images.pexels.com/photos/129112/pexels-photo-129112.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&dpr=1', // White House
-  2: 'https://images.pexels.com/photos/1146358/pexels-photo-1146358.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&dpr=1', // Capitol Building
-  3: 'https://images.pexels.com/photos/5668430/pexels-photo-5668430.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&dpr=1', // Government meeting
-  4: 'https://images.pexels.com/photos/3743542/pexels-photo-3743542.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&dpr=1', // Military vehicles
+  1: 'https://images.pexels.com/photos/129112/pexels-photo-129112.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // White House
+  2: 'https://images.pexels.com/photos/1146358/pexels-photo-1146358.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Capitol Building
+  3: 'https://images.pexels.com/photos/5668430/pexels-photo-5668430.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Government meeting
+  4: 'https://images.pexels.com/photos/3743542/pexels-photo-3743542.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Military vehicles
   5: 'https://images.pexels.com/photo/american-flag-on-top-of-white-house-1055400/', // Homeland Security
   6: 'https://images.pexels.com/photo/flags-of-different-countries-704772/', // Department of State
   7: 'https://images.pexels.com/photo/silhouette-of-man-standing-in-front-of-monitor-218717/', // Intelligence Community
@@ -52,7 +52,7 @@ export const ExploreChaptersSection = () => {
   const [canScrollPrev, setCanScrollPrev] = useState(false);
   const [canScrollNext, setCanScrollNext] = useState(false);
   const { project2025 } = useContent();
-  const chapters = project2025?.sections.map((section) => section.chapters).flat(Infinity).splice(0, 5) as ChapterType[];
+  const chapters = project2025?.sections.map((section) => section.chapters).flat(Infinity) as ChapterType[];
   
   console.log(chapters.length)
   useEffect(() => {
@@ -125,7 +125,7 @@ export const ExploreChaptersSection = () => {
             },
           }}
         >
-          <CarouselContent className="ml-[calc(1rem-20px)] mr-[calc(1rem)] 2xl:ml-[calc(50vw-700px+1rem-20px)] 2xl:mr-[calc(50vw-700px+1rem)]">
+          <CarouselContent className="max-w-xs max-h-full ml-[calc(1rem-20px)] mr-[calc(1rem)] 2xl:ml-[calc(50vw-700px+1rem-20px)] 2xl:mr-[calc(50vw-700px+1rem)]">
             {chapters.map((chapter) => {
               return (
               <CarouselItem
@@ -149,13 +149,13 @@ export const ExploreChaptersSection = () => {
                       </div>
                     </div>
                   </div>
-                  <div className="mb-2 line-clamp-3 break-words pt-4 text-lg font-medium md:mb-3 md:pt-4 md:text-xl lg:pt-4 lg:text-2xl">
-                    {chapter.title}
+                  <div className="mb-2 line-clamp-1 ellipsis pt-4 text-md font-medium md:mb-3 md:pt-4 md:text-lg lg:pt-4 lg:text-xl">
+                    {chapter.chapterIdx}. {chapter.title}
                   </div>
                   <div className="mb-8 line-clamp-2 text-sm text-muted-foreground md:mb-12 md:text-base lg:mb-9">
                     {chapter.description}
                   </div>
-                  <div className="flex items-center text-sm">
+                  <div className="flex items-center text-sm self-end">
                     Read more{' '}
                     <ArrowRight className="ml-2 size-5 transition-transform group-hover:translate-x-1" />
                   </div>

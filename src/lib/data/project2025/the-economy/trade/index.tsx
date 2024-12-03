@@ -29,11 +29,6 @@ const trade: ChapterType = {
       potential risks to domestic industries and global economic relationships.
     </p>
   ),
-  endnotes: () => (
-    <p>
-      Key references include trade agreements and economic analyses of globalization impacts.
-    </p>
-  ),
 };
 
 export default trade;

@@ -26,11 +26,6 @@ const departmentOfVeteransAffairs: ChapterType = {
       the proposals raise concerns about reduced quality of care and accessibility for those who served.
     </p>
   ),
-  endnotes: () => (
-    <p>
-      References include analysis of current VA inefficiencies and case studies on privatized veteran healthcare models.
-    </p>
-  ),
 };
 
 export default departmentOfVeteransAffairs;

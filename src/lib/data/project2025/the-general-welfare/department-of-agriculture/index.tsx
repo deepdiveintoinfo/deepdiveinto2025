@@ -25,11 +25,6 @@ const departmentOfAgriculture: ChapterType = {
       Critics raise concerns about potential risks to environmental sustainability and food safety.
     </p>
   ),
-  endnotes: () => (
-    <p>
-      Endnotes include references to historical agricultural policies and their impact on small farmers and environmental health.
-    </p>
-  ),
 };
 
 export default departmentOfAgriculture;

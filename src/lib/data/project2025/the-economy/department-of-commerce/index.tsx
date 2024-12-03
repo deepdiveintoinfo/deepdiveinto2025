@@ -25,11 +25,6 @@ const departmentOfCommerce: ChapterType = {
       Critics worry about reduced consumer protections and oversight in vital sectors.
     </p>
   ),
-  endnotes: () => (
-    <p>
-      Endnotes include references to historical deregulation efforts and their impacts on market dynamics.
-    </p>
-  ),
 };
 
 export default departmentOfCommerce;

@@ -16,9 +16,9 @@ const independentRegulatoryAgencies: SectionType = {
   ],
   emoji: "🏦",
   url: "/project2025/independent-regulatory-agencies",
-  tagline: "Focuses on reducing regulatory agency independence and oversight.",
+  tagline: "Removing independence, dismantling protections.",
   logline:
-    "This section examines proposals to reform independent regulatory agencies, reducing oversight and increasing market-driven approaches. The changes risk undermining consumer protections, media independence, and electoral fairness.",
+    "This section focuses on reducing the autonomy of regulatory agencies, weakening consumer protections and oversight mechanisms.",
   description:
     "The Independent Regulatory Agencies section critiques existing frameworks for financial, media, and electoral regulation. Key proposals include reducing the influence of independent oversight in favor of executive-driven or market-oriented reforms. Critics argue these changes could lead to reduced transparency, increased influence of money in politics, and monopolistic practices.",
 };

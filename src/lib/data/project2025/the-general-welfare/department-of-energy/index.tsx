@@ -25,11 +25,6 @@ const departmentOfEnergy: ChapterType = {
       Environmental advocates warn that this approach risks undermining sustainability efforts and climate goals.
     </p>
   ),
-  endnotes: () => (
-    <p>
-      Endnotes reference debates over balancing energy independence with environmental responsibility.
-    </p>
-  ),
 };
 
 export default departmentOfEnergy;

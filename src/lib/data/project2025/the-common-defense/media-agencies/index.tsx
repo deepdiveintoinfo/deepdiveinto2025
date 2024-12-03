@@ -33,12 +33,6 @@ const mediaAgencies: ChapterType = {
       centralization of messaging.
     </p>
   ),
-  endnotes: () => (
-    <p>
-      Endnotes explore the history of media agency reforms and their impact on free press and public
-      accountability.
-    </p>
-  ),
   subsections: [corporationForPublicBroadcasting, usAgencyForGlobalMedia],
 };
 

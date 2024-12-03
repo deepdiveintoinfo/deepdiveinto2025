@@ -26,11 +26,6 @@ const federalCommunicationsCommission: ChapterType = {
       of FCC’s role to align more closely with market-driven principles.
     </p>
   ),
-  endnotes: () => (
-    <p>
-      Endnotes include citations on historical FCC rulings and industry impacts of past deregulation.
-    </p>
-  ),
 };
 
 export default federalCommunicationsCommission;

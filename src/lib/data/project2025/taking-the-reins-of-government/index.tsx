@@ -15,8 +15,8 @@ export const section: SectionType = {
     ],
     emoji: "👑",
     url: "/project2025/taking-the-reins-of-government",
-    tagline: "Consolidating power within the executive branch",
-    logline: "Focuses on consolidating power within the executive branch, emphasizing loyalty over diversity of perspectives.",
+    tagline: "Consolidating power from the top.",
+    logline: "This section outlines restructuring efforts that emphasize centralized control, loyalty, and alignment with the President's agenda.",
     description: "This section advocates for restructuring the White House and executive offices, emphasizing centralized control and loyalty to the President's agenda.",
 }
 

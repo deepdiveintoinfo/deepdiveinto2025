@@ -25,11 +25,6 @@ const departmentOfEducation: ChapterType = {
       Critics argue that this could exacerbate inequities in educational access and outcomes.
     </p>
   ),
-  endnotes: () => (
-    <p>
-      Endnotes include references to past education reforms and their implications for underserved communities.
-    </p>
-  ),
 };
 
 export default departmentOfEducation;

@@ -25,11 +25,6 @@ const smallBusinessAdministration: ChapterType = {
       with limited attention to inclusivity or marginalized communities.
     </p>
   ),
-  endnotes: () => (
-    <p>
-      References include data on small business growth and critiques of current SBA policies.
-    </p>
-  ),
 };
 
 export default smallBusinessAdministration;

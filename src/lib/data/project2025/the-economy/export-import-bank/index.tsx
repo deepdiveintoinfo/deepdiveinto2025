@@ -29,11 +29,6 @@ const exportImportBank: ChapterType = {
       American exports against concerns of government overreach and market distortion.
     </p>
   ),
-  endnotes: () => (
-    <p>
-      Key references include economic studies on the bank's effectiveness and testimonies from trade experts.
-    </p>
-  ),
 };
 
 export default exportImportBank;

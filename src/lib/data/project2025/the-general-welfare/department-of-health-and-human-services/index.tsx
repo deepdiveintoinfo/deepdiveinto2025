@@ -25,11 +25,6 @@ const departmentOfHealthAndHumanServices: ChapterType = {
       access for vulnerable populations. It emphasizes efficiency over equity.
     </p>
   ),
-  endnotes: () => (
-    <p>
-      Endnotes include studies on the impacts of reduced federal healthcare funding.
-    </p>
-  ),
 };
 
 export default departmentOfHealthAndHumanServices;

@@ -26,11 +26,6 @@ const departmentOfTransportation: ChapterType = {
       about the potential for environmental and safety oversights.
     </p>
   ),
-  endnotes: () => (
-    <p>
-      References include evaluations of existing transportation policies and proposals for public-private partnerships in infrastructure projects.
-    </p>
-  ),
 };
 
 export default departmentOfTransportation;

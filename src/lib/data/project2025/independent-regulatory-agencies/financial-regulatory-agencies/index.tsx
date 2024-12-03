@@ -30,12 +30,6 @@ const financialRegulatoryAgencies: ChapterType = {
       exposing consumers to financial vulnerabilities.
     </p>
   ),
-  endnotes: () => (
-    <p>
-      Endnotes include references to prior regulatory changes and the impact of financial oversight
-      in previous administrations.
-    </p>
-  ),
 };
 
 export default financialRegulatoryAgencies;

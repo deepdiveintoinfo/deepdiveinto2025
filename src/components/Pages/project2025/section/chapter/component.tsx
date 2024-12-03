@@ -3,15 +3,30 @@
   import * as changeCase from 'change-case'
   import { SectionType, ChapterType } from '@/lib/data/project2025/types';
 
-
-  import * as React from "react";
   import { Badge } from "@/components/ThirdParty/ShadCn/Badge";
   import { Tabs, TabsList, TabsTrigger, TabsContent } from '@/components/ThirdParty/ShadCn/Tabs';
   import { Link, useParams, useSearchParams } from 'react-router-dom';
   import { Suspense } from 'react';
   import { KeywordBadges } from '@/components/Blocks/KeywordBadges/component';
 
+  import { capitalCase } from 'change-case';
 
+  const statusIcons: { [status: string]: string} = {
+    undone: '📂',
+    transcription: '🖋️',
+    analysis: '🧠',
+    verification: '🔍',
+    complete: '✅',
+  }
+  
+  const statusColors: { [status: string]: string} = {
+    undone: 'red-500',
+    transcription: 'green-500',
+    analysis: 'blue-500',
+    verification: 'yellow-500',
+    complete: 'gray-500',
+  }
+  
   // Define the TypeScript interfaces
   export const ChapterPage: PageComponentType = () => {
 
@@ -37,24 +52,28 @@
             </Link>
           </div>
           <h1 className='m-0'>{chapter?.emoji} {section?.sectionIdx}.{chapter?.chapterIdx}. {changeCase.capitalCase(chapter?.title || '')}</h1>
-          <p className='ml-3'>authored by {
-            chapter?.metadata?.authors?.map((author, idx) => {
+          <p className='ml-3'>
+            <Badge size={'sm'} variant={'outline'} className={`border-${statusColors[chapter?.metadata?.status || '']}`}>
+                { statusIcons[chapter?.metadata?.status || '']} {capitalCase(chapter?.metadata?.status || '')}
+            </Badge>
+            &nbsp;
+            authored by {chapter?.metadata?.authors?.map((author, idx) => {
               return (
                 <i key={idx}>{author.name}</i>
               )
             })
-           } </p>
+           }</p>
           {chapter?.metadata?.keywords && <KeywordBadges size="sm" keywords={chapter.metadata.keywords} />}
           <Tabs defaultValue={searchParams.get('tabKey') || "summary"}>
             <TabsList className='mb-8 mt-4 flex flex-col md:flex-row md:justify-start'>
               <div>
-                <TabsTrigger className='active:bg-black' value="summary">Summary</TabsTrigger>
-                <TabsTrigger value="authors" onClick={() => setSearchParams({tabKey: "authors"})}>Authors</TabsTrigger>
-                <TabsTrigger value="faq">FAQ</TabsTrigger>
+                {Summary && <TabsTrigger className='active:bg-black' value="summary">Summary</TabsTrigger> }
+                {Authors && <TabsTrigger value="authors" onClick={() => setSearchParams({tabKey: "authors"})}>Authors</TabsTrigger> }
+                {FAQ && <TabsTrigger value="faq">FAQ</TabsTrigger>}
               </div>
               <div>
-                <TabsTrigger value="raw" onClick={() => setSearchParams({tabKey: "raw"})}>Chapter Source</TabsTrigger>
-                <TabsTrigger value="endnotes" onClick={() => setSearchParams({tabKey: "endnotes"})}>Endnotes</TabsTrigger>
+                {RawMdxContent && <TabsTrigger value="raw" onClick={() => setSearchParams({tabKey: "raw"})}>Chapter Source</TabsTrigger> }
+                {EndNotes && <TabsTrigger value="endnotes" onClick={() => setSearchParams({tabKey: "endnotes"})}>Endnotes</TabsTrigger> }
               </div>
             </TabsList>
             <Suspense fallback={<p>loading</p>}>

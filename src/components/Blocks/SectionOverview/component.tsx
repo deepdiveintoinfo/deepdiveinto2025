@@ -28,7 +28,7 @@ const SectionOverview = forwardRef<HTMLDivElement, SectionOverviewProps>(
             {section.sectionIdx}. {section.emoji} <Link to={section.url}>{section.title}</Link>
           </h3>
 
-          <p>{section.logline}</p>
+          <p>{section.description}</p>
 
           <ul>
             {section.chapters.map((chapter) => (

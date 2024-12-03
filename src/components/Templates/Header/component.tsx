@@ -26,16 +26,17 @@ import { Link } from 'react-router-dom';
 import nav from './nav';
 import logo from '@/assets/united-states.svg';
 import { kebabCase } from 'change-case';
+import { ChapterType, SectionType } from '@/lib/data/project2025/types';
 
-const Logo = () => (
-  <div className="flex items-center gap-2">
+const Logo = ({...props}) => (
+  <Link {...props}  className="flex items-center gap-2" to="/">
     <img
       src={logo}
       className="w-8"
       alt="logo"
     />
     <span className="text-xl font-bold" style={{fontFamily: '"Cormorant Garamond", serif', fontWeight: 700}}>DEEPDIVE</span><span style={{fontFamily: '"Dancing Script", cursive'}}>into2025</span>
-  </div>
+  </Link>
 )
 
 const Navbar = () => (
@@ -88,10 +89,10 @@ const Navbar = () => (
                       {section.emoji}
                       <div>
                         <div className="text-sm font-semibold">
-                          {sectionIdx+1}. {section.section}
+                          {sectionIdx+1}. {section.title}
                         </div>
                         <p className="text-sm leading-snug text-muted-foreground">
-                          {section.description}
+                          {section.tagline}
                         </p>
                       </div>
                     </Link>
@@ -119,7 +120,7 @@ const Navbar = () => (
                                       {sectionIdx+1}.{chapterIdx+1}. {chapter.title}
                                     </div>
                                     <p className="text-sm text-muted-foreground">
-                                      {chapter.description}
+                                      {chapter.tagline}
                                     </p>
                                   </div>
                                 </Link>
@@ -156,7 +157,7 @@ const MobileNavbar = () => {
             <SheetHeader>
               <SheetTitle>
                 <div className="flex items-center gap-2">
-                  <Logo />
+                  <Logo onClick={() => setIsOpen(false)} />
                 </div>
                 {nav.map(({ page, url, children }, idx) => {
                   if (!children) {
@@ -181,16 +182,16 @@ const MobileNavbar = () => {
                         </AccordionTrigger>
                         <AccordionContent className='p-0 m-0'>
                           <Accordion className='text-left text-ellipsis p-0 m-0' type='multiple'>
-                            {children.map((section) => (
-                              <AccordionItem value={kebabCase(section.section)}>
+                            {children.map((section: SectionType) => (
+                              <AccordionItem value={kebabCase(section.title)}>
                                 <AccordionTrigger className={cn(
                                   `font-semibold bg-transparent p-0 ml-8 -indent-7`,
                                 )}>
-                                  {section.emoji} {section.section}
+                                  {section.emoji} {section.title}
                                 </AccordionTrigger>
                                 {section.chapters && (
                                   <AccordionContent className='p-0 m-0'>
-                                    {section.chapters.map((chapter) => (
+                                    {section.chapters.map((chapter: ChapterType) => (
                                       <Link
                                         to={chapter.url}
                                         className={cn(

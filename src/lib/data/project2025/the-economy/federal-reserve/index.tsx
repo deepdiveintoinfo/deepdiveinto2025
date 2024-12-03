@@ -25,11 +25,6 @@ const federalReserve: ChapterType = {
       role in market interventions and monetary policy.
     </p>
   ),
-  endnotes: () => (
-    <p>
-      Endnotes include critiques of the Federal Reserve's past actions and proposals for alternative economic models.
-    </p>
-  ),
 };
 
 export default federalReserve;

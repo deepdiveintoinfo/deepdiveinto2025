@@ -1,4 +1,6 @@
 import { ChapterType } from '@/lib/data/project2025/types';
+import ExecutiveOfficeOfThePresidentRaw from '@/lib/data/project2025/taking-the-reins-of-government/white-house-office/versions/raw.mdx';
+
 
 const executiveOfficeOfThePresident: ChapterType = {
   chapterIdx: 2,
@@ -19,17 +21,15 @@ const executiveOfficeOfThePresident: ChapterType = {
     keywords: ["Hierarchy", "Centralization", "Executive Power", "Streamlined Operations"],
     status: "transcription", // Adjust as per current status
   },
+  versions: {
+    raw: ExecutiveOfficeOfThePresidentRaw,
+  },
   summary: () => (
     <p>
       This chapter details the structural framework and goals for the Executive Office of the President, prioritizing efficiency
       through centralized decision-making. It explores the trade-offs of tightly controlled hierarchical management systems.
     </p>
-  ),
-  endnotes: () => (
-    <p>
-      Endnotes and citations are available to support this chapter's references. Detailed documentation highlights historical precedents and policy recommendations.
-    </p>
-  ),
+  )
 };
 
 export default executiveOfficeOfThePresident;

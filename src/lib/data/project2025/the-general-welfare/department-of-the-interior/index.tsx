@@ -25,11 +25,6 @@ const departmentOfTheInterior: ChapterType = {
       conservation efforts and indigenous rights.
     </p>
   ),
-  endnotes: () => (
-    <p>
-      Endnotes reference debates on balancing economic development with conservation.
-    </p>
-  ),
 };
 
 export default departmentOfTheInterior;

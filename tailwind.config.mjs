@@ -171,4 +171,9 @@ export default {
     import("tailwindcss-animate"),
     import("@tailwindcss/typography")
   ],
+  safelist: [
+    'text-yellow-500', // Add the specific class manually if dynamically generated
+    'text-gray-500',
+    'text-green-500',
+  ],
 }

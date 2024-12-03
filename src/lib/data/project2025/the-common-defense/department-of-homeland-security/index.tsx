@@ -1,5 +1,5 @@
 import { ChapterType } from '@/lib/data/project2025/types';
-
+import DepartmentOfHomelandSecurityRaw from './versions/raw.mdx';
 const departmentOfHomelandSecurity: ChapterType = {
   chapterIdx: 5,
   title: "Department of Homeland Security",
@@ -17,19 +17,16 @@ const departmentOfHomelandSecurity: ChapterType = {
     title: "Department of Homeland Security",
     wordcount: 6_980, // Example word count; update with actual value.
     keywords: ["Border Security", "Homeland Defense", "Executive Control", "Immigration Policy"],
-    status: "analysis", // Adjust based on the progress
+    status: "transcription", // Adjust based on the progress
+  },
+  versions: {
+    raw: DepartmentOfHomelandSecurityRaw,
   },
   summary: () => (
     <p>
       This chapter outlines reforms for the Department of Homeland Security, focusing on aggressive border security measures and
       prioritizing executive authority in enforcement. It critiques the potential sidelining of humanitarian concerns and the
       implications of consolidating authority at the federal level.
-    </p>
-  ),
-  endnotes: () => (
-    <p>
-      Endnotes highlight references to historical immigration policies, executive orders, and case studies on federal enforcement
-      strategies.
     </p>
   ),
 };

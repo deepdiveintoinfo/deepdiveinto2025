@@ -2,6 +2,8 @@ import { useContent } from '@/hooks/use-content';
 import { ChapterType, SectionType } from '@/lib/data/project2025/types';
 import { KeywordBadges } from '@/components/Blocks/KeywordBadges';
 import { Link } from 'react-router-dom';
+import {capitalCase} from 'change-case';
+import { Badge } from '@/components/ThirdParty/ShadCn';
 
 const statusIcons: { [status: string]: string} = {
   undone: '📂',
@@ -15,7 +17,7 @@ const statusColors: { [status: string]: string} = {
   undone: 'red-500',
   transcription: 'green-500',
   analysis: 'blue-500',
-  verification: 'accent',
+  verification: 'yellow-500',
   complete: 'gray-500',
 }
 
@@ -38,20 +40,22 @@ const ChapterList = () => {
                     <div className={`border-t pt-4`}>
                           <div
                               key={chapter.title}
-                              className="flex flex-col lg:flex-row lg:items-center justify-between"
+                              className="flex flex-col lg:justify-start justify-between"
                           >
                             <div>
                               <Link
                                 to={chapter.chapterId}
                                 className="font-semibold hover:underline"
                               >
-                                <span className={`text-${statusColors[chapter.metadata.status]}`}>{section.sectionIdx}.{chapter.chapterIdx}.</span> {chapter.emoji} {chapter.title}
+                                {section.sectionIdx}.{chapter.chapterIdx}. {chapter.emoji} {chapter.title}
                               </Link>
-                              <span className='inline-block ml-2'>
-                                {statusIcons[chapter.metadata.status]}
-                              </span>
                             </div>
-                            <div className='pt-4 md:pt-0'>
+                            <div>
+                              <Badge size={'sm'} variant={'outline'} className={`border-${statusColors[chapter.metadata.status]}`}>
+                                { statusIcons[chapter.metadata.status]} {capitalCase(chapter.metadata.status)}
+                              </Badge>
+                            </div>
+                            <div className='lg:absolute pt-4 lg:pt-0 lg:self-end'>
                               {chapter?.metadata?.keywords && <KeywordBadges size={"sm"} keywords={chapter.metadata.keywords} />}
                             </div>
                           </div>

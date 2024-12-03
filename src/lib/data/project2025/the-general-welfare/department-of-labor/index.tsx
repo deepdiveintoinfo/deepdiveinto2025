@@ -25,11 +25,6 @@ const departmentOfLabor: ChapterType = {
       union rights, sparking debates on fairness and equity in the labor market.
     </p>
   ),
-  endnotes: () => (
-    <p>
-      Endnotes cite studies on labor reforms and their impacts on workforce stability and rights.
-    </p>
-  ),
 };
 
 export default departmentOfLabor;

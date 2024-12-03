@@ -15,21 +15,15 @@ const departmentOfState: ChapterType = {
       },
     ],
     title: "Department of State",
-    wordcount: 6890, // Example word count; update with actual value.
+    wordcount: 6_890, // Example word count; update with actual value.
     keywords: ["Diplomacy", "Foreign Policy", "Streamlined Operations", "Ideological Alignment"],
-    status: "complete", // Adjust based on the progress
+    status: "undone", // Adjust based on the progress
   },
   summary: () => (
     <p>
       This chapter discusses proposed reforms to the Department of State aimed at streamlining diplomacy and centralizing decision-making. 
       The reforms emphasize alignment with executive priorities, potentially limiting the autonomy of diplomats and reshaping 
       international relations to reflect ideological goals.
-    </p>
-  ),
-  endnotes: () => (
-    <p>
-      Endnotes provide context on historical diplomatic practices, international treaty negotiations, and the balance between ideology 
-      and pragmatic foreign policy.
     </p>
   ),
 };

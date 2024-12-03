@@ -20,9 +20,9 @@ const theEconomy: SectionType = {
   ],
   emoji: "💰",
   url: "/project2025/the-economy",
-  tagline: "Outlines economic policies favoring deregulation and free-market principles.",
+  tagline: "Restricting access to the free market.",
   logline:
-    "This section advocates for significant economic reforms, prioritizing deregulation, tax restructuring, and free-market principles, often at the expense of oversight and equity.",
+    "This section advocates for economic policies that favor deregulation and tax restructuring, often benefiting wealthier entities while limiting broader participation.",
   description:
     "The Economy section details policy proposals aimed at streamlining commerce, reducing regulatory barriers, and enhancing free-market competitiveness. Key areas include tax reforms favoring corporations and high-income earners, debates over the future of institutions like the Export–Import Bank, and a reevaluation of monetary policy through Federal Reserve reforms. Small businesses are encouraged through deregulation, although limited focus is given to inclusivity. Trade policy emphasizes globalization and market liberalization, presenting both opportunities and risks for domestic industries.",
 };

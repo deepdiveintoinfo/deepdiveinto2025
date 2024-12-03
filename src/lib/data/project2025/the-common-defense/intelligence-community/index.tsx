@@ -17,19 +17,13 @@ const intelligenceCommunity: ChapterType = {
     title: "Intelligence Community",
     wordcount: 7250, // Example word count; update with actual value.
     keywords: ["Intelligence Operations", "Centralization", "National Security", "Transparency Concerns"],
-    status: "verification", // Adjust based on the progress
+    status: "undone", // Adjust based on the progress
   },
   summary: () => (
     <p>
       This chapter proposes consolidating intelligence operations under stronger executive control to streamline decision-making 
       and prioritize national security. However, it raises concerns about reduced oversight and diminished transparency, 
       which could impact accountability within intelligence agencies.
-    </p>
-  ),
-  endnotes: () => (
-    <p>
-      Endnotes include references to historical examples of intelligence centralization, discussions on oversight mechanisms, 
-      and the implications of reducing public transparency in intelligence operations.
     </p>
   ),
 };

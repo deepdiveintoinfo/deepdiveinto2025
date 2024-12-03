@@ -26,11 +26,6 @@ const federalElectionCommission: ChapterType = {
       concerns about fairness and transparency.
     </p>
   ),
-  endnotes: () => (
-    <p>
-      Endnotes discuss historical changes to campaign finance laws and their implications for electoral integrity.
-    </p>
-  ),
 };
 
 export default federalElectionCommission;

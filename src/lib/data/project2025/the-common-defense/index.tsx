@@ -20,8 +20,8 @@ export const theCommonDefense: SectionType = {
   ],
   emoji: "⚔️",
   url: "/project2025/the-common-defense",
-  tagline: "Explores national security and defense policies with a focus on centralization and control.",
-  logline: "This section delves into national defense and security policies, advocating for a centralized approach that emphasizes executive control over key agencies.",
+  tagline: "Security at any cost.",
+  logline: "This section prioritizes aggressive national security and defense policies, often with limited regard for checks, balances, or humanitarian considerations.",
   description: "This section outlines sweeping changes to the United States' defense and security infrastructure, prioritizing military expansion, alignment with the President’s agenda, and significant restructuring of media and international aid organizations to reflect administration priorities.",
 };
 

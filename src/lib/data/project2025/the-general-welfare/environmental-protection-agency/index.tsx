@@ -25,11 +25,6 @@ const environmentalProtectionAgency: ChapterType = {
       over environmental protections. Critics warn of potential long-term damage to ecosystems and public health.
     </p>
   ),
-  endnotes: () => (
-    <p>
-      Endnotes include analyses of past environmental policies and their economic impacts.
-    </p>
-  ),
 };
 
 export default environmentalProtectionAgency;

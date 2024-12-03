@@ -30,9 +30,9 @@ export const theGeneralWelfare: SectionType = {
   ],
   emoji: "🌱",
   url: "/project2025/the-general-welfare",
-  tagline: "Covers domestic policy with an emphasis on deregulation and reduced federal oversight.",
+  tagline: "Deregulation at the public's expense.",
   logline:
-    "This section outlines reforms to federal agencies tasked with domestic welfare, emphasizing deregulation and reduced oversight. It raises concerns about the balance between efficiency, equity, and public welfare.",
+    "This section emphasizes deregulation across key domestic agencies, raising concerns about reduced oversight and potential negative impacts on equity, safety, and environmental protections.",
   description:
     "This section explores federal domestic policies, including agriculture, education, labor, and environmental protection. It advocates for reduced federal intervention and increased efficiency, often prioritizing economic growth over public welfare, equity, and sustainability.",
 };
