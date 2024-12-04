@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom';
 
 export const HowYouCanHelpSection = () => {
   return (
-    <section className="py-32">
+    <section className="py-24">
       <div className="container">
         <div className="flex flex-col items-center justify-between gap-8 rounded-lg border border-primary-light bg-white/50 p-6 md:flex-row lg:px-20 lg:py-16">
           <div className="w-full">
