@@ -30697,6 +30697,9 @@ video {
   --tw-text-opacity: 1;
   color: rgb(239 68 68 / var(--tw-text-opacity));
 }
+.text-secondary{
+  color: hsl(var(--secondary));
+}
 .text-secondary-dark{
   color: hsl(var(--secondary-dark));
 }
@@ -32754,10 +32757,6 @@ video {
     margin-bottom: 0.75rem;
   }
 
-  .md\:mb-4{
-    margin-bottom: 1rem;
-  }
-
   .md\:mb-5{
     margin-bottom: 1.25rem;
   }
@@ -32885,11 +32884,6 @@ video {
   .md\:text-3xl{
     font-size: 1.875rem;
     line-height: 2.25rem;
-  }
-
-  .md\:text-4xl{
-    font-size: 2.25rem;
-    line-height: 2.5rem;
   }
 
   .md\:text-7xl{
@@ -33126,8 +33120,12 @@ video {
     border-top-width: 2px;
   }
 
-  .lg\:p-10{
-    padding: 4rem;
+  .lg\:p-0{
+    padding: 0px;
+  }
+
+  .lg\:p-5{
+    padding: 1.25rem;
   }
 
   .lg\:px-20{
@@ -33184,11 +33182,6 @@ video {
   .lg\:text-5xl{
     font-size: 3rem;
     line-height: 1;
-  }
-
-  .lg\:text-base{
-    font-size: 1rem;
-    line-height: 1.5rem;
   }
 
   .lg\:text-lg{
