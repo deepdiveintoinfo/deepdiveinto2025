@@ -8,6 +8,7 @@ const executiveOfficeOfThePresident: ChapterType = {
   chapterId: "executive-office-of-the-president",
   url: "/project2025/taking-the-reins-of-government/executive-office-of-the-president",
   emoji: "🗃️",
+  tagline: "Streamlining loyalty over accountability.",
   description: "Outlines a strict hierarchical structure for managing the President's agenda, emphasizing centralized control and streamlined operations.",
   metadata: {
     authors: [

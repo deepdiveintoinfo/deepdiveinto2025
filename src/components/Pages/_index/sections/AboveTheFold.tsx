@@ -1,7 +1,7 @@
 import { Button } from "@/components/ThirdParty/ShadCn/Button";
 import { Link } from "react-router-dom";
 
-export const HeroSection = () => (
+export const AboveTheFold = () => (
   <div className="container md:py-24 lg:py-32">
   {/* Grid */}
   <div className="grid md:grid-cols-2 gap-4 md:gap-8 xl:gap-20 md:items-center">
@@ -10,8 +10,8 @@ export const HeroSection = () => (
       <h1 className="scroll-m-20 text-2xl lg:text-4xl font-extrabold tracking-tight">
         Help Unpack the Blueprint for America's Future
       </h1>
-      <p className="mt-3 text-lg lg:text-xl text-muted-foreground">
-        Project 2025 outlines a vision for significant government restructuring and policy changes. Our mission is to critically analyze this document, uncovering its potential risks, impacts, and underlying motives. By collaborating on this analysis, we aim to create a transparent, accessible resource to inform and prepare communities for the possible implications of these proposals.
+      <p className="mt-3 text-base lg:text-xl text-muted-foreground">
+        Project 2025 presents a plan for major changes to government and policies. Our goal is to carefully review this document to find possible risks, impacts, and motives. By working together, we aim to build a clear, easy-to-understand resource that helps communities stay informed and ready for the effects of these ideas.
       </p>
       {/* Buttons */}
       <div className="mt-7 block lg:flex w-full gap-4">

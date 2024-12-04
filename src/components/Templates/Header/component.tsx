@@ -164,7 +164,7 @@ const MobileNavbar = () => {
                     return (
                       <Link
                         className='block w-full text-left my-4 font-semibold text-gray-900 hover:bg-gray-300'
-                        key={idx}
+                        key={`mobile-nav-header-${idx}`}
                         to={url}
                         onClick={() => setIsOpen(false)}
                       >
@@ -173,7 +173,7 @@ const MobileNavbar = () => {
                     );
                   }
                   return (
-                    <Accordion type='multiple'>
+                    <Accordion key={`mobile-nav-header-${idx}`} type='multiple'>
                       <AccordionItem value={kebabCase(page)}>
                         <div className='flex justify-between'>
                           <Link
@@ -190,19 +190,21 @@ const MobileNavbar = () => {
                         </div>
                         <AccordionContent className='p-0 m-0'>
                           <Accordion className='text-left text-base text-ellipsis p-0 m-0' type='multiple'>
-                            {children.map((section: SectionType) => (
-                              <AccordionItem value={kebabCase(section.title)}>
+                            {children.map((section: SectionType, idx: number) => (
+                              <AccordionItem key={`mobile-nav-${idx}`} value={kebabCase(section.title)}>
                                 <div className='flex justify-between'>
-                                  {section.emoji} {section.title}
+                                  <Link to={section.url} onClick={() => setIsOpen(false)}>
+                                    {section.emoji} {section.title}
+                                  </Link>
                                   <AccordionTrigger className={cn(
                                     `font-semibold bg-transparent p-0 ml-8 -indent-7`,
-                                  )}>
-                                  </AccordionTrigger>
+                                  )}></AccordionTrigger>
                                 </div>
                                 {section.chapters && (
                                   <AccordionContent className='p-0 m-0'>
-                                    {section.chapters.map((chapter: ChapterType) => (
+                                    {section.chapters.map((chapter: ChapterType, idx2: number) => (
                                       <Link
+                                        key={`mobile-nav-sub-${idx}-${idx2}`}
                                         to={chapter.url}
                                         className={cn(
                                           'text-ellipsis px-2 ml-8 -indent-7 py-3 block select-none gap-1 rounded-md no-underline outline-none hover:bg-accent hover:text-accent-foreground focus:bg-accent focus:text-accent-foreground',
@@ -236,34 +238,11 @@ export const Header = () => {
     <div className="container border-b">
       <nav className="z-50 flex justify-center w-full fixed top-0 left-0 border-b bg-zinc-100">
         <div className="container flex justify-between px-4 md:px-6">
-          <MobileNavbar />
           <Logo />
           <Navbar />
+          <MobileNavbar />
         </div>
       </nav>
     </div>
   );
 };
-
-
-/**
- * 
-                          {children.map((section, sectionIdx) => {
-                            return (
-                              <Link
-                              to={section.url}
-                              className={cn(
-                                'flex select-none gap-1 rounded-md leading-none no-underline outline-none transition-colors hover:bg-accent hover:text-accent-foreground focus:bg-accent focus:text-accent-foreground'
-                              )}
-                            >
-                              {section.emoji}
-                              <div>
-                                <div className="text-sm font-semibold">
-                                  {sectionIdx+1}. {section.section}
-                                </div>
-                              </div>
-                            </Link>
-                            )}
-                          )}
-
- */

@@ -14,5 +14,9 @@ export default [
     {
         page: "FAQ",
         url: "/faq",
-    }
+    },
+    {
+      page: "About",
+      url: "/about",
+    },
 ]

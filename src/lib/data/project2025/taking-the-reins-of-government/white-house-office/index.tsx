@@ -15,6 +15,8 @@ const whiteHouseOffice : ChapterType = {
     url: "/project2025/taking-the-reins-of-government/white-house-office",
     emoji: "🏛️",
     description: "Focuses on consolidating power within the executive branch, emphasizing loyalty over diversity of perspectives.",
+    tagline: "Power begins at the top.",
+    logline: "",
     metadata: {
       authors: [{
           name: "Richard Dearborn",

@@ -4,30 +4,29 @@ export const WhyThisMattersSection = () => {
   return (
     <section className="py-32">
       <div className="container">
-        <p className="mb-4 text-sm text-muted-foreground lg:text-base">
-          OUR VALUES
-        </p>
-        <h2 className="text-3xl font-medium lg:text-4xl">Why This Matters</h2>
-        <p className='mt-8 mb-10'>
-            Project 2025 isn't just a set of policy recommendations—it's a detailed roadmap for reshaping government and society. By analyzing it critically, we aim to create a transparent, accessible record that informs and empowers communities.
+        <h2 className="mb-4 text-sm lg:text-lg uppercase">
+          Why This Matters
+        </h2>
+        <p className='mt-8 mb-8'>
+          Project 2025 is more than policy goals — it's a detailed plan to change how government and society work. By examining it closely, we aim to provide a clear and accessible record that helps communities stay informed and prepared.
         </p>
         <div className="grid gap-6 lg:grid-cols-3">
           <div className="rounded-lg border border-primary-light text-muted-foreground bg-white/50 p-5">
-            <h3 className="mb-2 text-xl font-medium">Who Could Be Affected?</h3>
+            <h3 className="mb-2 text-xl font-medium text-secondary">Who Could Be Affected?</h3>
             <p className="leading-7 text-muted-foreground">
-              Communities, institutions, and vulnerable populations may face significant changes in policies like healthcare, education, and civil rights.
+              Policies in areas like healthcare, education, and civil rights could create big changes for communities, organizations, and vulnerable groups.
             </p>
           </div>
           <div className="rounded-lg  border border-primary-light text-muted-foreground bg-white/50 p-5">
-            <h3 className="mb-2 text-xl font-medium">What's at Stake?</h3>
+            <h3 className="mb-2 text-xl font-medium text-secondary">What's at Stake?</h3>
             <p className="leading-7 text-muted-foreground">
-              Transparency in decision-making, representation for all voices, and preparation for potential societal changes.
+              Fair decision-making, equal representation, and readiness for major societal shifts are all on the line.
             </p>
           </div>
           <div className="rounded-lg border border-primary-light bg-white/50 p-5">
-            <h3 className="mb-2 text-xl font-medium">A Public Record</h3>
+            <h3 className="mb-2 text-xl font-medium text-secondary">A Public Record</h3>
             <p className="leading-7 text-muted-foreground">
-              A fully transparent, sentence-by-sentence analysis to hold decision-makers accountable and combat misinformation.
+              We're creating a clear, detailed analysis of every part of the document to ensure accountability and fight misinformation.
             </p>
           </div>
         </div>

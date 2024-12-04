@@ -24,14 +24,14 @@ const chapterImages: { [chapterIdx: number]: string} = {
   7: 'https://images.pexels.com/photos/12220471/pexels-photo-12220471.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Intelligence Community
   8: 'https://images.pexels.com/photos/1722177/pexels-photo-1722177.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Media Agencies
   9: 'https://images.pexels.com/photos/9493595/pexels-photo-9493595.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // International Aid
-  // Agriculture
+  10: 'https://images.pexels.com/photos/1112080/pexels-photo-1112080.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Agriculture
   11: 'https://images.pexels.com/photos/1181395/pexels-photo-1181395.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Education
   12: 'https://images.pexels.com/photos/356036/pexels-photo-356036.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Energy
-  13: 'https://images.pexels.com/photos/158607/pexels-photo-158607.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Environment
+  13: 'https://images.pexels.com/photos/414798/pexels-photo-414798.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Environment
   14: 'https://images.pexels.com/photos/218297/pexels-photo-218297.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Health
   15: 'https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Housing
   16: 'https://images.pexels.com/photos/167699/pexels-photo-167699.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Interior
-  17: 'https://images.pexels.com/photos/607712/pexels-photo-607712.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Justice
+  17: 'https://images.pexels.com/photos/6069606/pexels-photo-6069606.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Justice
   18: 'https://images.pexels.com/photos/1109541/pexels-photo-1109541.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Labor
   19: 'https://images.pexels.com/photos/155144/pexels-photo-155144.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Transportation
   20: 'https://images.pexels.com/photos/1053764/pexels-photo-1053764.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Veterans
@@ -42,7 +42,7 @@ const chapterImages: { [chapterIdx: number]: string} = {
   25: 'https://images.pexels.com/photos/3345876/pexels-photo-3345876.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Small Business
   26: 'https://images.pexels.com/photos/1427541/pexels-photo-1427541.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Trade
   27: 'https://images.pexels.com/photos/1109543/pexels-photo-1109543.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Financial Regulation
-  28: 'https://images.pexels.com/photos/159451/pexels-photo-159451.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Communications
+  28: 'https://images.pexels.com/photos/270288/pexels-photo-270288.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Communications
   29: 'https://images.pexels.com/photos/1550337/pexels-photo-1550337.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Election Commission
   30: 'https://images.pexels.com/photos/264507/pexels-photo-264507.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Trade Commission
 };
@@ -54,7 +54,6 @@ export const ExploreChaptersSection = () => {
   const { project2025 } = useContent();
   const chapters = project2025?.sections.map((section) => section.chapters).flat(Infinity) as ChapterType[];
   
-  console.log(chapters.length)
   useEffect(() => {
     if (!carouselApi) {
       return;
@@ -70,25 +69,13 @@ export const ExploreChaptersSection = () => {
     };
   }, [carouselApi]);
   return (
-    <section className="py-32">
+    <section className="py-0">
       <div className="container">
         <div className="mb-8 flex flex-col justify-between md:mb-14 md:flex-row md:items-end lg:mb-16">
-          <div>
-            <p className="mb-6 text-xs font-medium uppercase tracking-wider">
-              Quick Links
-            </p>
-            <h2 className="mb-3 text-xl font-semibold md:mb-4 md:text-4xl lg:mb-6">
-              Chapters
-            </h2>
-            <Link
-              to="/contribute"
-              className="group flex items-center text-xs font-medium md:text-base lg:text-lg"
-            >
-              Contribute to the Analysis{' '}
-              <ArrowRight className="ml-2 size-4 transition-transform group-hover:translate-x-1" />
-            </Link>
-          </div>
-          <div className="mt-8 flex shrink-0 items-center justify-center gap-2">
+          <h2 className="mb-4 text-sm text-muted-foreground lg:text-lg uppercase">
+            Explore The Chapters of Project 2025
+          </h2>
+          <div className="mt-8 flex shrink-0 items-center justify-start gap-2">
             <Button
               size="icon"
               variant="outline"
@@ -114,7 +101,7 @@ export const ExploreChaptersSection = () => {
           </div>
         </div>
       </div>
-      <div className="w-full overflow-hidden">
+      <div className="w-full">
         <Carousel
           setApi={setCarouselApi}
           opts={{

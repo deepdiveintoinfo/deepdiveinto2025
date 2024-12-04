@@ -1,6 +1,6 @@
 export { ExploreChaptersSection } from './ExploreChaptersSection'
-export { GoalsSection } from './GoalsSection'
+export { OurMissionSection } from './OurMissionSection'
 export { HowYouCanHelpSection } from './HowYouCanHelpSection'
-export { HeroSection } from './HeroSection'
+export { AboveTheFold } from './AboveTheFold'
 export { WhyThisMattersSection } from './WhyThisMattersSection'
 

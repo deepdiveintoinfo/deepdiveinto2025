@@ -7,6 +7,7 @@ const centralPersonnelAgencies: ChapterType = {
   chapterId: "central-personnel-agencies",
   url: "/project2025/taking-the-reins-of-government/central-personnel-agencies",
   emoji: "📇",
+  tagline: "Shaping civil service to fit an agenda.",
   description: "Proposes reforms to align the federal workforce with ideological goals, potentially sidelining career professionals.",
   metadata: {
     authors: [
