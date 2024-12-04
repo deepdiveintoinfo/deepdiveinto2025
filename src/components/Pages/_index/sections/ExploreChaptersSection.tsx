@@ -24,27 +24,27 @@ const chapterImages: { [chapterIdx: number]: string} = {
   7: 'https://images.pexels.com/photos/12220471/pexels-photo-12220471.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Intelligence Community
   8: 'https://images.pexels.com/photos/1722177/pexels-photo-1722177.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Media Agencies
   9: 'https://images.pexels.com/photos/9493595/pexels-photo-9493595.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // International Aid
-  10: 'https://images.pexels.com/photos/1112080/pexels-photo-1112080.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Agriculture
-  11: 'https://images.pexels.com/photo/people-sitting-in-a-classroom-1181395/ ?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Education
-  12: 'https://images.pexels.com/photo/solar-panel-array-356036/ ?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Energy
-  13: 'https://images.pexels.com/photo/forest-trees-158607/ ?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Environment
-  14: 'https://images.pexels.com/photo/doctor-holding-stethoscope-218297/ ?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Health
-  15: 'https://images.pexels.com/photo/white-and-brown-concrete-building-106399/ ?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Housing
-  16: 'https://images.pexels.com/photo/mountain-during-sunset-167699/ ?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Interior
-  17: 'https://images.pexels.com/photo/scales-of-justice-607712/ ?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Justice
-  18: 'https://images.pexels.com/photo/person-holding-black-pen-1109541/ ?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Labor
-  19: 'https://images.pexels.com/photo/road-traffic-155144/ ?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Transportation
-  20: 'https://images.pexels.com/photo/soldier-in-uniform-1053764/ ?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Veterans
-  21: 'https://images.pexels.com/photo/people-working-in-office-1181400/ ?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Commerce
-  22: 'https://images.pexels.com/photo/close-up-photo-of-u-s-dollar-banknotes-545064/ ?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Treasury
-  23: 'https://images.pexels.com/photo/airplane-flying-above-city-buildings-210182/ ?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Export-Import
-  24: 'https://images.pexels.com/photo/low-angle-photo-of-high-rise-building-210598/ ?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Federal Reserve
-  25: 'https://images.pexels.com/photo/person-holding-open-signage-3345876/ ?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Small Business
-  26: 'https://images.pexels.com/photo/container-van-in-terminal-1427541/ ?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Trade
-  27: 'https://images.pexels.com/photo/close-up-photo-of-pen-1109543/ ?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Financial Regulation
-  28: 'https://images.pexels.com/photo/satellite-dish-under-blue-sky-159451/ ?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Communications
-  29: 'https://images.pexels.com/photo/person-holding-voting-signage-1550337/ ?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Election Commission
-  30: 'https://images.pexels.com/photo/people-shopping-in-a-mall-264507/ ?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Trade Commission
+  // Agriculture
+  11: 'https://images.pexels.com/photos/1181395/pexels-photo-1181395.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Education
+  12: 'https://images.pexels.com/photos/356036/pexels-photo-356036.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Energy
+  13: 'https://images.pexels.com/photos/158607/pexels-photo-158607.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Environment
+  14: 'https://images.pexels.com/photos/218297/pexels-photo-218297.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Health
+  15: 'https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Housing
+  16: 'https://images.pexels.com/photos/167699/pexels-photo-167699.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Interior
+  17: 'https://images.pexels.com/photos/607712/pexels-photo-607712.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Justice
+  18: 'https://images.pexels.com/photos/1109541/pexels-photo-1109541.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Labor
+  19: 'https://images.pexels.com/photos/155144/pexels-photo-155144.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Transportation
+  20: 'https://images.pexels.com/photos/1053764/pexels-photo-1053764.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Veterans
+  21: 'https://images.pexels.com/photos/1181400/pexels-photo-1181400.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Commerce
+  22: 'https://images.pexels.com/photos/545064/pexels-photo-545064.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Treasury
+  23: 'https://images.pexels.com/photos/210182/pexels-photo-210182.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Export-Import
+  24: 'https://images.pexels.com/photos/210598/pexels-photo-210598.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Federal Reserve
+  25: 'https://images.pexels.com/photos/3345876/pexels-photo-3345876.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Small Business
+  26: 'https://images.pexels.com/photos/1427541/pexels-photo-1427541.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Trade
+  27: 'https://images.pexels.com/photos/1109543/pexels-photo-1109543.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Financial Regulation
+  28: 'https://images.pexels.com/photos/159451/pexels-photo-159451.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Communications
+  29: 'https://images.pexels.com/photos/1550337/pexels-photo-1550337.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Election Commission
+  30: 'https://images.pexels.com/photos/264507/pexels-photo-264507.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // Trade Commission
 };
 
 export const ExploreChaptersSection = () => {
