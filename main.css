@@ -33075,10 +33075,6 @@ video {
     gap: 6rem;
   }
 
-  .lg\:gap-2{
-    gap: 0.5rem;
-  }
-
   .lg\:gap-8{
     gap: 2.5rem;
   }
@@ -33198,6 +33194,14 @@ video {
 
   .xl\:w-5\/12{
     width: 41.666667%;
+  }
+
+  .xl\:flex-row{
+    flex-direction: row;
+  }
+
+  .xl\:gap-2{
+    gap: 0.5rem;
   }
 
   .xl\:gap-20{
