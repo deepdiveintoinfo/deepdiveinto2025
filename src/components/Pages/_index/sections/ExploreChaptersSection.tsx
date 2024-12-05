@@ -101,7 +101,7 @@ export const ExploreChaptersSection = () => {
           </div>
         </div>
       </div>
-      <div className="w-full lg:overflow-hidden">
+      <div className="w-full max-w-sm lg:overflow-hidden">
         <Carousel
           setApi={setCarouselApi}
           opts={{
