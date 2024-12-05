@@ -39,16 +39,16 @@ AccordionItem.displayName = "AccordionItem";
 
 const AccordionTrigger = React.forwardRef<
   React.ElementRef<typeof AccordionPrimitive.Trigger>,
-  React.ComponentPropsWithoutRef<typeof AccordionPrimitive.Trigger> & VariantProps<typeof accordionTriggerVariants>
->(({ className, children, ...props }, ref) => (
+  React.ComponentPropsWithoutRef<typeof AccordionPrimitive.Trigger> & VariantProps<typeof accordionTriggerVariants> & { invert?: boolean }
+>(({ className, invert, children, ...props }, ref) => (
   <AccordionPrimitive.Header className="flex">
     <AccordionPrimitive.Trigger
       ref={ref}
-      className={cn(accordionTriggerVariants({ className }))}
+      className={cn(accordionTriggerVariants({ invert, className }))}
       {...props}
     >
       {children}
-      <PlusIcon className="h-6 w-6 shrink-0 transition-transform duration-200 text-gray-600" />
+      <PlusIcon className={`h-6 w-6 shrink-0 transition-transform duration-200 ${invert ? `text-white` : `text-muted-foreground` }`} />
     </AccordionPrimitive.Trigger>
   </AccordionPrimitive.Header>
 ));

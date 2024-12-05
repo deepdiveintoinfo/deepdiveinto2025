@@ -25,7 +25,11 @@ export const accordionTriggerVariants = cva(
         size: {
           sm: "text-base lg:text-lg",
           lg: "lg:text-lg",
-        }
+        },
+        invert: {
+          true: "text-white bg-primary hover:bg-primary-dark",
+          false: "",
+        },
       },
       defaultVariants: {
         variant: "default",
