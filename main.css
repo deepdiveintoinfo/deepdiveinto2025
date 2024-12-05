@@ -32821,6 +32821,10 @@ video {
     max-width: 452px;
   }
 
+  .md\:max-w-full{
+    max-width: 100%;
+  }
+
   .md\:grid-cols-2{
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
@@ -33105,10 +33109,6 @@ video {
 
   .lg\:self-end{
     align-self: flex-end;
-  }
-
-  .lg\:overflow-hidden{
-    overflow: hidden;
   }
 
   .lg\:border-b-0{
