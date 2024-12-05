@@ -33107,6 +33107,10 @@ video {
     align-self: flex-end;
   }
 
+  .lg\:overflow-hidden{
+    overflow: hidden;
+  }
+
   .lg\:border-b-0{
     border-bottom-width: 0px;
   }
