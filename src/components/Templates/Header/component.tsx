@@ -26,7 +26,7 @@ import { Link } from 'react-router-dom';
 import nav from './nav';
 import logo from '@/assets/united-states.svg';
 import { kebabCase } from 'change-case';
-import { ChapterType, SectionType } from '@/lib/data/project2025/types';
+import { ChapterType, SectionType } from '@/content/project2025/types';
 
 const Logo = ({...props}) => (
   <Link {...props}  className="flex items-center gap-2" to="/">

@@ -43,6 +43,7 @@ const ScrollHandler = () => {
  * Router documentation https://reactrouter.com/en/main/routers/create-hash-router
  */
 const router = createHashRouter(Object.entries(pages).map(([path, Element]) => {
+  console.log(pages)
   return ({
     ...Element,
     // element: path == 'IndexPage' ? <SidebarWrapper><ScrollHandler /><Element /></SidebarWrapper> : <SidebarWrapper><ScrollHandler /><Element /></SidebarWrapper>

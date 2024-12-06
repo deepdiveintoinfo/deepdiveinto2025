@@ -12,7 +12,7 @@ import {
 } from '@/components/ThirdParty/ShadCn/Carousel';
 import { Link } from 'react-router-dom';
 import { useContent } from '@/hooks/use-content';
-import { ChapterType } from '@/lib/data/project2025/types';
+import { ChapterType } from '@/content/project2025/types';
 
 const chapterImages: { [chapterIdx: number]: string} = {
   1: 'https://images.pexels.com/photos/129112/pexels-photo-129112.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1', // White House

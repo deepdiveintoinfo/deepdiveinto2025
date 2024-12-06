@@ -1,4 +1,4 @@
-import { sections } from "@/lib/data/project2025";
+import { sections } from "@/content/project2025";
   
   
 export default [
@@ -7,16 +7,16 @@ export default [
     url: "/contribute",
   },
   {
-        page: "Explore Project 2025",
-        url: "/project2025",
-        children: sections,
-    },
-    {
-        page: "FAQ",
-        url: "/faq",
-    },
-    {
-      page: "About",
-      url: "/about",
-    },
+    page: "Explore Project 2025",
+    url: "/project2025",
+    children: sections,
+  },
+  {
+    page: "About",
+    url: "/about",
+  },
+  {
+    page: "FAQ",
+    url: "/faq",
+  },
 ]

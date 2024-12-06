@@ -1,5 +1,5 @@
 import { useContent } from '@/hooks/use-content';
-import { ChapterType, SectionType } from '@/lib/data/project2025/types';
+import { ChapterType, SectionType } from '@/content/project2025/types';
 import { KeywordBadges } from '@/components/Blocks/KeywordBadges';
 import { Link } from 'react-router-dom';
 import {capitalCase} from 'change-case';

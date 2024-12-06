@@ -77,7 +77,7 @@ export default {
         use: [MiniCssExtractPlugin.loader, 'css-loader', 'sass-loader'],
       },
       {
-        test: /\.(png|jpe?g|gif|svg|ogm|mp4|webm|ogg)$/i,
+        test: /\.(png|jpe?g|gif|svg|ogm|mp4|webm|ogg|pdf)$/i,
         type: 'asset/resource',
         generator: {
           filename: 'assets/[name][ext][query]', // Ensures all assets go into an 'assets/' folder

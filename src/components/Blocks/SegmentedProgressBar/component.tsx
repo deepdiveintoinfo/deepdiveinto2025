@@ -1,4 +1,4 @@
-import { ChapterType } from '@/lib/data/project2025/types';
+import { ChapterType } from '@/content/project2025/types';
 import React from 'react';
 
 const SegmentedProgressBar = ({ chapters }: { chapters : ChapterType[]}) => {

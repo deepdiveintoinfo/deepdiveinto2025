@@ -1,0 +1,53 @@
+// types.ts
+import { ReactNode } from "react";
+
+// Base type for MDX components
+export type MdxComponent = React.FC<{ components?: Record<string, React.ComponentType<unknown>>; children?: ReactNode }>;
+
+// Types for the Project 2025 data
+  export type ChapterType = {
+    title: string,
+    chapterId: string,
+    metadata: {
+      authors: Array<{
+        name: string,
+        avatar: string,
+      }>,
+      title: string,
+      wordcount: number,
+      keywords: string[],
+      status: "undone" | "transcription" | "analysis" | "verification" | "complete";
+    },
+    summary: MdxComponent,
+    emoji: string,
+    chapterIdx: number,
+    description: string,
+    endnotes?: MdxComponent,
+    authors?: MdxComponent,
+    faq?: MdxComponent,
+    versions?: {
+      markdown?: MdxComponent,
+      simple?: MdxComponent,
+      clear?: MdxComponent,
+      pdfPath?: string,
+    }
+    subsections?: ChapterType[],
+    logline?: string,
+    tagline?: string,
+    url: string;
+  };
+  export type SectionType = {
+    title: string,
+    sectionId: string,
+    sectionIdx: number,
+    chapters: ChapterType[],
+    emoji: string,
+    description: string,
+    logline: string,
+    tagline: string,
+    url: string,
+    pdfPath?: string,
+}
+  export type Project2025Type = {
+    sections: SectionType[]
+  }

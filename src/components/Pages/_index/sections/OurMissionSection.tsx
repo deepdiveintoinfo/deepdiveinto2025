@@ -4,7 +4,7 @@ export const OurMissionSection = () => {
   return (
     <>
     <div className="grid gap-6 md:grid-cols-2 py-24">
-      <div className="flex flex-col justify-center items-start  rounded-2xl border border-primary-light bg-white/50 p-5 lg:p-0 shrink">
+      <div className="flex flex-col justify-center items-start  rounded-2xl border border-primary-light bg-white/50 p-5 shrink">
         <p className="text-sm text-secondary uppercase mb-2">Our Mission</p>
         <p className="text-base">
           We aim to provide clear and easy-to-understand analysis. 

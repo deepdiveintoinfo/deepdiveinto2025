@@ -1,5 +1,5 @@
-import project2025Data from '@/lib/data/project2025'
-import { SectionType, ChapterType } from '@/lib/data/project2025/types';
+import project2025Data from '@/content/project2025'
+import { SectionType, ChapterType } from '@/content/project2025/types';
 import { useParams } from "react-router-dom";
 
 
