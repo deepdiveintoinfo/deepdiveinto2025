@@ -14,9 +14,8 @@ import { KeywordBadges } from '@/components/Blocks/KeywordBadges/component';
 import { capitalCase } from 'change-case';
 import { ContentSourcesWrapper } from './ContentSourcesWrapper';
 
-import 'react-pdf/dist/Page/AnnotationLayer.css';
-import 'react-pdf/dist/Page/TextLayer.css';
-import { Button } from '@/components/ThirdParty/ShadCn';
+
+import { PDFViewer } from '@/components/Blocks/PDFViewer';
 
 const statusIcons: { [status: string]: string} = {
   undone: '📂',
@@ -94,7 +93,7 @@ export const ChapterPage: PageComponentType = () => {
           {EndNotes && <TabsContent value="endnotes"><EndNotes /></TabsContent>}
           {FAQ && <TabsContent value="faq"><FAQ /></TabsContent>}
           <TabsContent value="pdf">
-            <PDF file={chapter?.versions?.pdfPath || ''} />
+            <PDFViewer path={chapter?.versions?.pdfPath || ''} />
           </TabsContent>
         </Suspense>
       </Tabs>
@@ -104,29 +103,3 @@ export const ChapterPage: PageComponentType = () => {
 }
 
 ChapterPage.path = "/project2025/:sectionName/:chapterName";
-
-function PDF({ file } : { file: string }): JSX.Element {
-  const [numPages, setNumPages] = useState<number>();
-  const [pageNumber, setPageNumber] = useState<number>(1);
- 
-  function onDocumentLoadSuccess({ numPages }: { numPages: number }): void {
-    setNumPages(numPages);
-  }
-
-  console.log(setPageNumber)
-
-  return (
-    <div className='flex flex-col items-center'>
-      <div className='flex gap-8 justify-between items-center'>
-      <p><Button size={"sm"} disabled={pageNumber == 1} onClick={() => pageNumber > 1 && setPageNumber(pageNumber-1)}>Previous</Button></p>
-      <p>
-        Page {pageNumber} of {numPages}
-      </p>
-      <p><Button size={"sm"} disabled={pageNumber == numPages} onClick={() => pageNumber < (numPages || 0) && setPageNumber(pageNumber+1)}>Next</Button></p>
-      </div>
-      <Document file={file} onLoadSuccess={onDocumentLoadSuccess}>
-        <Page className={"max-w-min"} pageNumber={pageNumber} />
-      </Document>
-    </div>
-  );
-}
