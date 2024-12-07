@@ -1,6 +1,3 @@
-# DEPARTMENT OF HOMELAND SECURITY
-*Ken Cuccinelli*
-
 ## PRIMARY RECOMMENDATION
 
 Our primary recommendation is that the President pursue legislation to dismantle the Department of Homeland Security (DHS). After 20 years, it has not gelled into “One DHS.” Instead, its various components' different missions have outweighed its decades-long attempt to function as one department, rendering the whole disjointed rather than cohesive. Breaking up the department along its mission lines would facilitate mission focus and provide opportunities to reduce overhead and achieve more limited government. In lieu of a status quo DHS, we recommend that:

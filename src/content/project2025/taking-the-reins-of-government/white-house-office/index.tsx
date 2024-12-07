@@ -1,6 +1,6 @@
-import markdown from './versions/markdown.md';
-import simple from './versions/simple.mdx';
-import clear from './versions/clear.mdx';
+import original from './versions/original.md';
+import simple from './versions/simple.md';
+import clear from './versions/clear.md';
 import endnotes from './endnotes.mdx';
 import authors from './authors.mdx';
 import summary from './summary.mdx';
@@ -27,7 +27,7 @@ const whiteHouseOffice : ChapterType = {
           avatar: "https://littlesis.org/images/profile/c6/c6879a39a790aaa1dbca33bd03c59d25.jpg"
       }],
       title: "White House Office",
-      wordcount: 7_650,
+      wordcount: 7_687,
       keywords: ["Centralization", "Executive Authority", "Oversight", "Accountability", "Loyalty"],
       status: "analysis"
     },
@@ -36,7 +36,7 @@ const whiteHouseOffice : ChapterType = {
     authors,
     faq,
     versions: {
-      markdown,
+      original,
       simple,
       clear,
       pdfPath: chapterPDFPath,

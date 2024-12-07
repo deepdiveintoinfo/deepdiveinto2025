@@ -1,6 +1,3 @@
-# White House Office
-*Rick Dearborn*
-
 From popular culture to academia, the American presidency has long been a prominent fixture of the national imagination—naturally so since it is the beating heart of our nation's power and prestige. It has played, for instance, a feature role in innumerable movies and television shows and has been prodded, analyzed, and critiqued by countless books, essays, and studies. But like nearly everything else in life, there is no substitute for firsthand experience, which this manual has compiled from the experience of presidential appointees and provides in accessible form for future use.
 
 With respect to the presidency, it is best to begin with our Republic's foundational document. The Constitution gives the “executive Power” to the President.  

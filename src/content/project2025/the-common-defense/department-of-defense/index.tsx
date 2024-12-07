@@ -1,5 +1,5 @@
 import { ChapterType } from '@/content/project2025/types';
-import DepartmentOfDefenseRaw from './versions/raw.mdx';
+import original from './versions/original.md';
 
 const departmentOfDefense: ChapterType = {
   chapterIdx: 4,
@@ -21,7 +21,7 @@ const departmentOfDefense: ChapterType = {
     status: "transcription", // Adjust based on the progress
   },
   versions: {
-    markdown: DepartmentOfDefenseRaw,
+    original,
   },
   summary: () => (
     <p>

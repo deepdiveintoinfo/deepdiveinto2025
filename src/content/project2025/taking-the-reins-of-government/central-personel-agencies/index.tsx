@@ -1,5 +1,5 @@
 import { ChapterType } from '@/content/project2025/types';
-import CentralPersonnelAgenciesRaw from './versions/markdown.md';
+import original from './versions/original.md';
 
 const centralPersonnelAgencies: ChapterType = {
   chapterIdx: 3,
@@ -30,7 +30,7 @@ const centralPersonnelAgencies: ChapterType = {
     keywords: ["Federal Workforce", "Reform", "Ideological Alignment", "Civil Service"],
   },
   versions: {
-    markdown: CentralPersonnelAgenciesRaw,
+    original,
   },
   summary: () => (
     <p>

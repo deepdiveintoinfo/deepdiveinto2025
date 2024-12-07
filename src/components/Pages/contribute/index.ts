@@ -1,2 +1,2 @@
-export * from './component'
-export * from './variants'
+export { ContributePage } from './component'
+export { contributeVariants } from './variants'

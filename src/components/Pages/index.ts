@@ -1,6 +1,6 @@
-export * from './_index'
-export * from './project2025'
-export * from './about'
-export * from './contribute'
-export * from './faq'
+export { IndexPage } from './_index'
+export { ProjectPage, ChapterPage, SectionPage } from './project2025'
+export { AboutPage, aboutVariants} from './about'
+export { ContributePage, contributeVariants } from './contribute'
+export { FaqPage, faqVariants } from './faq'
 

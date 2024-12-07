@@ -1,2 +1,2 @@
-export * from './component'
-export * from './variants'
+export { AboutPage } from './component'
+export { aboutVariants } from './variants'

@@ -4,6 +4,7 @@ import { ReactNode } from "react";
 // Base type for MDX components
 export type MdxComponent = React.FC<{ components?: Record<string, React.ComponentType<unknown>>; children?: ReactNode }>;
 
+
 // Types for the Project 2025 data
   export type ChapterType = {
     title: string,
@@ -26,9 +27,10 @@ export type MdxComponent = React.FC<{ components?: Record<string, React.Componen
     authors?: MdxComponent,
     faq?: MdxComponent,
     versions?: {
-      markdown?: MdxComponent,
+      original?: MdxComponent,
       simple?: MdxComponent,
       clear?: MdxComponent,
+      basic?: MdxComponent,
       pdfPath?: string,
     }
     subsections?: ChapterType[],

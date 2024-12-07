@@ -1,6 +1,3 @@
-# Department of Defense
-*Christopher Miller*
-
 ## Overview
 
 The Constitution requires the federal government to “provide for the common defence.”[^1] It assigns to Congress the authority to “raise and support Armies” and to “provide and maintain a Navy”[^2] and specifies that the President is “commander in Chief” of America's armed forces.[^3] Ever since our Founding, Americans have understood that the surest way to avoid war is to be prepared for it in peace—but when deterrence fails, we must fight and win.

@@ -1,6 +1,3 @@
-# CENTRAL PERSONNEL AGENCIES: MANAGING THE BUREAUCRACY
-*Donald Devine, Dennis Dean Kirk, and Paul Dans*
-
 ## OVERVIEW
 
 From the very first *Mandate for Leadership*, the “personnel is policy” theme has been the fundamental principle guiding the government's personnel management. As the U.S. Constitution makes clear, the President's appointment, direction, and removal authorities are the central elements of his executive power.¹ In implementing that power, the people and the President deserve the most talented and responsible workforce possible.

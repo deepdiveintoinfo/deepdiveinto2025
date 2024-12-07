@@ -1,1 +1,1 @@
-export * from './component'
+export { ChapterPage } from './component'

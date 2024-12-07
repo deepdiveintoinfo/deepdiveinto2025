@@ -1,5 +1,5 @@
 import { ChapterType } from '@/content/project2025/types';
-import markdown from './versions/markdown.md';
+import original from './versions/original.md';
 
 
 const executiveOfficeOfThePresident: ChapterType = {
@@ -23,7 +23,7 @@ const executiveOfficeOfThePresident: ChapterType = {
     status: "transcription", // Adjust as per current status
   },
   versions: {
-    markdown,
+    original,
   },
   summary: () => (
     <p>

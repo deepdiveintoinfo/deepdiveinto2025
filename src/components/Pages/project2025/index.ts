@@ -1,2 +1,2 @@
-export * from './section'
-export * from './component'
+export { SectionPage, ChapterPage } from './section'
+export { ProjectPage } from './component'

@@ -2,8 +2,6 @@ import { useContent } from '@/hooks/use-content';
 import { PageComponentType } from '@/lib/types'
 import * as changeCase from 'change-case'
 import { SectionType, ChapterType } from '@/content/project2025/types';
-import { useState } from 'react';
-import { Document, Page } from 'react-pdf';
 
 import { Badge } from "@/components/ThirdParty/ShadCn/Badge";
 import { Tabs, TabsList, TabsTrigger, TabsContent } from '@/components/ThirdParty/ShadCn/Tabs';
@@ -12,7 +10,7 @@ import { Suspense } from 'react';
 import { KeywordBadges } from '@/components/Blocks/KeywordBadges/component';
 
 import { capitalCase } from 'change-case';
-import { ContentSourcesWrapper } from './ContentSourcesWrapper';
+import { ContentSources } from './ContentSources';
 
 
 import { PDFViewer } from '@/components/Blocks/PDFViewer';
@@ -40,7 +38,7 @@ export const ChapterPage: PageComponentType = () => {
   const { sectionName } = useParams()
 
   const { chapter, section }: { chapter?: ChapterType | undefined, section?: SectionType | undefined } = useContent();
-  const MarkdownVerion = chapter?.versions?.markdown;
+  const MarkdownVerion = chapter?.versions?.original;
   const EndNotes = chapter?.endnotes
   const Authors = chapter?.authors
   const Summary = chapter?.summary
@@ -85,10 +83,8 @@ export const ChapterPage: PageComponentType = () => {
 
           {Summary && <TabsContent value="summary"><Summary /></TabsContent>}
           {Authors && <TabsContent value="authors"><Authors /></TabsContent>}
-          {MarkdownVerion && <TabsContent value="raw">
-            <ContentSourcesWrapper chapter={chapter}>
-              <MarkdownVerion />
-            </ContentSourcesWrapper>
+          {chapter && <TabsContent value="raw">
+            <ContentSources chapter={chapter} />
           </TabsContent>}
           {EndNotes && <TabsContent value="endnotes"><EndNotes /></TabsContent>}
           {FAQ && <TabsContent value="faq"><FAQ /></TabsContent>}

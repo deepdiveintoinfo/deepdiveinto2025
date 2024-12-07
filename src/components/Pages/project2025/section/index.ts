@@ -1,2 +1,2 @@
-export * from './component'
-export * from './chapter'
+export { SectionPage } from './component'
+export { ChapterPage } from './chapter'

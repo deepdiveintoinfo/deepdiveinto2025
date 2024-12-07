@@ -1,1 +1,0 @@
-export { ContentSourcesWrapper } from './component'

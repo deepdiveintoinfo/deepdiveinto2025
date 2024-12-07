@@ -1,5 +1,5 @@
 import { ChapterType } from '@/content/project2025/types';
-import DepartmentOfHomelandSecurityRaw from './versions/raw.mdx';
+import original from './versions/original.md';
 const departmentOfHomelandSecurity: ChapterType = {
   chapterIdx: 5,
   title: "Department of Homeland Security",
@@ -20,7 +20,7 @@ const departmentOfHomelandSecurity: ChapterType = {
     status: "transcription", // Adjust based on the progress
   },
   versions: {
-    markdown: DepartmentOfHomelandSecurityRaw,
+    original,
   },
   summary: () => (
     <p>

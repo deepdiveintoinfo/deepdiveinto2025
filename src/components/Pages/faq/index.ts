@@ -1,2 +1,2 @@
-export * from './component'
-export * from './variants'
+export { default as FaqPage } from './component'
+export { faqVariants } from './variants'
