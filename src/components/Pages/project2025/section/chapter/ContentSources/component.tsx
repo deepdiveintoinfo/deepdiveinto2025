@@ -31,7 +31,7 @@ export const ContentSources = ({ chapter }: ContentSourcesProps) => {
             </Card>
         </div>
         <div className="relative bg-white border border-gray-500/10 p-4">
-            <div className="absolute top-4 right-4 flex gap-2">
+            <div className="absolute top-4 right-4 flex flex-col md:flex-row gap-2">
                 <p className='p-0 m-0'>Readability: </p>
                 <DropdownMenu>
                     <DropdownMenuTrigger className='flex items-center gap-1'>{dropdowLabelValue} <ChevronDownIcon className='w-4 h-4' /></DropdownMenuTrigger>
