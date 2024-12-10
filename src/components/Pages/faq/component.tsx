@@ -9,6 +9,8 @@ const FaqPage: PageComponentType = () => {
     return <article><ContentComponent /></article>;
   }
 
-FaqPage.path = "/faq"
+FaqPage.route = {
+  path: "/faq"
+}
 
 export default FaqPage

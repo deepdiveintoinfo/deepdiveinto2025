@@ -53,7 +53,7 @@ This repository includes:
 - Sections Completed: 0/5
 - Chapters Analyzed: 0/30
 
-[Explore Project 2025](https://github.com/deepdiveinto2025/deepdiveinto2025) to learn more.
+[Explore Project 2025](https://deepdiveinto2025.github.io/deepdiveinto2025/project2025/) to learn more.
 
 ---
 
@@ -87,7 +87,6 @@ This repository includes:
 
 Want to help hold power accountable? Join the conversation:
 - [GitHub Discussions](https://github.com/deepdiveinto2025/deepdiveinto2025/discussions)
-- [Twitter](https://twitter.com/deepdive2025)
 - [Email Us](mailto:info@deepdive2025.example.com)
 
 ---

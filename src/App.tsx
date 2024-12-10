@@ -3,6 +3,8 @@ import { Theme } from '@radix-ui/themes';
 import './styles/globals.css'
 import {
   createHashRouter,
+  RouteObject,
+  RouteProps,
   RouterProvider
 } from 'react-router-dom';
 import { useEffect } from "react";
@@ -10,6 +12,7 @@ import { useLocation } from "react-router-dom";
 import * as pages from './components/Pages'
 import { PageWrapper } from './components/Templates/wrappers';
 import { TooltipProvider } from '@radix-ui/react-tooltip';
+import { PageComponentType } from './lib/types';
 
 
 const ScrollHandler = () => {
@@ -38,21 +41,23 @@ const ScrollHandler = () => {
   return null;
 };
 
+const pageComponents: { [key: string]: PageComponentType } = pages;
+
 /**
  * Router documentation https://reactrouter.com/en/main/routers/create-hash-router
  */
-const router = createHashRouter(Object.entries(pages).map(([path, Element]) => {
-  return ({
-    ...Element,
-    // element: path == 'IndexPage' ? <SidebarWrapper><ScrollHandler /><Element /></SidebarWrapper> : <SidebarWrapper><ScrollHandler /><Element /></SidebarWrapper>
-    element: (
-      <PageWrapper>
-        <ScrollHandler />
-        <Element />
-      </PageWrapper>)
-  })
-}), {
-});
+const router = createHashRouter(Object.values(pageComponents).map((Element: PageComponentType): RouteObject => {
+  const route = Element.route || {};
+    return {
+      ...route as RouteObject,
+      element: (
+        <PageWrapper>
+          <ScrollHandler />
+          <Element />
+        </PageWrapper>
+      )
+    };
+}));
 
 function App() {
   return (

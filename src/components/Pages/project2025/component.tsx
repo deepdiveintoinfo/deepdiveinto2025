@@ -6,11 +6,13 @@ import { SectionOverview } from '@/components/Blocks/SectionOverview';
 
 // Define the TypeScript interfaces
 export const ProjectPage: PageComponentType = () => {
-    return <article>
-      <ContentComponent />
-      <h3>Section Overview</h3>
-      <SectionOverview />  
-    </article>;
-  }
+  return <article>
+    <ContentComponent />
+    <h3>Section Overview</h3>
+    <SectionOverview />  
+  </article>;
+}
 
-  ProjectPage.path = "/project2025"
+ProjectPage.route = {
+  path: "/project2025"
+}

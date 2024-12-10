@@ -26,4 +26,6 @@ export const SectionPage: PageComponentType = () => {
     );
   }
 
-SectionPage.path = "/project2025/:sectionName"
+SectionPage.route = {
+  path: "/project2025/:sectionName"
+}

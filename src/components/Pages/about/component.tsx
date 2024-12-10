@@ -9,4 +9,6 @@ export const AboutPage: PageComponentType = () => {
     return <article><ContentComponent /></article>;
   }
 
-  AboutPage.path = "/about"
+  AboutPage.route = {
+    path: "/about",
+  }

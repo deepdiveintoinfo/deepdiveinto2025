@@ -1,6 +1,7 @@
 export { IndexPage } from './_index'
 export { ProjectPage, ChapterPage, SectionPage } from './project2025'
-export { AboutPage, aboutVariants} from './about'
-export { ContributePage, contributeVariants } from './contribute'
-export { FaqPage, faqVariants } from './faq'
-
+export { AboutPage } from './about'
+export { ContributePage } from './contribute'
+export { default as FaqPage } from './faq'
+export { default as TermsAndConditionsPage } from './terms-and-conditions'
+export { default as PrivacyPolicyPage } from './privacy-policy'

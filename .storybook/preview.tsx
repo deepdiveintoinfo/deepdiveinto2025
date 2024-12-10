@@ -6,14 +6,18 @@ import { ApolloProvider } from '@apollo/client';
 import { client } from '../src/lib/client'
 import { TooltipProvider } from '../src/components/ThirdParty/ShadCn/Tooltip'
 
+import { HashRouter } from 'react-router-dom'
+
 const preview: Preview = {
   tags: ['autodocs'],
   decorators: [
     (Story) => <ApolloProvider client={client}>
       <TooltipProvider>
-        <div className='w-full flex justify-center align-center'>
-          <Story />
-        </div>
+        <HashRouter>
+          <div className='w-full flex justify-center align-center'>
+            <Story />
+          </div>
+        </HashRouter>
       </TooltipProvider>
     </ApolloProvider>
   ],

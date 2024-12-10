@@ -1,6 +1,6 @@
 import type { Meta, StoryObj } from '@storybook/react';
 
-import { FaqPage } from '.';
+import FaqPage from '.';
 
 
 const meta: Meta<typeof FaqPage> = {

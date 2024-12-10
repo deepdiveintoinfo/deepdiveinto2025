@@ -20,4 +20,6 @@ export const IndexPage: PageComponentType = () => {
   );
 };
 
-IndexPage.path = "/";
+IndexPage.route = {
+  path: "/"
+}

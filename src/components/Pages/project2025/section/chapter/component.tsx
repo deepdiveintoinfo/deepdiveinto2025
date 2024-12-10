@@ -98,4 +98,6 @@ export const ChapterPage: PageComponentType = () => {
   );
 }
 
-ChapterPage.path = "/project2025/:sectionName/:chapterName";
+ChapterPage.route = {
+  path: "/project2025/:sectionName/:chapterName"
+}

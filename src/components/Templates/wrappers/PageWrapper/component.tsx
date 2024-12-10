@@ -1,5 +1,6 @@
 import { ReactNode } from "react"
 import { Header } from "@/components/Templates/Header"
+import { Footer } from "../../Footer/component"
 
   
   export const PageWrapper = ({children}: {children: ReactNode}) => {
@@ -9,6 +10,7 @@ import { Header } from "@/components/Templates/Header"
         <div className="container mt-10 px-4 md:px-6">
           {children}
         </div>
+        <Footer />
       </div>
 
     )
