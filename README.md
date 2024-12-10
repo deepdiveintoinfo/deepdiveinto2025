@@ -53,7 +53,7 @@ This repository includes:
 - Sections Completed: 0/5
 - Chapters Analyzed: 0/30
 
-[Explore Project 2025](https://deepdiveinto2025.github.io/deepdiveinto2025/project2025/) to learn more.
+[Explore Project 2025](https://deepdiveinto2025.github.io/deepdiveinto2025/#/project2025/) to learn more.
 
 ---
 
@@ -93,5 +93,7 @@ Want to help hold power accountable? Join the conversation:
 
 ## 📢 **Acknowledgments**
 
-This project was inspired by the need for public accountability and transparency called for in [this reddit post](). Special thanks to all contributors and collaborators who make this work possible.
+This project was inspired by the need for public accountability and transparency called for in [this reddit post](https://www.reddit.com/r/TwoXPreppers/comments/1gkzsmz/comment/lvr03ym/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button).
+
+Special thanks to all contributors and collaborators who make this work possible.
 
