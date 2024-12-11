@@ -32623,10 +32623,6 @@ video {
     max-width: 100%;
   }
 
-  .sm\:max-w-screen-sm{
-    max-width: 640px;
-  }
-
   .sm\:max-w-sm{
     max-width: 24rem;
   }
@@ -32756,6 +32752,11 @@ video {
   .sm\:text-lg{
     font-size: 1.125rem;
     line-height: 1.75rem;
+  }
+
+  .sm\:text-sm{
+    font-size: 0.875rem;
+    line-height: 1.25rem;
   }
 }
 @media (min-width: 768px){
