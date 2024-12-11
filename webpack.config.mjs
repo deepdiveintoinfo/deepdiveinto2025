@@ -17,7 +17,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
 const isProduction = process.env.NODE_ENV === 'production';
-const ASSET_PATH = isProduction ? '/deepdiveinto2025/' : '';
+const ASSET_PATH = isProduction ? '' : '';
 
 const packageJson = await import('./package.json', {
   with: { type: "json" },

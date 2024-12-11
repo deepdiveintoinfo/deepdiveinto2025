@@ -24,27 +24,25 @@ export function PDFViewer({ path } : { path: string }) {
           <p><Button size={"sm"} disabled={pageNumber == numPages} onClick={() => pageNumber < (numPages || 0) && setPageNumber(pageNumber+1)}>Next</Button></p>
         </div>
         <Document 
-          loading={
-            <Skeleton 
-              className='react-pdf__Page__textContent textLayer' 
-              style={{
-                width: 'round(var(--scale-factor) * 504px, 1px)', 
-                height: 'round(var(--scale-factor) * 720px, 1px)'
-              }} 
-            />
-          } 
           file={path} 
           onLoadSuccess={onDocumentLoadSuccess}
         >
           <Page loading={
-            <Skeleton 
-              className='react-pdf__Page__textContent textLayer' 
+            <div className='relative bg-white rounded-lg'
               style={{
-                width: 'round(var(--scale-factor) * 504px, 1px)', 
-                height: 'round(var(--scale-factor) * 720px, 1px)'
+                width: '504px', 
+                height: '720px'
               }} 
-            />
-          } 
+            >
+            <Skeleton
+                  className='react-pdf__Page__textContent textLayer' 
+                  style={{
+                    width: 'round(var(--scale-factor) * 504px, 1px)', 
+                    height: 'round(var(--scale-factor) * 720px, 1px)'
+                  }} 
+                />
+            </div>
+        } 
  className={"max-w-min"} pageNumber={pageNumber} />
         </Document>
         <div className='flex gap-8 justify-between items-center mt-4'>
