@@ -1,4 +1,5 @@
 import { ChapterType } from '@/content/project2025/types';
+import pdfPath from '@/assets/chapters/14_department-of-health-and-human-services.pdf';
 
 const departmentOfHealthAndHumanServices: ChapterType = {
   chapterIdx: 14,
@@ -18,6 +19,9 @@ const departmentOfHealthAndHumanServices: ChapterType = {
     wordcount: 6750, // Example word count; update with actual value.
     keywords: ["Healthcare Policy", "Cost Cutting", "Accessibility", "Public Health"],
     status: "undone",
+  },
+  versions: {
+    pdfPath,
   },
   summary: () => (
     <p>

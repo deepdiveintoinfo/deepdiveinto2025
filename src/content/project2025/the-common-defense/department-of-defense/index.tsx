@@ -1,5 +1,6 @@
 import { ChapterType } from '@/content/project2025/types';
 import original from './versions/original.md';
+import pdfPath from '@/assets/chapters/4_department-of-defense.pdf';
 
 const departmentOfDefense: ChapterType = {
   chapterIdx: 4,
@@ -22,6 +23,7 @@ const departmentOfDefense: ChapterType = {
   },
   versions: {
     original,
+    pdfPath,
   },
   summary: () => (
     <p>

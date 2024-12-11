@@ -1,4 +1,5 @@
 import { ChapterType } from '@/content/project2025/types';
+import pdfPath from '@/assets/chapters/15_department-of-housing-and-urban-development.pdf';
 
 const departmentOfHousingAndUrbanDevelopment: ChapterType = {
   chapterIdx: 15,
@@ -18,6 +19,9 @@ const departmentOfHousingAndUrbanDevelopment: ChapterType = {
     wordcount: 5200, // Example word count; update with actual value.
     keywords: ["Housing Policy", "Decentralization", "Equity", "Federal Programs"],
     status: "undone",
+  },
+  versions: {
+    pdfPath,
   },
   summary: () => (
     <p>

@@ -1,4 +1,5 @@
 import { ChapterType } from '@/content/project2025/types';
+import pdfPath from '@/assets/chapters/20_department-of-veterans-affairs.pdf';
 
 const departmentOfVeteransAffairs: ChapterType = {
   chapterIdx: 20,
@@ -18,6 +19,9 @@ const departmentOfVeteransAffairs: ChapterType = {
     wordcount: 4825, // Example word count; adjust as needed.
     keywords: ["Veterans Affairs", "Privatization", "Healthcare Reform", "Cost-Cutting"],
     status: "undone",
+  },
+  versions: {
+    pdfPath,
   },
   summary: () => (
     <p>

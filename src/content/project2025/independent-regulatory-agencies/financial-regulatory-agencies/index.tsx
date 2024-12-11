@@ -1,4 +1,5 @@
 import { ChapterType } from '@/content/project2025/types';
+import pdfPath from '@/assets/chapters/27_financial-regulatory-agencies.pdf';
 
 const financialRegulatoryAgencies: ChapterType = {
   chapterIdx: 27,
@@ -22,6 +23,9 @@ const financialRegulatoryAgencies: ChapterType = {
     wordcount: 7200,
     keywords: ["Deregulation", "Financial Oversight", "Consumer Protections"],
     status: "undone",
+  },
+  versions: {
+    pdfPath,
   },
   summary: () => (
     <p>

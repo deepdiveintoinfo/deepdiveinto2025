@@ -1,4 +1,5 @@
 import { ChapterType } from '@/content/project2025/types';
+import pdfPath from '@/assets/chapters/23_export-import-bank.pdf';
 
 const exportImportBank: ChapterType = {
   chapterIdx: 23,
@@ -22,6 +23,9 @@ const exportImportBank: ChapterType = {
     wordcount: 4740, // Example word count; update with actual value.
     keywords: ["Trade Policy", "Export-Import Bank", "Economic Support", "Deregulation"],
     status: "undone", // Adjust based on the progress
+  },
+  versions: {
+    pdfPath,
   },
   summary: () => (
     <p>

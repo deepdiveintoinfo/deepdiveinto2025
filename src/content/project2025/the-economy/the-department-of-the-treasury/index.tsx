@@ -1,4 +1,5 @@
 import { ChapterType } from '@/content/project2025/types';
+import pdfPath from '@/assets/chapters/22_department-of-the-treasury.pdf';
 
 const departmentOfTheTreasury: ChapterType = {
   chapterIdx: 22,
@@ -26,6 +27,9 @@ const departmentOfTheTreasury: ChapterType = {
     wordcount: 5980, // Example word count; update with actual value.
     keywords: ["Tax Reform", "Corporate Tax", "Economic Policy", "Deregulation"],
     status: "undone",
+  },
+  versions: {
+    pdfPath,
   },
   summary: () => (
     <p>

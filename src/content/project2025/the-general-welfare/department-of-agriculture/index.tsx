@@ -1,4 +1,5 @@
 import { ChapterType } from '@/content/project2025/types';
+import pdfPath from '@/assets/chapters/10_department-of-agriculture.pdf';
 
 const departmentOfAgriculture: ChapterType = {
   chapterIdx: 10,
@@ -18,6 +19,9 @@ const departmentOfAgriculture: ChapterType = {
     wordcount: 5500, // Example word count; update with actual value.
     keywords: ["Agriculture", "Deregulation", "Environmental Standards", "Food Safety"],
     status: "undone", // "undone" | "transcription" | "analysis" | "verification" | "complete"
+  },
+  versions: {
+    pdfPath,
   },
   summary: () => (
     <p>

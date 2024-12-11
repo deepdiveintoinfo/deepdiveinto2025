@@ -1,4 +1,5 @@
 import { ChapterType } from '@/content/project2025/types';
+import pdfPath from '@/assets/chapters/24_federal-reserve.pdf';
 
 const federalReserve: ChapterType = {
   chapterIdx: 24,
@@ -18,6 +19,9 @@ const federalReserve: ChapterType = {
     wordcount: 6870, // Example word count; update with actual value.
     keywords: ["Federal Reserve", "Monetary Policy", "Deregulation", "Economic Stability"],
     status: "undone",
+  },
+  versions: {
+    pdfPath,
   },
   summary: () => (
     <p>

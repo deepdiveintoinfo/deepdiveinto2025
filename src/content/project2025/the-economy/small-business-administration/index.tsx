@@ -1,5 +1,5 @@
 import { ChapterType } from '@/content/project2025/types';
-
+import pdfPath from '@/assets/chapters/25_small-business-administration.pdf';
 const smallBusinessAdministration: ChapterType = {
   chapterIdx: 25,
   title: "Small Business Administration",
@@ -18,6 +18,9 @@ const smallBusinessAdministration: ChapterType = {
     wordcount: 5520, // Example word count; update with actual value.
     keywords: ["Small Business", "Entrepreneurship", "Deregulation", "Economic Growth"],
     status: "undone",
+  },
+  versions: {
+    pdfPath,
   },
   summary: () => (
     <p>

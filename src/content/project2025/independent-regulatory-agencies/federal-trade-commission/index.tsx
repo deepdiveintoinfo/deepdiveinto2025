@@ -1,4 +1,5 @@
 import { ChapterType } from '@/content/project2025/types';
+import pdfPath from '@/assets/chapters/30_federal-trade-commission.pdf';
 
 const federalTradeCommission: ChapterType = {
   chapterIdx: 30,
@@ -18,6 +19,9 @@ const federalTradeCommission: ChapterType = {
     wordcount: 6100,
     keywords: ["FTC Reform", "Market Competition", "Deregulation"],
     status: "undone",
+  },
+  versions: {
+    pdfPath,
   },
   summary: () => (
     <p>

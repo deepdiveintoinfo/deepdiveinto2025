@@ -1,4 +1,5 @@
 import { ChapterType } from '@/content/project2025/types';
+import pdfPath from '@/assets/chapters/11_department-of-education.pdf';
 
 const departmentOfEducation: ChapterType = {
   chapterIdx: 11,
@@ -18,6 +19,9 @@ const departmentOfEducation: ChapterType = {
     wordcount: 6000, // Example word count; update with actual value.
     keywords: ["Education Policy", "Federal Oversight", "Equity", "Local Control"],
     status: "undone",
+  },
+  versions: {
+    pdfPath,
   },
   summary: () => (
     <p>

@@ -1,4 +1,5 @@
 import { ChapterType } from '@/content/project2025/types';
+import pdfPath from '@/assets/chapters/13_environmental-protection-agency.pdf';
 
 const environmentalProtectionAgency: ChapterType = {
   chapterIdx: 13,
@@ -18,6 +19,9 @@ const environmentalProtectionAgency: ChapterType = {
     wordcount: 5900, // Example word count; update with actual value.
     keywords: ["Deregulation", "Environmental Policy", "Industrial Interests", "Climate Change"],
     status: "undone",
+  },
+  versions: {
+    pdfPath,
   },
   summary: () => (
     <p>

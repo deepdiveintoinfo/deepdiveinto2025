@@ -1,4 +1,5 @@
 import { ChapterType } from '@/content/project2025/types';
+import pdfPath from '@/assets/chapters/19_department-of-transportation.pdf';
 
 const departmentOfTransportation: ChapterType = {
   chapterIdx: 19,
@@ -18,6 +19,9 @@ const departmentOfTransportation: ChapterType = {
     wordcount: 5230, // Example word count; update as needed.
     keywords: ["Transportation", "Deregulation", "Infrastructure", "Policy Reform"],
     status: "undone",
+  },
+  versions: {
+    pdfPath,
   },
   summary: () => (
     <p>

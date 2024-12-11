@@ -1,4 +1,5 @@
 import { ChapterType } from '@/content/project2025/types';
+import pdfPath from '@/assets/chapters/17_department-of-justice.pdf';
 
 const departmentOfJustice: ChapterType = {
   chapterIdx: 17,
@@ -18,6 +19,9 @@ const departmentOfJustice: ChapterType = {
     wordcount: 5800, // Example word count; update with actual value.
     keywords: ["Justice Department", "Executive Control", "Independence", "Oversight"],
     status: "undone",
+  },
+  versions: {
+    pdfPath,
   },
   summary: () => (
     <p>

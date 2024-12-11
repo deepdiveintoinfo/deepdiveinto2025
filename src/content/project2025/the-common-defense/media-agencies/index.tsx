@@ -1,6 +1,7 @@
 import { ChapterType } from '@/content/project2025/types';
 import corporationForPublicBroadcasting from './corporation-for-public-broadcasting';
 import usAgencyForGlobalMedia from './us-agency-for-global-media';
+import pdfPath from '@/assets/chapters/8_media-agencies.pdf';
 
 const mediaAgencies: ChapterType = {
   chapterIdx: 8,
@@ -24,6 +25,9 @@ const mediaAgencies: ChapterType = {
     wordcount: 9600,
     keywords: ["Media Alignment", "Government Messaging", "Broadcasting Reform"],
     status: "undone",
+  },
+  versions: {
+    pdfPath,
   },
   summary: () => (
     <p>

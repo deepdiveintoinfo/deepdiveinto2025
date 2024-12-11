@@ -1,4 +1,5 @@
 import { ChapterType } from '@/content/project2025/types';
+import pdfPath from '@/assets/chapters/26_trade.pdf';
 
 const trade: ChapterType = {
   chapterIdx: 26,
@@ -22,6 +23,9 @@ const trade: ChapterType = {
     wordcount: 6150, // Example word count; update with actual value.
     keywords: ["Trade Policy", "Free Market", "Economic Globalization", "Deregulation"],
     status: "undone", // Adjust based on the progress
+  },
+  versions: {
+    pdfPath,
   },
   summary: () => (
     <p>

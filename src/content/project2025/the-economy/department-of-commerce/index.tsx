@@ -1,4 +1,5 @@
 import { ChapterType } from '@/content/project2025/types';
+import pdfPath from '@/assets/chapters/21_department-of-commerce.pdf';
 
 const departmentOfCommerce: ChapterType = {
   chapterIdx: 21,
@@ -18,6 +19,9 @@ const departmentOfCommerce: ChapterType = {
     wordcount: 4800, // Example word count; update with actual value.
     keywords: ["Commerce Policy", "Deregulation", "Business Growth", "Market Freedom"],
     status: "undone", // "undone" | "transcription" | "analysis" | "verification" | "complete"
+  },
+  versions: {
+    pdfPath,
   },
   summary: () => (
     <p>

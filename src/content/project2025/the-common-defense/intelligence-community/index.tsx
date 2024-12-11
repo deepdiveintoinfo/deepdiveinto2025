@@ -1,4 +1,5 @@
 import { ChapterType } from '@/content/project2025/types';
+import pdfPath from '@/assets/chapters/7_intelligence-community.pdf';
 
 const intelligenceCommunity: ChapterType = {
   chapterIdx: 7,
@@ -18,6 +19,9 @@ const intelligenceCommunity: ChapterType = {
     wordcount: 7250, // Example word count; update with actual value.
     keywords: ["Intelligence Operations", "Centralization", "National Security", "Transparency Concerns"],
     status: "undone", // Adjust based on the progress
+  },
+  versions: {
+    pdfPath,
   },
   summary: () => (
     <p>

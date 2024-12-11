@@ -1,4 +1,5 @@
 import { ChapterType } from '@/content/project2025/types';
+import pdfPath from '@/assets/chapters/29_federal-election-commission.pdf';
 
 const federalElectionCommission: ChapterType = {
   chapterIdx: 29,
@@ -18,6 +19,9 @@ const federalElectionCommission: ChapterType = {
     wordcount: 5500,
     keywords: ["Campaign Finance", "FEC Reform", "Political Contributions"],
     status: "undone",
+  },
+  versions: {
+    pdfPath,
   },
   summary: () => (
     <p>

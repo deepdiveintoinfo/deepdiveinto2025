@@ -1,4 +1,5 @@
 import { ChapterType } from '@/content/project2025/types';
+import pdfPath from '@/assets/chapters/9_agency-for-international-development.pdf';
 
 const agencyForInternationalDevelopment: ChapterType = {
   chapterIdx: 9,
@@ -18,6 +19,9 @@ const agencyForInternationalDevelopment: ChapterType = {
     wordcount: 6850, // Example word count; update with actual value.
     keywords: ["Foreign Aid", "International Development", "National Interests", "Global Needs"],
     status: "undone", // Adjust based on the progress
+  },
+  versions: {
+    pdfPath,
   },
   summary: () => (
     <p>

@@ -1,5 +1,7 @@
 import { ChapterType } from '@/content/project2025/types';
 import original from './versions/original.md';
+import pdfPath from '@/assets/chapters/5_department-of-homeland-security.pdf';
+
 const departmentOfHomelandSecurity: ChapterType = {
   chapterIdx: 5,
   title: "Department of Homeland Security",
@@ -21,6 +23,7 @@ const departmentOfHomelandSecurity: ChapterType = {
   },
   versions: {
     original,
+    pdfPath,
   },
   summary: () => (
     <p>

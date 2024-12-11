@@ -1,5 +1,5 @@
 import { ChapterType } from '@/content/project2025/types';
-
+import pdfPath from '@/assets/chapters/12_department-of-energy.pdf';
 const departmentOfEnergy: ChapterType = {
   chapterIdx: 12,
   title: "Department of Energy",
@@ -18,6 +18,9 @@ const departmentOfEnergy: ChapterType = {
     wordcount: 5200, // Example word count; update with actual value.
     keywords: ["Energy Policy", "Energy Independence", "Environmental Protections", "Fossil Fuels"],
     status: "undone",
+  },
+  versions: {
+    pdfPath,
   },
   summary: () => (
     <p>

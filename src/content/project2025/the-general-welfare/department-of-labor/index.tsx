@@ -1,4 +1,5 @@
 import { ChapterType } from '@/content/project2025/types';
+import pdfPath from '@/assets/chapters/18_department_of_labor.pdf';
 
 const departmentOfLabor: ChapterType = {
   chapterIdx: 18,
@@ -18,6 +19,9 @@ const departmentOfLabor: ChapterType = {
     wordcount: 5600, // Example word count; update with actual value.
     keywords: ["Labor Policy", "Worker Protections", "Business Interests", "Union Rights"],
     status: "undone",
+  },
+  versions: {
+    pdfPath,
   },
   summary: () => (
     <p>
