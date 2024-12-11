@@ -32623,8 +32623,8 @@ video {
     max-width: 100%;
   }
 
-  .sm\:max-w-screen-md{
-    max-width: 768px;
+  .sm\:max-w-screen-sm{
+    max-width: 640px;
   }
 
   .sm\:max-w-sm{
