@@ -1,4 +1,5 @@
 import { ChapterType } from '@/content/project2025/types';
+import pdfPath from '@/assets/chapters/28_federal-communications-commission.pdf';
 
 const federalCommunicationsCommission: ChapterType = {
   chapterIdx: 28,
@@ -18,6 +19,9 @@ const federalCommunicationsCommission: ChapterType = {
     wordcount: 6800,
     keywords: ["Media Deregulation", "Telecommunications Policy", "FCC Reform"],
     status: "undone",
+  },
+  versions: {
+    pdfPath,
   },
   summary: () => (
     <p>
