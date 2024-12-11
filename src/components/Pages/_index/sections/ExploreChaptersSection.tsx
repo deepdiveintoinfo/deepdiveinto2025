@@ -101,7 +101,7 @@ export const ExploreChaptersSection = () => {
           </div>
         </div>
       </div>
-      <div className="w-full max-w-xs md:max-w-full overflow-hidden flex justify-center md:justify-start">
+      <div className="w-full max-w-xs md:max-w-full overflow-hidden flex justify-start">
         <Carousel
           setApi={setCarouselApi}
           opts={{

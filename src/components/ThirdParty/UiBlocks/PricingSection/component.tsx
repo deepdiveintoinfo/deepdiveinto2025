@@ -1,5 +1,7 @@
-import { Badge } from "@/components/ThirdParty/ShadCn";
-import { Button } from "@/components/ThirdParty/ShadCn";
+
+
+import Badge from "@/components/ThirdParty/ShadCn/Badge";
+import { Button } from "@/components/ThirdParty/ShadCn/Button";
 import {
   Card,
   CardContent,
@@ -7,9 +9,9 @@ import {
   CardFooter,
   CardHeader,
   CardTitle,
-} from "@/components/ThirdParty/ShadCn";
-import { Label } from "@/components/ThirdParty/ShadCn";
-import { Switch } from "@/components/ThirdParty/ShadCn";
+} from "@/components/ThirdParty/ShadCn/Card";
+import { Label } from "@/components/ThirdParty/ShadCn/Label";
+import { Switch } from "@/components/ThirdParty/ShadCn/Switch";
 import {
   Table,
   TableBody,
@@ -17,7 +19,7 @@ import {
   TableHead,
   TableHeader,
   TableRow,
-} from "@/components/ThirdParty/ShadCn";
+} from "@/components/ThirdParty/ShadCn/Table";
 import { CheckIcon, MinusIcon } from "lucide-react";
 
 interface PlanFeature {
