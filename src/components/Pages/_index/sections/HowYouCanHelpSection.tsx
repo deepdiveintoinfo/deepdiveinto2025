@@ -7,8 +7,8 @@ export const HowYouCanHelpSection = () => {
   return (
     <section className="lg:mt-24 mb-12 lg:mb-24">
       <div className="container">
-        <div className="flex flex-col items-center justify-between gap-8 rounded-lg border border-primary-light bg-white/50 p-6 md:flex-row lg:px-20 lg:py-16">
-          <div className="w-full">
+        <div className="flex flex-col lg:flex-row items-center justify-between gap-8 rounded-lg border border-primary-light bg-white/50 p-6 lg:px-20 lg:py-16">
+          <div className="">
             <h4 className="mb-1 text-2xl font-bold md:text-3xl">
               How You Can Help
             </h4>
@@ -25,34 +25,40 @@ export const HowYouCanHelpSection = () => {
           <div className="w-full">
             <ul className="space-y-6 text-sm font-medium sm:text-base lg:text-lg">
               <li className='m-0 p-0'>
-                <Link className="m-0 p-0 flex items-center" to="https://github.com/deepdiveinto2025/deepdiveinto2025/wiki/%F0%9F%9B%A0%EF%B8%8F-How-To-Contribute">
+                <Link className="m-0 p-0 flex items-center break-words" to="https://github.com/deepdiveinto2025/deepdiveinto2025/wiki/%F0%9F%9B%A0%EF%B8%8F-How-To-Contribute">
                   <Edit3Icon className="mr-4 size-5 stroke-secondary" />
                   <Button className="m-0 p-0 h-auto underline text-sm font-medium sm:text-base lg:text-lg" variant={'link'}>
-                    Review and refine transcriptions and analysis.
+                  <span className='inline sm:hidden'>Review transcriptions.</span>
+                  <span className='hidden sm:inline'>Review and refine transcriptions and analysis.</span>                    
                   </Button>
                 </Link>
               </li>
               <li>
-                <Link className="m-0 p-0 flex items-center" to="/colaborate">
+                <Link className="m-0 p-0 flex file:items-center break-words" to="/colaborate">
                   <ListIcon className="mr-4 size-5 stroke-secondary" />
                   <Button className="m-0 p-0 h-auto underline text-sm font-medium sm:text-base lg:text-lg" variant={'link'}>
-                    Transcribe chapters using our guidelines.
+                  <span className='inline sm:hidden'>Transcribe chapters.</span>
+                  <span className='hidden sm:inline'>Transcribe chapters using our guidelines.</span>
+
+                    
                   </Button>
                 </Link>
               </li>
               <li>
-                <Link className="m-0 p-0 flex items-center" to="/colaborate">
+                <Link className="m-0 p-0 flex items-center break-words" to="/colaborate">
                   <MessageCircleIcon className="mr-4 size-5 stroke-secondary" />
                   <Button className="m-0 p-0 h-auto underline text-sm font-medium sm:text-base lg:text-lg" variant={'link'}>
-                    Collaborate on analysis to break down every sentence.
+                    <span className='inline sm:hidden'>Collaborate on analysis.</span>
+                    <span className='hidden sm:inline'>Collaborate on analysis to break down every sentence.</span>
                   </Button>
                 </Link>
               </li>
               <li>
-                  <Link className="flex items-center" to="https://github.com/deepdiveinto2025/deepdiveinto2025/discussions">
+                  <Link className="flex items-center break-words" to="https://github.com/deepdiveinto2025/deepdiveinto2025/discussions">
                     <Users2Icon className="mr-4 size-5 stroke-secondary" />
                     <Button className="m-0 p-0 h-auto underline text-sm font-medium sm:text-base lg:text-lg" variant={'link'}>
-                      Join discussions on GitHub to share insights.
+                      <span className='inline sm:hidden'>Join discussions on GitHub.</span>
+                      <span className='hidden sm:inline'>Join discussions on GitHub to share insights.</span>
                     </Button>
                   </Link>
               </li>
