@@ -84,12 +84,12 @@ const Footer = () => {
             <div className="grid grid-cols-3 gap-6 lg:gap-20">
               {sections.map((section, sectionIdx) => (
                 <div key={sectionIdx}>
-                  <h3 className="mb-6 font-bold">{section.title}</h3>
-                  <ul className="space-y-4 text-sm text-muted-foreground">
+                  <h3 className="mb-6 text-sm sm:text-base font-bold">{section.title}</h3>
+                  <ul className="space-y-4 text-xs sm:text-sm text-muted-foreground">
                     {section.links.map((link, linkIdx) => (
                       <li
                         key={linkIdx}
-                        className="font-medium text-sm hover:text-primary"
+                        className="font-medium hover:text-primary"
                       >
                         <Link to={link.href}>{link.name}</Link>
                       </li>
