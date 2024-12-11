@@ -1,5 +1,5 @@
 import type { Meta, StoryObj } from '@storybook/react';
-import { Atom } from '.';
+import { default as Atom } from '.';
 
 const meta: Meta<typeof Atom> = {
   component: Atom,

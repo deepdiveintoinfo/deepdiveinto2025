@@ -20,4 +20,4 @@ const HeroSection: HeroSectionType = {
   WithEmailInput
 };
 
-export { HeroSection };
+export default HeroSection;

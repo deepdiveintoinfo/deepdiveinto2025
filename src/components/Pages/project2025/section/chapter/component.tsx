@@ -3,7 +3,7 @@ import { PageComponentType } from '@/lib/types'
 import * as changeCase from 'change-case'
 import { SectionType, ChapterType } from '@/content/project2025/types';
 
-import { Badge } from "@/components/ThirdParty/ShadCn/Badge";
+import Badge from "@/components/ThirdParty/ShadCn/Badge";
 import { Tabs, TabsList, TabsTrigger, TabsContent } from '@/components/ThirdParty/ShadCn/Tabs';
 import { Link, useParams, useSearchParams } from 'react-router-dom';
 import { Suspense } from 'react';

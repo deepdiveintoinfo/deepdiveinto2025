@@ -1,10 +1,10 @@
 import { FaWikipediaW } from "react-icons/fa";
 import { Link } from 'react-router-dom'
 import { FaLinkedin } from "react-icons/fa";
-import { Badge } from "@/components/ThirdParty/ShadCn/Badge";
+import Badge from "@/components/ThirdParty/ShadCn/Badge";
 
-import { Avatar, AvatarFallback, AvatarImage, Tooltip, TooltipContent, TooltipTrigger } from '@/components/ThirdParty/ShadCn';
-
+import { default as Avatar, AvatarFallback, AvatarImage } from '@/components/ThirdParty/ShadCn/Avatar';
+import { Tooltip, TooltipContent, TooltipTrigger } from '@/components/ThirdParty/ShadCn/Tooltip';
 export const AuthorAvatar = () => {
   return (
     <Avatar className='max-w-8 max-h-8'>

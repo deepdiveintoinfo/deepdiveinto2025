@@ -1,6 +1,6 @@
 import type { Meta, StoryObj } from '@storybook/react';
 
-import { IconSection } from '.';
+import IconSection from '.';
 
 
 const meta: Meta<typeof IconSection.CenteredDescriptionWithIconBlocks> = {

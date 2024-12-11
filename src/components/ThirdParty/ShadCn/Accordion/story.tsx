@@ -1,7 +1,6 @@
 import type { Meta, StoryObj } from '@storybook/react';
 import { fn } from '@storybook/test';
-
-import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from '.';
+import { default as Accordion, AccordionContent, AccordionItem, AccordionTrigger } from '.';
 
 const meta: Meta<typeof Accordion> = {
   component: Accordion,

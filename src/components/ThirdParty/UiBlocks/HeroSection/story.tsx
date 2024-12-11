@@ -1,6 +1,6 @@
 import type { Meta, StoryObj } from '@storybook/react';
 
-import { HeroSection } from '.';
+import HeroSection from '.';
 
 const meta: Meta<typeof HeroSection.SimpleCentered> = {
   component: HeroSection.SimpleCentered,

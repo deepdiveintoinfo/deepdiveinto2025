@@ -1,7 +1,7 @@
 import type { Meta, StoryObj } from '@storybook/react';
 import { fn } from '@storybook/test';
 
-import { Avatar, AvatarFallback, AvatarImage } from '.';
+import { default as Avatar, AvatarFallback, AvatarImage } from '.';
 
 const meta: Meta<typeof Avatar> = {
   component: Avatar,

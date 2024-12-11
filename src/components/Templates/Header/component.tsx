@@ -1,7 +1,7 @@
 import { Menu } from 'lucide-react';
 import React from 'react';
 import {
-  Accordion,
+  default as Accordion,
   AccordionContent,
   AccordionItem,
   AccordionTrigger,

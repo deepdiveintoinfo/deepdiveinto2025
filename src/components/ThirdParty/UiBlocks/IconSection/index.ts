@@ -1,2 +1,2 @@
-export * from './component'
-export * from './variants'
+export { default as default } from './component'
+export { iconSectionVariants } from './variants'

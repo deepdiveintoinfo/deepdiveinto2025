@@ -1,5 +1,5 @@
 import { ScrollArea, ScrollBar } from "@/components/ThirdParty/ShadCn/ScrollArea";
-import { Badge } from "@/components/ThirdParty/ShadCn/Badge";
+import Badge from "@/components/ThirdParty/ShadCn/Badge";
 
 interface KeywordsBadgesProps {
     keywords: string[];

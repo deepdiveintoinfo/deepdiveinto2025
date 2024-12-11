@@ -1,5 +1,5 @@
-import { Avatar, AvatarFallback, AvatarImage } from '@/components/ThirdParty/ShadCn/Avatar';
-import { Badge } from '@/components/ThirdParty/ShadCn/Badge';
+import { default as Avatar, AvatarFallback, AvatarImage } from '@/components/ThirdParty/ShadCn/Avatar';
+import Badge from '@/components/ThirdParty/ShadCn/Badge';
 import {
   Pagination,
   PaginationContent,

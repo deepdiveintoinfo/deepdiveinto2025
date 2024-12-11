@@ -1,7 +1,6 @@
 import { Book, Menu, Sunset, Trees, Zap } from 'lucide-react';
-
 import {
-  Accordion,
+  default as Accordion,
   AccordionContent,
   AccordionItem,
   AccordionTrigger,
@@ -72,7 +71,7 @@ const subMenuItemsTwo = [
   },
 ];
 
-export const Navbar = () => {
+const Navbar = () => {
   return (
     <section className="py-32">
       <div className="container">
@@ -371,3 +370,5 @@ export const Navbar = () => {
     </section>
   );
 };
+
+export default Navbar;

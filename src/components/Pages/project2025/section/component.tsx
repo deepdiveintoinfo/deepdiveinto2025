@@ -2,7 +2,7 @@ import { PageComponentType } from '@/lib/types'
 import * as changeCase from 'change-case'
 import { ChapterList } from '@/components/Blocks/ChapterList';
 import { useContent } from '@/hooks/use-content';
-import { Badge } from '@/components/ThirdParty/ShadCn/Badge'; 
+import Badge from '@/components/ThirdParty/ShadCn/Badge'; 
 import { Link } from 'react-router-dom';
 import { SegmentedProgressBar } from '@/components/Blocks/SegmentedProgressBar';
 

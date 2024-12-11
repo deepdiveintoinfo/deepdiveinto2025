@@ -1,4 +1,4 @@
-import { Avatar, AvatarFallback, AvatarImage } from "@/components/ThirdParty/ShadCn";
+import { default as Avatar, AvatarFallback, AvatarImage } from "@/components/ThirdParty/ShadCn/Avatar";
 import { Button } from "@/components/ThirdParty/ShadCn";
 import { Input } from "@/components/ThirdParty/ShadCn";
 import { Label } from "@/components/ThirdParty/ShadCn";

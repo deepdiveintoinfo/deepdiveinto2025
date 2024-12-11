@@ -1,7 +1,7 @@
 import type { Meta, StoryObj } from '@storybook/react';
 import { fn } from '@storybook/test';
 
-import { AspectRatio } from '.';
+import { default as AspectRatio } from '.';
 
 const meta: Meta<typeof AspectRatio> = {
   component: AspectRatio,

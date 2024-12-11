@@ -23,4 +23,4 @@ const IconSection: IconSectionType = {
   TwoColsGrid
 };
 
-export { IconSection };
+export default IconSection;

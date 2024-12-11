@@ -1,2 +1,3 @@
-export * from './component';
-export * from './variants'
+
+export { default as default, AlertTitle, AlertDescription } from './component';
+export { alertVariants } from './variants'
