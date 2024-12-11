@@ -89,7 +89,7 @@ const Footer = () => {
                     {section.links.map((link, linkIdx) => (
                       <li
                         key={linkIdx}
-                        className="font-medium hover:text-primary"
+                        className="font-medium text-sm hover:text-primary"
                       >
                         <Link to={link.href}>{link.name}</Link>
                       </li>
