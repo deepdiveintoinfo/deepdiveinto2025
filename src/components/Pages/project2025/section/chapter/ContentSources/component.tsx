@@ -4,6 +4,8 @@ import { Ticker } from "@/components/ThirdParty/Animata/Ticker";
 import { Card, CardHeader, CardFooter, DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuTrigger } from "@/components/ThirdParty/ShadCn";
 import { ChapterType, MdxComponent } from "@/content/project2025/types";
 import { ChevronDownIcon } from 'lucide-react';
+import { Link } from 'react-router-dom';
+import readingTime from 'reading-time';
 
 type ContentSourcesProps = {
     chapter: ChapterType,
@@ -14,7 +16,7 @@ export const ContentSources = ({ chapter }: ContentSourcesProps) => {
     
     const [dropdowLabelValue, setDropdowLabelValue] = useState("Original");
     const [CurrentVersion, setCurrentVersion] = useState<MdxComponent | undefined>(chapter?.versions?.original);
-
+    const [timeToRead, setTimeToRead] = useState(0);
     const [wordCount, setWordCount] = useState(chapter.metadata.wordcount)
 
     useEffect(() => {
@@ -24,7 +26,10 @@ export const ContentSources = ({ chapter }: ContentSourcesProps) => {
         setDropdowLabelValue(v ? dropdowLabelValue : 'Original');
         setCurrentVersion(v ? (versions[dropdowLabelValue.toLowerCase() as keyof typeof versions] as MdxComponent) : versions?.original || undefined);
         setTimeout(() => {
-            setWordCount(document.querySelector('section')?.textContent?.split(/[\W]+/g).length || 0)
+            const text = document.querySelector('section')?.textContent || '';
+            const { words, minutes} = readingTime(text);
+            setWordCount(words);
+            setTimeToRead(minutes);
         }, 50)
 
     }, [ chapter, dropdowLabelValue ])
@@ -44,10 +49,18 @@ export const ContentSources = ({ chapter }: ContentSourcesProps) => {
                     Words
                 </CardFooter>
             </Card>
+            <Card>
+                <CardHeader className="flex justify-center mb-0 pb-0 gap-3">
+                    <p className="flex justify-center gap-2 text-4xl bold m-0 p-0"><Ticker value={Math.round(timeToRead).toLocaleString()} />  mins</p>
+                </CardHeader>
+                <CardFooter className="py-0 mt-3 justify-center font-bold">
+                    Time To Read
+                </CardFooter>
+            </Card>
         </div>
         <div className="relative bg-white border border-gray-500/10 p-4">
             <div className="md:absolute top-4 right-4 flex gap-2">
-                <p className='p-0 m-0'>Readability: </p>
+                <p className='p-0 m-0 flex items-center gap-2'><Link to="https://github.com/deepdiveintoinfo/deepdiveinto2025/wiki/%F0%9F%91%80-CEFR-Levels-and-Readability#cefr-levels-and-their-descriptions">Readability</Link>: </p>
                 <DropdownMenu>
                     <DropdownMenuTrigger className='flex items-center gap-1'>{dropdowLabelValue} <ChevronDownIcon className='w-4 h-4' /></DropdownMenuTrigger>
                     <DropdownMenuContent>
