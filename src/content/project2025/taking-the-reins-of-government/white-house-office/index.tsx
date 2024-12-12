@@ -1,6 +1,7 @@
 import original from './versions/original.md';
 import simple from './versions/simple.md';
 import clear from './versions/clear.md';
+import basic from './versions/basic.md';
 import endnotes from './endnotes.mdx';
 import authors from './authors.mdx';
 import summary from './summary.mdx';
@@ -39,6 +40,7 @@ const whiteHouseOffice : ChapterType = {
       original,
       simple,
       clear,
+      basic,
       pdfPath: chapterPDFPath,
     },
 }

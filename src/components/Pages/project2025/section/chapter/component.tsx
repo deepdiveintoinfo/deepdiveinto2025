@@ -67,15 +67,15 @@ export const ChapterPage: PageComponentType = () => {
       <Tabs defaultValue={searchParams.get('tabKey') || "summary"}>
         <TabsList className='mb-8 mt-4 flex flex-col md:flex-row md:justify-start'>
           <div>
-            {Summary && <TabsTrigger className='active:bg-black' value="summary">Summary</TabsTrigger> }
+            {Summary && <TabsTrigger className='active:bg-black' value="summary" onClick={() => setSearchParams({tabKey: "summary"})}>Summary</TabsTrigger> }
             {Authors && <TabsTrigger value="authors" onClick={() => setSearchParams({tabKey: "authors"})}>Authors</TabsTrigger> }
-            {FAQ && <TabsTrigger value="faq">FAQ</TabsTrigger>}
+            {FAQ && <TabsTrigger value="faq" onClick={() => setSearchParams({tabKey: "faq"})}>FAQ</TabsTrigger>}
           </div>
           <div>
-            {MarkdownVerion && <TabsTrigger value="raw" onClick={() => setSearchParams({tabKey: "raw"})}>Chapter Source</TabsTrigger> }
+            {MarkdownVerion && <TabsTrigger value="source" onClick={() => setSearchParams({tabKey: "source"})}>Chapter Source</TabsTrigger> }
             {EndNotes && <TabsTrigger value="endnotes" onClick={() => setSearchParams({tabKey: "endnotes"})}>Endnotes</TabsTrigger> }
           </div>
-          <TabsTrigger value="pdf">
+          <TabsTrigger value="pdf" onClick={() => setSearchParams({tabKey: "pdf"})}>
             PDF
           </TabsTrigger>
         </TabsList>
@@ -83,7 +83,7 @@ export const ChapterPage: PageComponentType = () => {
 
           {Summary && <TabsContent value="summary"><Summary /></TabsContent>}
           {Authors && <TabsContent value="authors"><Authors /></TabsContent>}
-          {chapter && <TabsContent value="raw">
+          {chapter && <TabsContent value="source">
             <ContentSources chapter={chapter} />
           </TabsContent>}
           {EndNotes && <TabsContent value="endnotes"><EndNotes /></TabsContent>}
