@@ -23,12 +23,11 @@ export const ContentSources = ({ chapter }: ContentSourcesProps) => {
 
         setDropdowLabelValue(v ? dropdowLabelValue : 'Original');
         setCurrentVersion(v ? (versions[dropdowLabelValue.toLowerCase() as keyof typeof versions] as MdxComponent) : versions?.original || undefined);
-        setWordCount(document.querySelector('section')?.textContent?.split(/[\W]+/g).length || 0)
+        setTimeout(() => {
+            setWordCount(document.querySelector('section')?.textContent?.split(/[\W]+/g).length || 0)
+        }, 50)
 
     }, [ chapter, dropdowLabelValue ])
-    useEffect(() => {
-        setWordCount(document.querySelector('section')?.textContent?.split(/[\W]+/g).length || 0)
-    },[dropdowLabelValue])
 
     if(!CurrentVersion) return <p>Loading...</p>
 
@@ -60,7 +59,7 @@ export const ContentSources = ({ chapter }: ContentSourcesProps) => {
                 </DropdownMenu>
             </div>
             <h1>{chapter.title}</h1>
-            <p><i>{chapter.metadata.authors.map(a => a.name).join(', ')}</i></p>
+            <p><i>{dropdowLabelValue !== "Original" ? "Adapted from the work of" : ""} {chapter.metadata.authors.map(a => a.name).join(', ')}</i></p>
             <section>
                 {CurrentVersion && CurrentVersion as unknown as React.ReactNode}
             </section>
