@@ -6,7 +6,7 @@ import Badge from '@/components/ThirdParty/ShadCn/Badge';
 import { Link } from 'react-router-dom';
 import { SegmentedProgressBar } from '@/components/Blocks/SegmentedProgressBar';
 
-export const SectionPage: PageComponentType = () => {
+const SectionPage: PageComponentType = () => {
     const { section } = useContent();
     
     if (!section) return <>Loading</>;
@@ -29,3 +29,5 @@ export const SectionPage: PageComponentType = () => {
 SectionPage.route = {
   path: "/project2025/:sectionName"
 }
+
+export default SectionPage

@@ -1,1 +1,1 @@
-export { ChapterPage } from './component'
+export { default as default } from './component'

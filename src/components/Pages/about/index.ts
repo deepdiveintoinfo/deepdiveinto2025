@@ -1,2 +1,2 @@
-export { AboutPage } from './component'
+export { default as default } from './component'
 export { aboutVariants } from './variants'

@@ -1,5 +1,5 @@
 import type { Meta, StoryObj } from '@storybook/react';
-import { IndexPage } from '.';
+import IndexPage from '.';
 
 const meta: Meta<typeof IndexPage> = {
   component: IndexPage,

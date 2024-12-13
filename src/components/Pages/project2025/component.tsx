@@ -5,7 +5,7 @@ import ContentComponent from './content.mdx'
 import { SectionOverview } from '@/components/Blocks/SectionOverview';
 
 // Define the TypeScript interfaces
-export const ProjectPage: PageComponentType = () => {
+const ProjectPage: PageComponentType = () => {
   return <article>
     <ContentComponent />
     <h3>Section Overview</h3>
@@ -16,3 +16,5 @@ export const ProjectPage: PageComponentType = () => {
 ProjectPage.route = {
   path: "/project2025"
 }
+
+export default ProjectPage

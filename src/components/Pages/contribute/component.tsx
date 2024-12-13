@@ -2,13 +2,15 @@ import { PageComponentType } from '@/lib/types'
 import ContentComponent from './content.mdx'
 
 // Define the TypeScript interfaces
-export const ContributePage: PageComponentType = () => {
+const ContributePage: PageComponentType = () => {
 
-    // const { contributeId } = useParams()
+  // const { contributeId } = useParams()
 
-    return <article><ContentComponent /></article>;
-  }
+  return <article><ContentComponent /></article>;
+}
 
-  ContributePage.route = {
-    path: "/contribute"
-  }
+ContributePage.route = {
+  path: "/contribute"
+}
+
+export default ContributePage

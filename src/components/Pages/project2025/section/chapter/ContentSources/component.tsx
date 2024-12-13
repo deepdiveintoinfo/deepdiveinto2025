@@ -12,7 +12,7 @@ type ContentSourcesProps = {
     children?: React.ReactNode
 };
 
-export const ContentSources = ({ chapter }: ContentSourcesProps) => {
+const ContentSources = ({ chapter }: ContentSourcesProps) => {
     
     const [dropdowLabelValue, setDropdowLabelValue] = useState("Original");
     const [CurrentVersion, setCurrentVersion] = useState<MdxComponent | undefined>(chapter?.versions?.original);
@@ -54,7 +54,7 @@ export const ContentSources = ({ chapter }: ContentSourcesProps) => {
                     <p className="flex justify-center gap-2 text-4xl bold m-0 p-0"><Ticker value={Math.round(timeToRead).toLocaleString()} />  mins</p>
                 </CardHeader>
                 <CardFooter className="py-0 mt-3 justify-center font-bold">
-                    Time To Read
+                    To Read
                 </CardFooter>
             </Card>
         </div>
@@ -81,3 +81,4 @@ export const ContentSources = ({ chapter }: ContentSourcesProps) => {
     );
 }
 
+export default ContentSources;

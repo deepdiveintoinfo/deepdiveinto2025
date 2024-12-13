@@ -1,1 +1,1 @@
-export { ContentSources } from './component'
+export { default as default } from './component'

@@ -6,7 +6,7 @@ import { ReactNode } from 'react';
 
 const BelowTheFold = ({ children }: { children: ReactNode }) => <>{children}</>
 
-export const IndexPage: PageComponentType = () => {
+const IndexPage: PageComponentType = () => {
   return (
     <div className="font-sans grid justify-center">
       <AboveTheFold />
@@ -23,3 +23,5 @@ export const IndexPage: PageComponentType = () => {
 IndexPage.route = {
   path: "/"
 }
+
+export default IndexPage;

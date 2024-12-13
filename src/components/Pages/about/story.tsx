@@ -1,6 +1,6 @@
 import type { Meta, StoryObj } from '@storybook/react';
 
-import { AboutPage } from '.';
+import AboutPage from '.';
 
 
 const meta: Meta<typeof AboutPage> = {

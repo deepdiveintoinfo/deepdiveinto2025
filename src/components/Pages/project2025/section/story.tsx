@@ -1,5 +1,5 @@
 import type { Meta, StoryObj } from '@storybook/react';
-import { SectionPage } from '.';
+import SectionPage from '.';
 
 const meta: Meta<typeof SectionPage> = {
   component: SectionPage,

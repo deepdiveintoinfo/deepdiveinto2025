@@ -1,6 +1,6 @@
 import type { Meta, StoryObj } from '@storybook/react';
 
-import { ContributePage } from '.';
+import ContributePage from '.';
 
 
 const meta: Meta<typeof ContributePage> = {

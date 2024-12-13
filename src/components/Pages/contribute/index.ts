@@ -1,2 +1,2 @@
-export { ContributePage } from './component'
+export { default as default } from './component'
 export { contributeVariants } from './variants'

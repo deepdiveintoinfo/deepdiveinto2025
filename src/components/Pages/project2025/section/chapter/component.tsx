@@ -10,7 +10,7 @@ import { Suspense } from 'react';
 import { KeywordBadges } from '@/components/Blocks/KeywordBadges/component';
 
 import { capitalCase } from 'change-case';
-import { ContentSources } from './ContentSources';
+import ContentSources from './ContentSources';
 
 
 import { PDFViewer } from '@/components/Blocks/PDFViewer';
@@ -101,3 +101,5 @@ export const ChapterPage: PageComponentType = () => {
 ChapterPage.route = {
   path: "/project2025/:sectionName/:chapterName"
 }
+
+export default ChapterPage

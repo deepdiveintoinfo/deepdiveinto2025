@@ -2,13 +2,12 @@ import { PageComponentType } from '@/lib/types'
 import ContentComponent from './content.mdx'
 
 // Define the TypeScript interfaces
-export const AboutPage: PageComponentType = () => {
+const AboutPage: PageComponentType = () => {
+  return <article><ContentComponent /></article>;
+}
 
-    // const { aboutId } = useParams()
+AboutPage.route = {
+  path: "/about",
+}
 
-    return <article><ContentComponent /></article>;
-  }
-
-  AboutPage.route = {
-    path: "/about",
-  }
+export default AboutPage

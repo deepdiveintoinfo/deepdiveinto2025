@@ -1,2 +1,2 @@
-export { SectionPage, ChapterPage } from './section'
-export { ProjectPage } from './component'
+export { default as SectionPage, ChapterPage } from './section'
+export { default as default } from './component'
