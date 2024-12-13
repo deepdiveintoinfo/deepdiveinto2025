@@ -3,7 +3,7 @@ import { useLocation } from "react-router-dom"
 import { DocumentSidebar } from "./document-sidebar"
 import { useIsMobile } from "@/hooks/use-mobile"
 import {
-  Breadcrumb,
+  default as Breadcrumb,
   BreadcrumbItem,
   BreadcrumbLink,
   BreadcrumbList,

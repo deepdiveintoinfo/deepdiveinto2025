@@ -1,6 +1,6 @@
 'use client';
  
-import { Button } from '@/components/ThirdParty/IndieUI/Button';
+import Button from '@/components/ThirdParty/IndieUI/Button';
 import { CgClose, CgMenu } from 'react-icons/cg';
 import * as React from 'react';
 import { cn } from '@/lib/utils';

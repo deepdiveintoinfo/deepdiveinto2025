@@ -1,7 +1,7 @@
 import { FaXTwitter } from 'react-icons/fa6';
 import { FaGithub } from 'react-icons/fa';
 import { Header } from './index';
-import { Button } from '@/components/ThirdParty/IndieUI/Button';
+import Button from '@/components/ThirdParty/IndieUI/Button';
  
 const headerLinks = [
   { name: 'Features', href: '/header-demo/#features' },
