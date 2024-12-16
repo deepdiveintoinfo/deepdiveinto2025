@@ -3,7 +3,7 @@
 import Badge from "@/components/ThirdParty/ShadCn/Badge";
 import { Button } from "@/components/ThirdParty/ShadCn/Button";
 import {
-  Card,
+  default as Card,
   CardContent,
   CardDescription,
   CardFooter,

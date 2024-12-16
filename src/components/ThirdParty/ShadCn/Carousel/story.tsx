@@ -2,7 +2,7 @@ import type { Meta, StoryObj } from '@storybook/react';
 import { fn } from '@storybook/test';
 
 import { Carousel, CarouselContent, CarouselItem, CarouselNext, CarouselPrevious } from '.';
-import { Card, CardContent } from '../Card';
+import { default as Card, CardContent } from '../Card';
 
 const meta: Meta<typeof Carousel> = {
   component: Carousel,

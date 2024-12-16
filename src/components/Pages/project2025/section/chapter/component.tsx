@@ -12,7 +12,6 @@ import { KeywordBadges } from '@/components/Blocks/KeywordBadges/component';
 import { capitalCase } from 'change-case';
 import ContentSources from './ContentSources';
 
-
 import { PDFViewer } from '@/components/Blocks/PDFViewer';
 
 const statusIcons: { [status: string]: string} = {

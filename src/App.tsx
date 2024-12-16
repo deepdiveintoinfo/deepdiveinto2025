@@ -14,6 +14,21 @@ import { PageWrapper } from './components/Templates/wrappers';
 import { TooltipProvider } from '@radix-ui/react-tooltip';
 import { PageComponentType } from './lib/types';
 
+import { loadData } from './db';
+
+const AppInitializer = () => {
+    useEffect(() => {
+        const initializeDatabase = async () => {
+            console.log("Loading data into database...");
+            await loadData();
+        };
+
+        initializeDatabase().catch(console.error);
+    }, []); // Run only once on app start
+
+    return null; // This component doesn't render anything
+};
+
 
 const ScrollHandler = () => {
   const location = useLocation();
@@ -62,9 +77,12 @@ const router = createHashRouter(Object.values(pageComponents).map((Element: Page
 function App() {
   return (
     <TooltipProvider>
+      <>
+      <AppInitializer />
       <Theme className='p-2 md:p-0 bg-zinc-100' accentColor="crimson" grayColor="sand" radius="large" scaling="100%" style={{width: '100%', overflow: 'hidden'}}>
           <RouterProvider router={router} />
       </Theme>
+      </>
     </TooltipProvider>
   )
 }

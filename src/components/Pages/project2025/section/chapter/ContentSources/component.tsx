@@ -1,7 +1,8 @@
 import { useState, useEffect } from 'react';
 
 import { Ticker } from "@/components/ThirdParty/Animata/Ticker";
-import { Card, CardHeader, CardFooter, DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuTrigger } from "@/components/ThirdParty/ShadCn";
+import { Card, CardHeader, CardFooter, DropdownMenu } from "@/components/ThirdParty/ShadCn";
+import { DropdownMenuContent, DropdownMenuItem, DropdownMenuTrigger } from "@/components/ThirdParty/ShadCn/DropdownMenu";
 import { ChapterType, MdxComponent } from "@/content/project2025/types";
 import { ChevronDownIcon } from 'lucide-react';
 import { Link } from 'react-router-dom';

@@ -1,19 +1,21 @@
 import type { Meta, StoryObj } from '@storybook/react';
 import { fn } from '@storybook/test';
 
-import { Card, CardHeader, CardFooter, CardTitle, CardDescription, CardContent } from '.';
+import { default as Card, CardHeader, CardFooter, CardTitle, CardDescription, CardContent } from '.';
 
 import {
   Button,
   Input,
   Label,
   Select,
+  Switch
+} from "@/components/ThirdParty/ShadCn"
+import {
   SelectContent,
   SelectItem,
   SelectTrigger,
   SelectValue,
-  Switch
-} from "@/components/ThirdParty/ShadCn"
+} from '@/components/ThirdParty/ShadCn/Select';
 import { BellRing, Check } from 'lucide-react';
 
 const notifications = [

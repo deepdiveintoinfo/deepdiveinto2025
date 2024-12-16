@@ -1,1 +1,2 @@
-export { Card, CardHeader, CardFooter, CardTitle, CardDescription, CardContent } from './component'
+export { default as default } from './component'
+export { CardHeader, CardFooter, CardTitle, CardDescription, CardContent } from './component'
