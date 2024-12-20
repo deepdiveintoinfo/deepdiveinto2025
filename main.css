@@ -32795,6 +32795,10 @@ video {
     margin-top: 0px;
   }
 
+  .md\:mt-10{
+    margin-top: 4rem;
+  }
+
   .md\:mt-12{
     margin-top: 6rem;
   }
@@ -32858,6 +32862,10 @@ video {
 
   .md\:flex-row{
     flex-direction: row;
+  }
+
+  .md\:flex-col{
+    flex-direction: column;
   }
 
   .md\:items-end{
