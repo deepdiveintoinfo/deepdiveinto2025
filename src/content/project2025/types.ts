@@ -41,7 +41,8 @@ export type MdxComponent = React.FC<{ components?: Record<string, React.Componen
       critical?: MdxComponent,
       comparative?: MdxComponent,
       accessibility?: MdxComponent,
-      // ethical, impact
+      impact?: MdxComponent,
+      ethical?: MdxComponent
     }
     subsections?: ChapterType[],
     logline?: string,

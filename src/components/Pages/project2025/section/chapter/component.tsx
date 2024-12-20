@@ -50,6 +50,8 @@ export const ChapterPage: PageComponentType = () => {
   const CriticalAnalysis = chapter?.analysis?.critical
   const ComparativeAnalysis = chapter?.analysis?.comparative
   const AccessibilityAnalysis = chapter?.analysis?.accessibility
+  const ImpactAnalysis = chapter?.analysis?.impact
+  const EthicalAnalysis = chapter?.analysis?.ethical
 
   return (
     <article className='mt-4'>
@@ -85,7 +87,7 @@ export const ChapterPage: PageComponentType = () => {
           <TabsTrigger value="pdf">
             PDF
           </TabsTrigger>
-          <TabsTrigger value="analysis">Analysis</TabsTrigger>
+          {chapter?.analysis && <TabsTrigger value="analysis">Analysis</TabsTrigger>}
         </TabsList>
         <Suspense fallback={<p>loading</p>}>
 
@@ -100,14 +102,16 @@ export const ChapterPage: PageComponentType = () => {
             <PDFViewer path={chapter?.versions?.pdfPath || ''} />
           </TabsContent>
           <TabsContent value="analysis">
-            <Tabs defaultValue='stakeholder' orientation='vertical' className='flex flex-col md:flex-row'>
-              <TabsList defaultValue={"stakeholder"} className='flex md:flex-col md:mt-10 items-start'>
-                {StakeholderAnalysis && <TabsTrigger className='w-full justify-start' value="stakeholder" onClick={() => setSearchParams({tabKey: "analysis", analysisKey: "stakeholder"})}>Stakeholder Analysis</TabsTrigger>}
+            <Tabs defaultValue='ethical' orientation='vertical' className='flex flex-col md:flex-row'>
+              <TabsList defaultValue={"stakeholder"} className='flex md:flex-col md:mt-32 items-start'>
+                {EthicalAnalysis && <TabsTrigger className='w-full justify-start' value="ethical" onClick={() => setSearchParams({tabKey: "analysis", analysisKey: "ethical"})}>Ethical Analysis</TabsTrigger>}
+                {ImpactAnalysis && <TabsTrigger className='w-full justify-start' value="impact" onClick={() => setSearchParams({tabKey: "analysis", analysisKey: "impact"})}>Impact Analysis</TabsTrigger>}
                 {RiskAnalysis && <TabsTrigger className='w-full justify-start' value="risk" onClick={() => setSearchParams({tabKey: "analysis", analysisKey: "risk"})}>Risk Analysis</TabsTrigger>}
                 {PolicyAnalysis && <TabsTrigger className='w-full justify-start' value="policy" onClick={() => setSearchParams({tabKey: "analysis", analysisKey: "policy"})}>Policy Analysis</TabsTrigger>}
-                {LinguisticAnalysis && <TabsTrigger className='w-full justify-start' value="linguistic" onClick={() => setSearchParams({tabKey: "analysis", analysisKey: "linguistic"})}>Linguistic Analysis</TabsTrigger>}
-                {CriticalAnalysis && <TabsTrigger className='w-full justify-start' value="critical" onClick={() => setSearchParams({tabKey: "analysis", analysisKey: "critical"})}>Critical Analysis</TabsTrigger>}
+                {StakeholderAnalysis && <TabsTrigger className='w-full justify-start' value="stakeholder" onClick={() => setSearchParams({tabKey: "analysis", analysisKey: "stakeholder"})}>Stakeholder Analysis</TabsTrigger>}
                 {ComparativeAnalysis && <TabsTrigger className='w-full justify-start' value="comparative" onClick={() => setSearchParams({tabKey: "analysis", analysisKey: "comparative"})}>Comparative Analysis</TabsTrigger>}
+                {CriticalAnalysis && <TabsTrigger className='w-full justify-start' value="critical" onClick={() => setSearchParams({tabKey: "analysis", analysisKey: "critical"})}>Critical Analysis</TabsTrigger>}
+                {LinguisticAnalysis && <TabsTrigger className='w-full justify-start' value="linguistic" onClick={() => setSearchParams({tabKey: "analysis", analysisKey: "linguistic"})}>Linguistic Analysis</TabsTrigger>}
                 {AccessibilityAnalysis && <TabsTrigger className='w-full justify-start' value="accessibility" onClick={() => setSearchParams({tabKey: "analysis", analysisKey: "accessibility"})}>Accessibility Analysis</TabsTrigger>}
               </TabsList>
               {StakeholderAnalysis && <TabsContent value="stakeholder">
@@ -143,6 +147,16 @@ export const ChapterPage: PageComponentType = () => {
               {AccessibilityAnalysis && <TabsContent value="accessibility">
                 <Card className='p-4'>
                   <AccessibilityAnalysis />
+                </Card>
+              </TabsContent>}
+              {ImpactAnalysis && <TabsContent value="impact">
+                <Card className='p-4'>
+                  <ImpactAnalysis />
+                </Card>
+              </TabsContent>}
+              {EthicalAnalysis && <TabsContent value="ethical">
+                <Card className='p-4'>
+                  <EthicalAnalysis />
                 </Card>
               </TabsContent>}
             </Tabs>
