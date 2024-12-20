@@ -33,6 +33,11 @@ export type MdxComponent = React.FC<{ components?: Record<string, React.Componen
       basic?: MdxComponent,
       pdfPath?: string,
     }
+    analysis?: {
+      stakeholder?: MdxComponent,
+      risk?: MdxComponent,
+      policy?: MdxComponent,
+    }
     subsections?: ChapterType[],
     logline?: string,
     tagline?: string,

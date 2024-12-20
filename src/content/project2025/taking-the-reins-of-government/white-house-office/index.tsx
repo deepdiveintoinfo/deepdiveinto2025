@@ -7,11 +7,11 @@ import authors from './authors.mdx';
 import summary from './summary.mdx';
 import faq from './faq.mdx';
 
+import analysis from './analysis';
+
 import chapterPDFPath from '@/assets/chapters/1_white-house-office.pdf'
 
 import { ChapterType } from '@/content/project2025/types';
-
-
 
 const whiteHouseOffice : ChapterType = {
     chapterIdx: 1,
@@ -43,6 +43,7 @@ const whiteHouseOffice : ChapterType = {
       basic,
       pdfPath: chapterPDFPath,
     },
+    analysis
 }
 
 export default whiteHouseOffice

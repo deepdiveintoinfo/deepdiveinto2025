@@ -13,6 +13,7 @@ import { capitalCase } from 'change-case';
 import ContentSources from './ContentSources';
 
 import { PDFViewer } from '@/components/Blocks/PDFViewer';
+import { Card } from '@/components/ThirdParty/ShadCn';
 
 const statusIcons: { [status: string]: string} = {
   undone: '📂',
@@ -42,6 +43,9 @@ export const ChapterPage: PageComponentType = () => {
   const Authors = chapter?.authors
   const Summary = chapter?.summary
   const FAQ = chapter?.faq
+  const StakeholderAnalysis = chapter?.analysis?.stakeholder
+  const RiskAnalysis = chapter?.analysis?.risk
+  const PolicyAnalysis = chapter?.analysis?.policy
 
   return (
     <article className='mt-4'>
@@ -67,16 +71,17 @@ export const ChapterPage: PageComponentType = () => {
         <TabsList className='mb-8 mt-4 flex flex-col md:flex-row md:justify-start'>
           <div>
             {Summary && <TabsTrigger className='active:bg-black' value="summary" onClick={() => setSearchParams({tabKey: "summary"})}>Summary</TabsTrigger> }
-            {Authors && <TabsTrigger value="authors" onClick={() => setSearchParams({tabKey: "authors"})}>Authors</TabsTrigger> }
-            {FAQ && <TabsTrigger value="faq" onClick={() => setSearchParams({tabKey: "faq"})}>FAQ</TabsTrigger>}
+            {Authors && <TabsTrigger value="authors">Authors</TabsTrigger> }
+            {FAQ && <TabsTrigger value="faq">FAQ</TabsTrigger>}
           </div>
           <div>
-            {MarkdownVerion && <TabsTrigger value="source" onClick={() => setSearchParams({tabKey: "source"})}>Chapter Source</TabsTrigger> }
-            {EndNotes && <TabsTrigger value="endnotes" onClick={() => setSearchParams({tabKey: "endnotes"})}>Endnotes</TabsTrigger> }
+            {MarkdownVerion && <TabsTrigger value="source">Chapter Source</TabsTrigger> }
+            {EndNotes && <TabsTrigger value="endnotes" >Endnotes</TabsTrigger> }
           </div>
-          <TabsTrigger value="pdf" onClick={() => setSearchParams({tabKey: "pdf"})}>
+          <TabsTrigger value="pdf">
             PDF
           </TabsTrigger>
+          <TabsTrigger value="analysis">Analysis</TabsTrigger>
         </TabsList>
         <Suspense fallback={<p>loading</p>}>
 
@@ -89,6 +94,31 @@ export const ChapterPage: PageComponentType = () => {
           {FAQ && <TabsContent value="faq"><FAQ /></TabsContent>}
           <TabsContent value="pdf">
             <PDFViewer path={chapter?.versions?.pdfPath || ''} />
+          </TabsContent>
+          <TabsContent value="analysis">
+            <Tabs defaultValue='stakeholder' orientation='vertical' className='flex flex-col md:flex-row'>
+              <TabsList defaultValue={"foo"} className='flex md:flex-col md:mt-10 items-start'>
+                {StakeholderAnalysis && <TabsTrigger className='w-full justify-start' value="stakeholder" onClick={() => setSearchParams({tabKey: "analysis", analysisKey: "stakeholder"})}>Stakeholder Analysis</TabsTrigger>}
+                {RiskAnalysis && <TabsTrigger className='w-full justify-start' value="risk" onClick={() => setSearchParams({tabKey: "analysis", analysisKey: "risk"})}>Risk Analysis</TabsTrigger>}
+                {PolicyAnalysis && <TabsTrigger className='w-full justify-start' value="policy" onClick={() => setSearchParams({tabKey: "analysis", analysisKey: "policy"})}>Policy Analysis</TabsTrigger>}
+              </TabsList>
+              {StakeholderAnalysis && <TabsContent value="stakeholder">
+                <Card className='p-4'>
+                  <StakeholderAnalysis />
+                </Card>
+              </TabsContent>}
+              {RiskAnalysis && <TabsContent value="risk">
+                <Card className='p-4'>
+                  <RiskAnalysis />
+                </Card>
+              </TabsContent>}
+              {PolicyAnalysis && <TabsContent value="policy">
+                <Card className='p-4'>
+                  <PolicyAnalysis />
+                </Card>
+              </TabsContent>}
+            </Tabs>
+
           </TabsContent>
         </Suspense>
       </Tabs>
