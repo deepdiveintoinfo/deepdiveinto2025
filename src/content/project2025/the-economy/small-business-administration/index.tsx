@@ -15,7 +15,6 @@ const smallBusinessAdministration: ChapterType = {
       },
     ],
     title: "Small Business Administration",
-    wordcount: 5520, // Example word count; update with actual value.
     keywords: ["Small Business", "Entrepreneurship", "Deregulation", "Economic Growth"],
     status: "undone",
   },

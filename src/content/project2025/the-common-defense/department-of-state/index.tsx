@@ -17,7 +17,6 @@ const departmentOfState: ChapterType = {
       },
     ],
     title: "Department of State",
-    wordcount: 6_890, // Example word count; update with actual value.
     keywords: ["Diplomacy", "Foreign Policy", "Streamlined Operations", "Ideological Alignment"],
     status: "undone", // Adjust based on the progress
   },

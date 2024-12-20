@@ -16,7 +16,6 @@ const federalElectionCommission: ChapterType = {
       },
     ],
     title: "Federal Election Commission",
-    wordcount: 5500,
     keywords: ["Campaign Finance", "FEC Reform", "Political Contributions"],
     status: "undone",
   },

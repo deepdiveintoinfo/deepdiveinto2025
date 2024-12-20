@@ -20,7 +20,6 @@ const exportImportBank: ChapterType = {
       }
     ],
     title: "Export-Import Bank",
-    wordcount: 4740, // Example word count; update with actual value.
     keywords: ["Trade Policy", "Export-Import Bank", "Economic Support", "Deregulation"],
     status: "undone", // Adjust based on the progress
   },

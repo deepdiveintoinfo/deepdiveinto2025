@@ -16,7 +16,6 @@ const departmentOfHealthAndHumanServices: ChapterType = {
       },
     ],
     title: "Department of Health and Human Services",
-    wordcount: 6750, // Example word count; update with actual value.
     keywords: ["Healthcare Policy", "Cost Cutting", "Accessibility", "Public Health"],
     status: "undone",
   },

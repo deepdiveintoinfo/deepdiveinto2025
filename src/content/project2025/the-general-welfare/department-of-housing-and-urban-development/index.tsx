@@ -16,7 +16,6 @@ const departmentOfHousingAndUrbanDevelopment: ChapterType = {
       },
     ],
     title: "Department of Housing and Urban Development",
-    wordcount: 5200, // Example word count; update with actual value.
     keywords: ["Housing Policy", "Decentralization", "Equity", "Federal Programs"],
     status: "undone",
   },

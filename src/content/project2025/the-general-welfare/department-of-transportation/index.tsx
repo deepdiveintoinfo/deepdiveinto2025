@@ -16,7 +16,6 @@ const departmentOfTransportation: ChapterType = {
       },
     ],
     title: "Department of Transportation",
-    wordcount: 5230, // Example word count; update as needed.
     keywords: ["Transportation", "Deregulation", "Infrastructure", "Policy Reform"],
     status: "undone",
   },

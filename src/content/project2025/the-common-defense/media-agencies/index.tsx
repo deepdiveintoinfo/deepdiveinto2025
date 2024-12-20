@@ -22,7 +22,6 @@ const mediaAgencies: ChapterType = {
       },
     ],
     title: "Media Agencies",
-    wordcount: 9600,
     keywords: ["Media Alignment", "Government Messaging", "Broadcasting Reform"],
     status: "undone",
   },

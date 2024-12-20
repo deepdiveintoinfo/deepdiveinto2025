@@ -16,7 +16,6 @@ const departmentOfCommerce: ChapterType = {
       },
     ],
     title: "Department of Commerce",
-    wordcount: 4800, // Example word count; update with actual value.
     keywords: ["Commerce Policy", "Deregulation", "Business Growth", "Market Freedom"],
     status: "undone", // "undone" | "transcription" | "analysis" | "verification" | "complete"
   },

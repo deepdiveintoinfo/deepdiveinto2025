@@ -15,7 +15,6 @@ const departmentOfEnergy: ChapterType = {
       },
     ],
     title: "Department of Energy",
-    wordcount: 5200, // Example word count; update with actual value.
     keywords: ["Energy Policy", "Energy Independence", "Environmental Protections", "Fossil Fuels"],
     status: "undone",
   },

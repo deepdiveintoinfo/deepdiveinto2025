@@ -15,7 +15,6 @@ export type MdxComponent = React.FC<{ components?: Record<string, React.Componen
         avatar: string,
       }>,
       title: string,
-      wordcount: number,
       keywords: string[],
       status: "undone" | "transcription" | "analysis" | "verification" | "complete";
     },

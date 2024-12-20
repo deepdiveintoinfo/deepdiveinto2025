@@ -27,7 +27,6 @@ const centralPersonnelAgencies: ChapterType = {
     ],
     status: "transcription",
     title: "Central Personnel Agencies",
-    wordcount: 6_189,
     keywords: ["Federal Workforce", "Reform", "Ideological Alignment", "Civil Service"],
   },
   versions: {

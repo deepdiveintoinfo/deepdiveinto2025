@@ -16,7 +16,6 @@ const intelligenceCommunity: ChapterType = {
       },
     ],
     title: "Intelligence Community",
-    wordcount: 7250, // Example word count; update with actual value.
     keywords: ["Intelligence Operations", "Centralization", "National Security", "Transparency Concerns"],
     status: "undone", // Adjust based on the progress
   },

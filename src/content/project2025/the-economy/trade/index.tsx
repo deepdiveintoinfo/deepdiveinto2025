@@ -20,7 +20,6 @@ const trade: ChapterType = {
       }
     ],
     title: "Trade",
-    wordcount: 6150, // Example word count; update with actual value.
     keywords: ["Trade Policy", "Free Market", "Economic Globalization", "Deregulation"],
     status: "undone", // Adjust based on the progress
   },

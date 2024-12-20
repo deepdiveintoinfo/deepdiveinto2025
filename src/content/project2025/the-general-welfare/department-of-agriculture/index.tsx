@@ -16,7 +16,6 @@ const departmentOfAgriculture: ChapterType = {
       },
     ],
     title: "Department of Agriculture",
-    wordcount: 5500, // Example word count; update with actual value.
     keywords: ["Agriculture", "Deregulation", "Environmental Standards", "Food Safety"],
     status: "undone", // "undone" | "transcription" | "analysis" | "verification" | "complete"
   },

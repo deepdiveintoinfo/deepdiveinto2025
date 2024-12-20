@@ -16,7 +16,6 @@ const federalTradeCommission: ChapterType = {
       },
     ],
     title: "Federal Trade Commission",
-    wordcount: 6100,
     keywords: ["FTC Reform", "Market Competition", "Deregulation"],
     status: "undone",
   },

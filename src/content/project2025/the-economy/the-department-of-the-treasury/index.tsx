@@ -24,7 +24,6 @@ const departmentOfTheTreasury: ChapterType = {
       }
     ],
     title: "Department of the Treasury",
-    wordcount: 5980, // Example word count; update with actual value.
     keywords: ["Tax Reform", "Corporate Tax", "Economic Policy", "Deregulation"],
     status: "undone",
   },

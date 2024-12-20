@@ -16,7 +16,6 @@ const departmentOfTheInterior: ChapterType = {
       },
     ],
     title: "Department of the Interior",
-    wordcount: 4700, // Example word count; update with actual value.
     keywords: ["Land Management", "Deregulation", "Resource Extraction", "Environmental Concerns"],
     status: "undone",
   },

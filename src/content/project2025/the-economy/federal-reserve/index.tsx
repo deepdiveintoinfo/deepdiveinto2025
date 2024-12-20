@@ -16,7 +16,6 @@ const federalReserve: ChapterType = {
       },
     ],
     title: "Federal Reserve",
-    wordcount: 6870, // Example word count; update with actual value.
     keywords: ["Federal Reserve", "Monetary Policy", "Deregulation", "Economic Stability"],
     status: "undone",
   },
