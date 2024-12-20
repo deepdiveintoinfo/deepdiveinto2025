@@ -74,7 +74,7 @@ export const ChapterPage: PageComponentType = () => {
       </p>
       {chapter?.metadata?.keywords && <KeywordBadges size="sm" keywords={chapter.metadata.keywords} />}
       <Tabs defaultValue={searchParams.get('tabKey') || "summary"}>
-        <TabsList className='mb-8 mt-4 flex flex-col md:flex-row md:justify-start'>
+        <TabsList className='mb-8 mt-8 md:mt-4 flex flex-col md:flex-row md:justify-start'>
           <div>
             {Summary && <TabsTrigger className='active:bg-black' value="summary" onClick={() => setSearchParams({tabKey: "summary"})}>Summary</TabsTrigger> }
             {Authors && <TabsTrigger value="authors">Authors</TabsTrigger> }
@@ -103,16 +103,21 @@ export const ChapterPage: PageComponentType = () => {
           </TabsContent>
           <TabsContent value="analysis">
             <Tabs defaultValue='ethical' orientation='vertical' className='flex flex-col md:flex-row'>
-              <TabsList defaultValue={"stakeholder"} className='flex md:flex-col md:mt-32 items-start'>
+              <TabsList defaultValue={"stakeholder"} className='flex md:flex-col md:mt-32 mb-32 md:mb-0 items-start max-w-min'>
+                <div className='max-w-content overflow-visible'>
                 {EthicalAnalysis && <TabsTrigger className='w-full justify-start' value="ethical" onClick={() => setSearchParams({tabKey: "analysis", analysisKey: "ethical"})}>Ethical Analysis</TabsTrigger>}
                 {ImpactAnalysis && <TabsTrigger className='w-full justify-start' value="impact" onClick={() => setSearchParams({tabKey: "analysis", analysisKey: "impact"})}>Impact Analysis</TabsTrigger>}
                 {RiskAnalysis && <TabsTrigger className='w-full justify-start' value="risk" onClick={() => setSearchParams({tabKey: "analysis", analysisKey: "risk"})}>Risk Analysis</TabsTrigger>}
                 {PolicyAnalysis && <TabsTrigger className='w-full justify-start' value="policy" onClick={() => setSearchParams({tabKey: "analysis", analysisKey: "policy"})}>Policy Analysis</TabsTrigger>}
+                </div>
+                <div className='max-w-content overflow-visible'>
                 {StakeholderAnalysis && <TabsTrigger className='w-full justify-start' value="stakeholder" onClick={() => setSearchParams({tabKey: "analysis", analysisKey: "stakeholder"})}>Stakeholder Analysis</TabsTrigger>}
                 {ComparativeAnalysis && <TabsTrigger className='w-full justify-start' value="comparative" onClick={() => setSearchParams({tabKey: "analysis", analysisKey: "comparative"})}>Comparative Analysis</TabsTrigger>}
                 {CriticalAnalysis && <TabsTrigger className='w-full justify-start' value="critical" onClick={() => setSearchParams({tabKey: "analysis", analysisKey: "critical"})}>Critical Analysis</TabsTrigger>}
                 {LinguisticAnalysis && <TabsTrigger className='w-full justify-start' value="linguistic" onClick={() => setSearchParams({tabKey: "analysis", analysisKey: "linguistic"})}>Linguistic Analysis</TabsTrigger>}
                 {AccessibilityAnalysis && <TabsTrigger className='w-full justify-start' value="accessibility" onClick={() => setSearchParams({tabKey: "analysis", analysisKey: "accessibility"})}>Accessibility Analysis</TabsTrigger>}
+                </div>
+
               </TabsList>
               {StakeholderAnalysis && <TabsContent value="stakeholder">
                 <Card className='p-4'>
