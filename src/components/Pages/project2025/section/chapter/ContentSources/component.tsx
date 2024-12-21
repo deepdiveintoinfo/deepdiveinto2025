@@ -18,7 +18,7 @@ const ContentSources = ({ chapter }: ContentSourcesProps) => {
     const [dropdowLabelValue, setDropdowLabelValue] = useState("Original");
     const [CurrentVersion, setCurrentVersion] = useState<MdxComponent | undefined>(chapter?.versions?.original);
     const [timeToRead, setTimeToRead] = useState(0);
-    const [wordCount, setWordCount] = useState(chapter.metadata.wordcount)
+    const [wordCount, setWordCount] = useState(0)
 
     useEffect(() => {
         const versions = chapter?.versions;
@@ -36,9 +36,7 @@ const ContentSources = ({ chapter }: ContentSourcesProps) => {
     }, [ chapter, dropdowLabelValue ])
 
     if(!CurrentVersion) return <p>Loading...</p>
-
-
-
+    
     return (
         <>
         <div className="flex flex-col lg:flex-row gap-4 my-4">
