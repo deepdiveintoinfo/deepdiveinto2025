@@ -17,7 +17,7 @@ export type MdxComponent = React.FC<{ components?: Record<string, React.Componen
       title: string,
       wordcount?: number,
       keywords: string[],
-      status: "undone" | "transcription" | "analysis" | "verification" | "complete";
+      status: "undone" | "transcribing" | "analyzing" | "clarifying" | "verifying" | "complete";
     },
     summary: MdxComponent,
     emoji: string,

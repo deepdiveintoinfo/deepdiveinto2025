@@ -15,7 +15,7 @@ type ContentSourcesProps = {
 
 const ContentSources = ({ chapter }: ContentSourcesProps) => {
     
-    const [dropdowLabelValue, setDropdowLabelValue] = useState("Original");
+    const [dropdowLabelValue, setDropdowLabelValue] = useState("Basic");
     const [CurrentVersion, setCurrentVersion] = useState<MdxComponent | undefined>(chapter?.versions?.original);
     const [timeToRead, setTimeToRead] = useState(0);
     const [wordCount, setWordCount] = useState(0)
@@ -24,7 +24,7 @@ const ContentSources = ({ chapter }: ContentSourcesProps) => {
         const versions = chapter?.versions;
         const v = versions && Object.keys(versions).includes(dropdowLabelValue.toLowerCase());
 
-        setDropdowLabelValue(v ? dropdowLabelValue : 'Original');
+        setDropdowLabelValue(v ? dropdowLabelValue : 'Basic');
         setCurrentVersion(v ? (versions[dropdowLabelValue.toLowerCase() as keyof typeof versions] as MdxComponent) : versions?.original || undefined);
         setTimeout(() => {
             const text = document.querySelector('section')?.textContent || '';

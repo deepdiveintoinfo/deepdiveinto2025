@@ -17,7 +17,7 @@ const departmentOfAgriculture: ChapterType = {
     ],
     title: "Department of Agriculture",
     keywords: ["Agriculture", "Deregulation", "Environmental Standards", "Food Safety"],
-    status: "undone", // "undone" | "transcription" | "analysis" | "verification" | "complete"
+    status: "undone", // "undone" | "transcribing" | "analyzing" | "verification" | "complete"
   },
   versions: {
     pdfPath,

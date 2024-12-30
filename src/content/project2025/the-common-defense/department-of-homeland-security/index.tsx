@@ -18,7 +18,7 @@ const departmentOfHomelandSecurity: ChapterType = {
     ],
     title: "Department of Homeland Security",
     keywords: ["Border Security", "Homeland Defense", "Executive Control", "Immigration Policy"],
-    status: "transcription", // Adjust based on the progress
+    status: "transcribing", // Adjust based on the progress
   },
   versions: {
     original,

@@ -20,7 +20,7 @@ const executiveOfficeOfThePresident: ChapterType = {
     ],
     title: "Executive Office of the President",
     keywords: ["Hierarchy", "Centralization", "Executive Power", "Streamlined Operations"],
-    status: "transcription", // Adjust as per current status
+    status: "clarifying", // Adjust as per current status
   },
   versions: {
     original,

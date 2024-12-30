@@ -1,6 +1,6 @@
 import { ChapterType } from '@/content/project2025/types';
 import pdfPath from '@/assets/chapters/6_department-of-state.pdf';
-
+import original from './versions/original.md'
 
 const departmentOfState: ChapterType = {
   chapterIdx: 6,
@@ -18,9 +18,10 @@ const departmentOfState: ChapterType = {
     ],
     title: "Department of State",
     keywords: ["Diplomacy", "Foreign Policy", "Streamlined Operations", "Ideological Alignment"],
-    status: "undone", // Adjust based on the progress
+    status: "transcribing", // Adjust based on the progress
   },
   versions: {
+    original,
     pdfPath,
   },
   summary: () => (

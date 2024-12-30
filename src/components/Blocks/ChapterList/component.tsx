@@ -7,17 +7,19 @@ import { Badge } from '@/components/ThirdParty/ShadCn';
 
 const statusIcons: { [status: string]: string} = {
   undone: '📂',
-  transcription: '🖋️',
-  analysis: '🧠',
-  verification: '🔍',
+  transcribing: '🖋️',
+  analyzing: '🧠',
+  clarifying: '✨',
+  verifying: '🔍',
   complete: '✅',
 }
 
 const statusColors: { [status: string]: string} = {
   undone: 'red-500',
-  transcription: 'green-500',
-  analysis: 'blue-500',
-  verification: 'yellow-500',
+  transcribing: 'green-500',
+  analyzing: 'blue-500',
+  clarifying: 'orange-500',
+  verifying: 'yellow-500',
   complete: 'gray-500',
 }
 

@@ -25,7 +25,7 @@ const centralPersonnelAgencies: ChapterType = {
         avatar: "https://example.com/images/authors/margaret-whitestone.jpg", // Placeholder avatar
       },
     ],
-    status: "transcription",
+    status: "clarifying",
     title: "Central Personnel Agencies",
     keywords: ["Federal Workforce", "Reform", "Ideological Alignment", "Civil Service"],
   },

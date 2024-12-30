@@ -18,7 +18,7 @@ const departmentOfDefense: ChapterType = {
     ],
     title: "Department of Defense",
     keywords: ["Military Expansion", "Defense Policy", "Executive Control", "National Security"],
-    status: "transcription", // Adjust based on the progress
+    status: "transcribing", // Adjust based on the progress
   },
   versions: {
     original,

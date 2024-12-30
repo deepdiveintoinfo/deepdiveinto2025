@@ -29,7 +29,7 @@ const whiteHouseOffice : ChapterType = {
       }],
       title: "White House Office",
       keywords: ["Centralization", "Executive Authority", "Oversight", "Accountability", "Loyalty"],
-      status: "analysis"
+      status: "analyzing"
     },
     summary,
     endnotes,
