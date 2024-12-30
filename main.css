@@ -28696,9 +28696,6 @@ video {
 .mb-3{
   margin-bottom: 0.75rem;
 }
-.mb-32{
-  margin-bottom: 8rem;
-}
 .mb-4{
   margin-bottom: 1rem;
 }
@@ -29860,6 +29857,10 @@ video {
 }
 .border-muted{
   border-color: hsl(var(--muted));
+}
+.border-orange-500{
+  --tw-border-opacity: 1;
+  border-color: rgb(249 115 22 / var(--tw-border-opacity));
 }
 .border-primary{
   border-color: hsl(var(--primary));
